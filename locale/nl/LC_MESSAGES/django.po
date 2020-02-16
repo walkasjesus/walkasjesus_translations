@@ -3046,7 +3046,7 @@ msgstr ""
 
 #: commandments_app.Commandment/quote:1
 msgid "God’s love is so real that He created you to prove it."
-msgstr ""
+msgstr "Gods liefde is zo echt, dat Hij jouw gemaakt heeft om het te bewijzen."
 
 #: commandments_app.Commandment/title:2
 msgid "Get baptized"
@@ -3061,6 +3061,8 @@ msgid ""
 "Your father brought you in this world, but Rabbi Jesus will bring you in the"
 " future world"
 msgstr ""
+"Je vader bracht je in deze wereld, maar Rabbi Jezus zal je in de toekomende "
+"wereld brengen"
 
 #: commandments_app.Commandment/title:4
 msgid "Bring forth therefore fruits meet for repentance"
@@ -3089,6 +3091,7 @@ msgstr "Geen huisknecht kan twee heren dienen"
 #: commandments_app.Commandment/quote:5
 msgid "Words which do not give the light of Christ increase the darkness"
 msgstr ""
+"Woorden die niet het licht van Christus geven, versterken de duisternis"
 
 #: commandments_app.Commandment/title:6
 msgid ""
@@ -3103,10 +3106,8 @@ msgid "Take a day off in the week"
 msgstr "Neem een dag rust in de week"
 
 #: commandments_app.Commandment/title_negative:7
-#, fuzzy
-#| msgid "The sabbath was made for man"
 msgid "The sabbath was made for man, and not man for the sabbath"
-msgstr "De sabbat is gemaakt ter wille van de mens"
+msgstr "De sabbat is gemaakt ter wille van de mens, niet de mens ter wille van de sabbat"
 
 #: commandments_app.Commandment/title:8
 msgid "Go ye into all the world, and preach the gospel to every creature"
@@ -3130,6 +3131,8 @@ msgstr ""
 msgid ""
 "It is no use walking anywhere to preach unless our walking is our preaching"
 msgstr ""
+"Het heeft geen zin overal te prediken, tenzij ons handelen ons preken "
+"weerspiegelt"
 
 #: commandments_app.Commandment/title:9
 msgid "Blessed are the poor in spirit, for theirs is the kingdom of heaven"
@@ -3142,7 +3145,7 @@ msgstr "Vertrouw niet op eigen kracht"
 
 #: commandments_app.Commandment/quote:9
 msgid "Your successful past will block your visions of the future"
-msgstr ""
+msgstr "Je succesvolle verleden zal je visie op de toekomst blokkeren"
 
 #: commandments_app.Commandment/title:10
 msgid "Blessed are they that mourn: for they shall be comforted"
@@ -3170,6 +3173,8 @@ msgid ""
 "Start by doing what is necessary; then do what’s possible; and suddenly you "
 "are doing the impossible"
 msgstr ""
+"Begin met doen wat nodig is; doe dan wat mogelijk is; en plotseling "
+"doe je het onmogelijke"
 
 #: commandments_app.Commandment/title:14
 msgid "Blessed are the pure in heart: for they shall see God"
@@ -3214,6 +3219,8 @@ msgid ""
 "While you are proclaiming peace with your lips, be careful to have it even "
 "more fully in your heart"
 msgstr ""
+"Terwijl je vrede verkondigd met je lippen, zorg er nog meer voor om het te "
+"hebben in je hart"
 
 #: commandments_app.Commandment/title:15
 msgid ""
@@ -3231,7 +3238,7 @@ msgstr ""
 
 #: commandments_app.Commandment/quote:16
 msgid "The greater the struggle, the more glorious the triumph"
-msgstr ""
+msgstr "Hoe groter de strijd, des te heerlijker de triomf"
 
 #: commandments_app.Commandment/title:17
 msgid "Rejoice, and be exceeding glad: for great is your reward in heaven"
@@ -3242,6 +3249,9 @@ msgid ""
 "Joy is a good feeling in the sool, produced by the holy spirit, as he causes"
 " us to see the beauty of Christ, in His Word and in His work"
 msgstr ""
+"Vreugde is een goed gevoel in de ziel, geproduceerd door de heilige geest, zoals"
+" hij ons de schoonheid van Christus laat zien, in Zijn Woord en in "
+"Zijn werk"
 
 #: commandments_app.Commandment/title:18
 msgid "Have salt in yourselves, and have peace one with another"
@@ -3250,6 +3260,8 @@ msgstr "Heb zout in uzelf en leef met elkaar in vrede"
 #: commandments_app.Commandment/quote:18
 msgid "Love is a fruit in season at all times, and within reach of every hand"
 msgstr ""
+"Liefde is een vrucht in alle seizoenen, en binnen het bereik van"
+" elke hand"
 
 #: commandments_app.Commandment/title:19
 msgid ""
@@ -3261,7 +3273,7 @@ msgstr ""
 
 #: commandments_app.Commandment/quote:19
 msgid "A single sunbeam is enough to drive away many shadows"
-msgstr ""
+msgstr "Een enkele zonnestraal is genoeg om veel schaduwen te verdrijven"
 
 #: commandments_app.Commandment/title:20
 msgid ""
@@ -3287,7 +3299,7 @@ msgstr ""
 
 #: commandments_app.Commandment/quote:20
 msgid "Command what you will, and give what you command"
-msgstr ""
+msgstr "Gebied wat je wilt, en geef wat je gebiedt"
 
 #: commandments_app.Commandment/title:21
 msgid ""
@@ -3304,6 +3316,8 @@ msgstr "Laat de zon niet ondergaan over uw boosheid"
 #: commandments_app.Commandment/quote:21
 msgid "A gentle answer turns away wrath, but a harsh word stirs up anger"
 msgstr ""
+"Een zacht antwoord keert de grimmigheid af, maar een krenkend woord wekt de "
+"woede"
 
 #: commandments_app.Commandment/title:22
 msgid "Eliminate any cause of temptation"
@@ -3312,6 +3326,7 @@ msgstr "Voorkom elke oorzaak van verleiding"
 #: commandments_app.Commandment/quote:22
 msgid "This book will keep you from sin, or sin will keep you from this book"
 msgstr ""
+"Dit boek zal u weerhouden van zonden, of de zonden weerhouden u van dit boek"
 
 #: commandments_app.Commandment/title:23
 msgid "Honor marriage"
@@ -3347,6 +3362,8 @@ msgid ""
 "What you think influences what you speak and what you speak influences what "
 "you do"
 msgstr ""
+"Wat je denkt beïnvloedt wat je spreekt en wat je spreekt beïnvloedt wat je "
+"doet"
 
 #: commandments_app.Commandment/title:25
 msgid ""
@@ -3367,7 +3384,7 @@ msgstr "Als iemand neemt wat van u is, eis het niet terug"
 
 #: commandments_app.Commandment/quote:26
 msgid "For it is in giving that we receive"
-msgstr ""
+msgstr "Want het is in het geven dat wij ontvangen"
 
 #: commandments_app.Commandment/title:27
 msgid ""
@@ -3386,6 +3403,8 @@ msgid ""
 "Lord, make me an instrument of thy peace. Where there is hatred, let me sow "
 "love"
 msgstr ""
+"Heer, maak mij een instrument van uw vrede. Waar haat is, laat me liefde "
+"zaaien"
 
 #: commandments_app.Commandment/title:28
 msgid ""
@@ -3398,6 +3417,8 @@ msgid ""
 "Vision without action is merely a dream. Action without vision just passes "
 "the time. Vision with action can change the world."
 msgstr ""
+"Visie zonder actie is slechts een droom. Actie zonder visie laat de tijd "
+"gewoon voorbijgaan. Visie met actie kan de wereld veranderen."
 
 #: commandments_app.Commandment/title:29
 msgid "Be generous (and fasten and pray) in secret"
@@ -3412,6 +3433,8 @@ msgid ""
 "Those who say, 'It can't be done,' are usually interrupted by others doing "
 "it."
 msgstr ""
+"Degenen die zeggen: 'Dat is onmogelijk,' worden meestal onderbroken "
+"door anderen die het doen."
 
 #: commandments_app.Commandment/title:31
 msgid ""
@@ -3423,7 +3446,7 @@ msgstr ""
 
 #: commandments_app.Commandment/quote:31
 msgid "Forgiveness is not an emotion. It is an act of the will."
-msgstr ""
+msgstr "Vergeving is niet een emotie. Het is een daad van de wil."
 
 #: commandments_app.Commandment/title:32
 msgid "Fast regularly"
@@ -3431,7 +3454,7 @@ msgstr "Vast regelmatig"
 
 #: commandments_app.Commandment/quote:32
 msgid "Physical obedience brings spiritual release"
-msgstr ""
+msgstr "Fysieke gehoorzaamheid brengt geestelijke vrijlating"
 
 #: commandments_app.Commandment/title:33
 msgid "Lay up for yourselves treasures in heaven"
@@ -3440,7 +3463,7 @@ msgstr "Verzamel schatten voor u in de hemel"
 #: commandments_app.Commandment/quote:33
 msgid ""
 "If you keep doing what you did, you will keep getting what you always got"
-msgstr ""
+msgstr "Als je doet wat je deed, zul je blijven krijgen wat je altijd kreeg"
 
 #: commandments_app.Commandment/title:34
 msgid ""
@@ -3515,6 +3538,8 @@ msgid ""
 "if I fail, I try again, and again, and again if you fail are you going to "
 "try again?"
 msgstr ""
+"als ik faal, probeer ik het opnieuw en opnieuw en opnieuw. Als jij faalt, ga "
+"je het opnieuw proberen?"
 
 #: commandments_app.Commandment/title:40
 msgid "Beware of false prophets"
@@ -3533,6 +3558,8 @@ msgid ""
 "When a man listens, God speaks. If a man obeys, God acts. When a man prays, "
 "God gives strength."
 msgstr ""
+"Wanneer een man luistert, spreekt God. Als een man gehoorzaamt, handelt God."
+" Als een man bidt, geeft God kracht."
 
 #: commandments_app.Commandment/title:42
 msgid "Be of good cheer"
@@ -3544,7 +3571,7 @@ msgstr "Wees niet bang"
 
 #: commandments_app.Commandment/quote:42
 msgid "Courage is when you overcome fear"
-msgstr ""
+msgstr "Moed is wanneer je angst overwint"
 
 #: commandments_app.Commandment/title:43
 msgid "Be moved with inner compassion with the people around you"
@@ -3617,7 +3644,7 @@ msgstr ""
 
 #: commandments_app.Commandment/quote:52
 msgid "Jesus is the beast of burden that wants to form that team with us"
-msgstr ""
+msgstr "Jezus is het andere span die met ons een team wilt vormen"
 
 #: commandments_app.Commandment/title:53
 msgid "Calm words are a tree of life"
@@ -3680,7 +3707,7 @@ msgstr "Kijk uit en wees op uw hoede voor de hebzucht"
 
 #: commandments_app.Commandment/quote:60
 msgid "Not happiness makes grateful, but gratitude makes you happy!"
-msgstr ""
+msgstr "Niet geluk maakt dankbaar, maar dankbaarheid maakt je gelukkig!"
 
 #: commandments_app.Commandment/title:61
 msgid "Look forward to the wedding of the Lamb"
@@ -3711,6 +3738,8 @@ msgid ""
 "Fear is the glue that keeps you stuck. Faith is the solvent that sets you "
 "free."
 msgstr ""
+"Angst is de lijm die je vast houdt. Het geloof is het oplosmiddel dat je "
+"bevrijdt."
 
 #: commandments_app.Commandment/title:67
 msgid ""
@@ -3724,6 +3753,8 @@ msgstr ""
 msgid ""
 "Keep thy heart with all diligence; for out of it are the issues of life"
 msgstr ""
+"Behoed je hart met alle ijver; want daaruit zijn de oorsprongen van "
+"het leven"
 
 #: commandments_app.Commandment/title:68
 msgid "Love thy neighbour as thyself"
@@ -3734,6 +3765,8 @@ msgid ""
 "Spread love everywhere you go. Let no one ever come to you without leaving "
 "happier"
 msgstr ""
+"Verspreid de liefde overal waar je gaat. Laat niemand ooit bij je komen "
+"zonder dat hij gelukkiger weggaat"
 
 #: commandments_app.Commandment/title:69
 msgid "He that humbleth himself shall be exalted"
@@ -3773,20 +3806,19 @@ msgstr "Gebruik je talenten tot eer van de Vader"
 
 #: commandments_app.Commandment/quote:71
 msgid "One of the greatest diseases is to be nobody to anybody"
-msgstr ""
+msgstr "Een van de grootste ziekten is om niemand voor iedereen zijn"
 
 #: commandments_app.Commandment/title:72
 msgid "Trust that the Spirit will guide you"
 msgstr "Vertrouw erop dat de Heilige Geest je zal leiden"
 
 #: commandments_app.Commandment/title_negative:72
-#, fuzzy
 msgid "Do not worry about what to say"
-msgstr "Maak je geen zorgen over wat te zeggen"
+msgstr "Maak je geen zorgen over wat je moet zeggen"
 
 #: commandments_app.Commandment/quote:72
 msgid "Pray, and let God worry."
-msgstr ""
+msgstr "Bid, en laat God zorgen."
 
 #: commandments_app.Commandment/title:73
 msgid "Celebrate the Lord’s supper in remembrance of Me"
@@ -3802,6 +3834,9 @@ msgid ""
 "undoubtedly many people in your path today that need some encouragement. "
 "It’s an important ministry"
 msgstr ""
+"Kijk naar een gelegenheid om een Barnabas, een bemoediger, te zijn. Er zijn "
+"ongetwijfeld veel mensen op je pad vandaag die een bemoediging nodig hebben. Het "
+"is een belangrijke bediening"
 
 #: commandments_app.Commandment/title:75
 msgid ""
@@ -3809,9 +3844,8 @@ msgid ""
 msgstr "Wie in Mij blijft, en Ik in hem, die draagt veel vrucht"
 
 #: commandments_app.Commandment/title_negative:75
-#, fuzzy
 msgid "For without me ye can do nothing"
-msgstr "Want zonder Mij kunt gij niets doen"
+msgstr "Want zonder Mij kunt u niets doen"
 
 #: commandments_app.Commandment/devotional:75
 msgid ""
@@ -3830,6 +3864,8 @@ msgstr ""
 msgid ""
 "You can turn your troubles into trust when you choose worship over worry."
 msgstr ""
+"Je kan je problemen omzetten in vertrouwen wanneer je aanbidding verkiest "
+"boven zorgen."
 
 #: commandments_app.Commandment/title:77
 msgid "Watch ye and pray, lest ye enter into temptation"
@@ -3877,6 +3913,8 @@ msgid ""
 "No matter who you are, no matter what you’re going through, God knows it. He"
 " is with you. He is going to pull you through"
 msgstr ""
+"Het maakt niet uit wie je bent, of wat je doormaakt, God weet het. "
+"Hij is met je. Hij zal je erdoor heen trekken"
 
 #: commandments_app.Question/text:1
 msgid ""
@@ -4111,7 +4149,6 @@ msgstr ""
 "Herken jij een van de genoemde symptonen van hebzucht in de beschrijving?"
 
 #: commandments_app.Question/text:110
-#, fuzzy
 msgid "What do you think believe is all about?"
 msgstr "Wat denk je waar geloof allemaal over gaat?"
 
@@ -4173,4 +4210,3 @@ msgid ""
 msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
-
