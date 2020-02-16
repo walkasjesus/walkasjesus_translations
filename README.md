@@ -4,7 +4,7 @@ This repository contains all translation files from English to other languages. 
 
 _**All Bible references are automatically imported with the configured Bible Translation for that language**_
 
-## Translation manual
+## Translators translation manual
 
 If you think this website contains valuable information to help in Discipling people to become Followers of Christ, you are very welcome to translate this website into your own language.  
 
@@ -15,6 +15,51 @@ In order to translate the website, you can do the following:
 3. Click on the word `Translations` to go to the translation page
 4. Click on the link `jesus_commandments_website` under the title of the language where you want to translate
 5. Start translation for all the fields. `Fuzzy` entries call for revision by the translator. When an entry is revised, you can deselect the fuzzy field. Once you have done all the items, you can click on `save and translate next block`.
+
+## Adding completely new languages
+
+If you want to add completely new languages you need to perform the following steps.  
+In this example we will add the _Dutch_ language, which will have **nl** as language code (Format should be in [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)).
+
+1. Add the new language to the `base_settings.py` of the `jesus_commandments_framework`
+
+```
+LANGUAGES = [
+    ('en', gettext_lazy('English')),  # First language is the default for modeltranslation
+    ('nl', gettext_lazy('Dutch')),
+]
+...
+
+
+# Rosetta settings
+ROSETTA_SHOW_AT_ADMIN_PANEL = True
+ROSETTA_LANGUAGE_GROUPS = [
+    'translators-nl',
+]
+```
+
+2. Activate your virtual environment:  
+`source ./venv/bin/activate`
+3. Adding new texts to the .po files:  
+`python manage.py makemessages -l nl`
+4. Compile the .po files. Run this also after changing the .po files.  
+`django-admin compilemessages`
+5. Auto translate all the files with Google translate servers by running the following command:  
+`auto_translate_files.sh`
+
+_NOTE: If you encounter the following error, this means that Google limited the number of translations you did for this day. You can resolve this to wait for tomorrow and try it again (it will continue where it was), or you can enable a VPN connection and try it again._
+
+```
+Expecting value: line 1 column 1 (char 0)
+Could not translate all items, stopped on above error.
+```
+
+*Make sure to repeat this step until you don't get any errors*
+
+6. When running auto_translate_files.sh Google will translate all django variables in a wrong format. To fix the most errors, run:  
+`auto_correct_django_locale_vars.sh`
+
+7. Now the translator can start translating the files. Follow the steps in paragraph [Translators translation manual]
 
 ## Related projects and repositories
 
