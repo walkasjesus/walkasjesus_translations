@@ -8,535 +8,518 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-02 11:04+0000\n"
-"PO-Revision-Date: 2020-01-11 11:08+0000\n"
-"Last-Translator: b'  <info@jesuscommandments.org>'\n"
+"POT-Creation-Date: 2020-02-16 07:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Translated-Using: django-rosetta 0.9.3\n"
 
 #: account_app/templates/account/change_password.html:8
 #: account_app/templates/account/profile.html:55 templates/modal.html:70
 msgid "Save changes"
-msgstr "Wijzigingen opslaan"
+msgstr ""
 
 #: account_app/templates/account/index.html:6
 #: account_app/templates/registration/signup.html:10
 msgid "Signup"
-msgstr "Registreren"
+msgstr ""
 
 #: account_app/templates/account/index.html:7
 #: account_app/templates/account/login.html:10 templates/base.html:73
 #: templates/base.html:129
 msgid "Login"
-msgstr "Inloggen"
+msgstr ""
 
 #: account_app/templates/account/index.html:8 templates/base.html:70
 #: templates/base.html:127
 msgid "Logout"
-msgstr "Uitloggen"
+msgstr ""
 
 #: account_app/templates/account/index.html:9 templates/base.html:69
 #: templates/base.html:126
 msgid "Profile"
-msgstr "Profiel"
+msgstr ""
 
 #: account_app/templates/account/index.html:10
 msgid "Change password"
-msgstr "Wachtwoord wijzigen"
+msgstr ""
 
 #: account_app/templates/account/login.html:9
 msgid "Contribute"
-msgstr "Bijdragen"
+msgstr ""
 
 #: account_app/templates/account/login.html:11
 msgid ""
 "Thank you for helping in teaching the words and commandments of Jesus all "
 "around the world!"
 msgstr ""
-"Dank voor het helpen in het onderwijzen van de woorden en geboden van Jezus "
-"over de hele wereld die je!"
 
 #: account_app/templates/account/login.html:15
 msgid "Your username and password didn't match. Please try again."
 msgstr ""
-"Uw gebruikersnaam en wachtwoord komen niet overeen. Probeer het opnieuw."
 
 #: account_app/templates/account/login.html:22
 msgid ""
 "Your account doesn't have access to this page. To proceed, please login with"
 " an account that has access."
 msgstr ""
-"Uw account heeft geen toegang tot deze pagina. Om verder te gaan, moet u "
-"zich aanmelden met een account die toegang heeft."
 
 #: account_app/templates/account/login.html:25
 msgid "Please login to see this page."
-msgstr "Log in om deze pagina te zien."
+msgstr ""
 
 #: account_app/templates/account/login.html:52
 msgid "Not an account yet and want to contribute? Please register"
 msgstr ""
-"Nog geen account en willen een bijdrage leveren? Registreer alsjeblieft"
 
 #: account_app/templates/account/profile.html:10
 msgid "My profile"
-msgstr "Mijn profiel"
+msgstr ""
 
 #: account_app/templates/account/profile.html:11
 msgid "My Profile"
-msgstr "Mijn profiel"
+msgstr ""
 
 #: account_app/templates/account/profile.html:22
 msgid "You can change your profile settings on this page."
-msgstr "U kunt uw profiel instellingen op deze pagina wijzigen."
+msgstr ""
 
 #: account_app/templates/account/profile.html:32
 #: account_app/templates/registration/signup.html:34
 msgid "I agree with the Terms and Conditions"
-msgstr "Ik ga akkoord met de algemene voorwaarden"
+msgstr ""
 
 #: account_app/templates/registration/signup.html:11
 msgid "Register for a new account"
-msgstr "Schrijf u in voor een nieuwe account"
+msgstr ""
 
 #: account_app/templates/registration/signup.html:12
 msgid ""
 "The content of this website is made possible by contributors around the "
 "world. You can help improving by:"
 msgstr ""
-"De inhoud van deze website is mogelijk gemaakt door mensen over de hele "
-"wereld. U kunt helpen bij het verbeteren van:"
 
 #: account_app/templates/registration/signup.html:16
 msgid ""
 "Translating to your language, since most translation is done automatically, "
 "corrections are very welcome!"
 msgstr ""
-"Vertalen naar je eigen taal, omdat de meeste vertaling automatisch wordt "
-"gedaan, zijn correcties van harte welkom!"
 
 #: account_app/templates/registration/signup.html:19
 msgid "Adding or correcting commandments along with their Bible references"
 msgstr ""
-"Het toevoegen of corrigeren van geboden samen met hun Bijbel referenties"
 
 #: account_app/templates/registration/signup.html:22
 msgid ""
 "Adding resources like movies, books, testimonies, blogs, songs, pictures, "
 "illustrations and sermons which are related to the corresponding commandment"
 msgstr ""
-"Het toevoegen van middelen  zoals films, boeken, getuigenissen, blogs, "
-"liederen, foto's en preken welke gerelateerd zijn aan het overeenkomstige "
-"gebod"
 
 #: account_app/templates/registration/signup.html:57
 msgid "Sign up"
-msgstr "Registreren"
+msgstr ""
 
 #: account_app/views.py:24
 msgid ""
 "Thank you for your registration. We are validating your registration and "
 "will get in touch soon."
 msgstr ""
-"Bedankt voor uw registratie. We zullen uw aanmelding valideren en binnenkort"
-" contact met u opnemen."
 
 #: account_app/views.py:37
 msgid "Your profile was successfully updated!"
-msgstr "Je profiel is succesvol gewijzigd!"
+msgstr ""
 
 #: account_app/views.py:40 account_app/views.py:58
 msgid "Please correct the error below."
-msgstr "Corrigeer de fout hieronder."
+msgstr ""
 
 #: account_app/views.py:55
 msgid "Your password was successfully updated!"
-msgstr "Uw wachtwoord is succesvol gewijzigd!"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:10
 msgid "Genesis"
-msgstr "Genesis"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:11
 msgid "Exodus"
-msgstr "Exodus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:12
 msgid "Leviticus"
-msgstr "Leviticus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:13
 msgid "Numbers"
-msgstr "Numeri"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:14
 msgid "Deuteronomy"
-msgstr "Deuteronomium"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:15
 msgid "Joshua"
-msgstr "Jozua"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:16
 msgid "Judges"
-msgstr "Richteren"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:17
 msgid "Ruth"
-msgstr "Ruth"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:18
 msgid "1 Samuel"
-msgstr "1 Samuel"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:19
 msgid "2 Samuel"
-msgstr "2 Samuel"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:20
 msgid "1 Kings"
-msgstr "1 Koningen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:21
 msgid "2 Kings"
-msgstr "2 Koningen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:22
 msgid "1 Chronicles"
-msgstr "1 Kronieken"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:23
 msgid "2 Chronicles"
-msgstr "2 Kronieken"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:24
 msgid "Ezra"
-msgstr "Ezra"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:25
 msgid "Nehemiah"
-msgstr "Nehemia"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:26
 msgid "Esther"
-msgstr "Esther"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:27
 msgid "Job"
-msgstr "Job"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:28
 msgid "Psalms"
-msgstr "Psalmen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:29
 msgid "Proverbs"
-msgstr "Spreuken"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:30
 msgid "Ecclesiastes"
-msgstr "Prediker"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:31
 msgid "Song of Solomon"
-msgstr "Hooglied"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:32
 msgid "Isaiah"
-msgstr "Jesaja"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:33
 msgid "Jeremiah"
-msgstr "Jeremia"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:34
 msgid "Lamentations"
-msgstr "Klaagliederen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:35
 msgid "Ezekiel"
-msgstr "Ezechiël"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:36
 msgid "Daniel"
-msgstr "Daniël"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:37
 msgid "Hosea"
-msgstr "Hosea"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:38
 msgid "Joel"
-msgstr "Joël"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:39
 msgid "Amos"
-msgstr "Amos"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:40
 msgid "Obadiah"
-msgstr "Obadja"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:41
 msgid "Jonah"
-msgstr "Jona"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:42
 msgid "Micah"
-msgstr "Micha"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:43
 msgid "Nahum"
-msgstr "Nahum"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:44
 msgid "Habakkuk"
-msgstr "Habakuk"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:45
 msgid "Zephaniah"
-msgstr "Zefanja"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:46
 msgid "Haggai"
-msgstr "Haggaï"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:47
 msgid "Zechariah"
-msgstr "Zacharia"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:48
 msgid "Malachi"
-msgstr "Maleachi"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:49
 msgid "Matthew"
-msgstr "Mattheüs"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:50
 msgid "Mark"
-msgstr "Markus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:51
 msgid "Luke"
-msgstr "Lukas"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:52
 msgid "John"
-msgstr "Johannes"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:53
 msgid "Acts"
-msgstr "Handelingen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:54
 msgid "Romans"
-msgstr "Romeinen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:55
 msgid "1 Corinthians"
-msgstr "1 Korintiërs"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:56
 msgid "2 Corinthians"
-msgstr "2 Korintiërs"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:57
 msgid "Galatians"
-msgstr "Galaten"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:58
 msgid "Ephesians"
-msgstr "Efeziërs"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:59
 msgid "Philippians"
-msgstr "Filipenzen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:60
 msgid "Colossians"
-msgstr "Kolossenzen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:61
 msgid "1 Thessalonians"
-msgstr "1 Tessalonicenzen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:62
 msgid "2 Thessalonians"
-msgstr "2 Tessalonicenzen"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:63
 msgid "1 Timothy"
-msgstr "1 Timotheüs"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:64
 msgid "2 Timothy"
-msgstr "2 Timotheüs"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:65
 msgid "Titus"
-msgstr "Titus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:66
 msgid "Philemon"
-msgstr "Filemon"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:67
 msgid "Hebrews"
-msgstr "Hebreeën"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:68
 msgid "James"
-msgstr "Jakobus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:69
 msgid "1 Peter"
-msgstr "1 Petrus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:70
 msgid "2 Peter"
-msgstr "2 Petrus"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:71
 msgid "1 John"
-msgstr "1 Johannes"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:72
 msgid "2 John"
-msgstr "2 Johannes"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:73
 msgid "3 John"
-msgstr "3 Johannes"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:74
 msgid "Jude"
-msgstr "Judas"
+msgstr ""
 
 #: commandments_app/models/bible_books.py:75
 msgid "Revelation"
-msgstr "Openbaring"
+msgstr ""
 
 #: commandments_app/models/bible_reference.py:73
 msgid "Could not load text at the moment."
-msgstr "Kan tekst op dit moment niet laden."
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:7
 msgid "Salvation Commands"
-msgstr "Reddings Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:8
 msgid "Discipleship Commands"
-msgstr "Discipelschap Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:9
 msgid "Worship Commands"
-msgstr "Aanbiddings Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:10
 msgid "Blessings"
-msgstr "Zegeningen"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:11
 msgid "Judgment Seat Commands"
-msgstr "Gerechtigheid Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:12
 msgid "Relationship Commands"
-msgstr "Relatie Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:13
 msgid "Marriage Commands"
-msgstr "Huwelijks Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:14
 msgid "Persecution Commands"
-msgstr "Vervolgings Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:15
 msgid "Thinking Commands"
-msgstr "Gedachte Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:16
 msgid "Prayer Commands"
-msgstr "Gebeds Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:17
 msgid "False Teachers Commands"
-msgstr "Valse Leraren Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:18
 msgid "Witnessing Commands"
-msgstr "Getuigenis Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:19
 msgid "Greatest Commands"
-msgstr "Grootste Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:20
 msgid "Finance Commands"
-msgstr "Finaciën Geboden"
+msgstr ""
 
 #: commandments_app/models/commandment_categories.py:21
 msgid "Holiness Commands"
-msgstr "Heiligheids Geboden"
+msgstr ""
 
 #: commandments_app/models/media.py:23
 msgid "Language independent"
-msgstr "Taal onafhankelijk"
+msgstr ""
 
 #: commandments_app/models/media.py:24
 msgid "Language unknown"
-msgstr "Taal onbekend"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:5
 msgid "Bible cache management"
-msgstr "Bijbel cachebeheer"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:11
 msgid "Clear bible list cache"
-msgstr "Leeg Bijbel cache lijst"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:14
 msgid "Items in cache that are not saved to disk"
-msgstr "Items in de cache die niet worden opgeslagen op de harde schijf"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:19
 msgid "Save bible cache to disk"
-msgstr "Save Bijbel cache op de harde schijf"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:25
 msgid "Bibles available"
-msgstr "Bijbels beschikbaar"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:29
 msgid "Bible"
-msgstr "Bijbel"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:30
 msgid "Language"
-msgstr "Taal"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:31
 msgid "Enabled"
-msgstr "Ingeschakeld"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:32
 msgid "Percentage cached"
-msgstr "Percentage gecached"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:48
 msgid "Disable"
-msgstr "Uitschakelen"
+msgstr ""
 
 #: commandments_app/templates/admin/bible_admin.html:51
 msgid "Enable"
-msgstr "Inschakelen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:11
 #: commandments_app/templates/commandments/detail.html:17
@@ -551,75 +534,75 @@ msgstr "Inschakelen"
 #: commandments_app/templates/commandments/detail.html:87
 #: commandments_app/templates/commandments/detail.html:94
 msgid "Jump to:"
-msgstr "Spring naar:"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:11
 msgid "Bible references"
-msgstr "Bijbelteksten"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:17
 #: commandments_app/templates/commandments/detail.html:280
 msgid "Devotional"
-msgstr "Stichtelijk woord"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:24
 #: commandments_app/templates/commandments/detail.html:296
 msgid "Drawings"
-msgstr "Illustraties"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:31
 #: commandments_app/templates/commandments/detail.html:315
 msgid "Pictures"
-msgstr "Afbeeldingen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:38
 #: commandments_app/templates/commandments/detail.html:358
 msgid "Questions"
-msgstr "Vragen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:45
 #: commandments_app/templates/commandments/detail.html:398
 msgid "Superbook"
-msgstr "Superbook"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:59
 #: commandments_app/templates/commandments/detail.html:440
 msgid "Songs"
-msgstr "Liederen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:66
 #: commandments_app/templates/commandments/detail.html:461
 msgid "Movies"
-msgstr "Films"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:73
 #: commandments_app/templates/commandments/detail.html:482
 msgid "Testimonies"
-msgstr "Getuigenissen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:80
 #: commandments_app/templates/commandments/detail.html:503
 msgid "Blogs"
-msgstr "Blogs"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:87
 #: commandments_app/templates/commandments/detail.html:521
 msgid "Sermons"
-msgstr "Preken"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:94
 #: commandments_app/templates/commandments/detail.html:542
 msgid "Books"
-msgstr "Boeken"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:125
 #: commandments_app/templates/commandments/index.html:16 templates/base.html:9
 msgid "Jesus Commandments"
-msgstr "Jezus Geboden"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:126
 msgid "Primary unique commandment"
-msgstr "Primair uniek gebod"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:136
 #: commandments_app/templates/commandments/study_listing.html:55
@@ -627,27 +610,24 @@ msgid ""
 "This Primary Bible reference is a unique Bible reference according to the "
 "words of Jesus, which best summarizes the commandment"
 msgstr ""
-"Deze Primaire Bijbeltekst is de eerst gevonden unieke referentie volgens de "
-"woorden van Jezus, direct gerelateerd aan het gebod"
 
 #: commandments_app/templates/commandments/detail.html:139
 msgid "Negative commandments"
-msgstr "Negatieve geboden"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:145
 msgid "Commandment category"
-msgstr "Gebod categorie"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:158
 msgid "Direct Bible References"
-msgstr "Directe Bijbelteksten"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:159
 #: commandments_app/templates/commandments/study_listing.html:56
 msgid ""
 "Extra direct Bible references which expands or explain the same commandment"
 msgstr ""
-"Extra directe Bijbelteksten die hetzelfde gebod uitleggen of aanvullen"
 
 #: commandments_app/templates/commandments/detail.html:163
 #: commandments_app/templates/commandments/detail.html:165
@@ -678,7 +658,7 @@ msgstr ""
 #: commandments_app/templates/commandments/vision.html:65
 #: commandments_app/templates/commandments/vision.html:79
 msgid "Author"
-msgstr "Auteur"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:163
 #: commandments_app/templates/commandments/detail.html:165
@@ -702,23 +682,21 @@ msgstr "Auteur"
 #: commandments_app/templates/commandments/detail.html:237
 #: commandments_app/templates/commandments/detail.html:257
 msgid "Origin"
-msgstr "Oorsprong"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:175
 msgid "Indirect Bible References"
-msgstr "Indirect Bijbelteksten"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:176
 #: commandments_app/templates/commandments/study_listing.html:57
 msgid ""
 "Extra, more indirect Bible references, relating to the same commandment"
 msgstr ""
-"Extra, meer indirecte Bijbelteksten, die betrekking hebben op hetzelfde "
-"gebod"
 
 #: commandments_app/templates/commandments/detail.html:192
 msgid "Example Bible References"
-msgstr "Voorbeeld Bijbelteksten"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:193
 #: commandments_app/templates/commandments/study_listing.html:58
@@ -726,12 +704,10 @@ msgid ""
 "In these Bible references you will find examples and testimonies how this "
 "commandment is being executed"
 msgstr ""
-"In deze Bijbelteksten vindt u voorbeelden en getuigenissen van mensen die "
-"dit gebod uitleven"
 
 #: commandments_app/templates/commandments/detail.html:209
 msgid "Duplicate Bible References"
-msgstr "Dubbele Bijbelteksten"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:210
 #: commandments_app/templates/commandments/study_listing.html:59
@@ -740,13 +716,10 @@ msgid ""
 "indirect, with not much new information, although it will confirm the same "
 "Bible references"
 msgstr ""
-"Een andere Bijbeltekst naar min of meer hetzelfde als de primaire, directe "
-"of indirecte Bijbelteksten, met niet veel nieuwe informatie, hoewel het "
-"dezelfde Bijbelteksten zal bevestigen"
 
 #: commandments_app/templates/commandments/detail.html:226
 msgid "Study Bible References"
-msgstr "Studie Bibleteksten"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:227
 #: commandments_app/templates/commandments/study_listing.html:60
@@ -754,109 +727,91 @@ msgid ""
 "Extra Bible references (most often larger parts of Bible books) which are "
 "good for extra study on this commandment"
 msgstr ""
-"Extra Bijbelteksten (meestal grotere delen Bijbelboeken) die goed zijn voor "
-"extra studie over dit gebod"
 
 #: commandments_app/templates/commandments/detail.html:243
 msgid "Legend"
-msgstr "Legenda"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:244
 #: commandments_app/templates/commandments/study_listing.html:192
 #: commandments_app/templates/commandments/vision.html:87
 msgid "Bible verses copyright"
-msgstr "Bijbelteksten copyright"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:247
 msgid ""
 "Click here to see the explanation of the different symbols, Author, Origin "
 "etc."
 msgstr ""
-"Klik hier om de uitleg van de verschillende symbolen, auteur, oorsprong etc."
-" te zien"
 
 #: commandments_app/templates/commandments/detail.html:252
 msgid ""
 "A related Bible reference to the commandment which is negative, something "
 "you should not do"
 msgstr ""
-"Een verwante Bijbeltekst naar het gebod dat negatief is, iets wat je niet "
-"moet doen"
 
 #: commandments_app/templates/commandments/detail.html:253
 msgid ""
 "A related Bible reference to the commandment which is both positive and "
 "negative"
 msgstr ""
-"Een verwante Bijbeltekst naar het gebod die zowel positief als negatief is"
 
 #: commandments_app/templates/commandments/detail.html:254
 msgid ""
 "A related Bible reference to the commandment which is positive, something "
 "you should do or learn from"
 msgstr ""
-"Een verwante Bijbeltekst naar het gebod dat positief is, iets wat je moet "
-"doen of waar je van kunt leren"
 
 #: commandments_app/templates/commandments/detail.html:255
 msgid ""
 "A related Bible reference to the commandment which is not yet determined "
 "positive or negative"
 msgstr ""
-"Een verwante Bijbeltekst naar het gebod wat nog inbepaald is (Positief, "
-"Negatief of Beide)"
 
 #: commandments_app/templates/commandments/detail.html:256
 msgid "Indicates the known author from this Bible reference"
 msgstr ""
-"Geeft de bekende auteur, of persoon waar het over gaat, van deze Bijbeltekst"
 
 #: commandments_app/templates/commandments/detail.html:257
 msgid ""
 "The coding refers to the commandments layout of Rabbi Chafetz Chayim (From "
 "'The Concise Book of Mitzvoth')"
 msgstr ""
-"De codering verwijst naar de geboden lay-out van Rabbi Chafetz Chayim (Van "
-"het boek 'The Concise Book of Mitzvoth')"
 
 #: commandments_app/templates/commandments/detail.html:300
 msgid "Artist"
-msgstr "Artiest"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:327
 #: commandments_app/templates/commandments/detail.html:331
 msgid "Photographer"
-msgstr "Fotograaf"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:359
 msgid "Share your hearts together by discussing the following questions:"
-msgstr "Deel je harten met elkaar door het bespreking van de volgende vragen:"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:361
 msgid "Is there anything you don't understand within this commandment?"
-msgstr "Is er iets dat je niet binnen dit gebod begrijpt?"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:362
 msgid "Wat appeals to you about all Bible references and resources?"
 msgstr ""
-"Wat spreekt je aan bij alle Bijbelteksten en middelen (Illustratie, Fimpjes,"
-" Foto's, Preken, etc)?"
 
 #: commandments_app/templates/commandments/detail.html:363
 msgid ""
 "How do you apply this commandment in your life or do you experience any "
 "boundaries?"
 msgstr ""
-"Hoe ga je dit gebod toepassen in je leven of ervaar je nog bepaalde "
-"blokkades?"
 
 #: commandments_app/templates/commandments/detail.html:366
 msgid "Extra questions"
-msgstr "Extra vragen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:380
 msgid "Resource Language Settings"
-msgstr "Taalinstellingen van de middelen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:381
 msgid ""
@@ -865,10 +820,6 @@ msgid ""
 "Songs, Blogs or Books. You can select multiple languages if you like to see "
 "those resources in more languages."
 msgstr ""
-"Hieronder vindt u allerlei gerelateerde middelen aan dit gebod om u te "
-"helpen groeien. Middelen zijn bijvoorbeeld preken, getuigenissen, films, "
-"korte films, liederen, blogs of boeken. U kunt meerdere talen selecteren om "
-"deze middelen te zien in meer talen."
 
 #: commandments_app/templates/commandments/detail.html:382
 msgid ""
@@ -876,34 +827,30 @@ msgid ""
 "list? Please <a href=\"mailto:info@jesuscommandments.org\">contact us</a> so"
 " we can add it (or <a href=\"\">register</a> and you can add it yourself!"
 msgstr ""
-"Kent u meer goede middelen in uw taal die aan deze lijst kunnen worden "
-"toegevoegd? <a href=\"mailto:info@jesuscommandments.org\"> Neem contact met "
-"ons op </a> of <a href=\"\"> registreer je </a> zodat je het zelf kunt "
-"toevoegen"
 
 #: commandments_app/templates/commandments/detail.html:384
 msgid "Change resource language"
-msgstr "Wijzig taal voor middelen"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:403
 msgid "Watch now on"
-msgstr "Kijk nu op"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:419
 msgid "Short Movies"
-msgstr "Korte Filmpjes"
+msgstr ""
 
 #: commandments_app/templates/commandments/detail.html:566
 msgid "Quote by"
-msgstr "Citaat door"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:18
 msgid "Following Jesus"
-msgstr "Jezus Volgen"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:18
 msgid "#howto"
-msgstr "#hoedan"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:19
 #, python-format
@@ -913,110 +860,99 @@ msgid ""
 "number=\"%(commandments_total)s\">%(commandments_total)s</strong> unique "
 "commandments in your daily life"
 msgstr ""
-"Jezus leerde ons vele verschillende dingen. Wij helpen om alle <strong "
-"class=\"number\" data-"
-"number=\"%(commandments_total)s\">%(commandments_total)s</strong> unieke "
-"geboden toe te passen in uw dagelijks leven"
 
 #: commandments_app/templates/commandments/index.html:20
 #: commandments_app/templates/commandments/index.html:38
 #: commandments_app/templates/commandments/index.html:56
 #: commandments_app/templates/commandments/index.html:74
 msgid "Discover His commandments"
-msgstr "Ontdek Zijn geboden"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:34
 msgid "Becoming like Him"
-msgstr "Worden zoals Hij"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:36
 msgid "Bringing people back to the <span>heart of Christ</span>"
-msgstr "Mensen terugbrengen bij het <span> hart van Jezus </span>"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:37
 msgid "For God so loved the world"
-msgstr "Want God had de wereld zo lief"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:52
 msgid "Matthew 28:19-20"
-msgstr "Mattheüs 28:19-20"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:54
 msgid "Therefore go and <span>make Disciples</span> of all nations"
-msgstr "Ga dan heen, <span>maak discipelen</span> uit alle volken"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:55
 msgid ""
 "teaching them to <span><strong>obey everything</strong></span> I have "
 "commanded you"
 msgstr ""
-"hun lerend <span><strong>alles</strong></span> wat Ik u geboden heb, "
-"<span><strong>in acht te nemen</strong></span>"
 
 #: commandments_app/templates/commandments/index.html:70
 msgid "True disciples"
-msgstr "Ware discipelen"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:72
 msgid ""
 "If we <span>reproduce the character</span> of Jesus Christ in disciples"
 msgstr ""
-"Als we het <span>karakter van Jezus reproduceren</span> in onze discipelen "
 
 #: commandments_app/templates/commandments/index.html:73
 msgid "than we are a good disciple"
-msgstr "dan zijn we een goede discipel"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:97
 msgid "Unique commandments"
-msgstr "Unieke geboden"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:108
 msgid "Bible translations"
-msgstr "Bijbelvertalingen"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:119
 msgid "Languages"
-msgstr "Talen"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:130
 msgid "Contributers"
-msgstr "Bijdragen"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:144
-msgid "We love, because He first loved us"
-msgstr "Wij hebben lief, omdat Hij ons eerst heeft liefgehad"
+msgid "We love Him, because He first loved us"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:145
 msgid "1 John 4:19"
-msgstr "1 Johannes 4:19"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:152
 #: commandments_app/templates/commandments/listing.html:12
 msgid "John 14:15"
-msgstr "Johannes 14:15"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:153
 #: commandments_app/templates/commandments/listing.html:13
 #: templates/base.html:101
 msgid "If you love Me"
-msgstr "Als u Mij liefhebt"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:153
 #: commandments_app/templates/commandments/listing.html:13
 #: templates/base.html:101
 msgid "keep my commands"
-msgstr "neem dan Mijn geboden in acht"
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:154
 msgid ""
 "This website will help you in applying all commandments in your life. How? For each commandment, we collect as much as possible related resources like \n"
 "            <strong>Bible references, drawings, movies, songs, blogs, sermons, pictures and books</strong> to feed your heart, soul and mind"
 msgstr ""
-"Deze website zal u helpen bij het toepassen van alle geboden in uw leven. "
-"Hoe? Voor elk gebod, verzamelen we zo veel mogelijk gerelateerde middelen "
-"zoals <strong>Bijbelteksten, illustraties, films, liederen, blogs, preken, "
-"foto's en boeken</strong> om je hart, ziel en verstand te voeden"
 
 #: commandments_app/templates/commandments/index.html:156
 #: commandments_app/templates/commandments/listing.html:16
@@ -1027,44 +963,33 @@ msgid ""
 " Groups, Discipleship Groups, Mentoring, Ministry enrichment or One-on-one "
 "discipleship, to become followers in all of Jesus teachings."
 msgstr ""
-"Om een ​​goede leerling te worden, moeten we ernaar streven al deze geboden "
-"uit te leven. De beste manier is om dit samen te doen. Neem de tijd voor elk"
-" gebod om in zijn grootsheid te duiken en bespreek ze in je kleine groepen, "
-"discipelschap groepen, mentoring of één-op-één  discipelschap, om "
-"volgelingen in al Jezus geboden te worden."
 
 #: commandments_app/templates/commandments/index.html:165
 #: commandments_app/templates/commandments/listing.html:25
 msgid "No commandments are available."
-msgstr "Geen geboden beschikbaar."
+msgstr ""
 
 #: commandments_app/templates/commandments/index.html:174
 msgid ""
 "Jesus commandments are not steps towards legalism, but precious gifts, ready"
 " for you to unpack"
 msgstr ""
-"Jezus geboden zijn geen stappen in de richting wetticisme, maar kostbare "
-"geschenken, klaar om uitgepakt te worden"
 
 #: commandments_app/templates/commandments/listing.html:14
 msgid ""
 "This website will help you in applying all commandments in your life. How? For each commandment, we collect as much as possible related resources like \n"
 "                    <strong>Bible references, drawings, movies, songs, blogs, sermons, pictures and books</strong> to feed your heart, soul and mind"
 msgstr ""
-"Deze website zal u helpen bij het toepassen van alle geboden in uw leven. "
-"Hoe? Voor elk gebod, verzamelen we zo veel mogelijk gerelateerde middelen "
-"zoals <strong>Bijbelteksten, illustraties, films, liederen, blogs, preken, "
-"foto's en boeken</strong> om je hart, ziel en verstand te voeden"
 
 #: commandments_app/templates/commandments/privacy.html:12
 #: commandments_app/templates/commandments/termsandconditions.html:12
 msgid "Using"
-msgstr "Gebruik makend van"
+msgstr ""
 
 #: commandments_app/templates/commandments/privacy.html:13
 #: templates/base.html:150
 msgid "Privacy Policy"
-msgstr "Privacybeleid"
+msgstr ""
 
 #: commandments_app/templates/commandments/privacy.html:16
 msgid ""
@@ -1090,79 +1015,53 @@ msgid ""
 "\n"
 "                    "
 msgstr ""
-"\n"
-"<p>Wij begrijpen dat de gebruikers van de Jezus Geboden website waarde hechten aan hun privacy. Dit privacy statement is om gebruikers te informeren over de beperkte informatie die door deze website wordt verzameld en waarom het wordt verzameld.</p>\n"
-"<p> Deze privacyverklaring maakt deel uit van en is onderworpen aan de Jezus Geboden <a href=\"/termsandconditions\"> Algemene Voorwaarden </a>. </p>\n"
-"\n"
-"<h3> <strong> Wat en waarom wij opslaan </ strong> </h3>\n"
-"<b> Cookies en logbestandsinformatie </b>\n"
-"\n"
-"<p>De Jezus Geboden website zal \"cookies\" opslaan op uw systeem om uw ervaring met de website te verbeteren. Veel van deze cookies hebben betrekking op het aanpassen van uw bezoek. Bijvoorbeeld, zodat u uw taal, cultuur en bijbelvertaling in kunt stellen. De meeste webbrowsers accepteren automatisch cookies, maar deze kan worden uitgeschakeld door het veranderen van de voorkeuren in uw internet browser-instellingen. Als cookies zijn uitgeschakeld zal echter uw ervaring van de website en haar diensten worden beperkt. </p>\n"
-"\n"
-"<p>De site volgt ook welke middelen u bezoekt en download. Dit is voor het verstrekken van statistische gegevens terug aan de gemeenschap en u te voorzien van informatie over wat u hebt bezocht. Deze informatie is volledig anoniem uit de rest van de Jezus Geboden gemeenschap gehouden: geen enkele andere gebruiker zal ooit vertellen wat u bezoekt of wat u aan het downloaden bent. Het Jezus Geboden team zal nooit uw persoonlijke surfgedrag analyseren - we zullen alleen maar kijken naar de geaggregeerde statistische gegevens (bijvoorbeeld het totale aantal mensen een bezoek aan een bron, of het aantal mensen dat een bezoek aan deze site  van een bepaald land, taal of cultuur .) </p>\n"
-"\n"
-"<h3> <strong> Aanmelden bij de website </ strong> </h3>\n"
-"\n"
-"<p>Om gegevens te plaatsen, lid te worden, middelen te beoordelen of door commentaar achter te laten, zal u gevraagd worden om in te loggen. Dit is om frauduleuze activiteiten te voorkomen door ervoor te zorgen dat een dergelijke transactie niet anoniem is. De informatie die wij verzamelen van geregistreerde gebruikers zal nooit worden gebruikt voor marketing doeleinden, tenzij u uitdrukkelijk een  ​​abonnement vraagt op een bepaalde nieuwsbrief of tijdschrift.</p>\n"
-"\n"
-"<p>Wij verkopen, verhuren of leasen onze gebruikers nooit aan derden, of geven uw gebruikers informatie om op geen enkele manier aan iemand, zonder uitdrukkelijke toestemming van u.</p>\n"
-"\n"
-"<p><i>Voor meer informatie over ons privacybeleid, neem dan contact met ons op: <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org </a></i></p>"
 
 #: commandments_app/templates/commandments/single_commandment_overview.html:10
 msgid "Drawing in progress"
-msgstr "Illustratie in ontwikkeling"
+msgstr ""
 
 #: commandments_app/templates/commandments/single_commandment_overview.html:13
 msgid "Howto"
-msgstr "Hoedan"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:13
 msgid "How did we study them?"
-msgstr "Hoe hebben we ze bestudeerd?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:13
 msgid " Click here to see our approach"
-msgstr "Klik hier om onze aanpak te zien"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:18
 msgid ""
 "Here are all the points we took in consideration while studying all the "
 "unique commandments"
 msgstr ""
-"Hier zijn alle punten die we in overweging hebben genomen terwijl we alle "
-"unieke geboden hebben bestudeerd"
 
 #: commandments_app/templates/commandments/study_listing.html:20
 msgid ""
 "Read everything Jesus said, starting with Matthew, then Mark, Luke and John"
 msgstr ""
-"Lees alles wat Jezus zei, te beginnen met Mattheüs, dan Markus, Lukas en "
-"Johannes"
 
 #: commandments_app/templates/commandments/study_listing.html:21
 msgid ""
 "Focus on all commandments Jesus gave, and be aware of the following "
 "differences:"
 msgstr ""
-"Focus op alle geboden die Jezus gaf, en wees je bewust van de volgende "
-"verschillen:"
 
 #: commandments_app/templates/commandments/study_listing.html:23
 msgid "Is it a \"principle\" or a \"value\"?"
-msgstr "Is het een \"principe\" of een \"waarde\"?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:24
 msgid ""
 "A \"principle\" is generic which applies to all generations, no matter what "
 "culture, time or place"
 msgstr ""
-"Een \"principe\" is een Goddelijke wetmatigheid, welke geldt voor alle "
-"generaties, ongeacht in welke cultuur, tijd of plaats."
 
 #: commandments_app/templates/commandments/study_listing.html:25
 msgid "By example: \"Love your neighbors as yourself\" (Matthew 19:19)"
-msgstr "Bij voorbeeld: \"Heb uw naaste als uzelf\" (Mattheüs 19:19)"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:26
 msgid ""
@@ -1170,72 +1069,55 @@ msgid ""
 " time and place. If you have this, you need to derive the principle out of "
 "it by studying the context"
 msgstr ""
-"Een \"waarde\" is de manier hoe een principe uit zou pakken in een bepaalde "
-"cultuur, tijd en plaats. Als je dit hebt, moet je het principe zien af te "
-"leiden, door het bestuderen van de context"
 
 #: commandments_app/templates/commandments/study_listing.html:27
 msgid "By example: \"Salute one another with an holy kiss\" (Rom 16:16)"
-msgstr "Bij voorbeeld: \"Groet elkander met een heilige kus\" (Rom 16:16)"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:27
 msgid ""
 "The principle is not kiss everybody, but to salute your brothers and sisters"
 " in an intimate way, based on your specific culture, time and place"
 msgstr ""
-"Het principe is niet dat je iedereen moet kussen, maar om je broeders en "
-"zusters te groeten op een intieme manier, op basis van jouw specifieke "
-"cultuur, tijd en plaats"
 
 #: commandments_app/templates/commandments/study_listing.html:28
 msgid "Is it \"literal\" or \"figurative\"?"
-msgstr "Is het \"letterlijk\" of \"figuurlijk\"?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:29
 msgid ""
 "A \"literal\" commandment is literally what Jesus is saying which you can "
 "directly obey and apply"
 msgstr ""
-"Een \"letterlijk\" gebod is iets wat Jezus letterlijk zegt, wat je direct "
-"kunt gehoorzamen en toepassen"
 
 #: commandments_app/templates/commandments/study_listing.html:30
 msgid ""
 "By example: \"Worship the Lord your God, and serve him only\" (Matthew 4:10)"
 msgstr ""
-"Bij voorbeeld: \"Aanbid de Heer, uw God, en dien Hem alleen\" (Mattheüs "
-"4:10)"
 
 #: commandments_app/templates/commandments/study_listing.html:31
 msgid ""
 "A \"figurative\" commandment is descriptive or a parable (Usually a short "
 "fictitious story that illustrates a moral attitude or a religious principle)"
 msgstr ""
-"Een \"figuurlijk\" gebod is beschrijvend of een gelijkenis (meestal een kort"
-" fictief verhaal dat een morele houding of een religieus principe "
-"illustreert)"
 
 #: commandments_app/templates/commandments/study_listing.html:32
 msgid "By example: \"The parable of the Good Samaritan \" (Luke 10:29-37)"
 msgstr ""
-"Bij voorbeeld: \"De gelijkenis van de barmhartige Samaritaan\" (Lukas 10: "
-"29-37)"
 
 #: commandments_app/templates/commandments/study_listing.html:32
 msgid "The principle is to be merciful to those who crosses your paths"
-msgstr "Het principe is om barmhartig te zijn aan degenen die op je pad komen"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:33
 msgid "Is it \"specific\" or a \"generic\"?"
-msgstr "Is het \"specifiek\" of \"algemeen\"?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:34
 msgid ""
 "There are also some specific commandments which Jesus gave specifically to "
 "that person in that time, which will not directly apply for us today"
 msgstr ""
-"Er zijn ook enkele specifieke geboden die Jezus gaf om die persoon in die "
-"tijd, welke niet rechtstreeks van toepassing zal zijn voor ons vandaag"
 
 #: commandments_app/templates/commandments/study_listing.html:35
 msgid ""
@@ -1243,13 +1125,10 @@ msgid ""
 "ye be entered into it, ye shall find a colt tied, whereon never man sat; "
 "loose him, and bring him.\" (Mark 11:2)"
 msgstr ""
-"Bij voorbeeld: \"Ga naar het dorp dat voor u ligt, en zodra u er binnenkomt,"
-" zult u een veulen vinden dat vastgebonden is, waarop geen mens gezeten "
-"heeft; maak het los en breng het hier.\" (Mark 11: 2)"
 
 #: commandments_app/templates/commandments/study_listing.html:36
 msgid "Is it a \"negative\" or \"positive\" commandment?"
-msgstr "Is het een \"nieuw\" of \"bestaand\" gebod?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:37
 msgid ""
@@ -1259,11 +1138,6 @@ msgid ""
 "references you will also find lots of the opposite negative commandments. So"
 " if you have a prohibition, derive the opposite commandment from it"
 msgstr ""
-"Een verbod is een negatief gebod, iets wat je niet moet doen. Bij alle "
-"verboden, is een tegengesteld gebod. In de unieke geboden noemen we alleen "
-"geboden, terwijl in de gerelateerde Bijbelteksten je ook veel verboden "
-"vindt. Dus als je een verbod vindt, ontleed dan het tegenovergestelde gebod "
-"daaruit"
 
 #: commandments_app/templates/commandments/study_listing.html:38
 msgid ""
@@ -1273,22 +1147,16 @@ msgid ""
 "commandment is to stay loyal to your partner (Honor marriage) and keep your "
 "heart pure"
 msgstr ""
-"Bij voorbeeld: \"Maar Ik zeg u dat al wie naar een vrouw kijkt om haar te "
-"begeren, in zijn hart al overspel met haar gepleegd heeft. (Mattheüs 5:28) "
-"Het verbod is om niet te kijken met lust naar een andere vrouw, het gebod is"
-" trouw aan te blijven aan je partner en je hart zuiver te houden"
 
 #: commandments_app/templates/commandments/study_listing.html:39
 msgid "Should you \"continually\", or \"start\" doing it?"
-msgstr "Moet je het \"voortdurend\" of \"beginnen\" te doen?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:40
 msgid ""
 "There is a difference in \"immediately start doing it\" or \"keep "
 "continually or habitually doing it\""
 msgstr ""
-"Er is een verschil in \"onmiddellijk beginnen te doen\" of \"het voortdurend"
-" blijven doen\""
 
 #: commandments_app/templates/commandments/study_listing.html:41
 msgid ""
@@ -1298,23 +1166,18 @@ msgid ""
 "continually\" and to \"become immediately foolish\" if you think you are "
 "wise"
 msgstr ""
-"Bij voorbeeld: \"Laat niemand zichzelf bedriegen. Als iemand onder u denkt "
-"dat hij wijs is in deze wereld, laat hij dwaas worden, opdat hij wijs zal "
-"worden\" (1 Kor 3:18) De progressieve soort hier is om \"voortdurend\" "
-"jezelf niet te bedriegen en \"onmiddellijk\" dwaas te worden als je denkt "
-"dat je verstandig bent"
 
 #: commandments_app/templates/commandments/study_listing.html:43
 msgid "Is it a \"new\" or \"existing\" commandment?"
-msgstr "Is het een \"nieuw\" of \"bestaand\" gebod?"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:44
 msgid "If it is new:"
-msgstr "Als het nieuw is:"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:47
 msgid "Add it with its primary Bible reference"
-msgstr "Voeg het toe als primaire Bijbeltekst"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:48
 msgid ""
@@ -1322,67 +1185,58 @@ msgid ""
 "stick as close as possible to the Words of Jesus Himself (Only summarize "
 "when necessary)"
 msgstr ""
-"Bepaal een korte krachte titel welke het gebod samenvat. Probeer zo dicht "
-"mogelijk bij de Woorden van Jezus te blijven (Alleen het hoognodige "
-"samenvatten)"
 
 #: commandments_app/templates/commandments/study_listing.html:49
 msgid "Determine in which \"category\" the commandment falls"
-msgstr "Bepaal in welke \"categorie\" het gebod valt"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:52
 msgid ""
 "If it is an already existing, determine to which existing commandment(s) it "
 "should apply"
 msgstr ""
-"Als de tekst reeds bestaat, bepaal op welke bestaand gebod(en) het van "
-"toepassing is"
 
 #: commandments_app/templates/commandments/study_listing.html:54
 msgid ""
 "Is it a \"primary\", \"direct\", \"indirect\", \"example\", \"duplicate\" or"
 " \"study\" reference?"
 msgstr ""
-"Is het een \"primair\" \"directe\" of \"indirecte\", \"voorbeeld\", "
-"\"dubbel\" of \"studie\" Bijbeltekst?"
 
 #: commandments_app/templates/commandments/study_listing.html:55
 #: commandments_app/templates/commandments/study_listing.html:109
 msgid "Primary"
-msgstr "Primair"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:56
 #: commandments_app/templates/commandments/study_listing.html:121
 msgid "Direct"
-msgstr "Direct"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:57
 #: commandments_app/templates/commandments/study_listing.html:133
 msgid "Indirect"
-msgstr "Indirect"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:58
 #: commandments_app/templates/commandments/study_listing.html:145
 msgid "Example"
-msgstr "Voorbeeld"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:59
 #: commandments_app/templates/commandments/study_listing.html:157
 msgid "Duplicate"
-msgstr "Dubbel"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:60
 #: commandments_app/templates/commandments/study_listing.html:169
 msgid "Study"
-msgstr "Studie"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:62
 msgid ""
 "Are there more \"direct\", \"indirect\", \"example\", \"duplicate\" or "
 "\"study\" Bible references?"
 msgstr ""
-"Zijn er meer \"primair\" \"directe\" of \"indirecte\", \"voorbeeld\", "
-"\"dubbel\" of \"studie\" Bijbelteksten?"
 
 #: commandments_app/templates/commandments/study_listing.html:63
 msgid ""
@@ -1390,9 +1244,6 @@ msgid ""
 "references, both Old and New Testament. Please always study the context, if "
 "it is really related to the commandment."
 msgstr ""
-"Breidt elk gebod uit met zoveel mogelijk Bijbelteksten, zowel uit het Oude "
-"als het Nieuwe Testament. Probeer altijd de context voor ogen te houden, of "
-"het werkelijk aan het gebod gelinkt kan worden."
 
 #: commandments_app/templates/commandments/study_listing.html:66
 msgid ""
@@ -1404,77 +1255,67 @@ msgid ""
 "valuable and explaining or extending Jesus' teachings, so maybe in the "
 "future we will add them to this website as well."
 msgstr ""
-"Misschien vraag je je af waarom we niet alle geboden in het hele Nieuwe "
-"Testament hebben meegenomen? Nou, de makkelijkste reden waarom we dat niet "
-"deden, is omdat Jezus zijn gebod geen geboden bevatte die andere apostelen "
-"hebben genoemt. Hij zei 'leert hen onderhouden al wat Ik u bevolen heb' "
-"(Matteüs 28:20). Natuurlijk, de andere teksten in het NT zijn nog steeds "
-"waar, waardevol en zijn een prachtige uitbreiding op de leer van Jezus, dus "
-"misschien in de toekomst zullen we ze alsnog toevoegen aan deze website."
 
 #: commandments_app/templates/commandments/study_listing.html:70
 msgid "Overview of Jesus Commandments"
-msgstr "Overzicht van Jezus Geboden"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:71
 msgid "Study the commandments yourself"
-msgstr "Bestudeer de geboden zelf"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:72
 msgid ""
 "In the following table you can see a list of all the Bible references we "
 "found, corresponding to all the commandments which Jesus taught us."
 msgstr ""
-"In de onderstaande tabel vindt je een overzicht van alle gevonden "
-"Bijbelteksten, wat overeenkomt met alle geboden die Jezus ons geleerd heeft."
 
 #: commandments_app/templates/commandments/study_listing.html:73
 msgid ""
 "If you have any suggestions or corrections, we'd like to hear from you. "
 "Please"
 msgstr ""
-"Als u suggesties of correcties heeft, willen we die graag van u horen."
 
 #: commandments_app/templates/commandments/study_listing.html:73
 msgid "register"
-msgstr "registreren"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:73
 msgid "or just sent us an"
-msgstr "Of stuur ons gewoon een"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:73
 msgid "email"
-msgstr "e-mail"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:77
 msgid "Change Bible Translation"
-msgstr "Verander Bijbelvertaling"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:88
 #: commandments_app/templates/commandments/study_listing.html:178
 msgid "Positive / Negative"
-msgstr "Positief / Negatief"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:92
 #: commandments_app/templates/commandments/study_listing.html:182
 msgid "Bible Reference"
-msgstr "Bijbeltekst"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:94
 #: commandments_app/templates/commandments/study_listing.html:184
 msgid "Bible Reference Text"
-msgstr "Bijbeltekst"
+msgstr ""
 
 #: commandments_app/templates/commandments/study_listing.html:96
 #: commandments_app/templates/commandments/study_listing.html:186
 msgid "Grouping"
-msgstr "Groepering"
+msgstr ""
 
 #: commandments_app/templates/commandments/termsandconditions.html:13
 #: templates/base.html:150
 msgid "Terms and Conditions"
-msgstr "Voorwaarden"
+msgstr ""
 
 #: commandments_app/templates/commandments/termsandconditions.html:16
 msgid ""
@@ -1496,31 +1337,15 @@ msgid ""
 "                    <p>If you copy and/or distribute Jesus Commandments resources (whether by burning, sending, duplicating or whatever means) please make reference to <a href=\"/\">www.jesuscommandments.org</a> in order to let others know about the website and resources.</p>\n"
 "                    "
 msgstr ""
-"\n"
-"<h3><strong>Algemeen</strong></h3>\n"
-"<p>Onze doelen met deze site is om te luisteren en te gehoorzamen aan Jezus, zijn leringen uit te leggen, de mensen geworteld zien te krijgen en vruchtbaar te zijn in de wereld, om onze Vader in de hemel te verheerlijken.</p>\n"
-"<p>Je bent vrij om de middelen van Jezus Geboden te gebruiken zolang het niet voor winst of andere commerciële doeleinden gebruikt wordt. Tevens moet het gebruik in overeenstemming zijn met de Jezus geboden waarden, <a href=\"/vision\"> welke hier kunnen worden gevonden</a> en uw gebruik niet in strijd is met enige toepasselijke wet- of regelgeving. </p>\n"
-"<p>Dit betekent dat u WEL toegestaan bent om:</p>\n"
-"<ul>\n"
-"<li>Middelen te kopieeren voor eigen gebruik en/of het gebruik van uw leiders, kinderen, kerk of groep. </li>\n"
-"<li>Middelen te verspreiden voor eigen gebruik en/of het gebruik van uw leiders, kinderen, kerk of groep. </li>\n"
-"</ul>\n"
-"<p>U bent NIET toegestaan ​​om: </p>\n"
-"<ul>\n"
-"<li>Aanpassen door te voeren zonder onze toestemming</li>\n"
-"<li>Middelen te verkopen of deze op te nemen in een commercieel aanbod.</li>\n"
-"</ul>\n"
-"<p>Als u weet heeft dat iemand middelen van de Jezus geboden website verkoopt, of als u vragen heeft kunt u contact opnemen met <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org</a></p>\n"
-"<p>Als u middelen kopieert en/of Jesus Geboden verspreidt (al dan niet door het verbranden, het verzenden, dupliceren of welke manier dan ook) kunt u verwijzen naar <a href=\"/\"> www.jesuscommandments.org </a> om anderen te laten weten over de website en middelen.</p>"
 
 #: commandments_app/templates/commandments/vision.html:12
 msgid "The reason why we have this website"
-msgstr "De reden waarom we deze website hebben"
+msgstr ""
 
 #: commandments_app/templates/commandments/vision.html:13
 #: templates/base.html:63
 msgid "Vision"
-msgstr "Visie"
+msgstr ""
 
 #: commandments_app/templates/commandments/vision.html:14
 msgid ""
@@ -1528,10 +1353,6 @@ msgid ""
 "teachings, let the people get rooted and be fruitful in the world, to "
 "glorify our Father in heaven\""
 msgstr ""
-"\"Ons doel met deze site is om te luisteren en gehoorzamen naar Jezus, zijn "
-"onderwijs uit te leggen en de mensen geworteld zien te krijgen zodat ze "
-"vruchtbaar zullen zijn in de wereld, om onze Vader in de hemel te "
-"verheerlijken\""
 
 #: commandments_app/templates/commandments/vision.html:19
 msgid ""
@@ -1539,16 +1360,11 @@ msgid ""
 "Christ that He died instead to pay for your sins you will receive "
 "everlasting life!"
 msgstr ""
-"Het begint allemaal met het accepteren van Gods liefde voor ons. Alleen door"
-" het geloof in Jezus Christus, dat Hij aan het kruis is gestorven tot "
-"vergeving van onze zonden waardoor wij een eeuwig leven mogen ontvangen!"
 
 #: commandments_app/templates/commandments/vision.html:32
 msgid ""
 "Loving God back requires obedience, but what are all of Jesus commandments?"
 msgstr ""
-"Het liefhebben van God vraagt gehoorzaamheid, maar wat zijn al Jezus "
-"geboden?"
 
 #: commandments_app/templates/commandments/vision.html:34
 msgid ""
@@ -1556,16 +1372,12 @@ msgid ""
 "commandments, you will at least find all the commandments which are "
 "displayed on this websites."
 msgstr ""
-"Wanneer je de evangeliën leest, schrijf dan alle unieke geboden op. Je zal "
-"op zijn minst alle geboden vinden die op deze website te vinden zijn."
 
 #: commandments_app/templates/commandments/vision.html:47
 msgid ""
 "So how will we become fruitful with our lives? By hearing the Word, "
 "understanding the Word and obeying to the Word."
 msgstr ""
-"Dus hoe zullen we vrucht dragen met ons leven? Door het horen van het Woord,"
-" het begrijpen van het Woord en gehoorzamen aan het Woord."
 
 #: commandments_app/templates/commandments/vision.html:60
 msgid ""
@@ -1574,102 +1386,90 @@ msgid ""
 "to all the commandments. Understand all the commandments and obey to all His"
 " commandments."
 msgstr ""
-"We moeten elkaar onderwijzen en helpen om alles wat Jezus heeft geboden in "
-"acht te nemen. Ga erop uit! Zoek naar andere mensen die ook Jezus willen "
-"volgen. Luister naar alle geboden. Begrijp al de geboden en gehoorzamen aan "
-"al Zijn geboden."
 
 #: commandments_app/templates/commandments/vision.html:73
 msgid "Do you want to follow Jesus in all His commandments?"
-msgstr "Wilt jij ook Jezus volgen in al Zijn geboden?"
+msgstr ""
 
 #: commandments_app/views/user_preferences.py:16
 msgid "Failed to change the bible translation"
-msgstr "Kan de bijbelvertaling niet veranderen"
+msgstr ""
 
 #: commandments_app/views/user_preferences.py:26
 msgid "Failed to change the user languages"
-msgstr "Kan de taal niet veranderen"
+msgstr ""
 
 #: commandments_app/views/user_preferences.py:34
 msgid "No languages selected"
-msgstr "Geen talen geselecteerd"
-
-#: jesus_commandments_website/base_settings.py:99
-msgid "English"
-msgstr "Engels"
+msgstr ""
 
 #: jesus_commandments_website/base_settings.py:100
-msgid "Dutch"
-msgstr "Nederlands"
+msgid "English"
+msgstr ""
 
 #: jesus_commandments_website/base_settings.py:101
-msgid "German"
-msgstr "Duits"
-
-#: jesus_commandments_website/base_settings.py:102
-msgid "French"
-msgstr "Frans"
+msgid "Dutch"
+msgstr ""
 
 #: templates/base.html:54
 msgid "Jesus commandments"
-msgstr "Jezus geboden"
+msgstr ""
 
 #: templates/base.html:56
 msgid "Menu"
-msgstr "Menu"
+msgstr ""
 
 #: templates/base.html:61
 msgid "Home"
-msgstr "Home"
+msgstr ""
 
 #: templates/base.html:62
 msgid "Commandments"
-msgstr "Geboden"
+msgstr ""
 
 #: templates/base.html:64 templates/base.html:115
 msgid "Study them"
-msgstr "Bestudeer ze"
+msgstr ""
 
 #: templates/base.html:66 templates/base.html:134
 msgid "Admin Portal"
-msgstr "Admin Portaal"
+msgstr ""
 
 #: templates/base.html:72
 msgid "Help improving"
-msgstr "Help verbeteren"
+msgstr ""
 
 #: templates/base.html:77
 msgid "Change language / Bible"
-msgstr "Wijzig taal / Bijbel"
+msgstr ""
 
 #: templates/base.html:112
 msgid "Site Navigation"
-msgstr "Site Navigatie"
+msgstr ""
 
 #: templates/base.html:114
 msgid "List of Commandments"
-msgstr "Lijst van Geboden"
+msgstr ""
 
 #: templates/base.html:116
 msgid "Our Vision"
-msgstr "Onze Visie"
+msgstr ""
 
 #: templates/base.html:122
 msgid "Account"
-msgstr "Account"
+msgstr ""
 
 #: templates/base.html:130
 msgid "Register"
-msgstr "Registreren"
+msgstr ""
 
 #: templates/base.html:141
 msgid "Contact us"
-msgstr "Neem contact op"
+msgstr ""
 
 #: templates/base.html:143
 msgid "Email: "
-msgstr "E-mail:"
+msgstr ""
 
 #: templates/cookielaw/banner.html:6
 msgid ""
@@ -1677,24 +1477,22 @@ msgid ""
 "        The Jesus Commandments website will store \"cookies\" on your system to help improve your experience with the website. Many of these cookies relate to customizing your visit. For example, allowing you to set your language(s), Bible translation and target audience. For more information see our <a href=\"/privacy\">Privacy Policy</a>.\n"
 "        "
 msgstr ""
-"\n"
-"De Jezus Geboden website zal \"cookies\" opslaan op uw systeem om uw ervaring en gebruik met de website te verbeteren. Veel van deze cookies hebben betrekking op het aanpassen van de voorkeuren aan uw bezoek. Bijvoorbeeld, door u uw gewenste taal, bijbelvertaling en doelgroep in te stellen. zie ons <a href=\"/privacy\"> Privacybeleid </a> voor meer informatie."
 
 #: templates/cookielaw/banner.html:11
 msgid "Ok, I agree"
-msgstr "Akkoord"
+msgstr ""
 
 #: templates/modal.html:7
 msgid "Change languages / Bible translations"
-msgstr "Talen wijzigen / Bijbel vertalingen"
+msgstr ""
 
 #: templates/modal.html:16
 msgid "Site language"
-msgstr "Website taal"
+msgstr ""
 
 #: templates/modal.html:32
 msgid "Bible translation"
-msgstr "Bijbel vertaling"
+msgstr ""
 
 #: templates/modal.html:53
 msgid ""
@@ -1704,15 +1502,10 @@ msgid ""
 "href=\"https://scripture.api.bible\">https://scripture.api.bible</a>, "
 "provided by the American Bible Society."
 msgstr ""
-"Met deze instelling worden alle Bijbelteksten op deze website weergegeven "
-"met de geconfigureerde Bijbelvertaling. Alle referenties worden rechtstreeks"
-" aangeroepen vanuit <a target=\"_blank\" "
-"href=\"https://scripture.api.bible\"> https://scripture.api.bible </a>, "
-"verstrekt door de American Bible Society."
 
 #: templates/modal.html:56
 msgid "Resource language"
-msgstr "Taal voor middelen"
+msgstr ""
 
 #: templates/modal.html:74
 msgid ""
@@ -1721,105 +1514,97 @@ msgid ""
 "Books. You can select multiple languages if you like to see those resources "
 "in more languages."
 msgstr ""
-"Binnen een gebod, kun je meerdere gerelateerde middelen vinden. Middelen "
-"kunnen bijvoorbeeld zijn preken, getuigenissen, films, korte films, "
-"liederen, blogs of boeken. Je kunt meerdere talen selecteren om deze "
-"middelen te zien in meer talen."
 
 #: venv/lib/python3.6/site-packages/django/contrib/messages/apps.py:7
 msgid "Messages"
-msgstr "Berichten"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/contrib/sitemaps/apps.py:7
 msgid "Site Maps"
-msgstr "Site Kaarten"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/contrib/staticfiles/apps.py:9
 msgid "Static Files"
-msgstr "Statische bestanden"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/contrib/syndication/apps.py:7
 msgid "Syndication"
-msgstr "syndication"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/paginator.py:45
 msgid "That page number is not an integer"
-msgstr "Dit pagina getal is geen geheel getal"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/paginator.py:47
 msgid "That page number is less than 1"
-msgstr "Dit pagina nummer is minder dan 1"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/paginator.py:52
 msgid "That page contains no results"
-msgstr "Deze pagina bevat geen resultaten"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:31
 msgid "Enter a valid value."
-msgstr "Voer een geldige waarde in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:102
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:658
 msgid "Enter a valid URL."
-msgstr "Voer een geldige URL in"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:154
 msgid "Enter a valid integer."
-msgstr "Voer een geldige integer in"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:165
 msgid "Enter a valid email address."
-msgstr "Voer een geldig e-mailadres in"
+msgstr ""
 
 #. Translators: "letters" means latin letters: a-z and A-Z.
 #: venv/lib/python3.6/site-packages/django/core/validators.py:239
 msgid ""
 "Enter a valid 'slug' consisting of letters, numbers, underscores or hyphens."
 msgstr ""
-"Voer een geldig 'wachtwoord', bestaande uit letters, cijfers, "
-"onderstrepingstekens of koppeltekens."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:246
 msgid ""
 "Enter a valid 'slug' consisting of Unicode letters, numbers, underscores, or"
 " hyphens."
 msgstr ""
-"Voer een geldig 'wachtwoord', bestaande uit Unicode letters, cijfers, "
-"onderstrepingstekens of koppeltekens."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:255
 #: venv/lib/python3.6/site-packages/django/core/validators.py:275
 msgid "Enter a valid IPv4 address."
-msgstr "Voer een geldig IPv4-adres in"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:260
 #: venv/lib/python3.6/site-packages/django/core/validators.py:276
 msgid "Enter a valid IPv6 address."
-msgstr "Voer een geldig IPv6-adres in"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:270
 #: venv/lib/python3.6/site-packages/django/core/validators.py:274
 msgid "Enter a valid IPv4 or IPv6 address."
-msgstr "Voer een geldig IPv4- of IPv6-adres in"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:304
 msgid "Enter only digits separated by commas."
-msgstr "Voer alleen cijfers, gescheiden door komma's in"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:310
 #, python-format
 msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "Zorgen dat deze waarde %(limit_value)s is (het is nu %(show_value)s)."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:342
 #, python-format
 msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Zorg dat deze waarde kleiner is dan of gelijk aan %(limit_value)s."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:351
 #, python-format
 msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Zorgen deze waarde groter dan of gelijk aan%(limit_value)s."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:361
 #, python-format
@@ -1830,11 +1615,7 @@ msgid_plural ""
 "Ensure this value has at least %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-"Zorg ervoor dat deze waarde als minste %(limit_value)d karakter heeft (het "
-"heeft nu %(show_value)d)."
 msgstr[1] ""
-"Zorg ervoor dat deze waarde als minste %(limit_value)d karakters heeft (het "
-"heeft nu %(show_value)d)."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:376
 #, python-format
@@ -1845,31 +1626,27 @@ msgid_plural ""
 "Ensure this value has at most %(limit_value)d characters (it has "
 "%(show_value)d)."
 msgstr[0] ""
-"Zorg ervoor dat deze waarde maximaal %(limit_value)d karakter heeft (het "
-"heeft nu %(show_value)d)."
 msgstr[1] ""
-"Zorg ervoor dat deze waarde maximaal %(limit_value)d karakters heeft (het "
-"heeft nu %(show_value)d)."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:395
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:290
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:325
 msgid "Enter a number."
-msgstr "Voer een getal in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:397
 #, python-format
 msgid "Ensure that there are no more than %(max)s digit in total."
 msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Zorg ervoor dat er niet meer dan %(max)s cijfer in totaal is"
-msgstr[1] "Zorg ervoor dat er niet meer dan %(max)s cijfers in totaal zijn"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:402
 #, python-format
 msgid "Ensure that there are no more than %(max)s decimal place."
 msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Zorg ervoor dat er niet meer dan %(max)s decimaal in totaal is"
-msgstr[1] "Zorg ervoor dat er niet meer dan %(max)s decimalen in totaal zijn"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:407
 #, python-format
@@ -1878,9 +1655,7 @@ msgid ""
 msgid_plural ""
 "Ensure that there are no more than %(max)s digits before the decimal point."
 msgstr[0] ""
-"Zorg ervoor dat er niet meer dan %(max)s cijfer is voor het decimaal"
 msgstr[1] ""
-"Zorg ervoor dat er niet meer dan %(max)s cijfers zijn voor het decimaal"
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:469
 #, python-format
@@ -1888,40 +1663,38 @@ msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
-"Bestandsextensie '%(extension)s' is niet toegestaan. Toegestane extensies "
-"zijn: '%(allowed_extensions)s'."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:521
 msgid "Null characters are not allowed."
-msgstr "Null tekens zijn niet toegestaan."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/base.py:1162
 #: venv/lib/python3.6/site-packages/django/forms/models.py:756
 msgid "and"
-msgstr "en"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/base.py:1164
 #, python-format
 msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "%(model_name)s met %(field_labels)s bestaat al."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:104
 #, python-format
 msgid "Value %(value)r is not a valid choice."
-msgstr "Waarde %(value)r is geen geldige keuze."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:105
 msgid "This field cannot be null."
-msgstr "Dit veld mag niet leeg zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:106
 msgid "This field cannot be blank."
-msgstr "Dit veld kan niet leeg zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:107
 #, python-format
 msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s dit %(field_label)s bestaat."
+msgstr ""
 
 #. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
 #. Eg: "Title must be unique for pub_date year"
@@ -1930,52 +1703,51 @@ msgstr "%(model_name)s dit %(field_label)s bestaat."
 msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
-"%(field_label)s moet uniek%(date_field_label)s%(lookup_type)s bedragen."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:128
 #, python-format
 msgid "Field of type: %(field_type)s"
-msgstr "Veld type:%(field_type)s"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:901
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1768
 msgid "Integer"
-msgstr "Geheel getal"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:905
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1766
 #, python-format
 msgid "'%(value)s' value must be an integer."
-msgstr "'%(value)s' waarde moet een geheel getal zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:980
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1846
 msgid "Big (8 byte) integer"
-msgstr "Groot (8 byte) integer"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:992
 #, python-format
 msgid "'%(value)s' value must be either True or False."
-msgstr "'%(value)s' waarde moet ofwel waar of onwaar zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:993
 #, python-format
 msgid "'%(value)s' value must be either True, False, or None."
-msgstr "value '%(value)s' moet ofwel True, False of None zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:995
 msgid "Boolean (Either True or False)"
-msgstr "Boolean (waar of onwaar)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1036
 #: venv/lib/python3.6/site-packages/nullablecharfield/db/models/fields.py:8
 #, python-format
 msgid "String (up to %(max_length)s)"
-msgstr "Reeks (maximaal %(max_length)s)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1100
 msgid "Comma-separated integers"
-msgstr "Komma's gescheiden integers"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1149
 #, python-format
@@ -1983,8 +1755,6 @@ msgid ""
 "'%(value)s' value has an invalid date format. It must be in YYYY-MM-DD "
 "format."
 msgstr ""
-"'%(value)s' waarde heeft een ongeldige datumnotatie. Het moet in YYYY-MM-DD "
-"formaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1151
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1294
@@ -1993,12 +1763,10 @@ msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
 msgstr ""
-"'%(value)s' waarde heeft het juiste formaat (YYYY-MM-DD), maar het is een "
-"ongeldige datum."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1154
 msgid "Date (without time)"
-msgstr "Datum (zonder tijd)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1292
 #, python-format
@@ -2006,8 +1774,6 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in YYYY-MM-DD "
 "HH:MM[:ss[.uuuuuu]][TZ] format."
 msgstr ""
-"'%(value)s' waarde heeft een ongeldige indeling. Het moet in YYYY-MM-DD UU: "
-"MM [: ss [.uuuuuu]] [TZ] formaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1296
 #, python-format
@@ -2015,21 +1781,19 @@ msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD "
 "HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
 msgstr ""
-"'%(value)s' waarde heeft het juiste formaat (YYYY-MM-DD UU: MM [: ss "
-"[.uuuuuu]] [TZ]), maar het is een ongeldige datum / tijd."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1300
 msgid "Date (with time)"
-msgstr "Datum (met tijd)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1448
 #, python-format
 msgid "'%(value)s' value must be a decimal number."
-msgstr "'%(value)s' waarde moet een decimaal getal zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1450
 msgid "Decimal number"
-msgstr "Decimaal getal"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1589
 #, python-format
@@ -2037,68 +1801,66 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in [DD] "
 "[HH:[MM:]]ss[.uuuuuu] format."
 msgstr ""
-"'%(value)s' waarde heeft een ongeldige indeling. Het moet in [DD] [UU: "
-"[MM:]] ss [.uuuuuu] formaat zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1592
 msgid "Duration"
-msgstr "Looptijd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1642
 msgid "Email address"
-msgstr "E-mailadres"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1665
 msgid "File path"
-msgstr "Bestandspad"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1731
 #, python-format
 msgid "'%(value)s' value must be a float."
-msgstr "'%(value)s' waarde moet een komma zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1733
 msgid "Floating point number"
-msgstr "Kommagetal"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1862
 msgid "IPv4 address"
-msgstr "IPv4-adres"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1893
 msgid "IP address"
-msgstr "IP adressen"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1973
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1974
 #, python-format
 msgid "'%(value)s' value must be either None, True or False."
-msgstr "'%(value)s' waarde moet ofwel None, True of False zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1976
 msgid "Boolean (Either True, False or None)"
-msgstr "Boolean (Ofwel True, False of None)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2011
 msgid "Positive integer"
-msgstr "Positief integer"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2024
 msgid "Positive small integer"
-msgstr "Positieve kleine integer"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2038
 #, python-format
 msgid "Slug (up to %(max_length)s)"
-msgstr "String (tot %(max_length)s)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2070
 msgid "Small integer"
-msgstr "Kleine integer"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2077
 msgid "Text"
-msgstr "Tekst"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2105
 #, python-format
@@ -2106,8 +1868,6 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
 "format."
 msgstr ""
-"'%(value)s' waarde heeft een ongeldige indeling. Het moet in HH: MM [: ss "
-"[.uuuuuu]] formaat zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2107
 #, python-format
@@ -2115,115 +1875,112 @@ msgid ""
 "'%(value)s' value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
 "invalid time."
 msgstr ""
-"'%(value)s' waarde heeft het juiste formaat (HH: MM [: ss [.uuuuuu]]), maar "
-"het is een ongeldige tijd."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2110
 msgid "Time"
-msgstr "Tijd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2236
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2258
 msgid "Raw binary data"
-msgstr "Ruwe binaire data"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2308
 #, python-format
 msgid "'%(value)s' is not a valid UUID."
-msgstr "'%(value)s' is geen geldige UUID."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2310
 msgid "Universally unique identifier"
-msgstr "Universele unieke identificatie"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/files.py:221
 msgid "File"
-msgstr "het dossier"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/files.py:360
 msgid "Image"
-msgstr "Beeld"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:778
 #, python-format
 msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr "%(model)s bijvoorbeeld met%(field)s %(value)r bestaat niet."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:780
 msgid "Foreign Key (type determined by related field)"
-msgstr "Foreign Key (type bepaald door gerelateerd veld)"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1007
 msgid "One-to-one relationship"
-msgstr "Eén-op-één relatie"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1057
 #, python-format
 msgid "%(from)s-%(to)s relationship"
-msgstr "%(from)s -%(to)s relatie"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1058
 #, python-format
 msgid "%(from)s-%(to)s relationships"
-msgstr "%(from)s -%(to)s relaties"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1100
 msgid "Many-to-many relationship"
-msgstr "Veel-op-veel-relaties"
+msgstr ""
 
 #. Translators: If found as last label character, these punctuation
 #. characters will prevent the default label_suffix to be appended to the
 #. label
 #: venv/lib/python3.6/site-packages/django/forms/boundfield.py:146
 msgid ":?.!"
-msgstr ":?.!"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:53
 msgid "This field is required."
-msgstr "Dit veld is verplicht."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:245
 msgid "Enter a whole number."
-msgstr "Voer een geheel getal in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:396
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:1126
 msgid "Enter a valid date."
-msgstr "Voer een geldige datum in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:420
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:1127
 msgid "Enter a valid time."
-msgstr "Voer een geldige tijd in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:442
 msgid "Enter a valid date/time."
-msgstr "Voer een geldige datum / tijd in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:471
 msgid "Enter a valid duration."
-msgstr "Voer een geldige duur in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:472
 #, python-brace-format
 msgid "The number of days must be between {min_days} and {max_days}."
-msgstr "Het aantal dagen moet tussen {min_days} en {max_days} liggen."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:532
 msgid "No file was submitted. Check the encoding type on the form."
 msgstr ""
-"Geen bestand is ingediend. Controleer het type codering op het formulier."
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:533
 msgid "No file was submitted."
-msgstr "Geen bestand is ingediend."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:534
 msgid "The submitted file is empty."
-msgstr "Het ingediende dossier is leeg."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:536
 #, python-format
@@ -2232,17 +1989,11 @@ msgid ""
 msgid_plural ""
 "Ensure this filename has at most %(max)d characters (it has %(length)d)."
 msgstr[0] ""
-"Zorg ervoor dat deze bestandsnaam maximaal %(max)d karakters heeft (het "
-"heeft %(length)d)"
 msgstr[1] ""
-"Zorg ervoor dat deze bestandsnaam maximaal %(max)d karakters heeft (het "
-"heeft %(length)d)"
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:539
 msgid "Please either submit a file or check the clear checkbox, not both."
 msgstr ""
-"Gelieve ofwel een dossier in te dienen of kijk op de duidelijke checkbox, "
-"niet beide."
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:600
 #: venv/lib/python3.6/site-packages/sorl/thumbnail/fields.py:45
@@ -2250,8 +2001,6 @@ msgid ""
 "Upload a valid image. The file you uploaded was either not an image or a "
 "corrupted image."
 msgstr ""
-"Upload een geldige afbeelding. Het bestand dat je hebt geüpload was ofwel "
-"niet een afbeelding of een beschadigde afbeelding."
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:762
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:852
@@ -2259,69 +2008,67 @@ msgstr ""
 #, python-format
 msgid "Select a valid choice. %(value)s is not one of the available choices."
 msgstr ""
-"Selecteer een geldige keuze. %(value)s is niet een van de beschikbare "
-"keuzes."
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:853
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:968
 #: venv/lib/python3.6/site-packages/django/forms/models.py:1269
 msgid "Enter a list of values."
-msgstr "Voer een lijst met waarden in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:969
 msgid "Enter a complete value."
-msgstr "Voer een volledige waarde in."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:1185
 msgid "Enter a valid UUID."
-msgstr "Voer een geldige UUID in."
+msgstr ""
 
 #. Translators: This is the default suffix added to form field labels
 #: venv/lib/python3.6/site-packages/django/forms/forms.py:86
 msgid ":"
-msgstr ":"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/forms.py:212
 #, python-format
 msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Verborgen veld%(name)s)%(error)s"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:91
 msgid "ManagementForm data is missing or has been tampered with"
-msgstr "ManagementForm data ontbreekt of er is mee geknoeid"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:338
 #, python-format
 msgid "Please submit %d or fewer forms."
 msgid_plural "Please submit %d or fewer forms."
-msgstr[0] "Stuur alstublieft %d of minder formulieren in"
-msgstr[1] "Stuur alstublieft %d of minder formulieren in"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:345
 #, python-format
 msgid "Please submit %d or more forms."
 msgid_plural "Please submit %d or more forms."
-msgstr[0] "Stuur alstublieft %d of meer formulieren in"
-msgstr[1] "Stuur alstublieft %d of meer formulieren in"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:371
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:373
 msgid "Order"
-msgstr "Bestellen"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:375
 msgid "Delete"
-msgstr "Verwijderen"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:751
 #, python-format
 msgid "Please correct the duplicate data for %(field)s."
-msgstr "Corrigeer de dubbele gegevens voor %(field)s."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:755
 #, python-format
 msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "Corrigeer de dubbele gegevens voor %(field)s, welke uniek moet zijn."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:761
 #, python-format
@@ -2329,28 +2076,24 @@ msgid ""
 "Please correct the duplicate data for %(field_name)s which must be unique "
 "for the %(lookup)s in %(date_field)s."
 msgstr ""
-"Corrigeer de dubbele gegevens voor%(field_name)s die uniek is voor de "
-"%(lookup)s in%(date_field)s."
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:770
 msgid "Please correct the duplicate values below."
-msgstr "Corrigeer de dubbele waarden hieronder."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:1091
 msgid "The inline value did not match the parent instance."
-msgstr "De inline waarde komen niet overeen met de bovenliggende instantie."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:1158
 msgid ""
 "Select a valid choice. That choice is not one of the available choices."
 msgstr ""
-"Selecteer een geldige keuze. Die keuze is niet een van de beschikbare "
-"keuzes."
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:1272
 #, python-format
 msgid "\"%(pk)s\" is not a valid value."
-msgstr "\"%(pk)s\" is geen geldige waarde."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/utils.py:162
 #, python-format
@@ -2358,439 +2101,437 @@ msgid ""
 "%(datetime)s couldn't be interpreted in time zone %(current_timezone)s; it "
 "may be ambiguous or it may not exist."
 msgstr ""
-"%(datetime)s kon niet worden uitgelegd in de tijdzone %(current_timezone)s; "
-"het kan dubbelzinnig zijn of het kan niet bestaan."
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:395
 msgid "Clear"
-msgstr "Doorzichtig"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:396
 msgid "Currently"
-msgstr "Momenteel"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:397
 msgid "Change"
-msgstr "Verandering"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:711
 msgid "Unknown"
-msgstr "Onbekend"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:712
 msgid "Yes"
-msgstr "Ja"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:713
 msgid "No"
-msgstr "Nee"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:788
 msgid "yes,no,maybe"
-msgstr "Ja,Nee,Misschien"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:817
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:834
 #, python-format
 msgid "%(size)d byte"
 msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d byte"
-msgstr[1] "%(size)d bytes"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:836
 #, python-format
 msgid "%s KB"
-msgstr "%s KB"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:838
 #, python-format
 msgid "%s MB"
-msgstr "%s MB"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:840
 #, python-format
 msgid "%s GB"
-msgstr "%s GB"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:842
 #, python-format
 msgid "%s TB"
-msgstr "%s TB"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/template/defaultfilters.py:844
 #, python-format
 msgid "%s PB"
-msgstr "%s PB"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dateformat.py:62
 msgid "p.m."
-msgstr "p.m."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dateformat.py:63
 msgid "a.m."
-msgstr "a.m."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dateformat.py:68
 msgid "PM"
-msgstr "P.M"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dateformat.py:69
 msgid "AM"
-msgstr "AM"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dateformat.py:150
 msgid "midnight"
-msgstr "middernacht"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dateformat.py:152
 msgid "noon"
-msgstr "middag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:6
 msgid "Monday"
-msgstr "maandag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:6
 msgid "Tuesday"
-msgstr "dinsdag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:6
 msgid "Wednesday"
-msgstr "woensdag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:6
 msgid "Thursday"
-msgstr "donderdag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:6
 msgid "Friday"
-msgstr "vrijdag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:7
 msgid "Saturday"
-msgstr "zaterdag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:7
 msgid "Sunday"
-msgstr "zondag"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:10
 msgid "Mon"
-msgstr "Ma"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:10
 msgid "Tue"
-msgstr "Di"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:10
 msgid "Wed"
-msgstr "Wo"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:10
 msgid "Thu"
-msgstr "Do"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:10
 msgid "Fri"
-msgstr "Vr"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:11
 msgid "Sat"
-msgstr "Za"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:11
 msgid "Sun"
-msgstr "Zo"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:14
 msgid "January"
-msgstr "Januari"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:14
 msgid "February"
-msgstr "Februari"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:14
 msgid "March"
-msgstr "Maart"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:14
 msgid "April"
-msgstr "April"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:14
 msgid "May"
-msgstr "Mei"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:14
 msgid "June"
-msgstr "Juni"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:15
 msgid "July"
-msgstr "Juli"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:15
 msgid "August"
-msgstr "Augustus"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:15
 msgid "September"
-msgstr "September"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:15
 msgid "October"
-msgstr "Oktober"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:15
 msgid "November"
-msgstr "November"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:16
 msgid "December"
-msgstr "December"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:19
 msgid "jan"
-msgstr "jan"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:19
 msgid "feb"
-msgstr "feb"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:19
 msgid "mar"
-msgstr "mar"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:19
 msgid "apr"
-msgstr "apr"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:19
 msgid "may"
-msgstr "mei"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:19
 msgid "jun"
-msgstr "jun"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:20
 msgid "jul"
-msgstr "jul"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:20
 msgid "aug"
-msgstr "aug"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:20
 msgid "sep"
-msgstr "sep"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:20
 msgid "oct"
-msgstr "okt"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:20
 msgid "nov"
-msgstr "nov"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:20
 msgid "dec"
-msgstr "dec"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:23
 msgctxt "abbrev. month"
 msgid "Jan."
-msgstr "Jan."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:24
 msgctxt "abbrev. month"
 msgid "Feb."
-msgstr "Feb."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:25
 msgctxt "abbrev. month"
 msgid "March"
-msgstr "Maart"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:26
 msgctxt "abbrev. month"
 msgid "April"
-msgstr "April"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:27
 msgctxt "abbrev. month"
 msgid "May"
-msgstr "Mei"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:28
 msgctxt "abbrev. month"
 msgid "June"
-msgstr "Juni"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:29
 msgctxt "abbrev. month"
 msgid "July"
-msgstr "Juli"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:30
 msgctxt "abbrev. month"
 msgid "Aug."
-msgstr "Aug."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:31
 msgctxt "abbrev. month"
 msgid "Sept."
-msgstr "Sept."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:32
 msgctxt "abbrev. month"
 msgid "Oct."
-msgstr "Okt."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:33
 msgctxt "abbrev. month"
 msgid "Nov."
-msgstr "Nov."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:34
 msgctxt "abbrev. month"
 msgid "Dec."
-msgstr "Dec."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:37
 msgctxt "alt. month"
 msgid "January"
-msgstr "Januari"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:38
 msgctxt "alt. month"
 msgid "February"
-msgstr "Februari"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:39
 msgctxt "alt. month"
 msgid "March"
-msgstr "Maart"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:40
 msgctxt "alt. month"
 msgid "April"
-msgstr "April"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:41
 msgctxt "alt. month"
 msgid "May"
-msgstr "Mei"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:42
 msgctxt "alt. month"
 msgid "June"
-msgstr "Juni"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:43
 msgctxt "alt. month"
 msgid "July"
-msgstr "Juli"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:44
 msgctxt "alt. month"
 msgid "August"
-msgstr "Augustus"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:45
 msgctxt "alt. month"
 msgid "September"
-msgstr "September"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:46
 msgctxt "alt. month"
 msgid "October"
-msgstr "Oktober"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:47
 msgctxt "alt. month"
 msgid "November"
-msgstr "November"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/dates.py:48
 msgctxt "alt. month"
 msgid "December"
-msgstr "December"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/ipv6.py:8
 msgid "This is not a valid IPv6 address."
-msgstr "Dit is geen geldig IPv6-adres."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/text.py:67
 #, python-format
 msgctxt "String to return when truncating text"
 msgid "%(truncated_text)s…"
-msgstr "%(truncated_text)s ..."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/text.py:233
 msgid "or"
-msgstr "of"
+msgstr ""
 
 #. Translators: This string is used as a separator between list elements
 #: venv/lib/python3.6/site-packages/django/utils/text.py:252
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:83
 msgid ", "
-msgstr ","
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:9
 #, python-format
 msgid "%d year"
 msgid_plural "%d years"
-msgstr[0] "%d jaar"
-msgstr[1] "%d jaren"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:10
 #, python-format
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] "%d maand"
-msgstr[1] "%d maanden"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:11
 #, python-format
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] "%d week"
-msgstr[1] "%d weken"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:12
 #, python-format
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] "%d dag"
-msgstr[1] "%d dagen"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:13
 #, python-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] "%d uur"
-msgstr[1] "%d uren"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:14
 #, python-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] "%d minuut"
-msgstr[1] "%d minuten"
+msgstr[0] ""
+msgstr[1] ""
 
 #: venv/lib/python3.6/site-packages/django/utils/timesince.py:72
 msgid "0 minutes"
-msgstr "0 minuten"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:110
 msgid "Forbidden"
-msgstr "Verboden"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:111
 msgid "CSRF verification failed. Request aborted."
-msgstr "CSRF is mislukt. Verzoek afgebroken."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:115
 msgid ""
@@ -2799,10 +2540,6 @@ msgid ""
 "required for security reasons, to ensure that your browser is not being "
 "hijacked by third parties."
 msgstr ""
-"U ziet dit bericht omdat deze HTTPS site vereist een 'Referer header' te "
-"worden gestuurd door uw webbrowser, maar niemand werd gestuurd. Deze header "
-"is vereist om veiligheidsredenen, om ervoor te zorgen dat uw browser niet "
-"wordt gekaapt door derden."
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:120
 msgid ""
@@ -2810,9 +2547,6 @@ msgid ""
 "enable them, at least for this site, or for HTTPS connections, or for 'same-"
 "origin' requests."
 msgstr ""
-"Als u uw browser uit te schakelen 'refer' headers hebt geconfigureerd, kunt "
-"u deze weer inschakelen, in ieder geval voor deze website, of voor HTTPS-"
-"verbindingen, of voor 'same-oorsprong' verzoeken."
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:124
 msgid ""
@@ -2822,12 +2556,6 @@ msgid ""
 "checking. If you're concerned about privacy, use alternatives like <a "
 "rel=\"noreferrer\" ...> for links to third-party sites."
 msgstr ""
-"Als u gebruik maakt van de <meta name = \"referrer\" content = \"no-"
-"referrer\"> tag of met inbegrip van de 'Referrer-beleid: no-referrer' "
-"header, kunt u ze te verwijderen. De bescherming CSRF vereist de 'Referer' "
-"header aan strenge referer controle te doen. Als u zich zorgen over privacy "
-"hebt, gebruik dan alternatieven zoals <a rel=\"noreferrer\" ...> voor links "
-"naar sites van derden."
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:132
 msgid ""
@@ -2835,50 +2563,44 @@ msgid ""
 "submitting forms. This cookie is required for security reasons, to ensure "
 "that your browser is not being hijacked by third parties."
 msgstr ""
-"U ziet dit bericht omdat deze site vereist een CSRF koekje bij het indienen "
-"van formulieren. Deze cookie is nodig om veiligheidsredenen, om ervoor te "
-"zorgen dat uw browser niet wordt gekaapt door derden."
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:137
 msgid ""
 "If you have configured your browser to disable cookies, please re-enable "
 "them, at least for this site, or for 'same-origin' requests."
 msgstr ""
-"Als u uw browser hebt ingesteld om cookies uit te schakelen, dan kunt u deze"
-" weer inschakelen, in ieder geval voor deze website, of voor 'same-"
-"oorsprong' verzoeken."
 
 #: venv/lib/python3.6/site-packages/django/views/csrf.py:142
 msgid "More information is available with DEBUG=True."
-msgstr "Meer informatie is beschikbaar met DEBUG = True."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:41
 msgid "No year specified"
-msgstr "Geen jaar gespecificeerd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:61
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:111
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:208
 msgid "Date out of range"
-msgstr "Datum buiten bereik"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:90
 msgid "No month specified"
-msgstr "Geen maand gespecificeerd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:142
 msgid "No day specified"
-msgstr "Geen dag gespecificeerd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:188
 msgid "No week specified"
-msgstr "Geen week gespecificeerd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:338
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:367
 #, python-format
 msgid "No %(verbose_name_plural)s available"
-msgstr "Geen %(verbose_name_plural)s beschikbaar"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:589
 #, python-format
@@ -2886,50 +2608,48 @@ msgid ""
 "Future %(verbose_name_plural)s not available because "
 "%(class_name)s.allow_future is False."
 msgstr ""
-"Toekomstig %(verbose_name_plural)s is niet beschikbaar omdat "
-"%(class_name)s.allow_future is False."
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:623
 #, python-format
 msgid "Invalid date string '%(datestr)s' given format '%(format)s'"
-msgstr "Ongeldige datum string '%(datestr)s' gegeven format '%(format)s'"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/detail.py:54
 #, python-format
 msgid "No %(verbose_name)s found matching the query"
-msgstr "Geen %(verbose_name)s gevonden met zoekopdracht"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/list.py:67
 msgid "Page is not 'last', nor can it be converted to an int."
-msgstr "Pagina is niet 'laatste', noch kan het worden omgezet naar een int."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/list.py:72
 #, python-format
 msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Ongeldige pagina (%(page_number)s): %(message)s"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/generic/list.py:154
 #, python-format
 msgid "Empty list and '%(class_name)s.allow_empty' is False."
-msgstr "Lege lijst en '%(class_name)s.allow_empty' is False."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/static.py:40
 msgid "Directory indexes are not allowed here."
-msgstr "Directory indexen zijn hier niet toegestaan."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/static.py:42
 #, python-format
 msgid "\"%(path)s\" does not exist"
-msgstr "\"%(path)s\" bestaat niet"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/static.py:80
 #, python-format
 msgid "Index of %(directory)s"
-msgstr "Index van%(directory)s"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:6
 msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr "Django: het Web frame voor perfectionisten met deadlines."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:345
 #, python-format
@@ -2937,13 +2657,10 @@ msgid ""
 "View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
 "target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
 msgstr ""
-"Bekijk <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\"> release notes </a> voor "
-"Django%(version)s"
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:367
 msgid "The install worked successfully! Congratulations!"
-msgstr "De installatie met succes gewerkt! Gefeliciteerd!"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:368
 #, python-format
@@ -2953,62 +2670,58 @@ msgid ""
 "target=\"_blank\" rel=\"noopener\">DEBUG=True</a> is in your settings file "
 "and you have not configured any URLs."
 msgstr ""
-"U ziet deze pagina omdat <a "
-"href=\"https://docs.djangoproject.com/en/%(version)s/ref/settings/#debug\" "
-"target=\"_blank\" rel=\"noopener\"> DEBUG = True </a> is in uw bestand "
-"instellingen en je hebt geen URL's geconfigureerd."
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:383
 msgid "Django Documentation"
-msgstr "Django Documentatie"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:384
 msgid "Topics, references, &amp; how-to's"
-msgstr "Onderwerpen, referenties & howto's"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:395
 msgid "Tutorial: A Polling App"
-msgstr "Tutorial: Een Polling App"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:396
 msgid "Get started with Django"
-msgstr "Aan de slag met Django"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:407
 msgid "Django Community"
-msgstr "Django Community"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:408
 msgid "Connect, get help, or contribute"
-msgstr "Connect, hulp te krijgen, of een bijdrage leveren"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/froala_editor/views.py:30
 msgid "You can only upload images."
-msgstr "U kunt alleen afbeeldingen uploaden."
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/nullablecharfield/widgets.py:33
 msgid "Not specified"
-msgstr "Niet gespecificeerd"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/tests/test_base.py:22
 msgid "COOKIE_INFO_HEADER"
-msgstr "COOKIE_INFO_HEADER"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/tests/test_base.py:23
 msgid "COOKIE_INFO_PARA"
-msgstr "COOKIE_INFO_PARA"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/tests/test_base.py:24
 msgid "COOKIE_INFO_OK"
-msgstr "COOKIE_INFO_OK"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/url_or_relative_url_field/fields.py:9
 msgid "URL or path"
-msgstr "URL of pad"
+msgstr ""
 
 #: venv/lib/python3.6/site-packages/vinaigrette/management/commands/makemessages.py:147
 msgid "Obsolete translation kept alive with Viniagrette"
-msgstr "Verouderde vertaling in leven gehouden met Vinaigrette"
+msgstr ""
 
 #: commandments_app.Commandment/title:1
 msgid "Repent and believe the gospel"
@@ -3052,13 +2765,23 @@ msgstr ""
 "\n"
 "<p><b><i>Heb jij berouw van jouw zonden en geloof jij het evangelie?</b></i></p>"
 
+#: commandments_app.Commandment/quote:1
+msgid "God’s love is so real that He created you to prove it."
+msgstr ""
+
 #: commandments_app.Commandment/title:2
 msgid "Get baptized"
 msgstr "Laat je dopen"
 
 #: commandments_app.Commandment/title:3
-msgid "Follow Me"
-msgstr "Volg Mij"
+msgid "Volg Mij"
+msgstr ""
+
+#: commandments_app.Commandment/quote:3
+msgid ""
+"Your father brought you in this world, but Rabbi Jesus will bring you in the"
+" future world"
+msgstr ""
 
 #: commandments_app.Commandment/title:4
 msgid "Bring forth therefore fruits meet for repentance"
@@ -3066,7 +2789,7 @@ msgstr "Breng dan vruchten voort in overeenstemming met de bekering"
 
 #: commandments_app.Commandment/title_negative:4
 msgid "He cuts off every branch in me that bears no fruit"
-msgstr "Hij snijdt elke rank die in Mij geen vrucht draagt"
+msgstr ""
 
 #: commandments_app.Commandment/devotional:4
 msgid ""
@@ -3082,7 +2805,11 @@ msgstr "De Heere, uw God, zult u aanbidden en Hem alleen dienen."
 
 #: commandments_app.Commandment/title_negative:5
 msgid "No servant can serve two masters"
-msgstr "Geen huisknecht kan twee heren dienen"
+msgstr ""
+
+#: commandments_app.Commandment/quote:5
+msgid "Words which do not give the light of Christ increase the darkness"
+msgstr ""
 
 #: commandments_app.Commandment/title:6
 msgid ""
@@ -3094,11 +2821,11 @@ msgstr ""
 
 #: commandments_app.Commandment/title:7
 msgid "The sabbath was made for man"
-msgstr "De sabbat is gemaakt ter wille van de mens"
+msgstr ""
 
 #: commandments_app.Commandment/title_negative:7
 msgid "And not man for the sabbath"
-msgstr "En niet de mens om de sabbat"
+msgstr ""
 
 #: commandments_app.Commandment/title:8
 msgid "Go ye into all the world, and preach the gospel to every creature"
@@ -3118,6 +2845,11 @@ msgstr ""
 "\n"
 "<p>God stelde de vraag: \"Toen hoorde ik de stem van de Heer zeggen:\" Wie zal ik zenden? \" En wie zal voor ons gaan? ’En ik zei:\" Hier ben ik. Zend mij! \"Hij zei:\" Ga dit volk vertellen \". (Jes 6: 8-9). Werd dit alleen geschreven om de moed van Jesaja te waarderen, of was het een glimp van de eeuwige hemelse kwestie? God vraagt: \"Wie bekommert zich om onze agenda om de wereld over Jezus te vertellen?\" </p>"
 
+#: commandments_app.Commandment/quote:8
+msgid ""
+"It is no use walking anywhere to preach unless our walking is our preaching"
+msgstr ""
+
 #: commandments_app.Commandment/title:9
 msgid "Blessed are the poor in spirit, for theirs is the kingdom of heaven"
 msgstr ""
@@ -3125,7 +2857,11 @@ msgstr ""
 
 #: commandments_app.Commandment/title_negative:9
 msgid "Don’t rely on your own strenght"
-msgstr "Vertrouw niet op eigen kracht"
+msgstr ""
+
+#: commandments_app.Commandment/quote:9
+msgid "Your successful past will block your visions of the future"
+msgstr ""
 
 #: commandments_app.Commandment/title:10
 msgid "Blessed are they that mourn: for they shall be comforted"
@@ -3148,13 +2884,19 @@ msgid "Blessed are the merciful: for they shall obtain mercy"
 msgstr ""
 "Zalig zijn de barmhartigen, want aan hen zal barmhartigheid bewezen worden"
 
+#: commandments_app.Commandment/quote:13
+msgid ""
+"Start by doing what is necessary; then do what’s possible; and suddenly you "
+"are doing the impossible"
+msgstr ""
+
 #: commandments_app.Commandment/title:14
 msgid "Blessed are the pure in heart: for they shall see God"
 msgstr "Zalig zijn de reinen van hart, want zij zullen God zien"
 
 #: commandments_app.Commandment/title_negative:14
 msgid "Go, and sin no more"
-msgstr "Ga heen, en zondig niet meer"
+msgstr ""
 
 #: commandments_app.Commandment/devotional:14
 msgid ""
@@ -3186,6 +2928,12 @@ msgstr ""
 "\n"
 "<p>In alle situaties in mijn leven moet ik keuzes maken, hoe ik reageer op andere mensen, wat ik doe in mijn vrije tijd, welke gedachten mogen mijn geest in beslag  nemen. Gehoorzamen aan Gods woord geeft mij richting in mijn leven en helpt mij om de juiste keuzes te maken in alle situaties die ik tegenkom.</p>"
 
+#: commandments_app.Commandment/quote:14
+msgid ""
+"While you are proclaiming peace with your lips, be careful to have it even "
+"more fully in your heart"
+msgstr ""
+
 #: commandments_app.Commandment/title:15
 msgid ""
 "Blessed are the peacemakers: for they shall be called the children of God"
@@ -3200,13 +2948,27 @@ msgstr ""
 "Zalig zijn zij die vervolgd worden om de gerechtigheid, want van hen is het "
 "Koninkrijk der hemelen"
 
+#: commandments_app.Commandment/quote:16
+msgid "The greater the struggle, the more glorious the triumph"
+msgstr ""
+
 #: commandments_app.Commandment/title:17
 msgid "Rejoice, and be exceeding glad: for great is your reward in heaven"
 msgstr "Verblijd en verheug u, want uw loon is groot in de hemelen"
 
+#: commandments_app.Commandment/quote:17
+msgid ""
+"Joy is a good feeling in the sool, produced by the holy spirit, as he causes"
+" us to see the beauty of Christ, in His Word and in His work"
+msgstr ""
+
 #: commandments_app.Commandment/title:18
 msgid "Have salt in yourselves, and have peace one with another"
 msgstr "Heb zout in uzelf en leef met elkaar in vrede"
+
+#: commandments_app.Commandment/quote:18
+msgid "Love is a fruit in season at all times, and within reach of every hand"
+msgstr ""
 
 #: commandments_app.Commandment/title:19
 msgid ""
@@ -3215,6 +2977,10 @@ msgid ""
 msgstr ""
 "Laat uw licht zo schijnen voor de mensen, dat zij uw goede werken zien en uw"
 " Vader, Die in de hemelen is, verheerlijken"
+
+#: commandments_app.Commandment/quote:19
+msgid "A single sunbeam is enough to drive away many shadows"
+msgstr ""
 
 #: commandments_app.Commandment/title:20
 msgid ""
@@ -3226,7 +2992,7 @@ msgstr ""
 
 #: commandments_app.Commandment/title_negative:20
 msgid "Do not set aside one of the least of these commands"
-msgstr "Niet gereserveerd een van de minst van deze commando's"
+msgstr ""
 
 #: commandments_app.Commandment/devotional:20
 msgid ""
@@ -3238,6 +3004,10 @@ msgstr ""
 "\n"
 "<p><b><i>“Wat mij betreft heb ik niets van blijvende waarde tegen u te zeggen. maar God wel.”</i></b></p>"
 
+#: commandments_app.Commandment/quote:20
+msgid "Command what you will, and give what you command"
+msgstr ""
+
 #: commandments_app.Commandment/title:21
 msgid ""
 "Don’t be angry at your brother without a cause. If you will be, reconcile as"
@@ -3248,11 +3018,19 @@ msgstr ""
 
 #: commandments_app.Commandment/title_negative:21
 msgid "Let not the sun go down upon your wrath"
-msgstr "Laat de zon niet ondergaan over uw toorn"
+msgstr ""
+
+#: commandments_app.Commandment/quote:21
+msgid "A gentle answer turns away wrath, but a harsh word stirs up anger"
+msgstr ""
 
 #: commandments_app.Commandment/title:22
 msgid "Eliminate any cause of temptation"
 msgstr "Voorkom elke oorzaak van verleiding"
+
+#: commandments_app.Commandment/quote:22
+msgid "This book will keep you from sin, or sin will keep you from this book"
+msgstr ""
 
 #: commandments_app.Commandment/title:23
 msgid "Honor marriage"
@@ -3260,7 +3038,7 @@ msgstr "Houdt het huwelijk in ere"
 
 #: commandments_app.Commandment/title_negative:23
 msgid "Do not look lustfully to a woman"
-msgstr "Niet lustfully kijken naar een vrouw"
+msgstr ""
 
 #: commandments_app.Commandment/devotional:23
 msgid ""
@@ -3281,7 +3059,13 @@ msgstr "Doe wat je zegt"
 
 #: commandments_app.Commandment/title_negative:24
 msgid "Don’t act different from what you speak"
-msgstr "Niet anders dan wat je spreken handelen"
+msgstr ""
+
+#: commandments_app.Commandment/quote:24
+msgid ""
+"What you think influences what you speak and what you speak influences what "
+"you do"
+msgstr ""
 
 #: commandments_app.Commandment/title:25
 msgid ""
@@ -3290,7 +3074,7 @@ msgstr "Wie u op de rechterwang slaat, keer hem ook de andere toe"
 
 #: commandments_app.Commandment/title_negative:25
 msgid "Do not resist evil"
-msgstr "Laat het kwaad niet weerstaan"
+msgstr ""
 
 #: commandments_app.Commandment/title:26
 msgid "Share goods with the needy"
@@ -3298,7 +3082,11 @@ msgstr "Deel wat je hebt met hen die het nodig hebben"
 
 #: commandments_app.Commandment/title_negative:26
 msgid "If anyone takes what belongs to you, do not demand it back"
-msgstr "Als iemand neemt wat van u is, eisen niet terug"
+msgstr ""
+
+#: commandments_app.Commandment/quote:26
+msgid "For it is in giving that we receive"
+msgstr ""
 
 #: commandments_app.Commandment/title:27
 msgid ""
@@ -3310,7 +3098,13 @@ msgstr ""
 
 #: commandments_app.Commandment/title_negative:27
 msgid "Do not say, I’ll do to them as they have done to me"
-msgstr "Zeg niet, ik zal doen om hen als zij gedaan hebben om me"
+msgstr ""
+
+#: commandments_app.Commandment/quote:27
+msgid ""
+"Lord, make me an instrument of thy peace. Where there is hatred, let me sow "
+"love"
+msgstr ""
 
 #: commandments_app.Commandment/title:28
 msgid ""
@@ -3318,13 +3112,21 @@ msgid ""
 msgstr ""
 "Weest u dan volmaakt, zoals uw Vader, Die in de hemelen is, volmaakt is"
 
+#: commandments_app.Commandment/quote:28
+msgid ""
+"Vision without action is merely a dream. Action without vision just passes "
+"the time. Vision with action can change the world."
+msgstr ""
+
 #: commandments_app.Commandment/title:29
 msgid "He that humbleth himself shall be exalted"
-msgstr "Wie zichzelf vernedert, zal verhoogd worden"
+msgstr ""
+"De belangrijkste van u zal uw dienaar zijn en wie zichzelf vernedert, zal "
+"verhoogd worden"
 
 #: commandments_app.Commandment/title_negative:29
 msgid "For whosoever exalteth himself shall be abased"
-msgstr "Want wie zichzelf verhoogt, zal vernederd worden"
+msgstr ""
 
 #: commandments_app.Commandment/title:30
 msgid "Be generous (and fasten and pray) in secret"
@@ -3334,6 +3136,12 @@ msgstr "Wees vrijgevig (en vast en bid) in het verborgene"
 msgid "Pray in faith according to the wil of the Father"
 msgstr "Bid in geloof naar de wil van de Vader"
 
+#: commandments_app.Commandment/quote:31
+msgid ""
+"Those who say, 'It can't be done,' are usually interrupted by others doing "
+"it."
+msgstr ""
+
 #: commandments_app.Commandment/title:32
 msgid ""
 "If ye forgive men their trespasses, your heavenly Father will also forgive "
@@ -3342,13 +3150,26 @@ msgstr ""
 "Als u de mensen hun overtredingen vergeeft, zal uw hemelse Vader u ook "
 "vergeven"
 
+#: commandments_app.Commandment/quote:32
+msgid "Forgiveness is not an emotion. It is an act of the will."
+msgstr ""
+
 #: commandments_app.Commandment/title:33
 msgid "Fast regularly"
 msgstr "Vast regelmatig"
 
+#: commandments_app.Commandment/quote:33
+msgid "Physical obedience brings spiritual release"
+msgstr ""
+
 #: commandments_app.Commandment/title:34
 msgid "Lay up for yourselves treasures in heaven"
 msgstr "Verzamel schatten voor u in de hemel"
+
+#: commandments_app.Commandment/quote:34
+msgid ""
+"If you keep doing what you did, you will keep getting what you always got"
+msgstr ""
 
 #: commandments_app.Commandment/title:35
 msgid ""
@@ -3360,7 +3181,7 @@ msgstr ""
 
 #: commandments_app.Commandment/title_negative:35
 msgid "Do not worry about your life"
-msgstr "Maak je geen zorgen over uw leven"
+msgstr ""
 
 #: commandments_app.Commandment/title:36
 msgid ""
@@ -3372,7 +3193,7 @@ msgstr ""
 
 #: commandments_app.Commandment/title_negative:36
 msgid "Do not judge, or you too will be judged"
-msgstr "Oordeel niet, of je zal ook worden beoordeeld"
+msgstr ""
 
 #: commandments_app.Commandment/title:37
 msgid "Seek, and ye shall find"
@@ -3415,8 +3236,14 @@ msgid ""
 msgstr "Alles dan wat u wilt dat de mensen u doen, doet u hun ook zo"
 
 #: commandments_app.Commandment/title:40
-msgid "Strive to enter in at the strait gate"
-msgstr "Strijd om binnen te gaan door de nauwe poort"
+msgid "Strijd om binnen te gaan door de nauwe poort"
+msgstr ""
+
+#: commandments_app.Commandment/quote:40
+msgid ""
+"if I fail, I try again, and again, and again if you fail are you going to "
+"try again?"
+msgstr ""
 
 #: commandments_app.Commandment/title:41
 msgid "Beware of false prophets"
@@ -3424,11 +3251,17 @@ msgstr "Wees op uw hoede voor de valse profeten"
 
 #: commandments_app.Commandment/title_negative:41
 msgid "Dear friends, do not believe every spirit"
-msgstr "Beste vrienden, gelooft niet iedere geest"
+msgstr ""
 
 #: commandments_app.Commandment/title:42
 msgid "Listen to Jesus, understand and obey"
 msgstr "Luister naar Jezus, begrijp en gehoorzaam"
+
+#: commandments_app.Commandment/quote:42
+msgid ""
+"When a man listens, God speaks. If a man obeys, God acts. When a man prays, "
+"God gives strength."
+msgstr ""
 
 #: commandments_app.Commandment/title:43
 msgid "Be of good cheer"
@@ -3436,7 +3269,11 @@ msgstr "Heb goede moed"
 
 #: commandments_app.Commandment/title_negative:43
 msgid "Be not afraid"
-msgstr "Wees niet bang"
+msgstr ""
+
+#: commandments_app.Commandment/quote:43
+msgid "Courage is when you overcome fear"
+msgstr ""
 
 #: commandments_app.Commandment/title:44
 msgid "Be moved with inner compassion with the people around you"
@@ -3448,7 +3285,7 @@ msgstr "Wees bedachtzaam als de slangen en oprecht als de duiven"
 
 #: commandments_app.Commandment/title_negative:45
 msgid "Do not throw your pearls to pigs"
-msgstr "Gooi uw paarlen voor varkens"
+msgstr ""
 
 #: commandments_app.Commandment/title:46
 msgid "Fear him, which after he hath killed hath power to cast into hell"
@@ -3461,8 +3298,6 @@ msgid ""
 "Be not afraid of them that kill the body, and after that have no more that "
 "they can do"
 msgstr ""
-"Wees niet bevreesd voor hen die het lichaam doden en daarna niets meer "
-"kunnen doen"
 
 #: commandments_app.Commandment/title:47
 msgid "Tell to people boldly, what Jesus says to you"
@@ -3470,7 +3305,7 @@ msgstr "Vertel mensen stoutmoedig wat Jezus aan jouw zegt"
 
 #: commandments_app.Commandment/title_negative:47
 msgid "Do not be afraid of them"
-msgstr "Wees niet bang van hen"
+msgstr ""
 
 #: commandments_app.Commandment/title:48
 msgid "Love God above all"
@@ -3486,7 +3321,7 @@ msgstr "Ontvang hem die Ik zal zenden"
 
 #: commandments_app.Commandment/title_negative:50
 msgid "It is a sin to despise one’s neighbor"
-msgstr "Het is een zonde om de naaste verachten"
+msgstr ""
 
 #: commandments_app.Commandment/title:51
 msgid "Blessed is he who does not offend Me"
@@ -3506,6 +3341,10 @@ msgid ""
 msgstr ""
 "Neem Mijn juk op u, en leer van Mij dat Ik zachtmoedig ben en nederig van "
 "hart. en u zult rust vinden voor uw ziel"
+
+#: commandments_app.Commandment/quote:53
+msgid "Jesus is the beast of burden that wants to form that team with us"
+msgstr ""
 
 #: commandments_app.Commandment/title:54
 msgid "Calm words are a tree of life"
@@ -3566,6 +3405,10 @@ msgstr "Zalig zijn zij die het Woord van God horen en het bewaren"
 msgid "Take heed, and beware of covetousness"
 msgstr "Kijk uit en wees op uw hoede voor de hebzucht"
 
+#: commandments_app.Commandment/quote:61
+msgid "Not happiness makes grateful, but gratitude makes you happy!"
+msgstr ""
+
 #: commandments_app.Commandment/title:62
 msgid "Look forward to the wedding of the Lamb"
 msgstr "Zie uit naar de bruiloft van het Lam"
@@ -3575,42 +3418,75 @@ msgid "Find the lost sheep"
 msgstr "Zoek de verloren schapen"
 
 #: commandments_app.Commandment/title:64
+msgid "In every thing give thanks"
+msgstr "Dank God onder alle omstandigheden"
+
+#: commandments_app.Commandment/title:65
 msgid "Honour thy father and thy mother"
 msgstr "Eer uw vader en moeder"
 
-#: commandments_app.Commandment/title:65
+#: commandments_app.Commandment/title:66
 msgid "Love thy neighbour as thyself"
 msgstr "U zult uw naaste liefhebben als uzelf"
 
-#: commandments_app.Commandment/title:66
+#: commandments_app.Commandment/quote:66
+msgid ""
+"Spread love everywhere you go. Let no one ever come to you without leaving "
+"happier"
+msgstr ""
+
+#: commandments_app.Commandment/title:67
 msgid "Many that are first shall be last; and the last shall be first"
 msgstr "Veel eersten zullen de laatsten zijn, en veel laatsten de eersten"
 
-#: commandments_app.Commandment/title:67
+#: commandments_app.Commandment/title:68
 msgid "Have faith in God"
 msgstr "Heb geloof in God"
 
-#: commandments_app.Commandment/title:68
-msgid "Thou shalt love the Lord thy God with all thy heart"
-msgstr "En u zult de Heere, uw God, liefhebben met heel uw hart"
+#: commandments_app.Commandment/quote:68
+msgid ""
+"Fear is the glue that keeps you stuck. Faith is the solvent that sets you "
+"free."
+msgstr ""
 
 #: commandments_app.Commandment/title:69
-msgid "Thou shalt love the Lord thy God with all thy soul"
-msgstr "U zult de Here uw God liefhebben met heel uw ziel "
+msgid "Thou shalt love the Lord thy God with all thy heart"
+msgstr ""
+
+#: commandments_app.Commandment/quote:69
+msgid ""
+"Keep thy heart with all diligence; for out of it are the issues of life"
+msgstr ""
 
 #: commandments_app.Commandment/title:70
-msgid "Thou shalt love the Lord thy God with all thy mind"
-msgstr "U zult de Here uw God liefhebben met heel uw verstand"
+msgid "Thou shalt love the Lord thy God with all thy soul"
+msgstr ""
+
+#: commandments_app.Commandment/quote:70
+msgid ""
+"The miracle is not that we do this work, but that we are happy to do it"
+msgstr ""
 
 #: commandments_app.Commandment/title:71
-msgid "Thou shalt love the Lord thy God with all thy strenght"
-msgstr "U zult de Here uw God liefhebben met heel uw kracht"
+msgid "Thou shalt love the Lord thy God with all thy mind"
+msgstr ""
+
+#: commandments_app.Commandment/quote:71
+msgid ""
+"If we just know Him with our minds, we’re not doing anything different than "
+"the devil. The devil is one of the most theological orthodox beings in the "
+"universe. He just hates what he knows about God."
+msgstr ""
 
 #: commandments_app.Commandment/title:72
+msgid "Thou shalt love the Lord thy God with all thy strenght"
+msgstr ""
+
+#: commandments_app.Commandment/title:73
 msgid "Watch therefore for the coming of Jesus"
 msgstr "Wees waakzaam om de komst van Jezus"
 
-#: commandments_app.Commandment/devotional:72
+#: commandments_app.Commandment/devotional:73
 msgid ""
 "<p> In Luke 12:35-40, Jesus begins to gird up your loins and have the lamp burning. He then called on to be vigilant and ready for the arrival of the Son of Man.</p>\n"
 "\n"
@@ -3628,38 +3504,51 @@ msgstr ""
 "\n"
 "<p><i>“Zalig zijn die slaven die de heer bij zijn komst wakend zal vinden.” (Luk 12:37)</i></p>"
 
-#: commandments_app.Commandment/title:73
+#: commandments_app.Commandment/title:74
 msgid "Use your talents to honor the Father"
 msgstr "Gebruik je talenten tot eer van de Vader"
 
-#: commandments_app.Commandment/title:74
+#: commandments_app.Commandment/quote:74
+msgid "One of the greatest diseases is to be nobody to anybody"
+msgstr ""
+
+#: commandments_app.Commandment/title:75
 msgid "Trust that the Spirit will guide you"
 msgstr "Vertrouw erop dat de Heilige Geest je zal leiden"
 
-#: commandments_app.Commandment/title_negative:74
+#: commandments_app.Commandment/title_negative:75
 msgid "Do not worry about what to say"
-msgstr "Wees dan van tevoren niet bezorgd wat u spreken moet"
+msgstr ""
 
-#: commandments_app.Commandment/title:75
+#: commandments_app.Commandment/quote:75
+msgid "Pray, and let God worry."
+msgstr ""
+
+#: commandments_app.Commandment/title:76
 msgid "Celebrate the Lord’s supper in remembrance of Me"
 msgstr "Vier regelmatig het Heilig Avondmaal tot gedachtenis van Jezus"
 
-#: commandments_app.Commandment/title:76
-#, fuzzy
-#| msgid "When thou art converted, strengthen thy brethren"
-msgid "Strengthen thy brethren"
-msgstr "Als u eens tot inkeer gekomen bent, versterk dan uw broeders"
-
 #: commandments_app.Commandment/title:77
+msgid "Strengthen thy brethren"
+msgstr "Versterk uw broeders"
+
+#: commandments_app.Commandment/quote:77
+msgid ""
+"Look for an opportunity to be a Barnabas, an encourager. There are "
+"undoubtedly many people in your path today that need some encouragement. "
+"It’s an important ministry"
+msgstr ""
+
+#: commandments_app.Commandment/title:78
 msgid ""
 "He that abideth in me, and I in him, the same bringeth forth much fruit"
 msgstr "Wie in Mij blijft, en Ik in hem, die draagt veel vrucht"
 
-#: commandments_app.Commandment/title_negative:77
+#: commandments_app.Commandment/title_negative:78
 msgid "For without me ye can do nothing"
-msgstr "Want zonder Mij kunt u niets doen"
+msgstr ""
 
-#: commandments_app.Commandment/devotional:77
+#: commandments_app.Commandment/devotional:78
 msgid ""
 "Please take a moment to read the blog below of John Piper who explains how "
 "to abide in Christ."
@@ -3667,178 +3556,168 @@ msgstr ""
 "Neem even de tijd om de onderstaande blog te lezen van John Piper die "
 "uitlegt hoe je in Christus kunt blijven."
 
-#: commandments_app.Commandment/title:78
+#: commandments_app.Commandment/title:79
 msgid "We are called to glorify the Name of God in Christ Jesus!"
 msgstr ""
 "Wij zijn geroepen om de Naam van God te verheerlijken, in Christus Jezus!"
 
-#: commandments_app.Commandment/title:79
+#: commandments_app.Commandment/quote:79
+msgid ""
+"You can turn your troubles into trust when you choose worship over worry."
+msgstr ""
+
+#: commandments_app.Commandment/title:80
 msgid "Watch ye and pray, lest ye enter into temptation"
 msgstr "Waak allen en bid, opdat u niet in verzoeking komt"
 
-#: commandments_app.Commandment/title:80
-msgid "Feed my sheep"
-msgstr "Hoed Mijn schapen"
-
-#: commandments_app.Commandment/title:81
+#: commandments_app.Commandment/title:82
 msgid ""
-"Go ye therefore, and teach all nations, baptizing them in the name of the "
-"Father, and of the Son, and of the Holy Ghost: Teaching them to observe all "
-"things whatsoever I have commanded you"
-msgstr ""
 "Ga dan heen, onderwijs al de volken, hen dopend in de Naam van de Vader en "
 "van de Zoon en van de Heilige Geest, hun lerend alles wat Ik u geboden heb, "
 "in acht te nemen"
-
-#: commandments_app.Commandment/devotional:81
-msgid ""
-"As Jesus departed the earth, He gave His five hundred disciples in Galilee "
-"this last command. It “means not only to learn, but to become attached to "
-"the teacher and be his follower in doctrine and conduct of life” (Strong’s "
-"Greek Lexicon). It is used once more in the New Testament in Acts 14:21, "
-"“when they had preached the gospel to that city and made many disciples,” "
-"which ties together “preached the gospel” with “make disciples” as their "
-"core ministry."
 msgstr ""
-"Toen Jezus de aarde verliet, gaf Hij zijn vijfhonderd discipelen in Galilea "
-"dit laatste gebod. Het \"betekent niet alleen leren, maar ook gehecht raken "
-"aan de leraar en zijn volgeling zijn in leer en levensgedrag\" (het Griekse "
-"Lexicon van Strong). Het wordt opnieuw gebruikt in het Nieuwe Testament in "
-"Handelingen 14:21, \"toen zij het evangelie tot die stad hadden gepredikt en"
-" vele discipelen hadden gemaakt\", die \"het evangelie predikten\" met "
-"\"discipelen maken\" als hun belangrijkste bediening."
 
-#: commandments_app.Commandment/title:82
+#: commandments_app.Commandment/devotional:82
+msgid ""
+"<p>Toen Jezus de aarde verliet, gaf Hij zijn vijfhonderd discipelen in "
+"Galilea dit laatste gebod. Het &quot;betekent niet alleen leren, maar ook "
+"gehecht raken aan de leraar en zijn volgeling zijn in leer en "
+"levensgedrag&quot; (het Griekse Lexicon van Strong). Het wordt opnieuw "
+"gebruikt in het Nieuwe Testament in Handelingen 14:21, &quot;toen zij het "
+"evangelie tot die stad hadden gepredikt en vele discipelen hadden "
+"gemaakt&quot;, die &quot;het evangelie predikten&quot; met &quot;discipelen "
+"maken&quot; als hun belangrijkste bediening.</p>"
+msgstr ""
+
+#: commandments_app.Commandment/quote:82
+msgid "Quote"
+msgstr ""
+
+#: commandments_app.Commandment/title:83
 msgid "And, lo, I am with you always, even unto the end of the world"
 msgstr ""
 "En zie, ik ben met u, al de dagen, tot aan de voleinding van de wereld"
+
+#: commandments_app.Commandment/quote:83
+msgid ""
+"No matter who you are, no matter what you’re going through, God knows it. He"
+" is with you. He is going to pull you through"
+msgstr ""
 
 #: commandments_app.Question/text:1
 msgid ""
 "With which other christians would you like to walk through all the "
 "commandments?"
-msgstr "Met welke andere christenen zou je door alle geboden willen gaan?"
+msgstr ""
 
 #: commandments_app.Question/text:2
 msgid "Share your testimony!"
-msgstr "Deel je getuigenis!"
+msgstr ""
 
 #: commandments_app.Question/text:3
 msgid ""
 "Are you cold, lukewarm or hot? Do you have an earnestly desire to follow "
 "Jesus to glorify your Father in heaven with your whole life?"
 msgstr ""
-"Ben je koud, lauw of warm? Heb je een oprecht verlangen om Jezus te volgen "
-"en je Vader in de hemel te verheerlijken met je hele leven?"
 
 #: commandments_app.Question/text:5
 msgid "Did you already get baptized?"
-msgstr "Ben jij al gedoopt?"
+msgstr ""
 
 #: commandments_app.Question/text:6
 msgid "Tell each other your testimony why you got baptized"
-msgstr "Vertel elkaar je getuigenis waarom je je hebt laten dopen"
+msgstr ""
 
 #: commandments_app.Question/text:9
 msgid "Do you recognize any fruits in your life?"
-msgstr "Herken je vruchten in je leven?"
+msgstr ""
 
 #: commandments_app.Question/text:10
 msgid "Tell each other how you recognize their fruits"
-msgstr "Vertel elkaar vruchten die je bij de ander ziet"
+msgstr ""
 
 #: commandments_app.Question/text:15
 msgid "Who cares about our agenda for telling the world about Jesus?"
 msgstr ""
-"Wie maakt zich druk over onze agenda  om de wereld over Jezus te vertellen?"
 
 #: commandments_app.Question/text:16
 msgid ""
 "Paul tells his own testimony to defend himself. Have you also shared your "
 "testimony to others to explain the gospel? What was their reaction?"
 msgstr ""
-"Paul vertelt zijn eigen getuigenis om zich te verdedigen. Heb jij ook jouw "
-"getuigenis wel eens gedeeld om het evangelie uit te leggen? Wat was hun "
-"reactie?"
 
 #: commandments_app.Question/text:22
 msgid ""
 "During the day, do you pay attention for people around you who need help?"
-msgstr "Gedurende de dag, let je dan op mensen die hulp nodig hebben?"
+msgstr ""
 
 #: commandments_app.Question/text:23
 msgid "When was the last time you were merciful?"
-msgstr "Wanneer was de laatste keer dat je iemand iets hebt vergeven?"
+msgstr ""
 
 #: commandments_app.Question/text:25
 msgid "Ask others, what kind of sins do they see with you?"
-msgstr "Vraag anderen, wat voor soort zonden zien zij bij jou?"
+msgstr ""
 
 #: commandments_app.Question/text:26
 msgid "What sins do you want to get rid off?"
-msgstr "Welke zonden wil jij kwijtraken?"
+msgstr ""
 
 #: commandments_app.Question/text:27
 msgid "Pray for each other"
-msgstr "Bid voor elkaar"
+msgstr ""
 
 #: commandments_app.Question/text:32
 msgid "Has sin corrupted your saltiness?"
-msgstr "Heeft bepaalde zonden jouw \"zout zijn\" beinvloed?"
+msgstr ""
 
 #: commandments_app.Question/text:33
 msgid "Has your self-interest made you disinterested in transforming others?"
 msgstr ""
-"Heeft jouw ik-gerichtheid ervoor gezorgt dat je niet meer geinteresseerd "
-"bent om anderen te helpen veranderen? "
 
 #: commandments_app.Question/text:34
 msgid "Can you be graciously confrontational?"
-msgstr "Kun jij confronterend zijn vanuit genade?"
+msgstr ""
 
 #: commandments_app.Question/text:41
 msgid "Does your speaking suit your behavior?"
-msgstr "Komen je woorden overeen met je gedrag?"
+msgstr ""
 
 #: commandments_app.Question/text:42
 msgid "Is there a difference between your confession and your doing?"
-msgstr "Is er een verschil tussen je bekentenis wat je doet?"
+msgstr ""
 
 #: commandments_app.Question/text:45
 msgid "When was the last time you were generous?"
-msgstr "Wanneer was de laatste keer dat je vrijgevig was?"
+msgstr ""
 
 #: commandments_app.Question/text:47
 msgid "Do you really want to be a follower of Jesus?"
-msgstr "Wil je echt een volgeling van Jezus zijn?"
+msgstr ""
 
 #: commandments_app.Question/text:49
 msgid ""
 "Enemies are the people who God puts on your way which are hard for you to "
 "love. Who are enemies for you? "
 msgstr ""
-"Vijanden zijn de mensen die God op je pad brengt waarbij het moeilijk is om "
-"ze lief te hebben. Wie zijn vijanden voor jouw?"
 
 #: commandments_app.Question/text:50
 msgid "Do you have the idea that you are what God intended you to be?"
-msgstr "Heb je het idee dat je bent zoals God je bedoelt heeft om te zijn?"
+msgstr ""
 
 #: commandments_app.Question/text:51
 msgid "What would stop you from becoming the way you were meant to be?"
-msgstr "Wat zou je ervan weerhouden om to worden zoals je bent bedoeld?"
+msgstr ""
 
 #: commandments_app.Question/text:52
 msgid "What would happen if you were as God intended?"
-msgstr "Wat zou er gebeuren als je zou zijn zoals God heeft bedoeld?"
+msgstr ""
 
 #: commandments_app.Question/text:57
 msgid ""
 "Are we willing to give up our rights for reconciliation out of love for "
 "Jesus, the Father and the other?"
 msgstr ""
-"Zijn we bereid om onze rechten op te geven voor verzoening uit liefde voor "
-"Jezus, de Vader en de andere?"
 
 #: commandments_app.Question/text:58
 msgid ""
@@ -3846,9 +3725,6 @@ msgid ""
 "Jesus, the Father and the other and to ask forgiveness for all guilt in "
 "which we do or do not participate?"
 msgstr ""
-"Zijn we bereid om een conflict in te stappen en verantwoordelijkheid te "
-"nemen uit liefde voor Jezus, de Vader en de andere en om vergeving te vragen"
-" voor alle schuld waarin we wel of niet deel hebben genomen?"
 
 #: commandments_app.Question/text:59
 msgid ""
@@ -3856,915 +3732,124 @@ msgid ""
 " is necessary so that a relationship can be restored, to give satisfaction "
 "so that complete reconciliation becomes possible?"
 msgstr ""
-"Zijn wij bereid, uit liefde voor Jezus, de Vader en de andere, om te doen "
-"wat nodig is, zodat een relatie kan worden hersteld is, om voldoening te "
-"geven, zodat volledige verzoening mogelijk wordt?"
 
 #: commandments_app.Question/text:60
 msgid ""
 "Are we willing to forgive the other out of love for Jesus, the Father and "
 "the other, regardless of whether or not the other asks for forgiveness?"
 msgstr ""
-"Zijn we bereid om de andere uit liefde voor Jezus, de Vader en de andere te "
-"vergeven, ongeacht de ander wel of niet om vergeving vraagt?"
 
 #: commandments_app.Question/text:62
 msgid "Do you apply regular fasting in your life?"
-msgstr "Vast jij regelmatig in je leven?"
+msgstr ""
 
 #: commandments_app.Question/text:64
 msgid "What are your treasures?"
-msgstr "Wat zijn jouw schatten?"
+msgstr ""
 
 #: commandments_app.Question/text:73
 msgid "What makes it difficult for you to listen, understand and obey?"
 msgstr ""
-"Wat maakt het moeilijk voorjouw om te luisteren, te begrijpen en te "
-"gehoorzamen?"
 
 #: commandments_app.Question/text:74
 msgid "If you want to grow in applying your faith, what does that take?"
 msgstr ""
-"Als je wilt groeien in de toepassing van je geloof, wat is daar voor nodig?"
 
 #: commandments_app.Question/text:75
 msgid "Once you know what He says, can you trust it?"
-msgstr "Als je eenmaal weet wat Hij zegt, kun je daarin vertrouwen?"
+msgstr ""
 
 #: commandments_app.Question/text:76
 msgid "What keeps people away from God's Truth?"
-msgstr "Wat houdt mensen weg van Gods Waarheid?"
+msgstr ""
 
 #: commandments_app.Question/text:82
 msgid "How bold is your witness?"
-msgstr "Hoe vrijmoedig ben jij?"
+msgstr ""
 
 #: commandments_app.Question/text:85
 msgid "Will you give up your life to follow Christ?"
-msgstr "Wil jij je leven opgeven om Christus te volgen?"
+msgstr ""
 
 #: commandments_app.Question/text:88
 msgid "Who do you want as your worst enemy: the world or God?"
-msgstr "Wie wil je als grootste vijand: de wereld of God?"
+msgstr ""
 
 #: commandments_app.Question/text:95
 msgid ""
 "Jesus  talks  much  about  the  Kingdom  of  God  in  His  ministry.  What "
 "is the Kingdom of God, and what does it mean to receive it?"
 msgstr ""
-"Jezus praat veel over het Koninkrijk van God in Zijn bediening. Wat is het "
-"Koninkrijk van God, en wat betekent het om het te ontvangen?"
 
 #: commandments_app.Question/text:96
 msgid ""
 "What characteristics of children does Jesus want His disciples to recognize "
 "and emulate in receiving His Kingdom?"
 msgstr ""
-"Welke kenmerken wil Jezus in Zijn discipelen herkennen om het Koninkrijk van"
-" God te ontvangen?"
 
 #: commandments_app.Question/text:97
 msgid ""
 "Why  is  receiving  Jesus  and  His  Kingdom  better  than  anything  this "
 "world has to offer?"
 msgstr ""
-"Waarom is het beter  om van Jezus en Zijn Koninkrijk te ontvangen dan alles "
-"wat deze wereld te bieden heeft?"
 
 #: commandments_app.Question/text:98
 msgid ""
 "What would it look like in your work, finances, relationships, and "
 "neighborhood to receive the Kingdom of God like a child? "
 msgstr ""
-"Hoe zou het eruit zien in je werk, financiën, relaties en buurt om het "
-"Koninkrijk van God te ontvangen als een kind?"
 
 #: commandments_app.Question/text:104
 msgid ""
 "Do you recognize one of the symptoms for greed mentioned in the description?"
 msgstr ""
-"Herken jij een van de genoemde symptonen van hebzucht in de beschrijving?"
-
-#: commandments_app.Question/text:111
-msgid "What do you think believe is all about?"
-msgstr "Wat denk je waar geloof allemaal over gaat?"
 
 #: commandments_app.Question/text:112
+msgid "What do you think believe is all about?"
+msgstr ""
+
+#: commandments_app.Question/text:113
 msgid "How do you know what somebody believes in?"
-msgstr "Hoe weet je waar je in gelooft?"
+msgstr ""
 
-#: commandments_app.Question/text:114
+#: commandments_app.Question/text:115
 msgid "Do you truly love Jesus? If you did, how would you know?"
-msgstr "Houdt je werkelijk van Jezus? Als je dat doet, hoe weet je dat zeker?"
-
-#: commandments_app.Question/text:120
-msgid "What talents do you use to glorify the Father?"
-msgstr "Welke talenten gebruik jij om de Vader te verheerlijken?"
+msgstr ""
 
 #: commandments_app.Question/text:121
+msgid "What talents do you use to glorify the Father?"
+msgstr ""
+
+#: commandments_app.Question/text:122
 msgid ""
 "Do you pray: Lord, will you bless what I have sown? Or: Lord, what do you "
 "want me to sow?"
 msgstr ""
-"Bid jij: Heer, wilt U zegenen wat ik heb gezaaid? Of: Heer, wat wilt U dat "
-"ik zaai?"
 
-#: commandments_app.Question/text:123
+#: commandments_app.Question/text:124
 msgid "Imagine yourself on trial for your faith"
-msgstr "Stel jezelf voor dat je op de proef wordt gesteld voor je geloof"
+msgstr ""
 
-#: commandments_app.Question/text:126
+#: commandments_app.Question/text:127
 msgid ""
 "Have you met someone like Jonathan, who visited you to encourage you to put "
 "your faith in God?"
 msgstr ""
-"Heb jij iemand net zoals Jonathan, wie je bemoedigd in je geloof met God?"
-
-#: commandments_app.Question/text:130
-msgid "Have you experienced the presence of Christ in areas of testing?"
-msgstr "Heb je de aanwezigheid van Jezus ervaren terwijl je verzocht werd?"
-
-#: commandments_app.Question/text:131
-msgid "Did you have the courage to be true to Him?"
-msgstr "Heb jij de moed om eerlijk te zijn tegenover Hem?"
-
-#: commandments_app.Question/text:134
-msgid "What do you think is a disciple?"
-msgstr "Wat denk je dat een discipel is?"
 
 #: commandments_app.Question/text:135
-msgid "Are you a disciple?"
-msgstr "Ben jij een discipel?"
+msgid "What do you think is a disciple?"
+msgstr ""
 
 #: commandments_app.Question/text:136
-msgid "What is discipleship about?"
-msgstr "Waar gaat discipelschap over?"
+msgid "Are you a disciple?"
+msgstr ""
 
 #: commandments_app.Question/text:137
+msgid "What is discipleship about?"
+msgstr ""
+
+#: commandments_app.Question/text:138
 msgid ""
 "Could you still be a disciple today? If so, how would that look like? If "
 "not, why not?"
 msgstr ""
-"Kun jij vandaag de dag nog steeds een discipel zijn? Zo ja, hoe zou dat "
-"eruit zien? Zo nee, waarom niet?"
-
-#~ msgid "Let your light so shine before men"
-#~ msgstr "Laat uw licht zo schijnen voor de mensen"
-
-#~ msgid "Be patient"
-#~ msgstr "Wees geduldig"
-
-#~ msgid ""
-#~ "That whosoever is angry with his brother without a cause shall be in danger "
-#~ "of the judgment: and whosoever shall say to his brother, Raca, shall be in "
-#~ "danger of the council: but whosoever shall say, Thou fool, shall be in "
-#~ "danger of hell fire."
-#~ msgstr ""
-#~ "Opdat een ieder is boos op zijn broer zonder oorzaak zal strafbaar zijn door"
-#~ " het gericht; en wie tot zijn broeder, Raca, zal vervallen van de raad; maar"
-#~ " wie zegt: Gij dwaas, zal vervallen van de hel brand."
-
-#~ msgid "Reconcile with your brother as quickly as possible"
-#~ msgstr "Verzoen je zo snel mogelijk met je broeder"
-
-#~ msgid "nan"
-#~ msgstr "leeg"
-
-#~ msgid "How can you be not commited to what your Savior is all about?"
-#~ msgstr "Hoe kun je je niet inzetten waartoe Jezus je aanzet?"
-
-#~ msgid "A six part study with John Piper"
-#~ msgstr "Een zesdelige studie met John Piper"
-
-#~ msgid ""
-#~ "Knowing how weak and sinful we are, how do we set about obeying the hundreds"
-#~ " of commands in the Bible? We know we cannot obey in our strength, and yet "
-#~ "the Bible expects us to obey. In ten minutes, John Piper explores what it "
-#~ "means to be born again, and how it happens to someone. This is part 1 of the"
-#~ " 6 part series titled, What Jesus Demands of the World. "
-#~ msgstr ""
-#~ "Weten hoe zwak en zondig we zijn, hoe kunnen we de honderden geboden uit de "
-#~ "Bijbel gehoorzamen? We weten dat we niet gehoorzamen in onze kracht, en toch"
-#~ " verwacht de Bijbel dat we gehoorzamen. In tien minuten, onderzoekt John "
-#~ "Piper wat het betekent om wederom geboren te wordem, en hoe dit gebeurt. Dit"
-#~ " is deel 1 van de 6 delige serie getiteld Wat Jezus eist van de Wereld."
-
-#~ msgid ""
-#~ "If there is one part of the Bible that has undergone more scrutiny and abuse"
-#~ " than any other, it is the very beginning-GENESIS. Both from within and "
-#~ "without the church, assaults on GENESIS continue to question the Creation "
-#~ "and ultimately the Creator. So, what exactly happened at the \"Creation,\" "
-#~ "at the \"Beginning?\""
-#~ msgstr ""
-#~ "Als er een deel van de Bijbel dat er meer controle en misbruik heeft "
-#~ "ondergaan dan enig ander, het is het allereerste begin-GENESIS. Zowel van "
-#~ "binnen en buiten de kerk, aanvallen op Genesis blijven de schepping en "
-#~ "uiteindelijk de Schepper in twijfel. Dus, wat er precies gebeurde op de "
-#~ "\"schepping\" bij de \"Begin?\""
-
-#~ msgid ""
-#~ "A seasoned journalist chases down the biggest story in history. Is there "
-#~ "credible evidence that Jesus of Nazareth really is the son of God?"
-#~ msgstr ""
-#~ "Een doorgewinterde journalist achtervolgt door het grootste verhaal in de "
-#~ "geschiedenis. Is er geloofwaardig bewijs dat Jezus van Nazareth is werkelijk"
-#~ " de zoon van God?"
-
-#~ msgid ""
-#~ "Contemporary freshman and devout Christian, Josh Wheaton, finds his faith "
-#~ "challenged on the first day of philosophy by the dogmatic and argumentative "
-#~ "professor Radisson. Radisson starts his lecture by informing the students "
-#~ "that they must deny, in writing, that God exists, or otherwise expect an "
-#~ "insufficient grade. While most students write the words \"God is dead\" on a"
-#~ " paper, Josh faces a decision. He must choose between his faith and his "
-#~ "future."
-#~ msgstr ""
-#~ "Hedendaagse eerstejaars en vroom christen, Josh Wheaton, vindt zijn geloof "
-#~ "uitgedaagd op de eerste dag van de filosofie door de dogmatische en "
-#~ "argumentatieve professor Radisson. Radisson begint zijn lezing door het "
-#~ "informeren van de studenten dat zij moeten ontkennen, schriftelijk, dat God "
-#~ "bestaat, of anders zou verwachten een onvoldoende kwaliteit. Terwijl de "
-#~ "meeste leerlingen schrijven de woorden \"God is dood\" op een papier, Josh "
-#~ "geconfronteerd met een beslissing. Hij moet kiezen tussen zijn geloof en "
-#~ "zijn toekomst."
-
-#~ msgid ""
-#~ "Good battles evil in this timeless story of Biblical heroism. The righteous "
-#~ "Jew Mordecai and the despicable Haman square off for control of the young "
-#~ "Persian King Xerxes. But Haman's plans include something horrible for "
-#~ "Mordecai and his people. It is up to Mordecai's niece Esther to win the "
-#~ "affection of the King, unmask Haman's treachery and save the Jewish people. "
-#~ "Based upon the Book of Esther, this delightful retelling emphasizes the "
-#~ "values of courage, faith and obedience."
-#~ msgstr ""
-#~ "Goede gevechten kwaad in deze tijdloze verhaal van de Bijbelse heldendom. De"
-#~ " rechtvaardige Jood Mordecai en de verachtelijke Haman vierkant uit voor de "
-#~ "controle van de jonge Perzische koning Xerxes. Maar de plannen Haman "
-#~ "omvatten iets verschrikkelijk voor Mordechai en zijn volk. Het is aan "
-#~ "Mordechai's nichtje Esther aan de genegenheid van de Koning, ontmaskeren "
-#~ "Hamans verraad te winnen en save het Joodse volk. Gebaseerd op het boek van "
-#~ "Esther, deze prachtige hervertelling benadrukt de waarden van moed, geloof "
-#~ "en gehoorzaamheid."
-
-#, fuzzy
-#~ msgid ""
-#~ "Waarom vieren we kerst op 25 december? Zijn er dingen uit de geschiedenis die we misschien niet weten? Wat heeft Sinterklaas hier mee te maken? En waarom horen eieren bij Pasen?\n"
-#~ "\n"
-#~ "De indrukwekkende film Truth or Tradition van Jim Staley is door Weg uit Babylon vertaald in het Nederlands. Wij hebben een verkorte versie van de film (46 minuten) gemaakt en op Youtube geplaatst. De film is schokkend, maar de moeite van het kijken waard!\n"
-#~ "\n"
-#~ "Onderzoek de dingen die u in deze film tegenkomt, breng ze in gebed, en attendeer ook anderen hierop! Geve God dat dit velen mag reinigen van onbewuste of bewuste afgoderij."
-#~ msgstr ""
-#~ "Waarom Vieren we kerst op 25 december? Zijn er dingen 'uit de geschiedenis sterven we Misschien Niet Weten? Wat Heeft Sinterklaas hier mee te maken? En Waarom horen eieren bij Pasen?\n"
-#~ "\n"
-#~ "De indrukwekkende film Truth or Tradition van Jim Staley is deur Weg uit Babylon vertaald in het Nederlands. Wij Hebben Een Verkorte versie van de film (46 minuten) Gemaakt en op Youtube Geplaatst. De film is Schokkend, Maar de Moeite Van het Kijken waard!\n"
-#~ "\n"
-#~ "Onderzoek de Dingen sterven u in this film tegenkomt, Breng ZE in Gebed, en attendeer OOK Anderen hierop! Geve God DAT DIT Velen mag Reinigen van onbewuste of bewuste afgoderij."
-
-#, fuzzy
-#~ msgid ""
-#~ "Pastor Jim Staley teaches on Truth or Tradition. Should Christians celebrate Christmas and Easter? It sounds sacrilegious to even ask the question, doesn't it? You might be surprised to find out that God actually has an opinion when you consider the origins of these holidays...and that opinion might not be what you expect! \"Well, that's not what it means to me\", most people say. But since when does it matter what it means to us! We are not the ones being worshipped!\n"
-#~ "\n"
-#~ "Originally featured on God's Learning Channel, this teaching examines the most shocking historical origins of Christianity's most sacred holidays and will leave you desiring God's truth like never before! Find out where Santa Claus, the Easter Bunny, Christmas trees, and many more holiday traditions actually come from and what the Scriptures say about them. Learn what is \"truth\" and what is \"tradition.\" After all...The Father is only looking for those who worship in both Spirit and Truth!"
-#~ msgstr ""
-#~ "Pastor Jim Staley leert op Truth or Tradition. Moeten christenen vieren Kerstmis en Pasen? Het klinkt heiligschennend om zelfs de vraag, nietwaar? Je zou verbaasd zijn om te ontdekken dat God heeft eigenlijk een advies als je de oorsprong van deze vakantiedagen ... en dat advies is misschien niet wat je verwacht! \"Nou, dat is niet wat het betekent voor mij\", de meeste mensen zeggen. Maar sinds wanneer maakt het uit wat het betekent voor ons! Wij zijn niet degenen die aanbeden!\n"
-#~ "\n"
-#~ "Oorspronkelijk gekenmerkt op Gods Learning Channel, deze leer onderzoekt de meest schokkende historische oorsprong van meest heilige feestdagen van het Christendom en zal u Gods waarheid verlangen als nooit tevoren! Zoek uit waar de Kerstman, de Paashaas, kerstbomen, en nog veel meer vakantie tradities eigenlijk vandaan en wat de Schrift over hen zeggen. Leer wat is \"waarheid\" en wat is \"traditie.\" Immers ... De Vader is alleen op zoek naar degenen die aanbidden in zowel Geest en Waarheid!"
-
-#, fuzzy
-#~ msgid ""
-#~ "How do you define joy? John Piper offers his definition in ten minutes. This"
-#~ " video is the first of a six-part series on the theme of joy in the book of "
-#~ "Philippians."
-#~ msgstr ""
-#~ "Hoe ga je vreugde definiëren? John Piper biedt zijn definitie in tien "
-#~ "minuten. Deze video is de eerste van een zesdelige serie over het thema van "
-#~ "vreugde in het boek Filippenzen."
-
-#, fuzzy
-#~ msgid ""
-#~ "Do you truly love Jesus? If you did, how would you know? The Bible helps us "
-#~ "navigate and even command our own emotions. In twelve minutes, John Piper "
-#~ "asks four questions about what it means to love Jesus, and leads us, through"
-#~ " the words of Jesus himself, to make Jesus our greatest Treasure."
-#~ msgstr ""
-#~ "Heeft u werkelijk Jezus te houden? Als je dat deed, hoe zou u weten? De "
-#~ "Bijbel helpt ons navigeren en zelfs commando onze eigen emoties. In twaalf "
-#~ "minuten, John Piper vier vragen over wat het betekent om Jezus lief te "
-#~ "hebben, en leidt ons, door de woorden van Jezus zelf, om Jezus, onze "
-#~ "grootste schat te maken."
-
-#, fuzzy
-#~ msgid "Superbook's Gospel Presentation"
-#~ msgstr "Superbook's Gospel Presentatie"
-
-#, fuzzy
-#~ msgid ""
-#~ "This video illustrates Jesus' Parable of the Sower without the use of any "
-#~ "language elements. It employs the latest, cutting edge animation techniques."
-#~ " The video clearly illustrates the 4 instances of the seeds scattered on "
-#~ "different ground. Experience the seeds growing and the challenges they face."
-#~ " How will you respond to Jesus' message? "
-#~ msgstr ""
-#~ "Deze video toont Jezus gelijkenis van de zaaier zonder het gebruik van elke "
-#~ "taal elementen. Het gebruik van de nieuwste, cutting edge "
-#~ "animatietechnieken. De video toont duidelijk de 4 gevallen van de zaden "
-#~ "verspreid over verschillende grond. Ervaar de zaden groeit en de uitdagingen"
-#~ " waarvoor zij staan. Hoe gaat u reageren op de boodschap van Jezus?"
-
-#, fuzzy
-#~ msgid ""
-#~ "The \"Holy Spirit\" is a term in the Bible that is used to describe the "
-#~ "mystery and power of God's presence. In this video, we look at the original "
-#~ "Hebrew meaning of the word \"spirit / breath,\" and how this can help you "
-#~ "view the storyline of the entire Bible in a new way."
-#~ msgstr ""
-#~ "De \"Heilige Geest\" is een term die in de Bijbel die wordt gebruikt om het "
-#~ "mysterie en de kracht van Gods aanwezigheid te beschrijven. In deze video "
-#~ "kijken we naar de oorspronkelijke Hebreeuwse betekenis van het woord \"geest"
-#~ " / adem,\" en hoe dit kan helpen om de verhaallijn van de hele Bijbel te "
-#~ "bekijken op een nieuwe manier."
-
-#, fuzzy
-#~ msgid ""
-#~ "In this video we explore the paradox that God’s holiness presents to human "
-#~ "beings. God is the unique and set-apart Creator of all reality and the "
-#~ "author of all goodness. However, that goodness can become dangerous to "
-#~ "humans who are mortal and morally corrupt. Ultimately, this paradox is "
-#~ "resolved by Jesus, who embodies God’s holiness that comes to heal His "
-#~ "creation."
-#~ msgstr ""
-#~ "In deze video gaan we de paradox dat Gods heiligheid cadeautjes voor de "
-#~ "mens. God is de unieke en set-apart Schepper van alle realiteit en de auteur"
-#~ " van alle goedheid. Dat kan echter goedheid gevaarlijk zijn voor mensen die "
-#~ "zijn sterfelijk en moreel corrupt geworden. Uiteindelijk wordt deze paradox "
-#~ "opgelost door Jezus, die Gods heiligheid die komt om Zijn schepping te "
-#~ "genezen belichaamt."
-
-#, fuzzy
-#~ msgid ""
-#~ "Though the world is by plagued by suffering due to the realities of sin, "
-#~ "death, and evil, God is calling us to seek refuge in the only place it can "
-#~ "truly be found...His presence. A symbolic adaptation of Psalm 46."
-#~ msgstr ""
-#~ "Hoewel de wereld door de door lijden wordt geplaagd te wijten aan de "
-#~ "realiteit van zonde, dood en kwaad, is God roept ons om hun toevlucht te "
-#~ "zoeken in de enige plek waar het kan echt worden gevonden ... Zijn "
-#~ "aanwezigheid. Een symbolische aanpassing van Psalm 46."
-
-#, fuzzy
-#~ msgid ""
-#~ "This two minute short reveals the great need to reach people who have no "
-#~ "access to the Gospel and how God's Spirit has been moving to reach the "
-#~ "unengaged of Mali."
-#~ msgstr ""
-#~ "Deze twee minuten korte onthult de grote behoefte aan mensen die geen "
-#~ "toegang hebben tot het Evangelie en hoe Gods Geest is op weg naar de "
-#~ "unengaged van Mali te bereiken hebben te bereiken."
-
-#, fuzzy
-#~ msgid ""
-#~ "In this video we investigate the meaning of the old laws in the Old "
-#~ "Testament. Why are they in the Bible, and what do they have to say for "
-#~ "followers of Jesus? We look at how they fulfilled a certain purpose in a "
-#~ "crucial phase of the biblical story. And how this leads to Jesus, who "
-#~ "fulfilled the law and summarized it in the call to love God, and your "
-#~ "neighbor as yourself."
-#~ msgstr ""
-#~ "In deze video onderzoeken we de betekenis van de oude wetten in het Oude "
-#~ "Testament. Waarom zijn ze in de Bijbel, en wat ze te zeggen hebben voor de "
-#~ "volgelingen van Jezus? We kijken naar hoe zij vervulde een bepaald doel in "
-#~ "een cruciale fase van het bijbelse verhaal. En hoe dit leidt tot Jezus, die "
-#~ "de wet vervuld en samengevat in de oproep om de liefde van God, en uw naaste"
-#~ " als uzelf."
-
-#, fuzzy
-#~ msgid ""
-#~ "Have you ever wondered why there are so many ancient biblical laws in the "
-#~ "first books of the Bible? What are modern readers supposed to do with them, "
-#~ "and why are some of them so odd? In this video, we explore why the laws were"
-#~ " given to ancient Israel and how they fit into the overall storyline of the "
-#~ "Bible."
-#~ msgstr ""
-#~ "Heb je je ooit afgevraagd waarom er zo veel oude bijbelse wetten in de "
-#~ "eerste boeken van de Bijbel? Wat zijn de moderne lezer moet doen met hen, en"
-#~ " waarom zijn sommige van hen zo vreemd? In deze video, onderzoeken we waarom"
-#~ " de wetten werden gegeven aan het oude Israël en hoe ze passen in de "
-#~ "algemene verhaallijn van de Bijbel."
-
-#, fuzzy
-#~ msgid ""
-#~ "Kyle has it all figured out. He’s got the girls, the grades, and lives at "
-#~ "the best party house on campus. But one fateful day, Kyle’s heart stops "
-#~ "beating and he suddenly comes face to face with a dark truth that he’s "
-#~ "ignored his entire life."
-#~ msgstr ""
-#~ "Kyle heeft het allemaal bedacht. Hij heeft de meisjes, de rangen, en het "
-#~ "leven aan de beste partij huis op de campus. Maar op een noodlottige dag, "
-#~ "Kyle's hart stopt met kloppen en hij komt plotseling van aangezicht tot "
-#~ "aangezicht met een donkere waarheid dat hij negeerde zijn hele leven."
-
-#, fuzzy
-#~ msgid ""
-#~ "Since January 18, 2011, Egypt has been in a state of civil and political "
-#~ "unrest, but in the midst of the violence and uncertainty, God is moving in a"
-#~ " BIG way."
-#~ msgstr ""
-#~ "Sinds 18 januari 2011, heeft Egypte al in een staat van de burgerlijke en "
-#~ "politieke onrust, maar in het midden van het geweld en onzekerheid, wordt "
-#~ "God beweegt zich in een grote weg."
-
-#, fuzzy
-#~ msgid ""
-#~ "Inspired by the age-old question \"What is your life?\", this short film "
-#~ "challenges the promises of the American dream and presents an alternative "
-#~ "that offers so much more."
-#~ msgstr ""
-#~ "Geïnspireerd door de eeuwenoude vraag: \"Wat is uw leven?\", Deze korte film"
-#~ " daagt de beloften van de Amerikaanse droom en presenteert een alternatief "
-#~ "dat biedt zo veel meer."
-
-#, fuzzy
-#~ msgid ""
-#~ "Jesus compared the kingdom of God to one of the smallest seeds on Earth and "
-#~ "over 2000 years later, the truth of this teaching can be seen all across the"
-#~ " globe."
-#~ msgstr ""
-#~ "Jezus vergeleek het koninkrijk van God aan een van de kleinste zaden op "
-#~ "aarde en meer dan 2000 jaar later, kan de waarheid van deze leer over de "
-#~ "hele wereld te zien."
-
-#, fuzzy
-#~ msgid ""
-#~ "We all suffer at the hands of other people. In Junko’s case, she was abused "
-#~ "as a child and found herself isolated and in deep sorrow. Then, a gradual "
-#~ "feeling of love grew in her heart and opened the door to a life that she "
-#~ "never knew existed."
-#~ msgstr ""
-#~ "We hebben allemaal te lijden in de handen van andere mensen. In het geval "
-#~ "Junko, werd ze misbruikt als kind en vond zichzelf geïsoleerd en in diep "
-#~ "verdriet. Dan, een geleidelijke gevoel van liefde groeide in haar hart en "
-#~ "opende de deur naar een leven dat ze nooit wist dat ze bestonden."
-
-#, fuzzy
-#~ msgid ""
-#~ "Sarah enjoys relating with people, but when an encounter with a Deaf woman "
-#~ "challenges her ability to connect, God redefines what it means for her to be"
-#~ " a follower."
-#~ msgstr ""
-#~ "Sarah heeft in verband met mensen, maar wanneer een ontmoeting met een dove "
-#~ "vrouw daagt haar vermogen om verbinding te maken, God herdefinieert wat het "
-#~ "betekent voor haar om een ​​volgeling te zijn."
-
-#, fuzzy
-#~ msgid ""
-#~ "An impression of how the conquest of Jerusalem could have gone on the basis "
-#~ "of 1 Chronicles 11 and 2 Samuel 5"
-#~ msgstr ""
-#~ "Een impressie van hoe de verovering van Jeruzalem had kunnen gaan aan de "
-#~ "hand van 1 Kronieken 11 en 2 Samuel 5"
-
-#, fuzzy
-#~ msgid ""
-#~ "One man's life changed the course of history for billions of people across "
-#~ "the globe. He is both revered and reviled, famed and feared and you know who"
-#~ " he is without a single mention of his name."
-#~ msgstr ""
-#~ "Een man's leven veranderde de loop van de geschiedenis voor miljarden mensen"
-#~ " over de hele wereld. Hij is zowel vereerd en verguisd, beroemd en gevreesd "
-#~ "en je weet wie hij is zonder een enkele vermelding van zijn naam."
-
-#, fuzzy
-#~ msgid ""
-#~ "At the of age 70, Bettie Kaufmann has a conversation with God. Little does "
-#~ "she know that this one interaction will eventually send her to jail."
-#~ msgstr ""
-#~ "Op de leeftijd van 70, Bettie Kaufmann heeft een gesprek met God. Maar wat "
-#~ "zij niet weten dat dit een wisselwerking haar uiteindelijk zal sturen naar "
-#~ "de gevangenis."
-
-#, fuzzy
-#~ msgid ""
-#~ "\n"
-#~ "In the final video in our Acts series, we trace Paul’s final journey to Jerusalem and then into a Roman prison. But paradoxically, Paul’s suffering leads him into the heart of the Roman empire where he gets to announce God’s Kingdom over the nations."
-#~ msgstr ""
-#~ "In de laatste video in onze Handelingen serie, traceren we laatste reis van "
-#~ "Paulus naar Jeruzalem en vervolgens in een Romeinse gevangenis. Maar "
-#~ "paradoxaal genoeg, Paulus 'lijden leidt hem naar het hart van het Romeinse "
-#~ "rijk, waar hij krijgt om Gods koninkrijk over de volken te kondigen."
-
-#, fuzzy
-#~ msgid ""
-#~ "What if God asked you to leave everything you know behind? Well, that’s what"
-#~ " happens to Marc and what God does with his response radically changes how "
-#~ "residents of Sherbrooke, Québec see Jesus."
-#~ msgstr ""
-#~ "Wat als God u gevraagd om alles wat je weet achter te laten? Nou, dat is wat"
-#~ " er gebeurt met Marc en wat God doet met zijn antwoord verandert radicaal "
-#~ "hoe inwoners van Sherbrooke, Québec Jezus zien."
-
-#, fuzzy
-#~ msgid ""
-#~ "Samuel loves Jesus and loves children, so God used him in a very big way."
-#~ msgstr ""
-#~ "Samuel van Jezus houdt en houdt van kinderen, zodat God hem gebruikt in een "
-#~ "zeer grote weg."
-
-#, fuzzy
-#~ msgid ""
-#~ "There is an emptiness inside each of us that cannot be filled by life’s "
-#~ "pursuits or ignored by its distractions. However, beyond the emptiness there"
-#~ " is a voice calling. Do you hear the voice? Will you follow the call?"
-#~ msgstr ""
-#~ "Er is een leegte in elk van ons, dat niet kan worden vervuld door de "
-#~ "bezigheden van het leven of genegeerd door zijn afleiding. Echter, voorbij "
-#~ "de leegte is er een stem roeping. Heeft u de stem te horen? Zal u het "
-#~ "gesprek volgen?"
-
-#, fuzzy
-#~ msgid ""
-#~ "Over the span of a three and a half year wait, Peter and Erin realize that "
-#~ "they are adopting for reasons much more personal than once thought. They are"
-#~ " adopting, because they were adopted."
-#~ msgstr ""
-#~ "Meer dan de spanwijdte van een drie en een half jaar wachten, Peter en Erin "
-#~ "zich realiseren dat zij de vaststelling van redenen veel persoonlijker dan "
-#~ "ooit gedacht. Ze zijn de aanneming, omdat ze werden goedgekeurd."
-
-#, fuzzy
-#~ msgid ""
-#~ "Filmed in six languages across five continents, this short film captures the"
-#~ " faith-filled thoughts of children as they contemplate the many attributes "
-#~ "of God."
-#~ msgstr ""
-#~ "Gefilmd in zes talen, verspreid over vijf continenten, deze korte film vangt"
-#~ " de gelovige gedachten van kinderen als ze nadenken over de vele "
-#~ "eigenschappen van God."
-
-#, fuzzy
-#~ msgid ""
-#~ "Noah is homeless. Dwight and his family are his neighbors. Their friendship "
-#~ "will challenge you to “love your neighbor as yourself”."
-#~ msgstr ""
-#~ "Noah is dakloos. Dwight en zijn familie zijn zijn buren. Hun vriendschap zal"
-#~ " je uitdagen om “heb uw naaste lief als uzelf”."
-
-#, fuzzy
-#~ msgid ""
-#~ "Disciple and discipleship are \"hot\" words today.  Despite the volume around these concepts the reality is that little of it resemble the \"multiplicative\" nature of Jesus' early disciples and the impact they had on the world.  There is hope in find our way back.\n"
-#~ "\n"
-#~ "DMM is an acronym for a street level executable disciple making strategy that fosters disciples making disciples.  DMM has a built in self replicating DNA that catalyzes viral movements."
-#~ msgstr ""
-#~ "Disciple en discipelschap zijn \"hot\" woorden vandaag. Ondanks het volume rond deze concepten de realiteit is dat weinig van lijken op de \"multiplicatieve\" karakter van het begin van Jezus discipelen en de impact die ze hadden op de wereld. Er is hoop op onze weg terug.\n"
-#~ "\n"
-#~ "DMM is een acroniem voor een straatniveau uitvoerbaar maken van discipelen strategie die bevordert discipelen maken van discipelen. DMM heeft een ingebouwde zelf replicerende DNA die virale bewegingen katalyseert."
-
-#, fuzzy
-#~ msgid ""
-#~ "Deze video is gemaakt om de inspiratie van het doel van de kerk te "
-#~ "benadrukken. We zijn opgedragen om discipelen te maken, deze video laat zien"
-#~ " hoe eenvoudig deze opdracht kan zijn. Het laat ook zien hoe we soms kan "
-#~ "worden afgeleid en overweldigd door dingen die niet nodig zijn voor "
-#~ "discipelschap."
-#~ msgstr ""
-#~ "This video is Gemaakt OM de inspiratie van Het Doel van de kerk te "
-#~ "benadrukken. We are Opgedragen OM discipelen te maken, this video Laat Zien "
-#~ "schoffel Eenvoudig this opdracht Kan are. Het Laat also Zien hoe we SOMS Kan"
-#~ " Worden afgeleid en overweldigd deur 'dingen sterven Niet Nodig are for "
-#~ "Discipelschap."
-
-#, fuzzy
-#~ msgid ""
-#~ "Our video is designed to inspire epiphanies about the purpose of church. We "
-#~ "are commissioned to make disciples; this video shows how discipleship can be"
-#~ " simple. It also shows how we sometimes can be distracted and overwhelmed by"
-#~ " things that aren't necessary for discipleship.\n"
-#~ msgstr ""
-#~ "Onze video is ontworpen om openbaringen over het doel van de kerk te "
-#~ "inspireren. We hebben de opdracht om discipelen te maken; Deze video laat "
-#~ "zien hoe discipelschap eenvoudig kan zijn. Ook laat zien hoe we kunnen soms "
-#~ "worden afgeleid en overweldigd door de dingen die niet noodzakelijk zijn "
-#~ "voor discipelschap."
-
-#, fuzzy
-#~ msgid ""
-#~ "This is El Shaddai. She is an Ethiopian orphan who is being raised by her "
-#~ "adopted Ethiopian parents to love Jesus and to sing about His Word. This is "
-#~ "her act of worship."
-#~ msgstr ""
-#~ "Dit is El Shaddai. Ze is een Ethiopische wees die wordt opgevoed door haar "
-#~ "Ethiopische ouders genomen om Jezus te houden en te zingen over Zijn Woord. "
-#~ "Dit is haar daad van aanbidding."
-
-#, fuzzy
-#~ msgid ""
-#~ "\n"
-#~ "Faith in Christ is a pursuit…a fight…a race. It’s a journey laden with difficulty, but at the finish line awaits an imperishable reward that is given to those who persevere…Christ Himself."
-#~ msgstr ""
-#~ "Geloof in Christus is een achtervolging ... een strijd ... een race. Het is "
-#~ "een reis beladen met moeite, maar bij de finish wacht een onvergankelijke "
-#~ "beloning die wordt gegeven aan degenen die volharden ... Christus Zelf."
-
-#, fuzzy
-#~ msgid ""
-#~ "pre·em·i·nent | adj. Superior to or notable above all others; outstanding. "
-#~ "(Based on Colossians 1: 15-23)"
-#~ msgstr ""
-#~ "pre · em · i · nent | adj. Superieur aan of opmerkelijke boven alle anderen;"
-#~ " uitstekend. (Op basis van Kol 1: 15-23)"
-
-#, fuzzy
-#~ msgid ""
-#~ "Jason and Tracy were ecstatic to find out that they were expecting, but when"
-#~ " the couple is told that their daughter is “incompatible with life”, they "
-#~ "begin a journey that will forever change how they view God’s love."
-#~ msgstr ""
-#~ "Jason en Tracy waren dolenthousiast om te ontdekken dat ze verwachtten, maar"
-#~ " als het paar wordt verteld dat hun dochter is “onverenigbaar met het "
-#~ "leven”, beginnen ze een reis die voor altijd zal veranderen hoe ze de liefde"
-#~ " van God te zien."
-
-#, fuzzy
-#~ msgid ""
-#~ "While searching for direction during a sabbatical with his wife, Jay wrote "
-#~ "three letters in the sand: WWH. God responded by sending them to one of the "
-#~ "most dynamic cities in the world, Rio de Janeiro."
-#~ msgstr ""
-#~ "Tijdens het zoeken naar richting tijdens een sabbatical met zijn vrouw, Jay "
-#~ "schreef drie letters in het zand: WWH. God reageerde door ze naar een van de"
-#~ " meest dynamische steden in de wereld, Rio de Janeiro."
-
-#, fuzzy
-#~ msgid ""
-#~ "Do you struggle in your marriage? Takashi and Naoko did. Their shame and "
-#~ "brokenness left their marriage on the brink of total collapse. Then they "
-#~ "found true love…not in each other, but in a person that would transform "
-#~ "their family completely."
-#~ msgstr ""
-#~ "Heeft u moeite in je huwelijk? Takashi en Naoko deed. Hun schaamte en "
-#~ "gebrokenheid lieten hun huwelijk op de rand van totale ineenstorting. Toen "
-#~ "vonden ze de ware liefde ... niet in elkaar, maar in een persoon dat hun "
-#~ "gezin compleet zou veranderen."
-
-#, fuzzy
-#~ msgid ""
-#~ "At the age of 41, Cory starts having horrific nightmares of extreme abuse. "
-#~ "Once he realizes that his dreams are actually repressed memories from his "
-#~ "childhood, Cory begins a life-changing journey that will forever transform "
-#~ "his relationship with God."
-#~ msgstr ""
-#~ "Op de leeftijd van 41, Cory begint met verschrikkelijke nachtmerries van "
-#~ "extreme misbruik. Zodra hij beseft dat zijn dromen eigenlijk verdrongen "
-#~ "herinneringen uit zijn jeugd, begint Cory een levensveranderende reis die "
-#~ "voor altijd zijn relatie met God zal transformeren."
-
-#, fuzzy
-#~ msgid ""
-#~ "A powerfull testimony of a woman, who’s been in the concentration camps by "
-#~ "the nazis, and still learned to forgive"
-#~ msgstr ""
-#~ "Een krachtig getuigenis van een vrouw, die in de concentratiekampen is "
-#~ "geweest door de nazi's, en nog steeds geleerd om te vergeven"
-
-#, fuzzy
-#~ msgid "A powerfull testimony of a nl famous christian singer"
-#~ msgstr "Een krachtig getuigenis van een nl bekende christelijke zanger"
-
-#, fuzzy
-#~ msgid ""
-#~ "\"I was moved to tears upon hearing this song for the first time. The melody"
-#~ " is gorgeous, and the lyrics perfectly describe feelings that we all have "
-#~ "experienced -- loss, regret, exhaustion, pain. But in the beautiful chorus, "
-#~ "the lyrics also point us to the source of our hope in troubled times : \"..."
-#~ " after all my strength is gone, in You I can be strong...... when melodies "
-#~ "are gone, in You I hear a song....\". I hope you can hear and sense God's "
-#~ "comfort in this beautiful song.\" -- Allan"
-#~ msgstr ""
-#~ "\"Ik was tot tranen toe bewogen bij het horen van dit lied voor het eerst De"
-#~ " melodie is prachtig, en de teksten beschrijven perfect gevoelens die we "
-#~ "allemaal hebben meegemaakt. -. Verlies, spijt, uitputting, pijn, maar in het"
-#~ " prachtige koor, de teksten ook wijzen ons naar de bron van onze hoop in "
-#~ "moeilijke tijden:\" ... na al mijn kracht is gegaan, in u ik kan sterk zijn "
-#~ "...... als melodieën zijn verdwenen, in je ik een liedje te horen .... \"ik "
-#~ "hoop dat je kunt horen en voelen Gods troost in dit prachtige lied.\" - "
-#~ "Allan"
-
-#, fuzzy
-#~ msgid ""
-#~ "Anderson and Robson came to know the love and grace of Jesus in the midst of"
-#~ " poverty, abuse, and sin. Now transformed, they’ve become beacons of that "
-#~ "same love and grace in one of the most notorious favelas in Rio de Janeiro, "
-#~ "The City of God."
-#~ msgstr ""
-#~ "Anderson en Robson kwam tot de liefde en genade van Jezus kennen in het "
-#~ "midden van armoede, misbruik, en zonde. Nu getransformeerd, hebben ze bakens"
-#~ " van diezelfde liefde en genade te worden in één van de meest beruchte "
-#~ "favela's in Rio de Janeiro, de stad van God."
-
-#, fuzzy
-#~ msgid ""
-#~ "In 2001, Gary and Peggy Ifft lived in Bloomington, IL. They had normal jobs,"
-#~ " a normal home, a normal life. Then God called them out of the normal and "
-#~ "into His mission."
-#~ msgstr ""
-#~ "In 2001, Gary en Peggy ifft woonde in Bloomington, IL. Ze hadden een normale"
-#~ " baan, een normaal huis, een normaal leven. En God riep hen uit de normale "
-#~ "en in Zijn missie."
-
-#, fuzzy
-#~ msgid ""
-#~ "\"Why God, was I born this way?\"  That's the question Nick Vujicic wondered"
-#~ " after being born without limbs.  Nick discovered God's miraculous plan for "
-#~ "his life as a worldwide evangelist sharing the message of redemption through"
-#~ " Jesus Christ.  Watch and discover how you can be a part of Nick's goal to "
-#~ "preach to every single soul on the planet: 7 billion people!"
-#~ msgstr ""
-#~ "\"Waarom God, ik ben geboren op deze manier?\" Dat is de vraag Nick Vujicic "
-#~ "vroeg zich af na de geboorte zonder ledematen. Nick ontdekt Gods "
-#~ "wonderbaarlijke plan voor zijn leven als een wereldwijd evangelist het delen"
-#~ " van de boodschap van verlossing door Jezus Christus. Kijk en ontdek hoe je "
-#~ "een deel van het doel van Nick's om elke ziel kan zijn om te prediken op de "
-#~ "planeet: 7 miljard mensen!"
-
-#, fuzzy
-#~ msgid ""
-#~ "Where were you on March 11, 2011 when the Tohoku earthquake shook Japan? "
-#~ "Yuji was at work, and with Tokyo’s power grid shut down, he journeyed on "
-#~ "foot across the city to discover a message waiting for him that would change"
-#~ " his life forever."
-#~ msgstr ""
-#~ "Waar was je op 11 maart 2011 toen de aardbeving Tohoku schudde Japan? Yuji "
-#~ "aan het werk was, en met de Tokyo elektriciteitsnet stilgelegd, reisde hij "
-#~ "te voet door de stad om een ​​bericht te wachten voor hem dat zijn leven "
-#~ "voorgoed zou veranderen ontdekken."
-
-#, fuzzy
-#~ msgid ""
-#~ "When Nilton Cordeiro was young, he heard about the love and grace of Jesus "
-#~ "Christ through an old hymn. This love and grace quickly captured his heart "
-#~ "and would change his life forever."
-#~ msgstr ""
-#~ "Wanneer Nilton Cordeiro jong was, hij hoorde over de liefde en de genade van"
-#~ " Jezus Christus door middel van een oude lied. Deze liefde en genade snel "
-#~ "zijn hart veroverd en zou zijn leven voorgoed veranderen."
-
-#, fuzzy
-#~ msgid ""
-#~ "For years, Walt and Annie struggled with infertility, but in a single moment"
-#~ " they realized that God was writing a beautiful story for them that was over"
-#~ " 20 years in the making."
-#~ msgstr ""
-#~ "Jarenlang Walt en Annie had moeite met onvruchtbaarheid, maar in een enkel "
-#~ "moment realiseerden ze zich dat God aan het schrijven was een mooi verhaal "
-#~ "voor hen die meer dan 20 jaar in de maak was."
-
-#, fuzzy
-#~ msgid ""
-#~ "Do you struggle with depression? So did Yumiko. She hated herself and even "
-#~ "dreamt of running in front of a train to end her life. But hope came her way"
-#~ " in the last place she ever expected."
-#~ msgstr ""
-#~ "Heeft u moeite met een depressie? Dus deed Yumiko. Ze haatte zichzelf en "
-#~ "zelfs gedroomd van het runnen van in de voorkant van een trein om haar leven"
-#~ " te beëindigen. Maar hoop kwam haar weg in de laatste plaats die ze ooit had"
-#~ " verwacht."
-
-#, fuzzy
-#~ msgid ""
-#~ "When Petra loses her mother at a young age, she sets off on a journey to "
-#~ "find hope and healing for her loss. This decade-long search eventually leads"
-#~ " her to discover that the answer she’s been looking for has been pursuing "
-#~ "her all along."
-#~ msgstr ""
-#~ "Toen Petra haar moeder verliest op jonge leeftijd, zet ze weg op een reis "
-#~ "naar hoop en genezing voor haar verlies te vinden. Dit decennium-lange "
-#~ "zoektocht leidt uiteindelijk tot haar om te ontdekken dat het antwoord dat "
-#~ "ze op zoek naar is het nastreven van haar langs."
-
-#, fuzzy
-#~ msgid ""
-#~ "When Crystal Clapp gave her life to Jesus Christ, everything changed. Her "
-#~ "thoughts became His thoughts. Her will became His will. The old was gone "
-#~ "and, soon enough, so was she."
-#~ msgstr ""
-#~ "Bij Crystal Clapp gaf haar leven aan Jezus Christus, veranderde alles. Haar "
-#~ "gedachten werd Zijn gedachten. Haar zal Zijn wil werd. De oude weg was en al"
-#~ " snel genoeg, dus ze was."
-
-#, fuzzy
-#~ msgid ""
-#~ "This two minute short reveals God's desire for unity and how the Evangelical"
-#~ " and Orthodox churches in Egypt have united together to exalt Christ as the "
-#~ "Head of His Church."
-#~ msgstr ""
-#~ "Deze twee minuten korte openbaart Gods verlangen naar eenheid en hoe de "
-#~ "evangelische en orthodoxe kerken in Egypte hebben samen met Christus "
-#~ "verenigd te verheffen als het Hoofd van Zijn Kerk."
-
-#, fuzzy
-#~ msgid ""
-#~ "Are you looking for joy in life? As a gifted performer, singing brought "
-#~ "Atsushi joy. It also brought him to one of the most unlikely places: a "
-#~ "Gospel Choir practice. It wasn’t long before the lyrics he sang opened his "
-#~ "eyes to a joy greater than what music alone could provide."
-#~ msgstr ""
-#~ "Bent u op zoek naar de vreugde in het leven? Als een begaafd performer, "
-#~ "zingen bracht Atsushi vreugde. Het bracht hem ook tot een van de meest "
-#~ "onwaarschijnlijke plaatsen: een Gospel Choir praktijk. Het duurde niet lang "
-#~ "voordat de teksten zong hij opende zijn ogen voor een vreugde groter dan "
-#~ "welke muziek alleen zou kunnen bieden."
-
-#, fuzzy
-#~ msgid ""
-#~ "We all have unfulfilled dreams. For Ritsuko, it was finding fame, love, and "
-#~ "acceptance. However, when this dream disappeared, a glimmer of hope arose "
-#~ "that not only quenched her feelings of despair, but provided more love and "
-#~ "acceptance than she could ever imagine."
-#~ msgstr ""
-#~ "We hebben allemaal onvervulde dromen. Voor Ritsuko, was het vinden van roem,"
-#~ " liefde en acceptatie. Echter, wanneer deze droom verdween, een sprankje "
-#~ "hoop is ontstaan ​​die niet alleen geblust haar gevoelens van wanhoop, maar "
-#~ "op voorwaarde dat meer liefde en acceptatie dan ze ooit zou kunnen "
-#~ "voorstellen."
-
-#, fuzzy
-#~ msgid ""
-#~ "Touch Bin lived most of her life gripped by fear, pain, and hopelessness, "
-#~ "but when God opened her eyes to the truth of Christ, she left the path of "
-#~ "death and began a journey toward life."
-#~ msgstr ""
-#~ "Touch Bin leefde het grootste deel van haar leven in de greep van angst, "
-#~ "pijn en wanhoop, maar toen God haar ogen voor de waarheid van Christus "
-#~ "opende, verliet ze het pad van de dood en begon met een reis naar het leven."
-
-#, fuzzy
-#~ msgid ""
-#~ "Josiah grew up in the Amazon completely convinced that he was luckiest kid "
-#~ "on Earth, but when tragedy struck at the age of 13, God revealed to him a "
-#~ "much greater identity."
-#~ msgstr ""
-#~ "Josiah opgegroeid in de Amazone volledig van overtuigd dat hij gelukkigste "
-#~ "jongen op aarde was, maar toen de tragedie op de leeftijd van 13 geslagen, "
-#~ "God om hem een ​​veel grotere identiteit onthuld."
-
-#, fuzzy
-#~ msgid ""
-#~ "Nate & Ruth Reutter were only moments away from having their first child "
-#~ "while serving as missionaries along the Amazon River in Brazil. Then "
-#~ "everything changed...most dramatically their faith in Christ and His living "
-#~ "Word."
-#~ msgstr ""
-#~ "Nate & Ruth Reutter waren slechts een steenworp afstand van het hebben van "
-#~ "hun eerste kind terwijl het dienen als zendelingen langs de rivier de "
-#~ "Amazone in Brazilië. Dan is alles veranderd ... het meest dramatisch hun "
-#~ "geloof in Christus en Zijn levende Woord."
-
-#, fuzzy
-#~ msgid ""
-#~ "Lore and Michael started their family with great hope for the future, but "
-#~ "when their son’s life begins to spiral downward, they come face to face with"
-#~ " what it truly means to trust in God."
-#~ msgstr ""
-#~ "Lore en Michael begonnen hun familie met een grote hoop voor de toekomst, "
-#~ "maar als het leven van hun zoon begint te neerwaartse spiraal, komen ze oog "
-#~ "in oog met wat het werkelijk betekent om het vertrouwen in God."
-
-#~ msgid "Is it a \"prohibition\" or \"commandment\"?"
-#~ msgstr "Is het een \"verbod\" of \"gebod\"?"
-
-#~ msgid "Determine a short powerfull title which summarizes the commandment"
-#~ msgstr "Bepaal een korte krachtige titel die het gebod doet samenvatten"
-
-#~ msgid ""
-#~ "A Primary reference is the first found unique reference according to the "
-#~ "words of Jesus, directly related to the commandment"
-#~ msgstr ""
-#~ "Een primaire Bijbeltekst is de eerst gevonden unieke referentie volgens de "
-#~ "woorden van Jezus, direct gerelateerd aan het gebod"
-
-#~ msgid ""
-#~ "Direct references are extra references which are not exactly the same as the"
-#~ " primary, but expand or explain the same principle"
-#~ msgstr ""
-#~ "Directe Bijbelteksten zijn extra verwijzingen die niet precies hetzelfde "
-#~ "zijn als de primaire, maar hetzelfde principe uitbreiden of uitleggen"
-
-#~ msgid ""
-#~ "Indirect references are extra, indirect references, or exactly the same as "
-#~ "the primary reference, both relating to the same principle"
-#~ msgstr ""
-#~ "Indirecte Bijbelteksten zijn extra indirecte verwijzingen, gerelateerd aan "
-#~ "hetzelfde principe"
-
-#~ msgid ""
-#~ "\n"
-#~ "                        <p><i>\"%(joh_14_21.text)s\" (%(joh_14_21)s)</i></p>\n"
-#~ "                        <p>Loving God back requires obedience, but what are all of Jesus commandments?</p> \n"
-#~ "                        </br>\n"
-#~ "                        <p>When you will read the gospels, and write down all of the unique commandments, you will at least find all the commandments which are displayed on this websites.</p>\n"
-#~ "                        "
-#~ msgstr ""
-#~ "\n"
-#~ "<p> <i> \"%(joh_14_21.text)s\" (%(joh_14_21)s) </i> </p>\n"
-#~ "                        <p> Het houden van God terug vraagt ​​gehoorzaamheid, maar wat zijn allemaal van Jezus geboden? </p>\n"
-#~ "                        </br>\n"
-#~ "                        <p> Als u de evangeliën, en schrijven leest neer alle unieke geboden, zal je in ieder geval vind alle geboden, die op deze websites worden weergegeven. </p>"
