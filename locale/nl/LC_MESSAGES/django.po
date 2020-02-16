@@ -1083,7 +1083,7 @@ msgid ""
 "commandments in your daily life"
 msgstr ""
 "Jezus leerde veel verschillende dingen. We hebben hulp toepassing van alle "
-"<strong class = \"number\" data-nummer = \"% (commandments_total) s\">% "
+"<strong class = \"number\" data-nummer = \"%(commandments_total)s\">% "
 "(commandments_total) s </ strong> unieke geboden in je dagelijkse leven"
 
 #: commandments_app/templates/commandments/index.html:20
@@ -1281,23 +1281,23 @@ msgid ""
 "\n"
 "                    "
 msgstr ""
-"<P> Jesus Geboden begrijpt dat de gebruikers van de Jezus Geboden website waarde hechten aan hun privacy. Deze privacy statement is om gebruikers te informeren over de beperkte informatie die door deze website worden verzameld en waarom het wordt verzameld. </ P>\n"
-"                    <P> Deze privacyverklaring is in opgenomen en is onderworpen aan het Jesus Geboden <a href=\"/termsandconditions\"> Voorwaarden </a>. </ P>\n"
+"<p> Jesus Geboden begrijpt dat de gebruikers van de Jezus Geboden website waarde hechten aan hun privacy. Deze privacy statement is om gebruikers te informeren over de beperkte informatie die door deze website worden verzameld en waarom het wordt verzameld. </p>\n"
+"                    <p> Deze privacyverklaring is in opgenomen en is onderworpen aan het Jesus Geboden <a href=\"/termsandconditions\"> Voorwaarden </a>. </p>\n"
 "\n"
 "                    <H3> <strong> Wat wij Track en waarom </ strong> </ h3>\n"
-"                    <B> Cookies en logbestandsinformatie </ b>\n"
+"                    <b> Cookies en logbestandsinformatie </b>\n"
 "\n"
-"                    <P> The Jesus Geboden website zal \"cookies\" op te slaan op uw systeem te helpen verbeteren van uw ervaring met de website. Veel van deze cookies betrekking hebben op het aanpassen van uw bezoek. Bijvoorbeeld, zodat u uw taal, bijbelvertaling en bekende bron talen in te stellen. De meeste webbrowsers accepteren automatisch cookies, maar deze kunnen met een handicap door het veranderen van de voorkeuren in uw internet browser instellingen zijn. Als cookies echter zijn uitgeschakeld, zal uw ervaring van de website en haar diensten worden beperkt. </ P>\n"
+"                    <p> The Jesus Geboden website zal \"cookies\" op te slaan op uw systeem te helpen verbeteren van uw ervaring met de website. Veel van deze cookies betrekking hebben op het aanpassen van uw bezoek. Bijvoorbeeld, zodat u uw taal, bijbelvertaling en bekende bron talen in te stellen. De meeste webbrowsers accepteren automatisch cookies, maar deze kunnen met een handicap door het veranderen van de voorkeuren in uw internet browser instellingen zijn. Als cookies echter zijn uitgeschakeld, zal uw ervaring van de website en haar diensten worden beperkt. </p>\n"
 "\n"
-"                    <P> Op de site ook tracks welke middelen u bezoekt en download. Dit is voor het verstrekken van statistische gegevens terug aan de gemeenschap en u te voorzien van informatie over wat u hebt bezocht. Deze informatie is volledig anoniem uit de rest van de Jezus Geboden gemeenschap gehouden: geen enkele andere gebruiker zal ooit verteld waar u bezoekt of wat je aan het downloaden bent. The Jesus Geboden team zal nooit het analyseren van uw persoonlijke surfgedrag - we zullen alleen maar kijken naar de geaggregeerde statistische gegevens (bijvoorbeeld het totale aantal mensen een bezoek aan een bron, of het aantal mensen dat een bezoek aan deze site van een bepaald land, taal of cultuur .) </ p>\n"
+"                    <p> Op de site ook tracks welke middelen u bezoekt en download. Dit is voor het verstrekken van statistische gegevens terug aan de gemeenschap en u te voorzien van informatie over wat u hebt bezocht. Deze informatie is volledig anoniem uit de rest van de Jezus Geboden gemeenschap gehouden: geen enkele andere gebruiker zal ooit verteld waar u bezoekt of wat je aan het downloaden bent. The Jesus Geboden team zal nooit het analyseren van uw persoonlijke surfgedrag - we zullen alleen maar kijken naar de geaggregeerde statistische gegevens (bijvoorbeeld het totale aantal mensen een bezoek aan een bron, of het aantal mensen dat een bezoek aan deze site van een bepaald land, taal of cultuur .) </p>\n"
 "\n"
 "                    <H3> <strong> Aanmelden bij de website </ strong> </ h3>\n"
 "\n"
-"                    <P> Om na de middelen, deelnemen aan een community, snelheid middelen of verlof commentaar, zal u gevraagd worden om een ​​logboek bij te bieden. Dit is om frauduleuze activiteiten te voorkomen door ervoor te zorgen dat een dergelijke transactie is niet anoniem. De informatie die wij verzamelen van registratie gebruiker zal nooit worden gebruikt voor marketing doeleinden, tenzij u expliciet verzoek abonnement op een bepaalde nieuwsbrief of tijdschrift. </ P>\n"
+"                    <p> Om na de middelen, deelnemen aan een community, snelheid middelen of verlof commentaar, zal u gevraagd worden om een ​​logboek bij te bieden. Dit is om frauduleuze activiteiten te voorkomen door ervoor te zorgen dat een dergelijke transactie is niet anoniem. De informatie die wij verzamelen van registratie gebruiker zal nooit worden gebruikt voor marketing doeleinden, tenzij u expliciet verzoek abonnement op een bepaalde nieuwsbrief of tijdschrift. </p>\n"
 "\n"
-"                    <P> Wij verkopen, verhuren of leasen onze gebruikers nooit aan derden, of geef uw gebruiker informatie om hen op geen enkele manier, zonder uitdrukkelijke toestemming van jou. </ P>\n"
+"                    <p> Wij verkopen, verhuren of leasen onze gebruikers nooit aan derden, of geef uw gebruiker informatie om hen op geen enkele manier, zonder uitdrukkelijke toestemming van jou. </p>\n"
 "\n"
-"                    <P> <i> Voor meer informatie over ons privacybeleid, neem dan contact met ons op: <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org </a> </ i> </ p>"
+"                    <p> <i> Voor meer informatie over ons privacybeleid, neem dan contact met ons op: <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org </a> </i> </p>"
 
 #: commandments_app/templates/commandments/single_commandment_overview.html:10
 #, fuzzy
@@ -1744,20 +1744,20 @@ msgid ""
 "                    "
 msgstr ""
 "<H3> <strong> Algemeen </ strong> </ h3>\n"
-"                    <P> Onze doelen met deze site is te luisteren en gehoorzamen aan Jezus, zijn leringen uit te leggen, laat de mensen krijgen geworteld en vruchtbaar zijn in de wereld, om onze Vader te verheerlijken in de hemel </ p>\n"
-"                    <P> U bent vrij om het even welke Jezus Geboden bron gebruiken, zolang het is niet voor winst of andere commerciële doeleinden, het gebruik in overeenstemming is met de Jezus geboden waarden, <a href=\"/vision\"> die hier te vinden </a>, en uw gebruik heeft geen van toepassing zijnde wet- of regelgeving overtreden. </ p>\n"
-"                    <P> Dit betekent dat u: </ p>\n"
+"                    <p> Onze doelen met deze site is te luisteren en gehoorzamen aan Jezus, zijn leringen uit te leggen, laat de mensen krijgen geworteld en vruchtbaar zijn in de wereld, om onze Vader te verheerlijken in de hemel </p>\n"
+"                    <p> U bent vrij om het even welke Jezus Geboden bron gebruiken, zolang het is niet voor winst of andere commerciële doeleinden, het gebruik in overeenstemming is met de Jezus geboden waarden, <a href=\"/vision\"> die hier te vinden </a>, en uw gebruik heeft geen van toepassing zijnde wet- of regelgeving overtreden. </p>\n"
+"                    <p> Dit betekent dat u: </p>\n"
 "                    <Ul>\n"
 "                        <Li> Duplicate middelen voor eigen gebruik en / of het gebruik van uw leiders, kinderen, kerk of groep. </ Li>\n"
 "                        <Li> Verdeel de middelen voor eigen gebruik en / of het gebruik van uw leiders, kinderen, kerk of groep. </ Li>\n"
 "                    </ Ul>\n"
-"                    <P> U bent niet toegestaan ​​om: </ p>\n"
+"                    <p> U bent niet toegestaan ​​om: </p>\n"
 "                    <Ul>\n"
 "                        <Li> Aanpassen of enige middelen te wijzigen zonder onze toestemming. </ Li>\n"
 "                        <Li> Verkopen middelen of deze op te nemen in een commercieel aanbod. </ Li>\n"
 "                    </ Ul>\n"
-"                    <P> Als u zich bewust zijn van de middelen Jezus geboden worden verkocht, of vragen heeft kunt u contact <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org </a> </ p>\n"
-"                    <P> Als u kopiëren en / of te distribueren middelen Jesus Commandments (hetzij door verbranding, het verzenden, dupliceren of welke manier dan ook) kunt u verwijzen naar <a href=\"/\"> www.jesuscommandments.org </a> om te laten anderen weten over de website en middelen. </ p>"
+"                    <p> Als u zich bewust zijn van de middelen Jezus geboden worden verkocht, of vragen heeft kunt u contact <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org </a> </p>\n"
+"                    <p> Als u kopiëren en / of te distribueren middelen Jesus Commandments (hetzij door verbranding, het verzenden, dupliceren of welke manier dan ook) kunt u verwijzen naar <a href=\"/\"> www.jesuscommandments.org </a> om te laten anderen weten over de website en middelen. </p>"
 
 #: commandments_app/templates/commandments/vision.html:12
 #, fuzzy
@@ -2102,17 +2102,17 @@ msgstr "Voer alleen cijfers, gescheiden door komma's."
 #: venv/lib/python3.6/site-packages/django/core/validators.py:310
 #, python-format, fuzzy
 msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "Zorgen deze waarde% (limit_value) s (het% (show_value) s)."
+msgstr "Zorgen deze waarde%(limit_value)s (het%(show_value)s)."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:342
 #, python-format, fuzzy
 msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Zorgen deze waarde is kleiner dan of gelijk aan% (limit_value) s."
+msgstr "Zorgen deze waarde is kleiner dan of gelijk aan%(limit_value)s."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:351
 #, python-format, fuzzy
 msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Zorgen deze waarde groter dan of gelijk aan% (limit_value) s."
+msgstr "Zorgen deze waarde groter dan of gelijk aan%(limit_value)s."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:361
 #, python-format, fuzzy
@@ -2172,8 +2172,8 @@ msgid ""
 "File extension '%(extension)s' is not allowed. Allowed extensions are: "
 "'%(allowed_extensions)s'."
 msgstr ""
-"Bestandsextensie '% (uitbreiding) s' is niet toegestaan. Toegestane "
-"extensies zijn: '% (allowed_extensions) s'."
+"Bestandsextensie '%(uitbreiding)s' is niet toegestaan. Toegestane "
+"extensies zijn: '%(allowed_extensions)s'."
 
 #: venv/lib/python3.6/site-packages/django/core/validators.py:521
 #, fuzzy
@@ -2189,7 +2189,7 @@ msgstr "en"
 #: venv/lib/python3.6/site-packages/django/db/models/base.py:1164
 #, python-format, fuzzy
 msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "% (MODEL_NAME) is dit% (field_labels) s bestaat."
+msgstr "% (MODEL_NAME) is dit%(field_labels)s bestaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:104
 #, python-format, fuzzy
@@ -2209,7 +2209,7 @@ msgstr "Dit veld kan niet leeg zijn."
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:107
 #, python-format, fuzzy
 msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "% (MODEL_NAME) is dit% (FIELD_LABEL) s bestaat."
+msgstr "% (MODEL_NAME) is dit%(field_label)s bestaat."
 
 #. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
 #. Eg: "Title must be unique for pub_date year"
@@ -2218,13 +2218,13 @@ msgstr "% (MODEL_NAME) is dit% (FIELD_LABEL) s bestaat."
 msgid ""
 "%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
 msgstr ""
-"% (FIELD_LABEL) s moet uniek% bedragen (date_field_label) s% (lookup_type) "
+"%(field_label)s moet uniek% bedragen (date_field_label) s% (lookup_type) "
 "s."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:128
 #, python-format, fuzzy
 msgid "Field of type: %(field_type)s"
-msgstr "Veld type:% (field_type) s"
+msgstr "Veld type:%(field_type)s"
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:901
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1768
@@ -2236,7 +2236,7 @@ msgstr "Geheel getal"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1766
 #, python-format, fuzzy
 msgid "'%(value)s' value must be an integer."
-msgstr "'% (Value) s' waarde moet een geheel getal zijn."
+msgstr "'%(value)s' waarde moet een geheel getal zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:980
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1846
@@ -2247,12 +2247,12 @@ msgstr "Big (8 byte) integer"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:992
 #, python-format, fuzzy
 msgid "'%(value)s' value must be either True or False."
-msgstr "'% (Waarde) s' waarde moet ofwel waar of onwaar zijn."
+msgstr "'%(waarde)s' waarde moet ofwel waar of onwaar zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:993
 #, python-format, fuzzy
 msgid "'%(value)s' value must be either True, False, or None."
-msgstr "'% (Waarde) s' waarde moet ofwel True, False of None zijn."
+msgstr "'%(waarde)s' waarde moet ofwel True, False of None zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:995
 #, fuzzy
@@ -2263,7 +2263,7 @@ msgstr "Boolean (waar of onwaar)"
 #: venv/lib/python3.6/site-packages/nullablecharfield/db/models/fields.py:8
 #, python-format, fuzzy
 msgid "String (up to %(max_length)s)"
-msgstr "Reeks (maximaal% (max_length) s)"
+msgstr "Reeks (maximaal%(max_length)s)"
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1100
 #, fuzzy
@@ -2276,7 +2276,7 @@ msgid ""
 "'%(value)s' value has an invalid date format. It must be in YYYY-MM-DD "
 "format."
 msgstr ""
-"'% (Waarde) s' waarde heeft een ongeldige datumnotatie. Het moet in YYYY-MM-"
+"'%(waarde)s' waarde heeft een ongeldige datumnotatie. Het moet in YYYY-MM-"
 "DD formaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1151
@@ -2286,7 +2286,7 @@ msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD) but it is an invalid "
 "date."
 msgstr ""
-"'% (Waarde) s' waarde heeft het juiste formaat (YYYY-MM-DD), maar het is een"
+"'%(waarde)s' waarde heeft het juiste formaat (YYYY-MM-DD), maar het is een"
 " ongeldige datum."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1154
@@ -2300,7 +2300,7 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in YYYY-MM-DD "
 "HH:MM[:ss[.uuuuuu]][TZ] format."
 msgstr ""
-"'% (Waarde) s' waarde heeft een ongeldige indeling. Het moet in YYYY-MM-DD "
+"'%(waarde)s' waarde heeft een ongeldige indeling. Het moet in YYYY-MM-DD "
 "UU: MM [: ss [.uuuuuu]] [TZ] formaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1296
@@ -2309,7 +2309,7 @@ msgid ""
 "'%(value)s' value has the correct format (YYYY-MM-DD "
 "HH:MM[:ss[.uuuuuu]][TZ]) but it is an invalid date/time."
 msgstr ""
-"'% (Waarde) s' waarde heeft het juiste formaat (YYYY-MM-DD UU: MM [: ss "
+"'%(waarde)s' waarde heeft het juiste formaat (YYYY-MM-DD UU: MM [: ss "
 "[.uuuuuu]] [TZ]), maar het is een ongeldige datum / tijd."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1300
@@ -2320,7 +2320,7 @@ msgstr "Date (tijd)"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1448
 #, python-format, fuzzy
 msgid "'%(value)s' value must be a decimal number."
-msgstr "'% (Value) s' waarde moet een decimaal getal."
+msgstr "'%(value)s' waarde moet een decimaal getal."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1450
 #, fuzzy
@@ -2333,7 +2333,7 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in [DD] "
 "[HH:[MM:]]ss[.uuuuuu] format."
 msgstr ""
-"'% (Waarde) s' waarde heeft een ongeldige indeling. Het moet in [DD] [UU: "
+"'%(waarde)s' waarde heeft een ongeldige indeling. Het moet in [DD] [UU: "
 "[MM:]] ss [.uuuuuu] formaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1592
@@ -2354,7 +2354,7 @@ msgstr "Bestandspad"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1731
 #, python-format, fuzzy
 msgid "'%(value)s' value must be a float."
-msgstr "'% (Value) s' waarde moet een float zijn."
+msgstr "'%(value)s' waarde moet een float zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1733
 #, fuzzy
@@ -2375,7 +2375,7 @@ msgstr "IP adres"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1974
 #, python-format, fuzzy
 msgid "'%(value)s' value must be either None, True or False."
-msgstr "'% (Waarde) s' waarde moet ofwel None, waar of onwaar zijn."
+msgstr "'%(waarde)s' waarde moet ofwel None, waar of onwaar zijn."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:1976
 #, fuzzy
@@ -2395,7 +2395,7 @@ msgstr "Positieve kleine integer"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2038
 #, python-format, fuzzy
 msgid "Slug (up to %(max_length)s)"
-msgstr "Slug (tot% (max_length) s)"
+msgstr "Slug (tot%(max_length)s)"
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2070
 #, fuzzy
@@ -2413,7 +2413,7 @@ msgid ""
 "'%(value)s' value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
 "format."
 msgstr ""
-"'% (Waarde) s' waarde heeft een ongeldige indeling. Het moet in HH: MM [: ss"
+"'%(waarde)s' waarde heeft een ongeldige indeling. Het moet in HH: MM [: ss"
 " [.uuuuuu]] formaat."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2107
@@ -2422,7 +2422,7 @@ msgid ""
 "'%(value)s' value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
 "invalid time."
 msgstr ""
-"'% (Waarde) s' waarde heeft het juiste formaat (HH: MM [: ss [.uuuuuu]]), "
+"'%(waarde)s' waarde heeft het juiste formaat (HH: MM [: ss [.uuuuuu]]), "
 "maar het is een ongeldige tijd."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2110
@@ -2443,7 +2443,7 @@ msgstr "Ruwe binaire data"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2308
 #, python-format, fuzzy
 msgid "'%(value)s' is not a valid UUID."
-msgstr "'% (Value) s' is geen geldige UUID."
+msgstr "'%(value)s' is geen geldige UUID."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py:2310
 #, fuzzy
@@ -2463,7 +2463,7 @@ msgstr "Beeld"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:778
 #, python-format, fuzzy
 msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr "% (Model) s bijvoorbeeld met% (veld) s% (waarde) r bestaat niet."
+msgstr "%(model)s bijvoorbeeld met%(veld)s% (waarde) r bestaat niet."
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:780
 #, fuzzy
@@ -2478,12 +2478,12 @@ msgstr "Eén-op-één relatie"
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1057
 #, python-format, fuzzy
 msgid "%(from)s-%(to)s relationship"
-msgstr "% (Van) s -% (to) en verhouding"
+msgstr "%(van)s -% (to) en verhouding"
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1058
 #, python-format, fuzzy
 msgid "%(from)s-%(to)s relationships"
-msgstr "% (Van) s -% (to) en relaties"
+msgstr "%(van)s -% (to) en relaties"
 
 #: venv/lib/python3.6/site-packages/django/db/models/fields/related.py:1100
 #, fuzzy
@@ -2583,7 +2583,7 @@ msgstr ""
 #, python-format, fuzzy
 msgid "Select a valid choice. %(value)s is not one of the available choices."
 msgstr ""
-"Selecteer een geldige keuze. % (Waarde) s is niet een van de beschikbare "
+"Selecteer een geldige keuze. %(waarde)s is niet een van de beschikbare "
 "keuzes."
 
 #: venv/lib/python3.6/site-packages/django/forms/fields.py:853
@@ -2612,7 +2612,7 @@ msgstr ":"
 #: venv/lib/python3.6/site-packages/django/forms/forms.py:212
 #, python-format, fuzzy
 msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Verborgen veld% (name) s)% (error) s"
+msgstr "(Verborgen veld%(name)s)%(error)s"
 
 #: venv/lib/python3.6/site-packages/django/forms/formsets.py:91
 #, fuzzy
@@ -2647,12 +2647,12 @@ msgstr "Delete"
 #: venv/lib/python3.6/site-packages/django/forms/models.py:751
 #, python-format, fuzzy
 msgid "Please correct the duplicate data for %(field)s."
-msgstr "Corrigeer de dubbele gegevens voor% (veld) s."
+msgstr "Corrigeer de dubbele gegevens voor%(veld)s."
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:755
 #, python-format, fuzzy
 msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "Corrigeer de dubbele gegevens voor% (veld) s, die uniek moet zijn."
+msgstr "Corrigeer de dubbele gegevens voor%(veld)s, die uniek moet zijn."
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:761
 #, python-format, fuzzy
@@ -2660,8 +2660,8 @@ msgid ""
 "Please correct the duplicate data for %(field_name)s which must be unique "
 "for the %(lookup)s in %(date_field)s."
 msgstr ""
-"Corrigeer de dubbele gegevens voor% (field_name) s die uniek is voor de% "
-"moet zijn (lookup) s in% (date_field) s."
+"Corrigeer de dubbele gegevens voor%(field_name)s die uniek is voor de% "
+"moet zijn (lookup) s in%(date_field)s."
 
 #: venv/lib/python3.6/site-packages/django/forms/models.py:770
 #, fuzzy
@@ -2684,7 +2684,7 @@ msgstr ""
 #: venv/lib/python3.6/site-packages/django/forms/models.py:1272
 #, python-format, fuzzy
 msgid "\"%(pk)s\" is not a valid value."
-msgstr "\"% (Pk) s\" is geen geldige waarde."
+msgstr "\"%(pk)s\" is geen geldige waarde."
 
 #: venv/lib/python3.6/site-packages/django/forms/utils.py:162
 #, python-format, fuzzy
@@ -2692,7 +2692,7 @@ msgid ""
 "%(datetime)s couldn't be interpreted in time zone %(current_timezone)s; it "
 "may be ambiguous or it may not exist."
 msgstr ""
-"% (Datetime) s kon niet worden uitgelegd tijdzone% (current_timezone) s; het"
+"%(datetime)s kon niet worden uitgelegd tijdzone%(current_timezone)s; het"
 " kan dubbelzinnig zijn of het kan niet bestaan."
 
 #: venv/lib/python3.6/site-packages/django/forms/widgets.py:395
@@ -3136,7 +3136,7 @@ msgstr "Dit is geen geldig IPv6-adres."
 #, python-format, fuzzy
 msgctxt "String to return when truncating text"
 msgid "%(truncated_text)s…"
-msgstr "% (TRUNCATED_TEXT) s ..."
+msgstr "%(truncated_text)s ..."
 
 #: venv/lib/python3.6/site-packages/django/utils/text.py:233
 #, fuzzy
@@ -3304,7 +3304,7 @@ msgstr "Geen week gespecificeerd"
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:367
 #, python-format, fuzzy
 msgid "No %(verbose_name_plural)s available"
-msgstr "Geen% (verbose_name_plural) s beschikbaar"
+msgstr "Geen%(verbose_name_plural)s beschikbaar"
 
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:589
 #, python-format, fuzzy
@@ -3318,12 +3318,12 @@ msgstr ""
 #: venv/lib/python3.6/site-packages/django/views/generic/dates.py:623
 #, python-format, fuzzy
 msgid "Invalid date string '%(datestr)s' given format '%(format)s'"
-msgstr "Ongeldige datum string '% (datestr) s' gegeven format '% (format) s'"
+msgstr "Ongeldige datum string '%(datestr)s' gegeven format '%(format)s'"
 
 #: venv/lib/python3.6/site-packages/django/views/generic/detail.py:54
 #, python-format, fuzzy
 msgid "No %(verbose_name)s found matching the query"
-msgstr "Nr% (verbose_name) s gevonden met zoekopdracht"
+msgstr "Nr%(verbose_name)s gevonden met zoekopdracht"
 
 #: venv/lib/python3.6/site-packages/django/views/generic/list.py:67
 #, fuzzy
@@ -3333,12 +3333,12 @@ msgstr "Pagina is niet 'laatste', noch kan het worden omgezet naar een int."
 #: venv/lib/python3.6/site-packages/django/views/generic/list.py:72
 #, python-format, fuzzy
 msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Ongeldige pagina (% (paginanummer) s):% (bericht) s"
+msgstr "Ongeldige pagina (%(paginanummer)s):%(bericht)s"
 
 #: venv/lib/python3.6/site-packages/django/views/generic/list.py:154
 #, python-format, fuzzy
 msgid "Empty list and '%(class_name)s.allow_empty' is False."
-msgstr "Lege lijst en '% (class_name) s.allow_empty' is False."
+msgstr "Lege lijst en '%(class_name)s.allow_empty' is False."
 
 #: venv/lib/python3.6/site-packages/django/views/static.py:40
 #, fuzzy
@@ -3348,12 +3348,12 @@ msgstr "Directory indexen zijn hier niet toegestaan."
 #: venv/lib/python3.6/site-packages/django/views/static.py:42
 #, python-format, fuzzy
 msgid "\"%(path)s\" does not exist"
-msgstr "\"% (Path) s\" bestaat niet"
+msgstr "\"%(path)s\" bestaat niet"
 
 #: venv/lib/python3.6/site-packages/django/views/static.py:80
 #, python-format, fuzzy
 msgid "Index of %(directory)s"
-msgstr "Index van% (directory) s"
+msgstr "Index van%(directory)s"
 
 #: venv/lib/python3.6/site-packages/django/views/templates/default_urlconf.html:6
 #, fuzzy
