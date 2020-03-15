@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-16 11:17+0000\n"
+"POT-Creation-Date: 2020-03-15 16:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1945,7 +1945,8 @@ msgstr ""
 msgid ""
 "Blessed are the peacemakers: for they shall be called the children of God"
 msgstr ""
-"Zalig zijn de vredestichters, want zij zullen zonen van God genoemd worden"
+"Zalig zijn de vredestichters, want zij zullen kinderen van God genoemd "
+"worden"
 
 #: commandments_app.Commandment/title:16
 msgid ""
@@ -2623,8 +2624,7 @@ msgstr ""
 
 #: commandments_app.Commandment/title:80
 msgid "And, lo, I am with you always, even unto the end of the world"
-msgstr ""
-"En zie, ik ben met u, al de dagen, tot aan de voleinding van de wereld"
+msgstr "En zie, ik ben met u, al de dagen, tot de voleinding van de wereld"
 
 #: commandments_app.Commandment/quote:80
 msgid ""
@@ -2928,4 +2928,3 @@ msgid ""
 msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
-
