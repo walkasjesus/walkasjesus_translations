@@ -8,15 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-15 16:19+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2020-03-29 18:19+0000\n"
+"PO-Revision-Date: 2020-03-29 18:38+0000\n"
+"Last-Translator: b'  <info@jesuscommandments.org>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Translated-Using: django-rosetta 0.9.3\n"
 
 #: account_app/templates/account/change_password.html:8
 #: account_app/templates/account/profile.html:55 templates/modal.html:70
@@ -421,7 +422,7 @@ msgstr "Judas"
 msgid "Revelation"
 msgstr "Openbaring"
 
-#: commandments_app/models/bible_reference.py:73
+#: commandments_app/models/bible_reference.py:75
 msgid "Could not load text at the moment."
 msgstr "Kan tekst op dit moment niet laden."
 
@@ -542,13 +543,12 @@ msgstr "Inschakelen"
 #: commandments_app/templates/commandments/detail.html:24
 #: commandments_app/templates/commandments/detail.html:31
 #: commandments_app/templates/commandments/detail.html:38
-#: commandments_app/templates/commandments/detail.html:45
+#: commandments_app/templates/commandments/detail.html:52
 #: commandments_app/templates/commandments/detail.html:59
 #: commandments_app/templates/commandments/detail.html:66
 #: commandments_app/templates/commandments/detail.html:73
 #: commandments_app/templates/commandments/detail.html:80
 #: commandments_app/templates/commandments/detail.html:87
-#: commandments_app/templates/commandments/detail.html:94
 msgid "Jump to:"
 msgstr "Spring naar:"
 
@@ -557,70 +557,65 @@ msgid "Bible references"
 msgstr "Bijbelteksten"
 
 #: commandments_app/templates/commandments/detail.html:17
-#: commandments_app/templates/commandments/detail.html:280
-msgid "Devotional"
-msgstr "Stichtelijk woord"
-
-#: commandments_app/templates/commandments/detail.html:24
-#: commandments_app/templates/commandments/detail.html:296
+#: commandments_app/templates/commandments/detail.html:338
 msgid "Drawings"
 msgstr "Illustraties"
 
-#: commandments_app/templates/commandments/detail.html:31
-#: commandments_app/templates/commandments/detail.html:315
+#: commandments_app/templates/commandments/detail.html:24
+#: commandments_app/templates/commandments/detail.html:357
 msgid "Pictures"
 msgstr "Afbeeldingen"
 
-#: commandments_app/templates/commandments/detail.html:38
-#: commandments_app/templates/commandments/detail.html:358
+#: commandments_app/templates/commandments/detail.html:31
+#: commandments_app/templates/commandments/detail.html:400
 msgid "Questions"
 msgstr "Vragen"
 
-#: commandments_app/templates/commandments/detail.html:45
-#: commandments_app/templates/commandments/detail.html:398
+#: commandments_app/templates/commandments/detail.html:38
+#: commandments_app/templates/commandments/detail.html:441
 msgid "Superbook"
 msgstr "Superbook"
 
-#: commandments_app/templates/commandments/detail.html:59
-#: commandments_app/templates/commandments/detail.html:440
+#: commandments_app/templates/commandments/detail.html:52
+#: commandments_app/templates/commandments/detail.html:483
 msgid "Songs"
 msgstr "Liederen"
 
-#: commandments_app/templates/commandments/detail.html:66
-#: commandments_app/templates/commandments/detail.html:461
+#: commandments_app/templates/commandments/detail.html:59
+#: commandments_app/templates/commandments/detail.html:504
 msgid "Movies"
 msgstr "Films"
 
-#: commandments_app/templates/commandments/detail.html:73
-#: commandments_app/templates/commandments/detail.html:482
+#: commandments_app/templates/commandments/detail.html:66
+#: commandments_app/templates/commandments/detail.html:525
 msgid "Testimonies"
 msgstr "Getuigenissen"
 
-#: commandments_app/templates/commandments/detail.html:80
-#: commandments_app/templates/commandments/detail.html:503
+#: commandments_app/templates/commandments/detail.html:73
+#: commandments_app/templates/commandments/detail.html:546
 msgid "Blogs"
 msgstr "Blogs"
 
-#: commandments_app/templates/commandments/detail.html:87
-#: commandments_app/templates/commandments/detail.html:521
+#: commandments_app/templates/commandments/detail.html:80
+#: commandments_app/templates/commandments/detail.html:564
 msgid "Sermons"
 msgstr "Preken"
 
-#: commandments_app/templates/commandments/detail.html:94
-#: commandments_app/templates/commandments/detail.html:542
+#: commandments_app/templates/commandments/detail.html:87
+#: commandments_app/templates/commandments/detail.html:585
 msgid "Books"
 msgstr "Boeken"
 
-#: commandments_app/templates/commandments/detail.html:125
+#: commandments_app/templates/commandments/detail.html:118
 #: commandments_app/templates/commandments/index.html:16 templates/base.html:9
 msgid "Jesus Commandments"
 msgstr "Jezus Geboden"
 
-#: commandments_app/templates/commandments/detail.html:126
+#: commandments_app/templates/commandments/detail.html:119
 msgid "Primary unique commandment"
 msgstr "Primair uniek gebod"
 
-#: commandments_app/templates/commandments/detail.html:136
+#: commandments_app/templates/commandments/detail.html:129
 #: commandments_app/templates/commandments/study_listing.html:55
 msgid ""
 "This Primary Bible reference is a unique Bible reference according to the "
@@ -629,46 +624,46 @@ msgstr ""
 "Deze Primaire Bijbeltekst is de eerst gevonden unieke referentie volgens de "
 "woorden van Jezus, direct gerelateerd aan het gebod"
 
-#: commandments_app/templates/commandments/detail.html:139
+#: commandments_app/templates/commandments/detail.html:132
 msgid "Negative commandments"
 msgstr "Negatieve geboden"
 
-#: commandments_app/templates/commandments/detail.html:145
+#: commandments_app/templates/commandments/detail.html:138
 msgid "Commandment category"
 msgstr "Gebod categorie"
 
-#: commandments_app/templates/commandments/detail.html:158
+#: commandments_app/templates/commandments/detail.html:151
 msgid "Direct Bible References"
 msgstr "Directe Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:159
+#: commandments_app/templates/commandments/detail.html:152
 #: commandments_app/templates/commandments/study_listing.html:56
 msgid ""
 "Extra direct Bible references which expands or explain the same commandment"
 msgstr ""
 "Extra directe Bijbelteksten die hetzelfde gebod uitleggen of aanvullen"
 
-#: commandments_app/templates/commandments/detail.html:163
-#: commandments_app/templates/commandments/detail.html:165
-#: commandments_app/templates/commandments/detail.html:167
-#: commandments_app/templates/commandments/detail.html:169
-#: commandments_app/templates/commandments/detail.html:180
-#: commandments_app/templates/commandments/detail.html:182
-#: commandments_app/templates/commandments/detail.html:184
-#: commandments_app/templates/commandments/detail.html:186
-#: commandments_app/templates/commandments/detail.html:197
-#: commandments_app/templates/commandments/detail.html:199
-#: commandments_app/templates/commandments/detail.html:201
-#: commandments_app/templates/commandments/detail.html:203
-#: commandments_app/templates/commandments/detail.html:214
+#: commandments_app/templates/commandments/detail.html:156
+#: commandments_app/templates/commandments/detail.html:158
+#: commandments_app/templates/commandments/detail.html:160
+#: commandments_app/templates/commandments/detail.html:162
+#: commandments_app/templates/commandments/detail.html:173
+#: commandments_app/templates/commandments/detail.html:175
+#: commandments_app/templates/commandments/detail.html:177
+#: commandments_app/templates/commandments/detail.html:179
+#: commandments_app/templates/commandments/detail.html:211
 #: commandments_app/templates/commandments/detail.html:216
-#: commandments_app/templates/commandments/detail.html:218
-#: commandments_app/templates/commandments/detail.html:220
-#: commandments_app/templates/commandments/detail.html:231
-#: commandments_app/templates/commandments/detail.html:233
-#: commandments_app/templates/commandments/detail.html:235
-#: commandments_app/templates/commandments/detail.html:237
-#: commandments_app/templates/commandments/detail.html:256
+#: commandments_app/templates/commandments/detail.html:221
+#: commandments_app/templates/commandments/detail.html:226
+#: commandments_app/templates/commandments/detail.html:242
+#: commandments_app/templates/commandments/detail.html:247
+#: commandments_app/templates/commandments/detail.html:252
+#: commandments_app/templates/commandments/detail.html:257
+#: commandments_app/templates/commandments/detail.html:273
+#: commandments_app/templates/commandments/detail.html:278
+#: commandments_app/templates/commandments/detail.html:283
+#: commandments_app/templates/commandments/detail.html:288
+#: commandments_app/templates/commandments/detail.html:308
 #: commandments_app/templates/commandments/study_listing.html:90
 #: commandments_app/templates/commandments/study_listing.html:180
 #: commandments_app/templates/commandments/vision.html:24
@@ -679,35 +674,11 @@ msgstr ""
 msgid "Author"
 msgstr "Auteur"
 
-#: commandments_app/templates/commandments/detail.html:163
-#: commandments_app/templates/commandments/detail.html:165
-#: commandments_app/templates/commandments/detail.html:167
-#: commandments_app/templates/commandments/detail.html:169
-#: commandments_app/templates/commandments/detail.html:180
-#: commandments_app/templates/commandments/detail.html:182
-#: commandments_app/templates/commandments/detail.html:184
-#: commandments_app/templates/commandments/detail.html:186
-#: commandments_app/templates/commandments/detail.html:197
-#: commandments_app/templates/commandments/detail.html:199
-#: commandments_app/templates/commandments/detail.html:201
-#: commandments_app/templates/commandments/detail.html:203
-#: commandments_app/templates/commandments/detail.html:214
-#: commandments_app/templates/commandments/detail.html:216
-#: commandments_app/templates/commandments/detail.html:218
-#: commandments_app/templates/commandments/detail.html:220
-#: commandments_app/templates/commandments/detail.html:231
-#: commandments_app/templates/commandments/detail.html:233
-#: commandments_app/templates/commandments/detail.html:235
-#: commandments_app/templates/commandments/detail.html:237
-#: commandments_app/templates/commandments/detail.html:257
-msgid "Origin"
-msgstr "Oorsprong"
-
-#: commandments_app/templates/commandments/detail.html:175
+#: commandments_app/templates/commandments/detail.html:168
 msgid "Indirect Bible References"
 msgstr "Indirect Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:176
+#: commandments_app/templates/commandments/detail.html:169
 #: commandments_app/templates/commandments/study_listing.html:57
 msgid ""
 "Extra, more indirect Bible references, relating to the same commandment"
@@ -715,24 +686,70 @@ msgstr ""
 "Extra, meer indirecte Bijbelteksten, die betrekking hebben op hetzelfde "
 "gebod"
 
+#: commandments_app/templates/commandments/detail.html:185
+#| msgid "Bible Reference"
+msgid "OT Law Bible References"
+msgstr "OT Wet Bijbelteksten"
+
+#: commandments_app/templates/commandments/detail.html:186
+msgid ""
+"Old Testament Law Bible references which will relate to OT Commandments "
+"(Jewish tradition teached that there are 613 commandments or mitzvot in the "
+"Torah)"
+msgstr ""
+"Bijbelteksten uit de Wet van het Oude Testament welke gerelateerd zijn aan "
+"OT Geboden (Joodse traditie leert dat er 613 geboden in de Torah staan)"
+
+#: commandments_app/templates/commandments/detail.html:190
 #: commandments_app/templates/commandments/detail.html:192
+#: commandments_app/templates/commandments/detail.html:194
+#: commandments_app/templates/commandments/detail.html:196
+#: commandments_app/templates/commandments/detail.html:309
+msgid "OT Law nr"
+msgstr "OT Wet nr"
+
+#: commandments_app/templates/commandments/detail.html:190
+#: commandments_app/templates/commandments/detail.html:192
+#: commandments_app/templates/commandments/detail.html:194
+#: commandments_app/templates/commandments/detail.html:196
+#: commandments_app/templates/commandments/detail.html:310
+msgid "Rambam Title"
+msgstr "Rambam Titel"
+
+#: commandments_app/templates/commandments/detail.html:190
+#: commandments_app/templates/commandments/detail.html:192
+#: commandments_app/templates/commandments/detail.html:194
+#: commandments_app/templates/commandments/detail.html:196
+#: commandments_app/templates/commandments/detail.html:311
+msgid "Rambam Coding"
+msgstr "Rambam Codering"
+
+#: commandments_app/templates/commandments/detail.html:202
 msgid "Example Bible References"
 msgstr "Voorbeeld Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:193
-#: commandments_app/templates/commandments/study_listing.html:58
+#: commandments_app/templates/commandments/detail.html:203
+#| msgid ""
+#| "In these Bible references you will find examples and testimonies how this "
+#| "commandment is being executed"
 msgid ""
 "In these Bible references you will find examples and testimonies how this "
-"commandment is being executed"
+"commandment was being executed"
 msgstr ""
-"In deze Bijbelteksten vindt u voorbeelden en getuigenissen van mensen die "
-"dit gebod uitleven"
+"In deze Bijbelteksten vindt je voorbeelden en getuigenissen van mensen die "
+"dit gebod uitleefden"
 
-#: commandments_app/templates/commandments/detail.html:209
+#: commandments_app/templates/commandments/detail.html:205
+#: commandments_app/templates/commandments/detail.html:236
+#: commandments_app/templates/commandments/detail.html:267
+msgid "Please click on the Bible Reference to show its corresponding text."
+msgstr "Klik op de Bijbeltekst om de bijbehorende tekst te zien."
+
+#: commandments_app/templates/commandments/detail.html:233
 msgid "Duplicate Bible References"
 msgstr "Dubbele Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:210
+#: commandments_app/templates/commandments/detail.html:234
 #: commandments_app/templates/commandments/study_listing.html:59
 msgid ""
 "Another Bible reference to more or less the same as the primary, direct or "
@@ -743,11 +760,11 @@ msgstr ""
 "of indirecte Bijbelteksten, met niet veel nieuwe informatie, hoewel het "
 "dezelfde Bijbelteksten zal bevestigen"
 
-#: commandments_app/templates/commandments/detail.html:226
+#: commandments_app/templates/commandments/detail.html:264
 msgid "Study Bible References"
 msgstr "Studie Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:227
+#: commandments_app/templates/commandments/detail.html:265
 #: commandments_app/templates/commandments/study_listing.html:60
 msgid ""
 "Extra Bible references (most often larger parts of Bible books) which are "
@@ -756,25 +773,28 @@ msgstr ""
 "Extra Bijbelteksten (meestal grotere delen Bijbelboeken) die goed zijn voor "
 "extra studie over dit gebod"
 
-#: commandments_app/templates/commandments/detail.html:243
+#: commandments_app/templates/commandments/detail.html:295
 msgid "Legend"
 msgstr "Legenda"
 
-#: commandments_app/templates/commandments/detail.html:244
+#: commandments_app/templates/commandments/detail.html:296
 #: commandments_app/templates/commandments/study_listing.html:192
 #: commandments_app/templates/commandments/vision.html:87
 msgid "Bible verses copyright"
 msgstr "Bijbelteksten copyright"
 
-#: commandments_app/templates/commandments/detail.html:247
+#: commandments_app/templates/commandments/detail.html:299
+#| msgid ""
+#| "Click here to see the explanation of the different symbols, Author, Origin "
+#| "etc."
 msgid ""
-"Click here to see the explanation of the different symbols, Author, Origin "
+"Click here to see the explanation of the different symbols, Author, OT Law "
 "etc."
 msgstr ""
-"Klik hier om de uitleg van de verschillende symbolen, auteur, oorsprong etc."
-" te zien"
+"Klik hier om de uitleg van de verschillende symbolen, auteur, OT Wet etc. te"
+" zien"
 
-#: commandments_app/templates/commandments/detail.html:252
+#: commandments_app/templates/commandments/detail.html:304
 msgid ""
 "A related Bible reference to the commandment which is negative, something "
 "you should not do"
@@ -782,14 +802,14 @@ msgstr ""
 "Een verwante Bijbeltekst naar het gebod dat negatief is, iets wat je niet "
 "moet doen"
 
-#: commandments_app/templates/commandments/detail.html:253
+#: commandments_app/templates/commandments/detail.html:305
 msgid ""
 "A related Bible reference to the commandment which is both positive and "
 "negative"
 msgstr ""
 "Een verwante Bijbeltekst naar het gebod die zowel positief als negatief is"
 
-#: commandments_app/templates/commandments/detail.html:254
+#: commandments_app/templates/commandments/detail.html:306
 msgid ""
 "A related Bible reference to the commandment which is positive, something "
 "you should do or learn from"
@@ -797,7 +817,7 @@ msgstr ""
 "Een verwante Bijbeltekst naar het gebod dat positief is, iets wat je moet "
 "doen of waar je van kunt leren"
 
-#: commandments_app/templates/commandments/detail.html:255
+#: commandments_app/templates/commandments/detail.html:307
 msgid ""
 "A related Bible reference to the commandment which is not yet determined "
 "positive or negative"
@@ -805,44 +825,80 @@ msgstr ""
 "Een verwante Bijbeltekst naar het gebod wat nog inbepaald is (Positief, "
 "Negatief of Beide)"
 
-#: commandments_app/templates/commandments/detail.html:256
+#: commandments_app/templates/commandments/detail.html:308
 msgid "Indicates the known author from this Bible reference"
 msgstr ""
 "Geeft de bekende auteur weer, of persoon waar het over gaat, van deze "
 "Bijbeltekst"
 
-#: commandments_app/templates/commandments/detail.html:257
+#: commandments_app/templates/commandments/detail.html:309
 msgid ""
-"The coding refers to the commandments layout of Rabbi Chafetz Chayim (From "
-"'The Concise Book of Mitzvoth')"
+"Jewish tradition teached that there are 613 commandments or mitzvot in the "
+"Torah. We list the Number, based on a chronological order (Genesis, Exodus, "
+"Leviticus, Numeri, Deuteronomium)."
 msgstr ""
-"De codering verwijst naar de geboden lay-out van Rabbi Chafetz Chayim (Van "
-"het boek 'The Concise Book of Mitzvoth')"
+"Joodse traditie leert dat er 613 geboden in de Torah staan. We laten het "
+"nummer zien, gebasseerd op de chronologische volgorde (Genesis, Exodus, "
+"Levicitus, Numeri, Deuteronomium)."
 
-#: commandments_app/templates/commandments/detail.html:300
+#: commandments_app/templates/commandments/detail.html:310
+msgid ""
+"This is the commandment, as an interpretation of Rambam (commonly known as "
+"Maimonides)"
+msgstr ""
+"Dit is het gebod, zoals Rambam (ook bekend als Maimonides) deze heeft "
+"geinterpreteerd"
+
+#: commandments_app/templates/commandments/detail.html:311
+#| msgid ""
+#| "The coding refers to the commandments layout of Rabbi Chafetz Chayim (From "
+#| "'The Concise Book of Mitzvoth')"
+msgid ""
+"The coding refers to the commandments layout of Rambam. Rabbi Chafetz Chayim"
+" wrote a book with all the commandments which can still be observed today. "
+"The book is called 'The Concise Book of Mitzvoth'"
+msgstr ""
+"De codering verwijst naar de geboden lay-out van Rambam. Rabbi Chafetz "
+"Chayim schreeft een boek met alle geboden welke vandaag de dag nog steeds "
+"uitgevoerd kunnen worden. Dit boek heet 'The Concise Book of Mitzvoth'"
+
+#: commandments_app/templates/commandments/detail.html:318
+msgid "Who came up with this \"613 Mitzvot\"?"
+msgstr "Wie heeft de \"613 geboden\" bedacht?"
+
+#: commandments_app/templates/commandments/detail.html:319
+msgid ""
+"\n"
+"                                        Rabbi Moshe ben Maimon, His full name was Rabbi Moses Ben Maimon. His name formed the acronym as \"The Rambam\" was born on the 14th of Nisan 4895 (30th March 1135) and he died on the 20th of Tevet of 4965 (Dec. 13 1204). The Rambam was one of the most saught after individuals of his time. Not only as a Halachic authority, but also within the secular world of kings and sultans, for his vast knowledge of secular medecines was outstanding. When writting the Mishna Torah, Ramban reviewed the Torah's Mitzvot, and he itemized them. He seperated the positive and negative mitzvot, listed them, all 613, and discussed them.\n"
+"                                    "
+msgstr ""
+"\n"
+"Rabbi Moshe ben Maimon, zijn volledige naam was Rabbi Moses Ben Maimon. Zijn naam, als acronym de \"Rambam\", was geboren op de 14e van Nisan 4895 (30 maart 1135) an stierf op de 20e van Tevet 4965 (13 Dec 1204). De Rambam was 1 van de meest gezochte individuen van zijn tijd. Niet alleen als een Halachic autoriteit, maar ook in de seculiere wereld door koningen en sultans. Want zijn brede kennis over seculiere medicijnen was buitengewoon. Wanneer hij de Mishna Torag schreef, controleerde hij de Torah zijn geboden en heeft hij ze gecategoriseerd. Hij scheidde de positieve en negatieve geboden, somde ze op, alle 613, en besprak ze."
+
+#: commandments_app/templates/commandments/detail.html:342
 msgid "Artist"
 msgstr "Artiest"
 
-#: commandments_app/templates/commandments/detail.html:327
-#: commandments_app/templates/commandments/detail.html:331
+#: commandments_app/templates/commandments/detail.html:369
+#: commandments_app/templates/commandments/detail.html:373
 msgid "Photographer"
 msgstr "Fotograaf"
 
-#: commandments_app/templates/commandments/detail.html:359
+#: commandments_app/templates/commandments/detail.html:401
 msgid "Share your hearts together by discussing the following questions:"
 msgstr "Deel je harten met elkaar door het bespreking van de volgende vragen:"
 
-#: commandments_app/templates/commandments/detail.html:361
+#: commandments_app/templates/commandments/detail.html:403
 msgid "Is there anything you don't understand within this commandment?"
 msgstr "Is er iets dat je niet binnen dit gebod begrijpt?"
 
-#: commandments_app/templates/commandments/detail.html:362
+#: commandments_app/templates/commandments/detail.html:404
 msgid "Wat appeals to you about all Bible references and resources?"
 msgstr ""
 "Wat spreekt je aan bij alle Bijbelteksten en middelen (Illustratie, Fimpjes,"
 " Foto's, Preken, etc)?"
 
-#: commandments_app/templates/commandments/detail.html:363
+#: commandments_app/templates/commandments/detail.html:405
 msgid ""
 "How do you apply this commandment in your life or do you experience any "
 "boundaries?"
@@ -850,15 +906,15 @@ msgstr ""
 "Hoe ga je dit gebod toepassen in je leven of ervaar je nog bepaalde "
 "blokkades?"
 
-#: commandments_app/templates/commandments/detail.html:366
+#: commandments_app/templates/commandments/detail.html:408
 msgid "Extra questions"
 msgstr "Extra vragen"
 
-#: commandments_app/templates/commandments/detail.html:380
+#: commandments_app/templates/commandments/detail.html:423
 msgid "Resource Language Settings"
 msgstr "Taalinstellingen van de middelen"
 
-#: commandments_app/templates/commandments/detail.html:381
+#: commandments_app/templates/commandments/detail.html:424
 msgid ""
 "Below you will find all kinds of related resources to this commandment, to "
 "help you grow. Resources can be Sermons, Testimonies, Movies, Shortmovies, "
@@ -870,7 +926,7 @@ msgstr ""
 "korte films, liederen, blogs of boeken. U kunt meerdere talen selecteren om "
 "deze middelen te zien in meer talen."
 
-#: commandments_app/templates/commandments/detail.html:382
+#: commandments_app/templates/commandments/detail.html:425
 msgid ""
 "Do you know more good resources in your language which can be added to this "
 "list? Please <a href=\"mailto:info@jesuscommandments.org\">contact us</a> so"
@@ -881,19 +937,19 @@ msgstr ""
 "ons op </a> of <a href=\"\"> registreer je </a> zodat je het zelf kunt "
 "toevoegen"
 
-#: commandments_app/templates/commandments/detail.html:384
+#: commandments_app/templates/commandments/detail.html:427
 msgid "Change resource language"
 msgstr "Wijzig taal voor middelen"
 
-#: commandments_app/templates/commandments/detail.html:403
+#: commandments_app/templates/commandments/detail.html:446
 msgid "Watch now on"
 msgstr "Kijk nu op"
 
-#: commandments_app/templates/commandments/detail.html:419
+#: commandments_app/templates/commandments/detail.html:462
 msgid "Short Movies"
 msgstr "Korte Filmpjes"
 
-#: commandments_app/templates/commandments/detail.html:566
+#: commandments_app/templates/commandments/detail.html:609
 msgid "Quote by"
 msgstr "Citaat door"
 
@@ -1366,6 +1422,14 @@ msgstr "Indirect"
 msgid "Example"
 msgstr "Voorbeeld"
 
+#: commandments_app/templates/commandments/study_listing.html:58
+msgid ""
+"In these Bible references you will find examples and testimonies how this "
+"commandment is being executed"
+msgstr ""
+"In deze Bijbelteksten vindt u voorbeelden en getuigenissen van mensen die "
+"dit gebod uitleven"
+
 #: commandments_app/templates/commandments/study_listing.html:59
 #: commandments_app/templates/commandments/study_listing.html:157
 msgid "Duplicate"
@@ -1722,44 +1786,6 @@ msgstr ""
 msgid "Repent and believe the gospel"
 msgstr "Bekeer u en geloof het evangelie"
 
-#: commandments_app.Commandment/devotional:1
-msgid ""
-"<h5>What is the gospel?</h5>\n"
-"<p><i>Here is a summary of the circle story of the Gospel according to the Bible.</i></p>\n"
-"\n"
-"<ol type = 1>\n"
-"<li>Before there was anything, God was there. God created heaven and earth and man according to his image. He created them male and female. God and man loved each other.</li>\n"
-"<li>The righteous God told man that if they rebelled, that would result them in dying. Man, made in the image of God with his own will, rebelled.</li>\n"
-"<li>Man died spiritually (that is, separated from God) and later also physically. Man would be separated from God forever.</li>\n"
-"<li>God still loved mankind. As their Creator, He continued to love them</li>\n"
-"<li>God came into creation as a human to restore the relationship between God and human. He walked on earth to show people how to live. Then He died for humanity and rose again after 3 days.</li>\n"
-"<li>He told his followers that He would go back to where He had come from. Just before He left, He instructed them to tell everyone that He had restored the relationship to anyone who wants to believe it. He also said that He will return when all nations have heard this good news.</li>\n"
-"<li>If they believed the good news, they would receive a living spirit that would bring them into relationship with God. Then they could also understand His Word and moreover resist the temptations of the world.</li>\n"
-"<li>Those who believed Him at His word began to love Him and to follow His example.</li>\n"
-"<li>Through this process of discipleship, they begin to look more and more like Him, and tell others, far and near, of the good news.</li>\n"
-"<li>Ultimately, when He returns, it will be better than it was in the beginning. Because in the beginning, before there was anything ... (See point 1)</li>\n"
-"</ol>\n"
-"\n"
-"<p><b><i>Do you repent your sins and believe the gospel?</b></i></p>"
-msgstr ""
-"<h5>Wat is het evangelie?</h5> \n"
-"<p><i>Hier is de samengevatte cirkel vertelling van het evangelie volgens de Bijbel.</i></p>\n"
-"\n"
-"<ol type=1>\n"
-"<li>Voordat er ook maar iets was, was God er. God schiep de hemel en de aarde en de mens naar zijn gelijkenis. Man en vrouw schiep Hij hen. God en de mens hielden van elkaar.</li>\n"
-"<li>De rechtvaardige God had tegen de mens gezegd dat als ze zouden rebelleren, dat de consequentie zou zijn dat ze zouden sterven. De mens, gemaakt naar God beeld met zijn eigen wil, rebelleerde.</li>\n"
-"<li>De mens stierf geestelijk (dat wil zeggen kwam los van God) en later ook lichamelijk. De mens zou voor altijd van God gescheiden zijn.</li>\n"
-"<li>God hield nog steeds van de mens. Als hun Maker bleef Hij van hen houden</li>\n"
-"<li>God kwam in de schepping als mens om de relatie tussen God en mens te herstellen. Hij wandelde op aarde om de mens te tonen hoe te leven. Toen stierf Hij voor de mensheid en stond na 3 dagen weer op.</li>\n"
-"<li>Hij vertelde zijn volgelingen, dat Hij weer terug zou gaan naar waar Hij vandaan gekomen was. Net voor Hij vertrok gaf Hij hen de opdracht om iedereen te vertellen dat Hij de relatie hersteld had voor iedereeen die het wil geloven. Ook zei Hij, dat Hij terugkomt als alle volkeren dit goede nieuws gehoord hebben.</li>\n"
-"<li>Als zij het goede nieuws zouden geloven, dan zouden ze een levende geest ontvangen die hen in relatie met God zou brengen. Dan zouden ze ook Zijn Woord kunnen begrijpen en bovendien weerstand bieden aan de verleidingen van de wereld.</li>\n"
-"<li>Zij die Hem op Zijn woord geloofden gingen van Hem houden en gingen Zijn voorbeeld volgen.</li>\n"
-"<li>Door dit proces van discipelschap, beginnen zij steeds meer op Hem te lijken, en anderen, veraf en dichtbij, van het goede nieuws te vertellen.</li>\n"
-"<li>Uiteindelijk, wanneer Hij terugkomt, zal het beter zijn dan het in het begin was. Want in het begin, voor er ook maar iets was… (Zie punt 1)</li>\n"
-"</ol>\n"
-"\n"
-"<p><b><i>Heb jij berouw van jouw zonden en geloof jij het evangelie?</b></i></p>"
-
 #: commandments_app.Commandment/quote:1
 msgid "God’s love is so real that He created you to prove it."
 msgstr ""
@@ -1788,14 +1814,6 @@ msgstr "Breng dan vruchten voort in overeenstemming met de bekering"
 #: commandments_app.Commandment/title_negative:4
 msgid "He cuts off every branch in me that bears no fruit"
 msgstr "Hij snijdt elke rank die in Mij geen vrucht draagt"
-
-#: commandments_app.Commandment/devotional:4
-msgid ""
-"<p>One important part of the commission that God gave Adam was to be fruitful. Throughout the Bible you see this assignment coming back time and time again. God gives the fruit and we can work the earth to be fruitful.</p>\n"
-"<p>Fruit is the result of the life source if the vine flowing into the branches. If we are bonded to the Vine of Christ by the Spirit, His word will bear fruit that will be inevitable in our lives.</p>"
-msgstr ""
-"<p>Één belangrijk onderdeel van de opdracht welke God aan Adam gaf was om vruchtbaar te zijn. Door de hele Bijbel heen zie je deze opdracht keer op keer terugkomen. God geeft de vrucht en wij kunnen de aarde bewerken om vruchtbaar te zijn.</p>\n"
-"<p>Fruit is het resultaat van de levensbron als de wijnstok in de takken stroomt. Als we verbonden zijn met de wijnstok van Christus door de Geest, zal zijn woord vrucht dragen die onvermijdelijk zal zijn in ons leven.</p>"
 
 #: commandments_app.Commandment/title:5
 msgid "Worship the Lord your God, and Him only shalt thou serve"
@@ -1831,20 +1849,6 @@ msgstr ""
 #: commandments_app.Commandment/title:8
 msgid "Go ye into all the world, and preach the gospel to every creature"
 msgstr "Ga heen in heel de wereld, predik het Evangelie aan alle schepselen"
-
-#: commandments_app.Commandment/devotional:8
-msgid ""
-"<p>In a mission conference, the banner across the front of the auditorium stated, “Don’t take the ‘Go’ out of the Gospel.” We naturally find a myriad of excuses for why we cannot go to preach the gospel. </p>\n"
-"\n"
-"<p>The resurrected Christ reiterated five times His final charge: “Go into to all the world.” Christ’s death on the cross was to be proclaimed around the world. There is no news more dramatic than this: “God made him who had no sin to be sin for us, so that in Him we might become the righteousness of God” (2 Cor 5:21). </p>\n"
-"\n"
-"<p>God asked the question: “Then I heard the voice of the Lord saying, ‘Whom shall I send? And who will go for us?’ And I said, ‘Here am I. Send me!’ He said, ‘Go and tell this people’.” (Isa 6:8-9). Was this written merely so we could appreciate Isaiah’s courage, or was it a glimpse into the perpetual heavenly issue? God is asking, “Who cares about our agenda for telling the world about Jesus?” </p>"
-msgstr ""
-"<p>Op een zendingsconferentie stond op het vaandel aan de voorkant van het auditorium: 'Neem het' Evangelie 'niet uit het evangelie.' We vinden natuurlijk een groot aantal excuses waarom we niet kunnen gaan om het evangelie te prediken. </p> \n"
-"\n"
-"<p>De herrezen Christus herhaalde vijf keer Zijn laatste opdracht: \"Ga de hele wereld in.\" Christus 'dood aan het kruis zou over de hele wereld worden uitgeroepen. Er is geen dramatischer nieuws dan dit: \"God heeft hem die geen zonde heeft, tot zonde voor ons gemaakt, zodat wij in Hem de gerechtigheid van God kunnen worden\" (2 Kor. 5:21). </p> \n"
-"\n"
-"<p>God stelde de vraag: \"Toen hoorde ik de stem van de Heer zeggen:\" Wie zal ik zenden? \" En wie zal voor ons gaan? ’En ik zei:\" Hier ben ik. Zend mij! \"Hij zei:\" Ga dit volk vertellen \". (Jes 6: 8-9). Werd dit alleen geschreven om de moed van Jesaja te waarderen, of was het een glimp van de eeuwige hemelse kwestie? God vraagt: \"Wie bekommert zich om onze agenda om de wereld over Jezus te vertellen?\" </p>"
 
 #: commandments_app.Commandment/quote:8
 msgid ""
@@ -1902,36 +1906,6 @@ msgstr "Zalig zijn de reinen van hart, want zij zullen God zien"
 #: commandments_app.Commandment/title_negative:14
 msgid "Go, and sin no more"
 msgstr "Ga heen, en zondig niet meer"
-
-#: commandments_app.Commandment/devotional:14
-msgid ""
-"<p><b>Everyone wants to be happy. But not everyone is willing to do what it takes to have a pure heart.</b></p>\n"
-"<p>Blessed people are happy people. Those who are pure in heart are happy because they don’t let any evil into their hearts that would make them unhappy.</p>\n"
-"\n"
-"<p>Instead of having a heart that is full of impurity, unthankfulness, unbelief and evil suspicions about others, these people have pure, good, and wholesome thoughts—thoughts of thankfulness and thoughts about how they can bless others. They also have a firm, uncompromising resistance in their hearts to any thoughts of selfishness, impurity, doubt and anxiety that might try to come in.</p>\n"
-"\n"
-"<h5>How do I become pure in heart and keep it that way?</h5>\n"
-"<p>You could talk to a hundred people on the street and not find a single person who doesn’t want to be happy. But not everyone is willing to do what it takes to be pure in heart. Getting a pure heartHaving a pure heart means that you do not agree with any sinful or impure thoughts that come up in you, but rather you deny these thoughts and put them to death. It means that you are not affected or tainted by sin on ... and keeping it doesn’t happen by accident. To get a pure heart I have to put my life in order with God and people and ask for forgiveness when necessary. But purity isn’t meant to stop there.</p>\n"
-"\n"
-"<p>It is written in Psalm 119:9, “How can a young man keep his way pure? By taking heed according to Your word.” God’s Word is the instruction manual for helping me to keep my heart pure all my life. It is not complicated to begin living a pure life. For a start, think about taking just one simple verse and obeying that, like this verse in 1 Thessalonians 5:18, “In everything give thanks; for this is the will of God in Christ Jesus for you.”</p>\n"
-"\n"
-"<p>Think how happy I will be in one month if I am thankful in everything! How about one year later? 10 years later? Imagine the end of a long life with a pure heart that is full of thankfulness, where I’ve started out making the right choices while I’m young!</p>\n"
-"\n"
-"<p>In all of life’s circumstances I have to make choices about how I react to other people, what I do with my free time, and what thoughts I allow to occupy my mind. Obeying God’s Word gives me a direction for my life and helps me make the right choices in all of the situations I meet.</p>"
-msgstr ""
-"<p>Als je honderd mensen op straat zou aanspreken, zou je niet één persoon vinden die niet gelukkig wil zijn. Maar niet iedereen is bereid om te doen wat nodig is om een rein hart te krijgen.</p>\n"
-"\n"
-"<p>Zalige mensen zijn gelukkige mensen. Zij die een rein hart hebben, zijn gelukkig omdat ze geen kwade gedachten in hun hart toelaten die hen ongelukkig kunnen maken.</p>\n"
-"\n"
-"<p>In plaats van een hart te hebben vol onreinheid, ondankbaarheid, ongeloof of slechte gedachten over een ander, hebben deze mensen reine, goede, gezonde gedachten, en bedenken zij hoe ze tot zegen kunnen zijn voor een ander.  Ze hebben ook een vast, compromisloos verzet in hun hart tegen alle egoïstische, onreine, gedachten en gedachten van twijfel en bezorgdheid die mochten proberen om binnen te komen.</p>\n"
-"\n"
-"<h5>Hoe krijg (en houd) ik een rein hart?</h5>\n"
-"\n"
-"<p>Als je honderd mensen op straat zou aanspreken, zou je niet één persoon vinden die niet gelukkig wil zijn. Maar niet iedereen is bereid om te doen wat nodig is om een rein hart te krijgen. Een rein hart krijgen, en houden, gebeurt niet toevallig. Om een rein hart te krijgen moet ik mijn leven in orde hebben met God en de mensen en om vergeving vragen als dat nodig is. Maar het is niet de bedoeling dat de reinheid daar stopt.</p>\n"
-"\n"
-"<p>Er staat geschreven in Psalm 119:9: “Waarmee zal de jongeling zijn pad rein bewaren? Als hij het houdt naar Uw woord.” Gods woord is de handleiding om mij te helpen mijn hart rein te bewaren, mijn hele leven lang. Het is niet ingewikkeld om te beginnen met een rein leven te leiden. Om te starten kun je heel simpel één vers nemen en daar gehoorzaam aan zijn, zoals dit vers in 1 Thess. 5:18: “Dankt onder alles! Want dat is de wil Gods in Christus Jezus ten opzichte van u”. Bedenk eens hoe gelukkig ik zal zijn als ik een maand lang dankbaar ben voor alles! En een jaar later? Tien jaar later? Denk je eens in hoe het zal zijn aan het einde van een lang leven met een rein hart dat vol is van dankbaarheid als ik begonnen ben om de juiste keuzes te maken als ik jong ben!</p>\n"
-"\n"
-"<p>In alle situaties in mijn leven moet ik keuzes maken, hoe ik reageer op andere mensen, wat ik doe in mijn vrije tijd, welke gedachten mogen mijn geest in beslag  nemen. Gehoorzamen aan Gods woord geeft mij richting in mijn leven en helpt mij om de juiste keuzes te maken in alle situaties die ik tegenkom.</p>"
 
 #: commandments_app.Commandment/quote:14
 msgid ""
@@ -2006,19 +1980,13 @@ msgstr ""
 msgid "Do not set aside one of the least of these commands"
 msgstr "Niet gereserveerd een van de minst van deze commando's"
 
-#: commandments_app.Commandment/devotional:20
-msgid ""
-"<p>I am pleading against a widespread kind of preaching that is Bible-based but not Bible-saturated. I give two reasons why preachers must show the people where they are getting their points in Scripture: (1) only the word of God has authority, and (2) only the word of God awakens life. After more than forty years of preparing and delivering sermons:</p>\n"
-"\n"
-"<p><b><i>“As for me, I have nothing of abiding worth to say to you. But God does.”</i></b></p>"
-msgstr ""
-"<p>Ik pleit voor een wijdverspreide vorm van prediking die op de Bijbel is gebaseerd maar niet bijbelverzadigd is. Ik geef twee redenen waarom predikers de mensen moeten laten zien waar ze hun punten in de Bijbel krijgen: (1) alleen het woord van God heeft autoriteit en (2) alleen het woord van God wekt het leven. Na meer dan veertig jaar van het voorbereiden en geven van preken:</p>\n"
-"\n"
-"<p><b><i>“Wat mij betreft heb ik niets van blijvende waarde tegen u te zeggen. maar God wel.”</i></b></p>"
-
 #: commandments_app.Commandment/quote:20
-msgid "Command what you will, and give what you command"
-msgstr "Gebied wat je wilt, en geef wat je gebiedt"
+msgid ""
+"Jesus was not creating a new area of ethics here; He was simply drawing out "
+"implications in OT law."
+msgstr ""
+"Jezus was niet een nieuwe manier van ethiek aan het leren; Hij verkondigde "
+"slechts bestaande implicaties uit de OT wet."
 
 #: commandments_app.Commandment/title:21
 msgid ""
@@ -2054,19 +2022,6 @@ msgstr "Houdt het huwelijk in ere"
 #: commandments_app.Commandment/title_negative:23
 msgid "Do not look lustfully to a woman"
 msgstr "Kijk niet begerig naar een vrouw"
-
-#: commandments_app.Commandment/devotional:23
-msgid ""
-"In the current culture almost half of the marrriages end up in a divorce. We"
-" always need to follow God’s principles in marriage to resolve conflicts and"
-" stay bonded together. By being loyal to each other, and faithful to God’s "
-"principles, you will have a strong marriage what cannot be broken."
-msgstr ""
-"In de huidige cultuur belandt bijna de helft van de huwelijken in een "
-"scheiding. We moeten altijd Gods principes in het huwelijk volgen om "
-"conflicten op te lossen en verbonden te blijven. Door loyaal aan elkaar te "
-"zijn en trouw aan Gods principes, zul je een sterk huwelijk hebben dat niet "
-"kan worden gebroken."
 
 #: commandments_app.Commandment/title:24
 msgid "Keep your word"
@@ -2216,32 +2171,6 @@ msgstr "Zoek, en u zult vinden"
 msgid "Knock, and it shall be opened unto you"
 msgstr "Klop, en er zal voor u opengedaan worden"
 
-#: commandments_app.Commandment/devotional:37
-msgid ""
-"<p>Who does not know the story of the prodigal son? The question is: do we know the Hebrew culture? The story has more meanings that we miss because we don't know the culture. Too bad right? For example, asking for the annoyance before the person died was like saying, \"Dad, you're dead to me.\" When after his wanderings and brasseries the son came home stinkingly unclean - because of the pigs - the father ran up to the son and embraced him. \"Terrible,\" the bystanders would have said. But probably for a different reason than you think. The reasons are:</p>\n"
-"<ul>\n"
-"<li>A father does not run, for he must lift his garment and uncover his shame (ankles)</li>\n"
-"<li>The father embraces an unclean person and therefore becomes unclean and unworthy. What is happening here is that the attention is shifted from the son's shame and uncleanness to the father's shame, uncleanness and unworthiness.</li>\n"
-"<li>The father then gives the son the best dress, ring and shoes. You might think nothing special. Well, that says a lot in that culture.</li>\n"
-"<ol type=\"1\">\n"
-"<li>The best robe represents the dignity of the father.</li>\n"
-"<li>The ring represents the father's power of attorney.</li>\n"
-"<li>The shoes for the father's possession.</li>\n"
-"</ol>\n"
-"<p>In summary: The father takes the son's shame and impurity, and the son receives the dignity, power of attorney and wealth from the father. Wow, what an image of God. And we haven't even mentioned the eldest son and the slaves in this parable.</p>"
-msgstr ""
-"<p>Wie kent dit verhaal niet. De vraag is alleen: kennen we de Hebreeuwse cultuur? Het verhaal heeft meer betekenissen die ons ontgaan omdat we de cultuur niet kennen. Jammer toch? Zo was het vragen om de ergenis voordat de persoon overleden was net zoiets als zeggen: \"Pa, voor mij ben je dood.\" Toen de zoon na zijn omzwervingen en brasserijen stinkend onrein - vanwege de varkens - thuiskwam, rende de vader op de zoon af en omhelsde hem. \"Vreselijk,\" zouden de omstanders gezegd hebben. Maar waarschijnlijk om een andere reden dan je denkt. De redenen zijn:</p>\n"
-"<ul>\n"
-"<li>Een vader rent niet, want daarvoor moet hij zijn kleed optillen en zijn schaamte (enkels) ontbloten</li>\n"
-"<li>De vader omarmt een onrein mens en wordt daaroor ook zelf onrein en onwaardig. Wat hier gebeurt, is dat de aandacht van de schaamte en onreinheid van de zoon, naar de schaamte, onreinheid en ontwaardigheid van de vader wordt verlegd.</li>\n"
-"<li>Vervolgens geeft de vader de zoon het beste kleed, een ring en schoenen. Niets bijzonders denk je misschien. Nou, in die cultuur zegt dat heel veel.</li>\n"
-"<ol type=\"1\">\n"
-"<li>Het beste kleed staat voor de waardigheid van de vader.</li>\n"
-"<li>De ring staat voor de volmacht van de vader.</li>\n"
-"<li>De schoenen voor het bezit van de vader.</li>\n"
-"</ol>\n"
-"<p>Samengevat: De vader neemt de schaamte en onreinheid van de zoon, en de zoon krijgt de waardigheid, de volmacht en de rijkdom van de vader. Wauw, wat een beeld van God. En dan hebben we het nog niet gehad over de oudste zoon en de slaven in deze gelijkenis.</p>"
-
 #: commandments_app.Commandment/title:38
 msgid ""
 "Therefore all things whatsoever ye would that men should do to you, do ye "
@@ -2348,37 +2277,30 @@ msgstr "Zalig is hij die aan Mij geen aanstoot neemt."
 
 #: commandments_app.Commandment/title:51
 msgid ""
-"Come unto me, all ye that labour and are heavy laden, and I will give you "
-"rest"
-msgstr ""
-"Kom naar Mij toe, allen die vermoeid en belast zijn, en Ik zal u rust geven."
-
-#: commandments_app.Commandment/title:52
-msgid ""
 "Take my yoke upon you, and learn of me; for I am meek and lowly in heart: "
 "and ye shall find rest unto your souls"
 msgstr ""
 "Neem Mijn juk op u, en leer van Mij dat Ik zachtmoedig ben en nederig van "
 "hart. en u zult rust vinden voor uw ziel"
 
-#: commandments_app.Commandment/quote:52
+#: commandments_app.Commandment/quote:51
 msgid "Jesus is the beast of burden that wants to form that team with us"
 msgstr "Jezus is het andere span die met ons een team wilt vormen"
 
-#: commandments_app.Commandment/title:53
+#: commandments_app.Commandment/title:52
 msgid "Calm words are a tree of life"
 msgstr "Kalme woorden zijn een levensboom"
 
-#: commandments_app.Commandment/title:54
+#: commandments_app.Commandment/title:53
 msgid "Do the will of the Father"
 msgstr "Doe de wil van de Vader"
 
-#: commandments_app.Commandment/title:55
+#: commandments_app.Commandment/title:54
 msgid ""
 "Give to the emperor what is from the emperor, and to God what is from God"
 msgstr "Geef aan de keizer wat van de keizer is, en aan God wat van God is."
 
-#: commandments_app.Commandment/title:56
+#: commandments_app.Commandment/title:55
 msgid ""
 "Except ye be converted, and become as little children, ye shall not enter "
 "into the kingdom of heaven"
@@ -2386,11 +2308,11 @@ msgstr ""
 "Als u zich niet verandert en wordt als de kinderen, zult u het Koninkrijk "
 "der hemelen beslist niet binnengaan"
 
-#: commandments_app.Commandment/title:57
+#: commandments_app.Commandment/title:56
 msgid "Whoso shall receive one such little child in my name receiveth me"
 msgstr "Wie zo'n kind ontvangt in Mijn Naam, die ontvangt Mij"
 
-#: commandments_app.Commandment/title:58
+#: commandments_app.Commandment/title:57
 msgid ""
 "Desire something in union on the earth, and it will fall to you from My "
 "Father who is in heaven"
@@ -2398,61 +2320,47 @@ msgstr ""
 "Verlang met elkaar eenstemmig iets op de aarde en het zal u ten deel vallen "
 "van Mijn Vader, Die in de hemelen is"
 
-#: commandments_app.Commandment/devotional:58
-msgid ""
-"<p>After Noah, mankind rebelled against God, following the example of satan, and tried to make itself a name on earth. Man seized power by staying together and becoming a strong unity, one community, one language, one name (Gen. 11).</p>\n"
-"\n"
-"<p>We can therefore ask ourselves whether unity is of God or of man. It sounds so beautiful: We must be one, we must become one. Even among followers of Jesus, that is a trap. <b><i>Our unity is not in becoming one, but in loving one another</i></b>. After all, the cross has already made us one and that is enough. We cannot realize that enough!</p>\n"
-"\n"
-"<p>It is therefore that God in His grace scattered man during the tower construction of Babel (Gen 11:7-9). From that time on, God's glory was not in unity, but in the diversity that we have as peoples. Something of God's greatness is therefore visible in every nation. And together with all nations we will be able to discover some of the wisdom of God in this world.</p>\n"
-"\n"
-"<p>The degeneration, removal of the image of God that began with Adam and Eve (we are in the image of Adam (Gen. 5: 1-3)), has continued into the nations. As followers of Jesus, we know that there is not one nation - a superior nation - that shows more of His glory, but that the nations can discover together what His glory is and reflect it (Eph 3:18).</p>"
-msgstr ""
-"<p>Na Noach rebelleerde de mensheid, naar het voorbeeld van satan, wederom tegen God en probeerde zihzelf een naam op aarde te maken. De mens greep naar de macht door bij elkaar te bljven en een sterke éénheid, één gemeenschap, één taal, één naam te worden (Gen 11).</p>\n"
-"\n"
-"<p>We kunnen ons dan ook afvragen of éénheid van God of van de mens is. Het klinkt zo mooi: We moeten één zijn, we moeten één worden. Zelfs onder volgelingen van Jezus is dat een valkuil. <b><i>Onze eenheid ligt namelijk niet in éénworden maar in elkaar liefhebben</i></b>. Het kruis heeft ons immers al één gemaakt en dat is genoeg. Dat kunnen we ons niet genoeg beseffen!</p>\n"
-"\n"
-"<p>Het is daarom, dat God in Zijn genade de mens verstrooide tijdens de torenbouw van Babel (Gen 11:7-9). Gods glorie lag vanaf toen niet in de eenheid, maar in de diversiteit die wij als volkeren hebben. In elk volk is daarom iets van Gods grootheid zichtbaar. En samen met ale volkeren zullen we iets van de wijsheid van God in deze wereld kunnen ontdekken.</p> \n"
-"\n"
-"<p>De degeneratie, verwijdering van het beeld van God die bij Adam en Eva begon (wij zijn naar het beeld van Adam (Gen 5:1-3)), heeft zich doorgezet in de volkeren. Als volgelingen van Jezus weten we dat er niet één volk is – een superieur volk – dat meer van Zijn glorie laat zien, maar dat de volkeren tezamen kunnen ontdekken wat Zijn glorie is en dat weerspiegelen (Ef 3:18).</p>"
-
-#: commandments_app.Commandment/title:59
+#: commandments_app.Commandment/title:58
 msgid "Blessed are they that hear the word of God, and keep it"
 msgstr "Zalig zijn zij die het Woord van God horen en het bewaren"
 
-#: commandments_app.Commandment/title:60
+#: commandments_app.Commandment/title:59
 msgid "Take heed, and beware of covetousness"
 msgstr "Kijk uit en wees op uw hoede voor de hebzucht"
 
-#: commandments_app.Commandment/quote:60
+#: commandments_app.Commandment/quote:59
 msgid "Not happiness makes grateful, but gratitude makes you happy!"
 msgstr "Niet geluk maakt dankbaar, maar dankbaarheid maakt je gelukkig!"
 
-#: commandments_app.Commandment/title:61
+#: commandments_app.Commandment/title:60
 msgid "Look forward to the wedding of the Lamb"
 msgstr "Zie uit naar de bruiloft van het Lam"
 
-#: commandments_app.Commandment/title:62
+#: commandments_app.Commandment/title:61
 msgid "Find the lost sheep"
 msgstr "Zoek de verloren schapen"
 
-#: commandments_app.Commandment/title:63
+#: commandments_app.Commandment/title:62
 msgid "In every thing give thanks"
 msgstr "Dank God onder alle omstandigheden"
 
-#: commandments_app.Commandment/title:64
+#: commandments_app.Commandment/title:63
 msgid "Honour thy father and thy mother"
 msgstr "Eer uw vader en moeder"
 
-#: commandments_app.Commandment/title:65
+#: commandments_app.Commandment/title:64
 msgid "Many that are first shall be last; and the last shall be first"
 msgstr "Veel eersten zullen de laatsten zijn, en veel laatsten de eersten"
 
-#: commandments_app.Commandment/title:66
+#: commandments_app.Commandment/title_negative:64
+msgid "For whosoever exalteth himself shall be abased"
+msgstr "Want wie zichzelf verhoogt, zal vernederd worden"
+
+#: commandments_app.Commandment/title:65
 msgid "Have faith in God"
 msgstr "Heb geloof in God"
 
-#: commandments_app.Commandment/quote:66
+#: commandments_app.Commandment/quote:65
 msgid ""
 "Fear is the glue that keeps you stuck. Faith is the solvent that sets you "
 "free."
@@ -2460,7 +2368,7 @@ msgstr ""
 "Angst is de lijm die je vast houdt. Het geloof is het oplosmiddel dat je "
 "bevrijdt."
 
-#: commandments_app.Commandment/title:67
+#: commandments_app.Commandment/title:66
 msgid ""
 "Thou shalt love the Lord thy God with all thy heart, and with all thy soul, "
 "and with all thy mind, and with all thy strength"
@@ -2468,18 +2376,18 @@ msgstr ""
 "U zult de Heere, uw God, liefhebben met heel uw hart en met heel uw ziel en "
 "met heel uw verstand en met heel uw kracht"
 
-#: commandments_app.Commandment/quote:67
+#: commandments_app.Commandment/quote:66
 msgid ""
 "Keep thy heart with all diligence; for out of it are the issues of life"
 msgstr ""
 "Behoed je hart met alle ijver; want daaruit zijn de oorsprongen van het "
 "leven"
 
-#: commandments_app.Commandment/title:68
+#: commandments_app.Commandment/title:67
 msgid "Love thy neighbour as thyself"
 msgstr "U zult uw naaste liefhebben als uzelf"
 
-#: commandments_app.Commandment/quote:68
+#: commandments_app.Commandment/quote:67
 msgid ""
 "Spread love everywhere you go. Let no one ever come to you without leaving "
 "happier"
@@ -2487,67 +2395,39 @@ msgstr ""
 "Verspreid de liefde overal waar je gaat. Laat niemand ooit bij je komen "
 "zonder dat hij gelukkiger weggaat"
 
-#: commandments_app.Commandment/title:69
-msgid "He that humbleth himself shall be exalted"
-msgstr ""
-"De belangrijkste van u zal uw dienaar zijn en wie zichzelf vernedert, zal "
-"verhoogd worden"
-
-#: commandments_app.Commandment/title_negative:69
-msgid "For whosoever exalteth himself shall be abased"
-msgstr "Want wie zichzelf verhoogt, zal vernederd worden"
-
-#: commandments_app.Commandment/title:70
+#: commandments_app.Commandment/title:68
 msgid "Watch therefore for the coming of Jesus"
 msgstr "Wees waakzaam om de komst van Jezus"
 
-#: commandments_app.Commandment/devotional:70
-msgid ""
-"<p> In Luke 12:35-40, Jesus begins to gird up your loins and have the lamp burning. He then called on to be vigilant and ready for the arrival of the Son of Man.</p>\n"
-"\n"
-"<p>We hardly know the word loin today. A loincloth is a piece of clothing that consists only of a cotton cloth that is worn around the loins - the hips. The loins are the center of your body. The Hebrew expression \"the loins girded\" has more to do with a tunic, an undergarment. If something had to be done quickly, the tunic was tied around the loins with a leather belt. It was a starting position of someone who had to take action. In the East, both men and women wore long clothes that reached the feet. The rug was held up with the belt, so that the feet and legs had more freedom of movement. When girdling the loins, the long overcoat was taken up and put into the belt, or pulled up by the belt, when preparing to do work or travel. </p>\n"
-"\n"
-"<p>Someone who pulls up his long clothing and ties it around his loins with a belt, so he can move quickly. The Israelites had to be ready in the night of their departure from Egypt, the loins girded in order to be able to leave immediately. (Exodus 12:11). Elijah girded his loins to rush out for Ahab (1 Kings 18:46). We must also be ready to expect the arrival of the Son of Man at all times. </p>\n"
-"\n"
-"<p><i>\"Blessed are those slaves whom the Lord will find waking when he comes.\" (Luke 12:37) </i></p>"
-msgstr ""
-"<p>In Lukas 12:35-40 begint Jezus om je lendenen te omgorden en de lamp brandend te hebben. Vervolgens roept hij op om waakzaam te zijn en paraat te staan voor de komst van de Mensenzoon.</p>\n"
-"\n"
-"<p>Het woord lendenen kennen wij vandaag nauwelijks meer. Een lendendoek is een kledingstuk dat slechts bestaat uit een katoenen lap die om de lendenen - de heupen- wordt gedragen. De lendenen zijn het midden van je lichaam. De Hebreeuwse uitdrukking ‘ de lendenen omgord’ heeft meer te maken met een tunica, een onderkleed. Als men vlug iets moest doen dan werd die tunica met een leren gordel opgebonden rond de lendenen. Het was een starthouding van iemand die in actie moest komen. In het Oosten droegen zowel mannen als vrouwen lange kleren, die tot de voeten reikten. Met de gordel werd het kleed opgehouden, zodat de voeten en benen meer bewegingsvrijheid hadden. Bij het omgorden van de lendenen werd het lange overkleed opgenomen en in de gordel gestoken, of door de gordel omhoog getrokken, als men zich voorbereidde om werk te verrichten of te reizen.</p>\n"
-"\n"
-"<p>Iemand die zijn lange kleding omhoog trekt en het met een gordel om zijn lendenen vastbindt, die kan zich dus snel verplaatsen. De Israëlieten moesten in de nacht van hun vertrek uit Egypte zo klaar staan, de lendenen omgord, om direct te kunnen vertrekken. (Exodus 12:11). Elia omgordde zijn lendenen om zo voor Achab uit te snellen (l Koningen 18:46). Zo moeten wij ook klaarstaan om de komst van de Mensenzoon ten alle tijden te verwachten.</p>\n"
-"\n"
-"<p><i>“Zalig zijn die slaven die de heer bij zijn komst wakend zal vinden.” (Luk 12:37)</i></p>"
-
-#: commandments_app.Commandment/title:71
+#: commandments_app.Commandment/title:69
 msgid "Use your talents to honor the Father"
 msgstr "Gebruik je talenten tot eer van de Vader"
 
-#: commandments_app.Commandment/quote:71
+#: commandments_app.Commandment/quote:69
 msgid "One of the greatest diseases is to be nobody to anybody"
 msgstr "Een van de grootste ziekten is om niemand voor iedereen zijn"
 
-#: commandments_app.Commandment/title:72
+#: commandments_app.Commandment/title:70
 msgid "Trust that the Spirit will guide you"
 msgstr "Vertrouw erop dat de Heilige Geest je zal leiden"
 
-#: commandments_app.Commandment/title_negative:72
+#: commandments_app.Commandment/title_negative:70
 msgid "Do not worry about what to say"
 msgstr "Maak je geen zorgen over wat je moet zeggen"
 
-#: commandments_app.Commandment/quote:72
+#: commandments_app.Commandment/quote:70
 msgid "Pray, and let God worry."
 msgstr "Bid, en laat God zorgen."
 
-#: commandments_app.Commandment/title:73
+#: commandments_app.Commandment/title:71
 msgid "Celebrate the Lord’s supper in remembrance of Me"
 msgstr "Vier regelmatig het Heilig Avondmaal tot gedachtenis van Jezus"
 
-#: commandments_app.Commandment/title:74
+#: commandments_app.Commandment/title:72
 msgid "Strengthen thy brethren"
 msgstr "Versterk uw broeders"
 
-#: commandments_app.Commandment/quote:74
+#: commandments_app.Commandment/quote:72
 msgid ""
 "Look for an opportunity to be a Barnabas, an encourager. There are "
 "undoubtedly many people in your path today that need some encouragement. "
@@ -2557,44 +2437,32 @@ msgstr ""
 "ongetwijfeld veel mensen op je pad vandaag die een bemoediging nodig hebben."
 " Het is een belangrijke bediening"
 
-#: commandments_app.Commandment/title:75
+#: commandments_app.Commandment/title:73
 msgid ""
 "He that abideth in me, and I in him, the same bringeth forth much fruit"
 msgstr "Wie in Mij blijft, en Ik in hem, die draagt veel vrucht"
 
-#: commandments_app.Commandment/title_negative:75
+#: commandments_app.Commandment/title_negative:73
 msgid "For without me ye can do nothing"
 msgstr "Want zonder Mij kunt u niets doen"
 
-#: commandments_app.Commandment/devotional:75
-msgid ""
-"Please take a moment to read the blog below of John Piper who explains how "
-"to abide in Christ."
-msgstr ""
-"Neem even de tijd om de onderstaande blog te lezen van John Piper die "
-"uitlegt hoe je in Christus kunt blijven."
-
-#: commandments_app.Commandment/title:76
+#: commandments_app.Commandment/title:74
 msgid "We are called to glorify the Name of God in Christ Jesus!"
 msgstr ""
 "Wij zijn geroepen om de Naam van God te verheerlijken, in Christus Jezus!"
 
-#: commandments_app.Commandment/quote:76
+#: commandments_app.Commandment/quote:74
 msgid ""
 "You can turn your troubles into trust when you choose worship over worry."
 msgstr ""
 "Je kan je problemen omzetten in vertrouwen wanneer je aanbidding verkiest "
 "boven zorgen."
 
-#: commandments_app.Commandment/title:77
-msgid "Watch ye and pray, lest ye enter into temptation"
-msgstr "Waak allen en bid, opdat u niet in verzoeking komt"
-
-#: commandments_app.Commandment/title:78
+#: commandments_app.Commandment/title:75
 msgid "Feed my sheep"
 msgstr "Hoed Mijn schapen"
 
-#: commandments_app.Commandment/title:79
+#: commandments_app.Commandment/title:76
 msgid ""
 "Go ye therefore, and teach all nations, baptizing them in the name of the "
 "Father, and of the Son, and of the Holy Ghost: Teaching them to observe all "
@@ -2604,29 +2472,11 @@ msgstr ""
 "van de Zoon en van de Heilige Geest, hun lerend alles wat Ik u geboden heb, "
 "in acht te nemen"
 
-#: commandments_app.Commandment/devotional:79
-msgid ""
-"As Jesus departed the earth, He gave His five hundred disciples in Galilee "
-"this last command. It “means not only to learn, but to become attached to "
-"the teacher and be his follower in doctrine and conduct of life” (Strong’s "
-"Greek Lexicon). It is used once more in the New Testament in Acts 14:21, "
-"“when they had preached the gospel to that city and made many disciples,” "
-"which ties together “preached the gospel” with “make disciples” as their "
-"core ministry."
-msgstr ""
-"Toen Jezus de aarde verliet, gaf Hij zijn vijfhonderd discipelen in Galilea "
-"dit laatste gebod. Het \"betekent niet alleen leren, maar ook gehecht raken "
-"aan de leraar en zijn volgeling zijn in leer en levensgedrag\" (het Griekse "
-"Lexicon van Strong). Het wordt opnieuw gebruikt in het Nieuwe Testament in "
-"Handelingen 14:21, \"toen zij het evangelie tot die stad hadden gepredikt en"
-" vele discipelen hadden gemaakt\", die \"het evangelie predikten\" met "
-"\"discipelen maken\" als hun belangrijkste bediening."
-
-#: commandments_app.Commandment/title:80
+#: commandments_app.Commandment/title:77
 msgid "And, lo, I am with you always, even unto the end of the world"
 msgstr "En zie, ik ben met u, al de dagen, tot de voleinding van de wereld"
 
-#: commandments_app.Commandment/quote:80
+#: commandments_app.Commandment/quote:77
 msgid ""
 "No matter who you are, no matter what you’re going through, God knows it. He"
 " is with you. He is going to pull you through"
@@ -2828,7 +2678,7 @@ msgstr "Wil jij je leven opgeven om Christus te volgen?"
 msgid "Who do you want as your worst enemy: the world or God?"
 msgstr "Wie wil je als grootste vijand: de wereld of God?"
 
-#: commandments_app.Question/text:94
+#: commandments_app.Question/text:93
 msgid ""
 "Jesus  talks  much  about  the  Kingdom  of  God  in  His  ministry.  What "
 "is the Kingdom of God, and what does it mean to receive it?"
@@ -2836,7 +2686,7 @@ msgstr ""
 "Jezus praat veel over het Koninkrijk van God in Zijn bediening. Wat is het "
 "Koninkrijk van God, en wat betekent het om het te ontvangen?"
 
-#: commandments_app.Question/text:95
+#: commandments_app.Question/text:94
 msgid ""
 "What characteristics of children does Jesus want His disciples to recognize "
 "and emulate in receiving His Kingdom?"
@@ -2844,7 +2694,7 @@ msgstr ""
 "Welke kenmerken wil Jezus in Zijn discipelen herkennen om het Koninkrijk van"
 " God te ontvangen?"
 
-#: commandments_app.Question/text:96
+#: commandments_app.Question/text:95
 msgid ""
 "Why  is  receiving  Jesus  and  His  Kingdom  better  than  anything  this "
 "world has to offer?"
@@ -2852,7 +2702,7 @@ msgstr ""
 "Waarom is het beter  om van Jezus en Zijn Koninkrijk te ontvangen dan alles "
 "wat deze wereld te bieden heeft?"
 
-#: commandments_app.Question/text:97
+#: commandments_app.Question/text:96
 msgid ""
 "What would it look like in your work, finances, relationships, and "
 "neighborhood to receive the Kingdom of God like a child? "
@@ -2860,29 +2710,29 @@ msgstr ""
 "Hoe zou het eruit zien in je werk, financiën, relaties en buurt om het "
 "Koninkrijk van God te ontvangen als een kind?"
 
-#: commandments_app.Question/text:103
+#: commandments_app.Question/text:102
 msgid ""
 "Do you recognize one of the symptoms for greed mentioned in the description?"
 msgstr ""
 "Herken jij een van de genoemde symptonen van hebzucht in de beschrijving?"
 
-#: commandments_app.Question/text:110
+#: commandments_app.Question/text:109
 msgid "What do you think believe is all about?"
 msgstr "Wat denk je waar geloof allemaal over gaat?"
 
-#: commandments_app.Question/text:111
+#: commandments_app.Question/text:110
 msgid "How do you know what somebody believes in?"
 msgstr "Hoe weet je waar je in gelooft?"
 
-#: commandments_app.Question/text:113
+#: commandments_app.Question/text:112
 msgid "Do you truly love Jesus? If you did, how would you know?"
 msgstr "Houdt je werkelijk van Jezus? Als je dat doet, hoe weet je dat zeker?"
 
-#: commandments_app.Question/text:118
+#: commandments_app.Question/text:116
 msgid "What talents do you use to glorify the Father?"
 msgstr "Welke talenten gebruik jij om de Vader te verheerlijken?"
 
-#: commandments_app.Question/text:119
+#: commandments_app.Question/text:117
 msgid ""
 "Do you pray: Lord, will you bless what I have sown? Or: Lord, what do you "
 "want me to sow?"
@@ -2890,41 +2740,34 @@ msgstr ""
 "Bid jij: Heer, wilt U zegenen wat ik heb gezaaid? Of: Heer, wat wilt U dat "
 "ik zaai?"
 
-#: commandments_app.Question/text:121
+#: commandments_app.Question/text:119
 msgid "Imagine yourself on trial for your faith"
 msgstr "Stel jezelf voor dat je op de proef wordt gesteld voor je geloof"
 
-#: commandments_app.Question/text:124
+#: commandments_app.Question/text:122
 msgid ""
 "Have you met someone like Jonathan, who visited you to encourage you to put "
 "your faith in God?"
 msgstr ""
 "Heb jij iemand net zoals Jonathan, wie je bemoedigd in je geloof met God?"
 
-#: commandments_app.Question/text:128
-msgid "Have you experienced the presence of Christ in areas of testing?"
-msgstr "Heb je de aanwezigheid van Jezus ervaren terwijl je verzocht werd?"
-
-#: commandments_app.Question/text:129
-msgid "Did you have the courage to be true to Him?"
-msgstr "Heb jij de moed om eerlijk te zijn tegenover Hem?"
-
-#: commandments_app.Question/text:132
+#: commandments_app.Question/text:127
 msgid "What do you think is a disciple?"
 msgstr "Wat denk je dat een discipel is?"
 
-#: commandments_app.Question/text:133
+#: commandments_app.Question/text:128
 msgid "Are you a disciple?"
 msgstr "Ben jij een discipel?"
 
-#: commandments_app.Question/text:134
+#: commandments_app.Question/text:129
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
 
-#: commandments_app.Question/text:135
+#: commandments_app.Question/text:130
 msgid ""
 "Could you still be a disciple today? If so, how would that look like? If "
 "not, why not?"
 msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
+
