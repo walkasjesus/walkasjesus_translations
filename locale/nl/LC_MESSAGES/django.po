@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-29 18:19+0000\n"
-"PO-Revision-Date: 2020-03-29 18:38+0000\n"
+"POT-Creation-Date: 2020-03-31 20:15+0000\n"
+"PO-Revision-Date: 2020-03-31 20:15+0000\n"
 "Last-Translator: b'  <info@jesuscommandments.org>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -422,69 +422,46 @@ msgstr "Judas"
 msgid "Revelation"
 msgstr "Openbaring"
 
-#: commandments_app/models/bible_reference.py:75
+#: commandments_app/models/bible_reference.py:83
 msgid "Could not load text at the moment."
 msgstr "Kan tekst op dit moment niet laden."
 
 #: commandments_app/models/commandment_categories.py:7
-msgid "Salvation Commands"
-msgstr "Reddings Geboden"
+msgid "First Commandment"
+msgstr "Eerste Gebod"
 
 #: commandments_app/models/commandment_categories.py:8
-msgid "Discipleship Commands"
-msgstr "Discipelschap Geboden"
+msgid "Second Commandment"
+msgstr "Tweede Gebod"
 
 #: commandments_app/models/commandment_categories.py:9
-msgid "Worship Commands"
-msgstr "Aanbiddings Geboden"
+msgid "Third Commandment"
+msgstr "Derde Gebod"
 
 #: commandments_app/models/commandment_categories.py:10
-msgid "Blessings"
-msgstr "Zegeningen"
+msgid "Fourth Commandment"
+msgstr "Vierde Gebod"
 
 #: commandments_app/models/commandment_categories.py:11
-msgid "Judgment Seat Commands"
-msgstr "Gerechtigheid Geboden"
+#| msgid "Ninth Commandment"
+msgid "Sixth Commandment"
+msgstr "Zesde Gebod"
 
 #: commandments_app/models/commandment_categories.py:12
-msgid "Relationship Commands"
-msgstr "Relatie Geboden"
+msgid "Seventh Commandment"
+msgstr "Zevende Gebod"
 
 #: commandments_app/models/commandment_categories.py:13
-msgid "Marriage Commands"
-msgstr "Huwelijks Geboden"
+msgid "Eighth Commandment"
+msgstr "Achtste Gebod"
 
 #: commandments_app/models/commandment_categories.py:14
-msgid "Persecution Commands"
-msgstr "Vervolgings Geboden"
+msgid "Ninth Commandment"
+msgstr "Negende Gebod"
 
 #: commandments_app/models/commandment_categories.py:15
-msgid "Thinking Commands"
-msgstr "Gedachte Geboden"
-
-#: commandments_app/models/commandment_categories.py:16
-msgid "Prayer Commands"
-msgstr "Gebeds Geboden"
-
-#: commandments_app/models/commandment_categories.py:17
-msgid "False Teachers Commands"
-msgstr "Valse Leraren Geboden"
-
-#: commandments_app/models/commandment_categories.py:18
-msgid "Witnessing Commands"
-msgstr "Getuigenis Geboden"
-
-#: commandments_app/models/commandment_categories.py:19
-msgid "Greatest Commands"
-msgstr "Grootste Geboden"
-
-#: commandments_app/models/commandment_categories.py:20
-msgid "Finance Commands"
-msgstr "Finaciën Geboden"
-
-#: commandments_app/models/commandment_categories.py:21
-msgid "Holiness Commands"
-msgstr "Heiligheids Geboden"
+msgid "Tenth Commandment"
+msgstr "Tiende Gebod"
 
 #: commandments_app/models/media.py:23
 msgid "Language independent"
@@ -687,7 +664,6 @@ msgstr ""
 "gebod"
 
 #: commandments_app/templates/commandments/detail.html:185
-#| msgid "Bible Reference"
 msgid "OT Law Bible References"
 msgstr "OT Wet Bijbelteksten"
 
@@ -729,9 +705,6 @@ msgid "Example Bible References"
 msgstr "Voorbeeld Bijbelteksten"
 
 #: commandments_app/templates/commandments/detail.html:203
-#| msgid ""
-#| "In these Bible references you will find examples and testimonies how this "
-#| "commandment is being executed"
 msgid ""
 "In these Bible references you will find examples and testimonies how this "
 "commandment was being executed"
@@ -784,9 +757,6 @@ msgid "Bible verses copyright"
 msgstr "Bijbelteksten copyright"
 
 #: commandments_app/templates/commandments/detail.html:299
-#| msgid ""
-#| "Click here to see the explanation of the different symbols, Author, Origin "
-#| "etc."
 msgid ""
 "Click here to see the explanation of the different symbols, Author, OT Law "
 "etc."
@@ -850,9 +820,6 @@ msgstr ""
 "geinterpreteerd"
 
 #: commandments_app/templates/commandments/detail.html:311
-#| msgid ""
-#| "The coding refers to the commandments layout of Rabbi Chafetz Chayim (From "
-#| "'The Concise Book of Mitzvoth')"
 msgid ""
 "The coding refers to the commandments layout of Rambam. Rabbi Chafetz Chayim"
 " wrote a book with all the commandments which can still be observed today. "
@@ -1870,14 +1837,6 @@ msgstr "Vertrouw niet op eigen kracht"
 msgid "Your successful past will block your visions of the future"
 msgstr "Je succesvolle verleden zal je visie op de toekomst blokkeren"
 
-#: commandments_app.Commandment/title:10
-msgid "Blessed are they that mourn: for they shall be comforted"
-msgstr "Zalig zijn zij die treuren, want zij zullen vertroost worden"
-
-#: commandments_app.Commandment/title:11
-msgid "Blessed are the meek: for they shall inherit the earth"
-msgstr "Zalig zijn de zachtmoedigen, want zij zullen de aarde beërven"
-
 #: commandments_app.Commandment/title:12
 msgid ""
 "Blessed are they which do hunger and thirst after righteousness: for they "
@@ -1885,19 +1844,6 @@ msgid ""
 msgstr ""
 "Zalig zijn zij die hongeren en dorsten naar de gerechtigheid, want zij "
 "zullen verzadigd worden"
-
-#: commandments_app.Commandment/title:13
-msgid "Blessed are the merciful: for they shall obtain mercy"
-msgstr ""
-"Zalig zijn de barmhartigen, want aan hen zal barmhartigheid bewezen worden"
-
-#: commandments_app.Commandment/quote:13
-msgid ""
-"Start by doing what is necessary; then do what’s possible; and suddenly you "
-"are doing the impossible"
-msgstr ""
-"Begin met doen wat nodig is; doe dan wat mogelijk is; en plotseling doe je "
-"het onmogelijke"
 
 #: commandments_app.Commandment/title:14
 msgid "Blessed are the pure in heart: for they shall see God"
@@ -1914,13 +1860,6 @@ msgid ""
 msgstr ""
 "Terwijl je vrede verkondigd met je lippen, zorg er nog meer voor om het te "
 "hebben in je hart"
-
-#: commandments_app.Commandment/title:15
-msgid ""
-"Blessed are the peacemakers: for they shall be called the children of God"
-msgstr ""
-"Zalig zijn de vredestichters, want zij zullen kinderen van God genoemd "
-"worden"
 
 #: commandments_app.Commandment/title:16
 msgid ""
@@ -1946,15 +1885,6 @@ msgstr ""
 "Vreugde is een goed gevoel in de ziel, geproduceerd door de heilige geest, "
 "zoals hij ons de schoonheid van Christus laat zien, in Zijn Woord en in Zijn"
 " werk"
-
-#: commandments_app.Commandment/title:18
-msgid "Have salt in yourselves, and have peace one with another"
-msgstr "Heb zout in uzelf en leef met elkaar in vrede"
-
-#: commandments_app.Commandment/quote:18
-msgid "Love is a fruit in season at all times, and within reach of every hand"
-msgstr ""
-"Liefde is een vrucht in alle seizoenen, en binnen het bereik van elke hand"
 
 #: commandments_app.Commandment/title:19
 msgid ""
@@ -1987,24 +1917,6 @@ msgid ""
 msgstr ""
 "Jezus was niet een nieuwe manier van ethiek aan het leren; Hij verkondigde "
 "slechts bestaande implicaties uit de OT wet."
-
-#: commandments_app.Commandment/title:21
-msgid ""
-"Don’t be angry at your brother without a cause. If you will be, reconcile as"
-" quickly as possible"
-msgstr ""
-"Wordt niet ten onrechte boos op je broeder, en als je dat wel doet verzoen "
-"je dan zo snel mogelijk"
-
-#: commandments_app.Commandment/title_negative:21
-msgid "Let not the sun go down upon your wrath"
-msgstr "Laat de zon niet ondergaan over uw boosheid"
-
-#: commandments_app.Commandment/quote:21
-msgid "A gentle answer turns away wrath, but a harsh word stirs up anger"
-msgstr ""
-"Een zacht antwoord keert de grimmigheid af, maar een krenkend woord wekt de "
-"woede"
 
 #: commandments_app.Commandment/title:22
 msgid "Eliminate any cause of temptation"
@@ -2039,15 +1951,6 @@ msgstr ""
 "Wat je denkt beïnvloedt wat je spreekt en wat je spreekt beïnvloedt wat je "
 "doet"
 
-#: commandments_app.Commandment/title:25
-msgid ""
-"Whosoever shall smite thee on thy right cheek, turn to him the other also"
-msgstr "Wie u op de rechterwang slaat, keer hem ook de andere toe"
-
-#: commandments_app.Commandment/title_negative:25
-msgid "Do not resist evil"
-msgstr "Laat het kwaad niet weerstaan"
-
 #: commandments_app.Commandment/title:26
 msgid "Share goods with the needy"
 msgstr "Deel wat je hebt met hen die het nodig hebben"
@@ -2059,26 +1962,6 @@ msgstr "Als iemand neemt wat van u is, eis het niet terug"
 #: commandments_app.Commandment/quote:26
 msgid "For it is in giving that we receive"
 msgstr "Want het is in het geven dat wij ontvangen"
-
-#: commandments_app.Commandment/title:27
-msgid ""
-"Love your enemies, bless them that curse you, do good to them that hate you,"
-" and pray for them which despitefully use you, and persecute you"
-msgstr ""
-"Heb uw vijanden lief; zegen hen die u vervloeken; doe goed aan hen die u "
-"haten; en bid voor hen die u beledigen en u vervolgen"
-
-#: commandments_app.Commandment/title_negative:27
-msgid "Do not say, I’ll do to them as they have done to me"
-msgstr "Zeg niet, ik zal met hun doen zoals ze met mij hebben gedaan"
-
-#: commandments_app.Commandment/quote:27
-msgid ""
-"Lord, make me an instrument of thy peace. Where there is hatred, let me sow "
-"love"
-msgstr ""
-"Heer, maak mij een instrument van uw vrede. Waar haat is, laat me liefde "
-"zaaien"
 
 #: commandments_app.Commandment/title:28
 msgid ""
@@ -2151,18 +2034,6 @@ msgstr ""
 msgid "Do not worry about your life"
 msgstr "Maak je geen zorgen over uw leven"
 
-#: commandments_app.Commandment/title:35
-msgid ""
-"First cast out the beam out of thine own eye; and then shalt thou see "
-"clearly to cast out the mote out of thy brother’s eye"
-msgstr ""
-"Haal eerst de balk uit uw oog en dan zult u goed kunnen zien om de splinter "
-"uit het oog van uw broeder te halen"
-
-#: commandments_app.Commandment/title_negative:35
-msgid "Do not judge, or you too will be judged"
-msgstr "Oordeel niet, of je zal ook worden beoordeeld"
-
 #: commandments_app.Commandment/title:36
 msgid "Seek, and ye shall find"
 msgstr "Zoek, en u zult vinden"
@@ -2220,10 +2091,6 @@ msgstr "Wees niet bang"
 #: commandments_app.Commandment/quote:42
 msgid "Courage is when you overcome fear"
 msgstr "Moed is wanneer je angst overwint"
-
-#: commandments_app.Commandment/title:43
-msgid "Be moved with inner compassion with the people around you"
-msgstr "Wees met innerlijke ontferming bewogen met de mensen om je heen"
 
 #: commandments_app.Commandment/title:44
 msgid "Be ye therefore wise as serpents, and harmless as doves"
@@ -2308,10 +2175,6 @@ msgstr ""
 "Als u zich niet verandert en wordt als de kinderen, zult u het Koninkrijk "
 "der hemelen beslist niet binnengaan"
 
-#: commandments_app.Commandment/title:56
-msgid "Whoso shall receive one such little child in my name receiveth me"
-msgstr "Wie zo'n kind ontvangt in Mijn Naam, die ontvangt Mij"
-
 #: commandments_app.Commandment/title:57
 msgid ""
 "Desire something in union on the earth, and it will fall to you from My "
@@ -2336,17 +2199,9 @@ msgstr "Niet geluk maakt dankbaar, maar dankbaarheid maakt je gelukkig!"
 msgid "Look forward to the wedding of the Lamb"
 msgstr "Zie uit naar de bruiloft van het Lam"
 
-#: commandments_app.Commandment/title:61
-msgid "Find the lost sheep"
-msgstr "Zoek de verloren schapen"
-
 #: commandments_app.Commandment/title:62
 msgid "In every thing give thanks"
 msgstr "Dank God onder alle omstandigheden"
-
-#: commandments_app.Commandment/title:63
-msgid "Honour thy father and thy mother"
-msgstr "Eer uw vader en moeder"
 
 #: commandments_app.Commandment/title:64
 msgid "Many that are first shall be last; and the last shall be first"
@@ -2383,18 +2238,6 @@ msgstr ""
 "Behoed je hart met alle ijver; want daaruit zijn de oorsprongen van het "
 "leven"
 
-#: commandments_app.Commandment/title:67
-msgid "Love thy neighbour as thyself"
-msgstr "U zult uw naaste liefhebben als uzelf"
-
-#: commandments_app.Commandment/quote:67
-msgid ""
-"Spread love everywhere you go. Let no one ever come to you without leaving "
-"happier"
-msgstr ""
-"Verspreid de liefde overal waar je gaat. Laat niemand ooit bij je komen "
-"zonder dat hij gelukkiger weggaat"
-
 #: commandments_app.Commandment/title:68
 msgid "Watch therefore for the coming of Jesus"
 msgstr "Wees waakzaam om de komst van Jezus"
@@ -2422,20 +2265,6 @@ msgstr "Bid, en laat God zorgen."
 #: commandments_app.Commandment/title:71
 msgid "Celebrate the Lord’s supper in remembrance of Me"
 msgstr "Vier regelmatig het Heilig Avondmaal tot gedachtenis van Jezus"
-
-#: commandments_app.Commandment/title:72
-msgid "Strengthen thy brethren"
-msgstr "Versterk uw broeders"
-
-#: commandments_app.Commandment/quote:72
-msgid ""
-"Look for an opportunity to be a Barnabas, an encourager. There are "
-"undoubtedly many people in your path today that need some encouragement. "
-"It’s an important ministry"
-msgstr ""
-"Kijk naar een gelegenheid om een Barnabas, een bemoediger, te zijn. Er zijn "
-"ongetwijfeld veel mensen op je pad vandaag die een bemoediging nodig hebben."
-" Het is een belangrijke bediening"
 
 #: commandments_app.Commandment/title:73
 msgid ""
@@ -2532,78 +2361,43 @@ msgstr ""
 "getuigenis wel eens gedeeld om het evangelie uit te leggen? Wat was hun "
 "reactie?"
 
-#: commandments_app.Question/text:22
-msgid ""
-"During the day, do you pay attention for people around you who need help?"
-msgstr "Gedurende de dag, let je dan op mensen die hulp nodig hebben?"
-
-#: commandments_app.Question/text:23
-msgid "When was the last time you were merciful?"
-msgstr "Wanneer was de laatste keer dat je iemand iets hebt vergeven?"
-
-#: commandments_app.Question/text:25
+#: commandments_app.Question/text:20
 msgid "Ask others, what kind of sins do they see with you?"
 msgstr "Vraag anderen, wat voor soort zonden zien zij bij jou?"
 
-#: commandments_app.Question/text:26
+#: commandments_app.Question/text:21
 msgid "What sins do you want to get rid off?"
 msgstr "Welke zonden wil jij kwijtraken?"
 
-#: commandments_app.Question/text:27
+#: commandments_app.Question/text:22
 msgid "Pray for each other"
 msgstr "Bid voor elkaar"
 
-#: commandments_app.Question/text:32
-msgid "Has sin corrupted your saltiness?"
-msgstr "Heeft bepaalde zonden jouw \"zout zijn\" beinvloed?"
-
-#: commandments_app.Question/text:33
-msgid "Has your self-interest made you disinterested in transforming others?"
-msgstr ""
-"Heeft jouw ik-gerichtheid ervoor gezorgt dat je niet meer geinteresseerd "
-"bent om anderen te helpen veranderen? "
-
-#: commandments_app.Question/text:34
-msgid "Can you be graciously confrontational?"
-msgstr "Kun jij confronterend zijn vanuit genade?"
-
-#: commandments_app.Question/text:41
+#: commandments_app.Question/text:30
 msgid "Does your speaking suit your behavior?"
 msgstr "Komen je woorden overeen met je gedrag?"
 
-#: commandments_app.Question/text:42
+#: commandments_app.Question/text:31
 msgid "Is there a difference between your confession and your doing?"
 msgstr "Is er een verschil tussen je bekentenis wat je doet?"
 
-#: commandments_app.Question/text:45
+#: commandments_app.Question/text:33
 msgid "When was the last time you were generous?"
 msgstr "Wanneer was de laatste keer dat je vrijgevig was?"
 
-#: commandments_app.Question/text:47
-msgid "Do you really want to be a follower of Jesus?"
-msgstr "Wil je echt een volgeling van Jezus zijn?"
-
-#: commandments_app.Question/text:49
-msgid ""
-"Enemies are the people who God puts on your way which are hard for you to "
-"love. Who are enemies for you? "
-msgstr ""
-"Vijanden zijn de mensen die God op je pad brengt waarbij het moeilijk is om "
-"ze lief te hebben. Wie zijn vijanden voor jouw?"
-
-#: commandments_app.Question/text:50
+#: commandments_app.Question/text:35
 msgid "Do you have the idea that you are what God intended you to be?"
 msgstr "Heb je het idee dat je bent zoals God je bedoelt heeft om te zijn?"
 
-#: commandments_app.Question/text:51
+#: commandments_app.Question/text:36
 msgid "What would stop you from becoming the way you were meant to be?"
 msgstr "Wat zou je ervan weerhouden om to worden zoals je bent bedoeld?"
 
-#: commandments_app.Question/text:52
+#: commandments_app.Question/text:37
 msgid "What would happen if you were as God intended?"
 msgstr "Wat zou er gebeuren als je zou zijn zoals God heeft bedoeld?"
 
-#: commandments_app.Question/text:56
+#: commandments_app.Question/text:41
 msgid ""
 "Are we willing to give up our rights for reconciliation out of love for "
 "Jesus, the Father and the other?"
@@ -2611,7 +2405,7 @@ msgstr ""
 "Zijn we bereid om onze rechten op te geven voor verzoening uit liefde voor "
 "Jezus, de Vader en de andere?"
 
-#: commandments_app.Question/text:57
+#: commandments_app.Question/text:42
 msgid ""
 "Are we willing to step into a conflict and be accountable for love for "
 "Jesus, the Father and the other and to ask forgiveness for all guilt in "
@@ -2621,7 +2415,7 @@ msgstr ""
 "nemen uit liefde voor Jezus, de Vader en de andere en om vergeving te vragen"
 " voor alle schuld waarin we wel of niet deel hebben genomen?"
 
-#: commandments_app.Question/text:58
+#: commandments_app.Question/text:43
 msgid ""
 "Are we prepared, out of love for Jesus, the Father and the other, to do what"
 " is necessary so that a relationship can be restored, to give satisfaction "
@@ -2631,7 +2425,7 @@ msgstr ""
 "wat nodig is, zodat een relatie kan worden hersteld is, om voldoening te "
 "geven, zodat volledige verzoening mogelijk wordt?"
 
-#: commandments_app.Question/text:59
+#: commandments_app.Question/text:44
 msgid ""
 "Are we willing to forgive the other out of love for Jesus, the Father and "
 "the other, regardless of whether or not the other asks for forgiveness?"
@@ -2639,46 +2433,54 @@ msgstr ""
 "Zijn we bereid om de andere uit liefde voor Jezus, de Vader en de andere te "
 "vergeven, ongeacht de ander wel of niet om vergeving vraagt?"
 
-#: commandments_app.Question/text:61
+#: commandments_app.Question/text:46
 msgid "Do you apply regular fasting in your life?"
 msgstr "Vast jij regelmatig in je leven?"
 
-#: commandments_app.Question/text:63
+#: commandments_app.Question/text:48
 msgid "What are your treasures?"
 msgstr "Wat zijn jouw schatten?"
 
-#: commandments_app.Question/text:72
+#: commandments_app.Question/text:53
+msgid ""
+"What is better? That others love you for who you are, or that others love "
+"you because they are loving people?"
+msgstr ""
+"Wat is beter? Dat anderen van je houden om wie je bent, of dat anderen van "
+"je houden omdat zij liefdevolle mensen zijn?"
+
+#: commandments_app.Question/text:57
 msgid "What makes it difficult for you to listen, understand and obey?"
 msgstr ""
 "Wat maakt het moeilijk voor jouw om te luisteren, te begrijpen en te "
 "gehoorzamen?"
 
-#: commandments_app.Question/text:73
+#: commandments_app.Question/text:58
 msgid "If you want to grow in applying your faith, what does that take?"
 msgstr ""
 "Als je wilt groeien in de toepassing van je geloof, wat is daar voor nodig?"
 
-#: commandments_app.Question/text:74
+#: commandments_app.Question/text:59
 msgid "Once you know what He says, can you trust it?"
 msgstr "Als je eenmaal weet wat Hij zegt, kun je daarin vertrouwen?"
 
-#: commandments_app.Question/text:75
+#: commandments_app.Question/text:60
 msgid "What keeps people away from God's Truth?"
 msgstr "Wat houdt mensen weg van Gods Waarheid?"
 
-#: commandments_app.Question/text:81
+#: commandments_app.Question/text:65
 msgid "How bold is your witness?"
 msgstr "Hoe vrijmoedig ben jij?"
 
-#: commandments_app.Question/text:84
+#: commandments_app.Question/text:68
 msgid "Will you give up your life to follow Christ?"
 msgstr "Wil jij je leven opgeven om Christus te volgen?"
 
-#: commandments_app.Question/text:87
+#: commandments_app.Question/text:71
 msgid "Who do you want as your worst enemy: the world or God?"
 msgstr "Wie wil je als grootste vijand: de wereld of God?"
 
-#: commandments_app.Question/text:93
+#: commandments_app.Question/text:77
 msgid ""
 "Jesus  talks  much  about  the  Kingdom  of  God  in  His  ministry.  What "
 "is the Kingdom of God, and what does it mean to receive it?"
@@ -2686,7 +2488,7 @@ msgstr ""
 "Jezus praat veel over het Koninkrijk van God in Zijn bediening. Wat is het "
 "Koninkrijk van God, en wat betekent het om het te ontvangen?"
 
-#: commandments_app.Question/text:94
+#: commandments_app.Question/text:78
 msgid ""
 "What characteristics of children does Jesus want His disciples to recognize "
 "and emulate in receiving His Kingdom?"
@@ -2694,7 +2496,7 @@ msgstr ""
 "Welke kenmerken wil Jezus in Zijn discipelen herkennen om het Koninkrijk van"
 " God te ontvangen?"
 
-#: commandments_app.Question/text:95
+#: commandments_app.Question/text:79
 msgid ""
 "Why  is  receiving  Jesus  and  His  Kingdom  better  than  anything  this "
 "world has to offer?"
@@ -2702,7 +2504,7 @@ msgstr ""
 "Waarom is het beter  om van Jezus en Zijn Koninkrijk te ontvangen dan alles "
 "wat deze wereld te bieden heeft?"
 
-#: commandments_app.Question/text:96
+#: commandments_app.Question/text:80
 msgid ""
 "What would it look like in your work, finances, relationships, and "
 "neighborhood to receive the Kingdom of God like a child? "
@@ -2710,29 +2512,29 @@ msgstr ""
 "Hoe zou het eruit zien in je werk, financiën, relaties en buurt om het "
 "Koninkrijk van God te ontvangen als een kind?"
 
-#: commandments_app.Question/text:102
+#: commandments_app.Question/text:85
 msgid ""
 "Do you recognize one of the symptoms for greed mentioned in the description?"
 msgstr ""
 "Herken jij een van de genoemde symptonen van hebzucht in de beschrijving?"
 
-#: commandments_app.Question/text:109
+#: commandments_app.Question/text:90
 msgid "What do you think believe is all about?"
 msgstr "Wat denk je waar geloof allemaal over gaat?"
 
-#: commandments_app.Question/text:110
+#: commandments_app.Question/text:91
 msgid "How do you know what somebody believes in?"
 msgstr "Hoe weet je waar je in gelooft?"
 
-#: commandments_app.Question/text:112
+#: commandments_app.Question/text:93
 msgid "Do you truly love Jesus? If you did, how would you know?"
 msgstr "Houdt je werkelijk van Jezus? Als je dat doet, hoe weet je dat zeker?"
 
-#: commandments_app.Question/text:116
+#: commandments_app.Question/text:96
 msgid "What talents do you use to glorify the Father?"
 msgstr "Welke talenten gebruik jij om de Vader te verheerlijken?"
 
-#: commandments_app.Question/text:117
+#: commandments_app.Question/text:97
 msgid ""
 "Do you pray: Lord, will you bless what I have sown? Or: Lord, what do you "
 "want me to sow?"
@@ -2740,30 +2542,23 @@ msgstr ""
 "Bid jij: Heer, wilt U zegenen wat ik heb gezaaid? Of: Heer, wat wilt U dat "
 "ik zaai?"
 
-#: commandments_app.Question/text:119
+#: commandments_app.Question/text:99
 msgid "Imagine yourself on trial for your faith"
 msgstr "Stel jezelf voor dat je op de proef wordt gesteld voor je geloof"
 
-#: commandments_app.Question/text:122
-msgid ""
-"Have you met someone like Jonathan, who visited you to encourage you to put "
-"your faith in God?"
-msgstr ""
-"Heb jij iemand net zoals Jonathan, wie je bemoedigd in je geloof met God?"
-
-#: commandments_app.Question/text:127
+#: commandments_app.Question/text:105
 msgid "What do you think is a disciple?"
 msgstr "Wat denk je dat een discipel is?"
 
-#: commandments_app.Question/text:128
+#: commandments_app.Question/text:106
 msgid "Are you a disciple?"
 msgstr "Ben jij een discipel?"
 
-#: commandments_app.Question/text:129
+#: commandments_app.Question/text:107
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
 
-#: commandments_app.Question/text:130
+#: commandments_app.Question/text:108
 msgid ""
 "Could you still be a disciple today? If so, how would that look like? If "
 "not, why not?"
@@ -2771,3 +2566,6 @@ msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
 
+#, fuzzy
+#~ msgid "Sixth Commandment Commands"
+#~ msgstr "Lijst van Geboden"
