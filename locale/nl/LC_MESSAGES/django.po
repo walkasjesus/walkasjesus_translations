@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-31 20:15+0000\n"
-"PO-Revision-Date: 2020-03-31 20:15+0000\n"
+"POT-Creation-Date: 2020-04-04 08:37+0000\n"
+"PO-Revision-Date: 2020-04-04 08:39+0000\n"
 "Last-Translator: b'  <info@jesuscommandments.org>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Translated-Using: django-rosetta 0.9.3\n"
 
 #: account_app/templates/account/change_password.html:8
-#: account_app/templates/account/profile.html:55 templates/modal.html:70
+#: account_app/templates/account/profile.html:55 templates/modal.html:81
 msgid "Save changes"
 msgstr "Wijzigingen opslaan"
 
@@ -31,17 +31,17 @@ msgstr "Registreren"
 
 #: account_app/templates/account/index.html:7
 #: account_app/templates/account/login.html:10 templates/base.html:73
-#: templates/base.html:129
+#: templates/base.html:137
 msgid "Login"
 msgstr "Inloggen"
 
 #: account_app/templates/account/index.html:8 templates/base.html:70
-#: templates/base.html:127
+#: templates/base.html:135
 msgid "Logout"
 msgstr "Uitloggen"
 
 #: account_app/templates/account/index.html:9 templates/base.html:69
-#: templates/base.html:126
+#: templates/base.html:134
 msgid "Profile"
 msgstr "Profiel"
 
@@ -443,7 +443,6 @@ msgid "Fourth Commandment"
 msgstr "Vierde Gebod"
 
 #: commandments_app/models/commandment_categories.py:11
-#| msgid "Ninth Commandment"
 msgid "Sixth Commandment"
 msgstr "Zesde Gebod"
 
@@ -554,37 +553,37 @@ msgid "Superbook"
 msgstr "Superbook"
 
 #: commandments_app/templates/commandments/detail.html:52
-#: commandments_app/templates/commandments/detail.html:483
+#: commandments_app/templates/commandments/detail.html:485
 msgid "Songs"
 msgstr "Liederen"
 
 #: commandments_app/templates/commandments/detail.html:59
-#: commandments_app/templates/commandments/detail.html:504
+#: commandments_app/templates/commandments/detail.html:508
 msgid "Movies"
 msgstr "Films"
 
 #: commandments_app/templates/commandments/detail.html:66
-#: commandments_app/templates/commandments/detail.html:525
+#: commandments_app/templates/commandments/detail.html:531
 msgid "Testimonies"
 msgstr "Getuigenissen"
 
 #: commandments_app/templates/commandments/detail.html:73
-#: commandments_app/templates/commandments/detail.html:546
+#: commandments_app/templates/commandments/detail.html:554
 msgid "Blogs"
 msgstr "Blogs"
 
 #: commandments_app/templates/commandments/detail.html:80
-#: commandments_app/templates/commandments/detail.html:564
+#: commandments_app/templates/commandments/detail.html:572
 msgid "Sermons"
 msgstr "Preken"
 
 #: commandments_app/templates/commandments/detail.html:87
-#: commandments_app/templates/commandments/detail.html:585
+#: commandments_app/templates/commandments/detail.html:593
 msgid "Books"
 msgstr "Boeken"
 
 #: commandments_app/templates/commandments/detail.html:118
-#: commandments_app/templates/commandments/index.html:16 templates/base.html:9
+#: commandments_app/templates/commandments/index.html:34 templates/base.html:9
 msgid "Jesus Commandments"
 msgstr "Jezus Geboden"
 
@@ -916,19 +915,38 @@ msgstr "Kijk nu op"
 msgid "Short Movies"
 msgstr "Korte Filmpjes"
 
-#: commandments_app/templates/commandments/detail.html:609
+#: commandments_app/templates/commandments/detail.html:617
 msgid "Quote by"
 msgstr "Citaat door"
 
-#: commandments_app/templates/commandments/index.html:18
+#: commandments_app/templates/commandments/index.html:17
+msgid "Becoming like Him"
+msgstr "Worden zoals Hij"
+
+#: commandments_app/templates/commandments/index.html:19
+msgid "Bringing people back to the <span>heart of Christ</span>"
+msgstr "Mensen terugbrengen bij het <span>hart van Jezus</span>"
+
+#: commandments_app/templates/commandments/index.html:20
+msgid "For God so loved the world"
+msgstr "Want God had de wereld zo lief"
+
+#: commandments_app/templates/commandments/index.html:21
+#: commandments_app/templates/commandments/index.html:38
+#: commandments_app/templates/commandments/index.html:56
+#: commandments_app/templates/commandments/index.html:73
+msgid "Discover His commandments"
+msgstr "Ontdek Zijn geboden"
+
+#: commandments_app/templates/commandments/index.html:36
 msgid "Following Jesus"
 msgstr "Jezus Volgen"
 
-#: commandments_app/templates/commandments/index.html:18
+#: commandments_app/templates/commandments/index.html:36
 msgid "#howto"
 msgstr "#hoedan"
 
-#: commandments_app/templates/commandments/index.html:19
+#: commandments_app/templates/commandments/index.html:37
 #, python-format
 msgid ""
 "Jesus tought many different things. We help applying all <strong "
@@ -941,54 +959,37 @@ msgstr ""
 "number=\"%(commandments_total)s\">%(commandments_total)s</strong> unieke "
 "geboden toe te passen in uw dagelijks leven"
 
-#: commandments_app/templates/commandments/index.html:20
-#: commandments_app/templates/commandments/index.html:38
-#: commandments_app/templates/commandments/index.html:56
-#: commandments_app/templates/commandments/index.html:74
-msgid "Discover His commandments"
-msgstr "Ontdek Zijn geboden"
-
-#: commandments_app/templates/commandments/index.html:34
-msgid "Becoming like Him"
-msgstr "Worden zoals Hij"
-
-#: commandments_app/templates/commandments/index.html:36
-msgid "Bringing people back to the <span>heart of Christ</span>"
-msgstr "Mensen terugbrengen bij het <span>hart van Jezus</span>"
-
-#: commandments_app/templates/commandments/index.html:37
-msgid "For God so loved the world"
-msgstr "Want God had de wereld zo lief"
-
 #: commandments_app/templates/commandments/index.html:52
+msgid "Kids site"
+msgstr "Kids Site"
+
+#: commandments_app/templates/commandments/index.html:54
+msgid ""
+"A special <span>childrens version</span> of this site to teach the "
+"commandments"
+msgstr ""
+"Een speciale <span>kinder versie</span> van deze website om hen de geboden "
+"te leren"
+
+#: commandments_app/templates/commandments/index.html:55
+msgid "With links to Superbook animated Bible stories"
+msgstr "Met links naar Superbook geanimeerde Bijbel verhalen"
+
+#: commandments_app/templates/commandments/index.html:69
 msgid "Matthew 28:19-20"
 msgstr "Mattheüs 28:19-20"
 
-#: commandments_app/templates/commandments/index.html:54
+#: commandments_app/templates/commandments/index.html:71
 msgid "Therefore go and <span>make Disciples</span> of all nations"
 msgstr "Ga dan heen, <span>maak discipelen</span> uit alle volken"
 
-#: commandments_app/templates/commandments/index.html:55
+#: commandments_app/templates/commandments/index.html:72
 msgid ""
 "teaching them to <span><strong>obey everything</strong></span> I have "
 "commanded you"
 msgstr ""
 "hun lerend <span><strong>alles</strong></span> wat Ik u geboden heb, "
 "<span><strong>in acht te nemen</strong></span>"
-
-#: commandments_app/templates/commandments/index.html:70
-msgid "True disciples"
-msgstr "Ware discipelen"
-
-#: commandments_app/templates/commandments/index.html:72
-msgid ""
-"If we <span>reproduce the character</span> of Jesus Christ in disciples"
-msgstr ""
-"Als we het <span>karakter van Jezus reproduceren</span> in onze discipelen "
-
-#: commandments_app/templates/commandments/index.html:73
-msgid "than we are a good disciple"
-msgstr "dan zijn we een goede discipel"
 
 #: commandments_app/templates/commandments/index.html:97
 msgid "Unique commandments"
@@ -1014,24 +1015,28 @@ msgstr "Wij hebben lief, omdat Hij ons eerst heeft liefgehad"
 msgid "1 John 4:19"
 msgstr "1 Johannes 4:19"
 
-#: commandments_app/templates/commandments/index.html:152
+#: commandments_app/templates/commandments/index.html:150
+msgid "Bring the Bible back to life in your child's heart"
+msgstr "Breng de Bijbel weer tot leven in het hart van je kinderen"
+
+#: commandments_app/templates/commandments/index.html:158
 #: commandments_app/templates/commandments/listing.html:12
 msgid "John 14:15"
 msgstr "Johannes 14:15"
 
-#: commandments_app/templates/commandments/index.html:153
+#: commandments_app/templates/commandments/index.html:159
 #: commandments_app/templates/commandments/listing.html:13
-#: templates/base.html:101
+#: templates/base.html:109
 msgid "If you love Me"
 msgstr "Als u Mij liefhebt"
 
-#: commandments_app/templates/commandments/index.html:153
+#: commandments_app/templates/commandments/index.html:159
 #: commandments_app/templates/commandments/listing.html:13
-#: templates/base.html:101
+#: templates/base.html:109
 msgid "keep my commands"
 msgstr "neem dan Mijn geboden in acht"
 
-#: commandments_app/templates/commandments/index.html:154
+#: commandments_app/templates/commandments/index.html:160
 msgid ""
 "This website will help you in applying all commandments in your life. How? For each commandment, we collect as much as possible related resources like \n"
 "            <strong>Bible references, drawings, movies, songs, blogs, sermons, pictures and books</strong> to feed your heart, soul and mind"
@@ -1041,7 +1046,7 @@ msgstr ""
 "zoals <strong>Bijbelteksten, illustraties, films, liederen, blogs, preken, "
 "foto's en boeken</strong> om je hart, ziel en verstand te voeden"
 
-#: commandments_app/templates/commandments/index.html:156
+#: commandments_app/templates/commandments/index.html:162
 #: commandments_app/templates/commandments/listing.html:16
 msgid ""
 "To succeed in becoming a good disciple, we need to live out all of these "
@@ -1056,12 +1061,12 @@ msgstr ""
 "discipelschap groepen, mentoring of één-op-één  discipelschap, om "
 "volgelingen in al Jezus geboden te worden."
 
-#: commandments_app/templates/commandments/index.html:165
+#: commandments_app/templates/commandments/index.html:171
 #: commandments_app/templates/commandments/listing.html:25
 msgid "No commandments are available."
 msgstr "Geen geboden beschikbaar."
 
-#: commandments_app/templates/commandments/index.html:174
+#: commandments_app/templates/commandments/index.html:180
 msgid ""
 "Jesus commandments are not steps towards legalism, but precious gifts, ready"
 " for you to unpack"
@@ -1085,7 +1090,7 @@ msgid "Using"
 msgstr "Gebruik makend van"
 
 #: commandments_app/templates/commandments/privacy.html:13
-#: templates/base.html:150
+#: templates/base.html:158
 msgid "Privacy Policy"
 msgstr "Privacybeleid"
 
@@ -1503,7 +1508,7 @@ msgid "Grouping"
 msgstr "Groepering"
 
 #: commandments_app/templates/commandments/termsandconditions.html:13
-#: templates/base.html:150
+#: templates/base.html:158
 msgid "Terms and Conditions"
 msgstr "Voorwaarden"
 
@@ -1647,14 +1652,15 @@ msgid "Home"
 msgstr "Home"
 
 #: templates/base.html:62
-msgid "Commandments"
-msgstr "Geboden"
+#| msgid "Commandments"
+msgid "All Commandments"
+msgstr "Alle Geboden"
 
-#: templates/base.html:64 templates/base.html:115
+#: templates/base.html:64 templates/base.html:123
 msgid "Study them"
 msgstr "Bestudeer ze"
 
-#: templates/base.html:66 templates/base.html:134
+#: templates/base.html:66 templates/base.html:142
 msgid "Admin Portal"
 msgstr "Admin Portaal"
 
@@ -1666,31 +1672,42 @@ msgstr "Help verbeteren"
 msgid "Change language / Bible"
 msgstr "Wijzig taal / Bijbel"
 
-#: templates/base.html:112
+#: templates/base.html:79 templates/modal.html:64
+#| msgid ""
+#| "When activating the Kids site, you will find the same commandments with "
+#| "limited resources and Bible texts."
+msgid ""
+"When activating the Kids Site, you will find the same commandments with "
+"limited videos and resources"
+msgstr ""
+"Wanneer de Kids Site is geactiveerd, zul je dezelfde geboden vinden met een "
+"select aantal filmpjes en middelen"
+
+#: templates/base.html:120
 msgid "Site Navigation"
 msgstr "Site Navigatie"
 
-#: templates/base.html:114
+#: templates/base.html:122
 msgid "List of Commandments"
 msgstr "Lijst van Geboden"
 
-#: templates/base.html:116
+#: templates/base.html:124
 msgid "Our Vision"
 msgstr "Onze Visie"
 
-#: templates/base.html:122
+#: templates/base.html:130
 msgid "Account"
 msgstr "Account"
 
-#: templates/base.html:130
+#: templates/base.html:138
 msgid "Register"
 msgstr "Registreren"
 
-#: templates/base.html:141
+#: templates/base.html:149
 msgid "Contact us"
 msgstr "Neem contact op"
 
-#: templates/base.html:143
+#: templates/base.html:151
 msgid "Email: "
 msgstr "E-mail:"
 
@@ -1734,10 +1751,20 @@ msgstr ""
 "verstrekt door de American Bible Society."
 
 #: templates/modal.html:56
-msgid "Resource language"
-msgstr "Taal voor middelen"
+#| msgid "Limited Kids website"
+msgid "Limited Kids Website"
+msgstr "Speciale Kids Website"
 
-#: templates/modal.html:74
+#: templates/modal.html:63
+msgid "Click on the Robot image to activate the Kids Site"
+msgstr "Klik op het plaatje van de Robot om de Kids Site te activeren"
+
+#: templates/modal.html:67
+#| msgid "Resource language"
+msgid "Media Resource language"
+msgstr "Taal voor media middelen"
+
+#: templates/modal.html:85
 msgid ""
 "Within a commandment, you can find related resources to that commandment. "
 "Resources can be Sermons, Testimonies, Movies, Shortmovies, Songs, Blogs or "
@@ -2565,7 +2592,3 @@ msgid ""
 msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
-
-#, fuzzy
-#~ msgid "Sixth Commandment Commands"
-#~ msgstr "Lijst van Geboden"
