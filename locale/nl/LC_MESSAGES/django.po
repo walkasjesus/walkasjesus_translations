@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-04 10:23+0000\n"
-"PO-Revision-Date: 2020-04-04 10:59+0000\n"
+"POT-Creation-Date: 2020-04-17 18:50+0000\n"
+"PO-Revision-Date: 2020-04-17 18:56+0000\n"
 "Last-Translator: b'  <info@jesuscommandments.org>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -30,18 +30,18 @@ msgid "Signup"
 msgstr "Registreren"
 
 #: account_app/templates/account/index.html:7
-#: account_app/templates/account/login.html:10 templates/base.html:73
-#: templates/base.html:137
+#: account_app/templates/account/login.html:10 templates/base.html:78
+#: templates/base.html:142
 msgid "Login"
 msgstr "Inloggen"
 
-#: account_app/templates/account/index.html:8 templates/base.html:70
-#: templates/base.html:135
+#: account_app/templates/account/index.html:8 templates/base.html:75
+#: templates/base.html:140
 msgid "Logout"
 msgstr "Uitloggen"
 
-#: account_app/templates/account/index.html:9 templates/base.html:69
-#: templates/base.html:134
+#: account_app/templates/account/index.html:9 templates/base.html:74
+#: templates/base.html:139
 msgid "Profile"
 msgstr "Profiel"
 
@@ -443,22 +443,27 @@ msgid "Fourth Commandment"
 msgstr "Vierde Gebod"
 
 #: commandments_app/models/commandment_categories.py:11
+msgid "Fifth Commandment"
+msgstr "Vijfde Gebod"
+
+#: commandments_app/models/commandment_categories.py:12
 msgid "Sixth Commandment"
 msgstr "Zesde Gebod"
 
-#: commandments_app/models/commandment_categories.py:12
+#: commandments_app/models/commandment_categories.py:13
+#| msgid "Tenth Commandment"
 msgid "Seventh Commandment"
 msgstr "Zevende Gebod"
 
-#: commandments_app/models/commandment_categories.py:13
+#: commandments_app/models/commandment_categories.py:14
 msgid "Eighth Commandment"
 msgstr "Achtste Gebod"
 
-#: commandments_app/models/commandment_categories.py:14
+#: commandments_app/models/commandment_categories.py:15
 msgid "Ninth Commandment"
 msgstr "Negende Gebod"
 
-#: commandments_app/models/commandment_categories.py:15
+#: commandments_app/models/commandment_categories.py:16
 msgid "Tenth Commandment"
 msgstr "Tiende Gebod"
 
@@ -533,65 +538,60 @@ msgid "Bible references"
 msgstr "Bijbelteksten"
 
 #: commandments_app/templates/commandments/detail.html:17
-#: commandments_app/templates/commandments/detail.html:338
+#: commandments_app/templates/commandments/detail.html:369
 msgid "Drawings"
 msgstr "Illustraties"
 
 #: commandments_app/templates/commandments/detail.html:24
-#: commandments_app/templates/commandments/detail.html:357
+#: commandments_app/templates/commandments/detail.html:388
 msgid "Pictures"
 msgstr "Afbeeldingen"
 
 #: commandments_app/templates/commandments/detail.html:31
-#: commandments_app/templates/commandments/detail.html:400
+#: commandments_app/templates/commandments/detail.html:431
 msgid "Questions"
 msgstr "Vragen"
 
 #: commandments_app/templates/commandments/detail.html:38
-#: commandments_app/templates/commandments/detail.html:441
+#: commandments_app/templates/commandments/detail.html:472
 msgid "Superbook"
 msgstr "Superbook"
 
 #: commandments_app/templates/commandments/detail.html:52
-#: commandments_app/templates/commandments/detail.html:485
+#: commandments_app/templates/commandments/detail.html:516
 msgid "Songs"
 msgstr "Liederen"
 
 #: commandments_app/templates/commandments/detail.html:59
-#: commandments_app/templates/commandments/detail.html:508
+#: commandments_app/templates/commandments/detail.html:539
 msgid "Movies"
 msgstr "Films"
 
 #: commandments_app/templates/commandments/detail.html:66
-#: commandments_app/templates/commandments/detail.html:531
+#: commandments_app/templates/commandments/detail.html:562
 msgid "Testimonies"
 msgstr "Getuigenissen"
 
 #: commandments_app/templates/commandments/detail.html:73
-#: commandments_app/templates/commandments/detail.html:554
+#: commandments_app/templates/commandments/detail.html:585
 msgid "Blogs"
 msgstr "Blogs"
 
 #: commandments_app/templates/commandments/detail.html:80
-#: commandments_app/templates/commandments/detail.html:572
+#: commandments_app/templates/commandments/detail.html:603
 msgid "Sermons"
 msgstr "Preken"
 
 #: commandments_app/templates/commandments/detail.html:87
-#: commandments_app/templates/commandments/detail.html:593
+#: commandments_app/templates/commandments/detail.html:624
 msgid "Books"
 msgstr "Boeken"
 
 #: commandments_app/templates/commandments/detail.html:118
-#: commandments_app/templates/commandments/index.html:34 templates/base.html:9
-msgid "Jesus Commandments"
-msgstr "Jezus Geboden"
+msgid "Jesus His Commandment"
+msgstr "Jezus Zijn Geboden"
 
-#: commandments_app/templates/commandments/detail.html:119
-msgid "Primary unique commandment"
-msgstr "Primair uniek gebod"
-
-#: commandments_app/templates/commandments/detail.html:129
+#: commandments_app/templates/commandments/detail.html:128
 #: commandments_app/templates/commandments/study_listing.html:55
 msgid ""
 "This Primary Bible reference is a unique Bible reference according to the "
@@ -600,13 +600,21 @@ msgstr ""
 "Deze Primaire Bijbeltekst is de eerst gevonden unieke referentie volgens de "
 "woorden van Jezus, direct gerelateerd aan het gebod"
 
-#: commandments_app/templates/commandments/detail.html:132
+#: commandments_app/templates/commandments/detail.html:131
 msgid "Negative commandments"
 msgstr "Negatieve geboden"
 
-#: commandments_app/templates/commandments/detail.html:138
+#: commandments_app/templates/commandments/detail.html:137
 msgid "Commandment category"
 msgstr "Gebod categorie"
+
+#: commandments_app/templates/commandments/detail.html:138
+msgid ""
+"All Jesus His Commandments can be grouped into the Ten Commandments from the"
+" Old Testament (Exodus 20)."
+msgstr ""
+"Al Jezus Zijn Geboden kunnen gegroepeerd worden in de 10 geboden uit het "
+"Oude Testament (Exodus 20)."
 
 #: commandments_app/templates/commandments/detail.html:151
 msgid "Direct Bible References"
@@ -639,9 +647,13 @@ msgstr ""
 #: commandments_app/templates/commandments/detail.html:278
 #: commandments_app/templates/commandments/detail.html:283
 #: commandments_app/templates/commandments/detail.html:288
-#: commandments_app/templates/commandments/detail.html:308
-#: commandments_app/templates/commandments/study_listing.html:90
-#: commandments_app/templates/commandments/study_listing.html:180
+#: commandments_app/templates/commandments/detail.html:304
+#: commandments_app/templates/commandments/detail.html:309
+#: commandments_app/templates/commandments/detail.html:314
+#: commandments_app/templates/commandments/detail.html:319
+#: commandments_app/templates/commandments/detail.html:339
+#: commandments_app/templates/commandments/study_listing.html:92
+#: commandments_app/templates/commandments/study_listing.html:216
 #: commandments_app/templates/commandments/vision.html:24
 #: commandments_app/templates/commandments/vision.html:39
 #: commandments_app/templates/commandments/vision.html:52
@@ -679,7 +691,7 @@ msgstr ""
 #: commandments_app/templates/commandments/detail.html:192
 #: commandments_app/templates/commandments/detail.html:194
 #: commandments_app/templates/commandments/detail.html:196
-#: commandments_app/templates/commandments/detail.html:309
+#: commandments_app/templates/commandments/detail.html:340
 msgid "OT Law nr"
 msgstr "OT Wet nr"
 
@@ -687,7 +699,7 @@ msgstr "OT Wet nr"
 #: commandments_app/templates/commandments/detail.html:192
 #: commandments_app/templates/commandments/detail.html:194
 #: commandments_app/templates/commandments/detail.html:196
-#: commandments_app/templates/commandments/detail.html:310
+#: commandments_app/templates/commandments/detail.html:341
 msgid "Rambam Title"
 msgstr "Rambam Titel"
 
@@ -695,7 +707,7 @@ msgstr "Rambam Titel"
 #: commandments_app/templates/commandments/detail.html:192
 #: commandments_app/templates/commandments/detail.html:194
 #: commandments_app/templates/commandments/detail.html:196
-#: commandments_app/templates/commandments/detail.html:311
+#: commandments_app/templates/commandments/detail.html:342
 msgid "Rambam Coding"
 msgstr "Rambam Codering"
 
@@ -714,14 +726,27 @@ msgstr ""
 #: commandments_app/templates/commandments/detail.html:205
 #: commandments_app/templates/commandments/detail.html:236
 #: commandments_app/templates/commandments/detail.html:267
+#: commandments_app/templates/commandments/detail.html:298
 msgid "Please click on the Bible Reference to show its corresponding text."
 msgstr "Klik op de Bijbeltekst om de bijbehorende tekst te zien."
 
 #: commandments_app/templates/commandments/detail.html:233
+msgid "Wisdom Bible References"
+msgstr "Wijsheid Bijbelteksten"
+
+#: commandments_app/templates/commandments/detail.html:234
+msgid ""
+"Wisdom Bible references will relate to one of the Wisdom Literare Books from"
+" the Old Testament"
+msgstr ""
+"Wijsheid Bijbelteksten zijn gerelateerd uit één van de Wijsheids Literatuur "
+"boeken uit het Oude Testament"
+
+#: commandments_app/templates/commandments/detail.html:264
 msgid "Duplicate Bible References"
 msgstr "Dubbele Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:234
+#: commandments_app/templates/commandments/detail.html:265
 #: commandments_app/templates/commandments/study_listing.html:59
 msgid ""
 "Another Bible reference to more or less the same as the primary, direct or "
@@ -732,11 +757,11 @@ msgstr ""
 "of indirecte Bijbelteksten, met niet veel nieuwe informatie, hoewel het "
 "dezelfde Bijbelteksten zal bevestigen"
 
-#: commandments_app/templates/commandments/detail.html:264
+#: commandments_app/templates/commandments/detail.html:295
 msgid "Study Bible References"
 msgstr "Studie Bijbelteksten"
 
-#: commandments_app/templates/commandments/detail.html:265
+#: commandments_app/templates/commandments/detail.html:296
 #: commandments_app/templates/commandments/study_listing.html:60
 msgid ""
 "Extra Bible references (most often larger parts of Bible books) which are "
@@ -745,17 +770,17 @@ msgstr ""
 "Extra Bijbelteksten (meestal grotere delen Bijbelboeken) die goed zijn voor "
 "extra studie over dit gebod"
 
-#: commandments_app/templates/commandments/detail.html:295
+#: commandments_app/templates/commandments/detail.html:326
 msgid "Legend"
 msgstr "Legenda"
 
-#: commandments_app/templates/commandments/detail.html:296
-#: commandments_app/templates/commandments/study_listing.html:192
+#: commandments_app/templates/commandments/detail.html:327
+#: commandments_app/templates/commandments/study_listing.html:228
 #: commandments_app/templates/commandments/vision.html:87
 msgid "Bible verses copyright"
 msgstr "Bijbelteksten copyright"
 
-#: commandments_app/templates/commandments/detail.html:299
+#: commandments_app/templates/commandments/detail.html:330
 msgid ""
 "Click here to see the explanation of the different symbols, Author, OT Law "
 "etc."
@@ -763,7 +788,7 @@ msgstr ""
 "Klik hier om de uitleg van de verschillende symbolen, auteur, OT Wet etc. te"
 " zien"
 
-#: commandments_app/templates/commandments/detail.html:304
+#: commandments_app/templates/commandments/detail.html:335
 msgid ""
 "A related Bible reference to the commandment which is negative, something "
 "you should not do"
@@ -771,14 +796,14 @@ msgstr ""
 "Een verwante Bijbeltekst naar het gebod dat negatief is, iets wat je niet "
 "moet doen"
 
-#: commandments_app/templates/commandments/detail.html:305
+#: commandments_app/templates/commandments/detail.html:336
 msgid ""
 "A related Bible reference to the commandment which is both positive and "
 "negative"
 msgstr ""
 "Een verwante Bijbeltekst naar het gebod die zowel positief als negatief is"
 
-#: commandments_app/templates/commandments/detail.html:306
+#: commandments_app/templates/commandments/detail.html:337
 msgid ""
 "A related Bible reference to the commandment which is positive, something "
 "you should do or learn from"
@@ -786,7 +811,7 @@ msgstr ""
 "Een verwante Bijbeltekst naar het gebod dat positief is, iets wat je moet "
 "doen of waar je van kunt leren"
 
-#: commandments_app/templates/commandments/detail.html:307
+#: commandments_app/templates/commandments/detail.html:338
 msgid ""
 "A related Bible reference to the commandment which is not yet determined "
 "positive or negative"
@@ -794,13 +819,13 @@ msgstr ""
 "Een verwante Bijbeltekst naar het gebod wat nog inbepaald is (Positief, "
 "Negatief of Beide)"
 
-#: commandments_app/templates/commandments/detail.html:308
+#: commandments_app/templates/commandments/detail.html:339
 msgid "Indicates the known author from this Bible reference"
 msgstr ""
 "Geeft de bekende auteur weer, of persoon waar het over gaat, van deze "
 "Bijbeltekst"
 
-#: commandments_app/templates/commandments/detail.html:309
+#: commandments_app/templates/commandments/detail.html:340
 msgid ""
 "Jewish tradition teached that there are 613 commandments or mitzvot in the "
 "Torah. We list the Number, based on a chronological order (Genesis, Exodus, "
@@ -810,7 +835,7 @@ msgstr ""
 "nummer zien, gebasseerd op de chronologische volgorde (Genesis, Exodus, "
 "Levicitus, Numeri, Deuteronomium)."
 
-#: commandments_app/templates/commandments/detail.html:310
+#: commandments_app/templates/commandments/detail.html:341
 msgid ""
 "This is the commandment, as an interpretation of Rambam (commonly known as "
 "Maimonides)"
@@ -818,7 +843,7 @@ msgstr ""
 "Dit is het gebod, zoals Rambam (ook bekend als Maimonides) deze heeft "
 "geinterpreteerd"
 
-#: commandments_app/templates/commandments/detail.html:311
+#: commandments_app/templates/commandments/detail.html:342
 msgid ""
 "The coding refers to the commandments layout of Rambam. Rabbi Chafetz Chayim"
 " wrote a book with all the commandments which can still be observed today. "
@@ -828,11 +853,11 @@ msgstr ""
 "Chayim schreeft een boek met alle geboden welke vandaag de dag nog steeds "
 "uitgevoerd kunnen worden. Dit boek heet 'The Concise Book of Mitzvoth'"
 
-#: commandments_app/templates/commandments/detail.html:318
+#: commandments_app/templates/commandments/detail.html:349
 msgid "Who came up with this \"613 Mitzvot\"?"
 msgstr "Wie heeft de \"613 geboden\" bedacht?"
 
-#: commandments_app/templates/commandments/detail.html:319
+#: commandments_app/templates/commandments/detail.html:350
 msgid ""
 "\n"
 "                                        Rabbi Moshe ben Maimon, His full name was Rabbi Moses Ben Maimon. His name formed the acronym as \"The Rambam\" was born on the 14th of Nisan 4895 (30th March 1135) and he died on the 20th of Tevet of 4965 (Dec. 13 1204). The Rambam was one of the most saught after individuals of his time. Not only as a Halachic authority, but also within the secular world of kings and sultans, for his vast knowledge of secular medecines was outstanding. When writting the Mishna Torah, Ramban reviewed the Torah's Mitzvot, and he itemized them. He seperated the positive and negative mitzvot, listed them, all 613, and discussed them.\n"
@@ -841,30 +866,30 @@ msgstr ""
 "\n"
 "Rabbi Moshe ben Maimon, zijn volledige naam was Rabbi Moses Ben Maimon. Zijn naam, als acronym de \"Rambam\", was geboren op de 14e van Nisan 4895 (30 maart 1135) an stierf op de 20e van Tevet 4965 (13 Dec 1204). De Rambam was 1 van de meest gezochte individuen van zijn tijd. Niet alleen als een Halachic autoriteit, maar ook in de seculiere wereld door koningen en sultans. Want zijn brede kennis over seculiere medicijnen was buitengewoon. Wanneer hij de Mishna Torag schreef, controleerde hij de Torah zijn geboden en heeft hij ze gecategoriseerd. Hij scheidde de positieve en negatieve geboden, somde ze op, alle 613, en besprak ze."
 
-#: commandments_app/templates/commandments/detail.html:342
+#: commandments_app/templates/commandments/detail.html:373
 msgid "Artist"
 msgstr "Artiest"
 
-#: commandments_app/templates/commandments/detail.html:369
-#: commandments_app/templates/commandments/detail.html:373
+#: commandments_app/templates/commandments/detail.html:400
+#: commandments_app/templates/commandments/detail.html:404
 msgid "Photographer"
 msgstr "Fotograaf"
 
-#: commandments_app/templates/commandments/detail.html:401
+#: commandments_app/templates/commandments/detail.html:432
 msgid "Share your hearts together by discussing the following questions:"
 msgstr "Deel je harten met elkaar door het bespreking van de volgende vragen:"
 
-#: commandments_app/templates/commandments/detail.html:403
+#: commandments_app/templates/commandments/detail.html:434
 msgid "Is there anything you don't understand within this commandment?"
 msgstr "Is er iets dat je niet binnen dit gebod begrijpt?"
 
-#: commandments_app/templates/commandments/detail.html:404
+#: commandments_app/templates/commandments/detail.html:435
 msgid "Wat appeals to you about all Bible references and resources?"
 msgstr ""
 "Wat spreekt je aan bij alle Bijbelteksten en middelen (Illustratie, Fimpjes,"
 " Foto's, Preken, etc)?"
 
-#: commandments_app/templates/commandments/detail.html:405
+#: commandments_app/templates/commandments/detail.html:436
 msgid ""
 "How do you apply this commandment in your life or do you experience any "
 "boundaries?"
@@ -872,15 +897,15 @@ msgstr ""
 "Hoe ga je dit gebod toepassen in je leven of ervaar je nog bepaalde "
 "blokkades?"
 
-#: commandments_app/templates/commandments/detail.html:408
+#: commandments_app/templates/commandments/detail.html:439
 msgid "Extra questions"
 msgstr "Extra vragen"
 
-#: commandments_app/templates/commandments/detail.html:423
+#: commandments_app/templates/commandments/detail.html:454
 msgid "Resource Language Settings"
 msgstr "Taalinstellingen van de middelen"
 
-#: commandments_app/templates/commandments/detail.html:424
+#: commandments_app/templates/commandments/detail.html:455
 msgid ""
 "Below you will find all kinds of related resources to this commandment, to "
 "help you grow. Resources can be Sermons, Testimonies, Movies, Shortmovies, "
@@ -892,7 +917,7 @@ msgstr ""
 "korte films, liederen, blogs of boeken. U kunt meerdere talen selecteren om "
 "deze middelen te zien in meer talen."
 
-#: commandments_app/templates/commandments/detail.html:425
+#: commandments_app/templates/commandments/detail.html:456
 msgid ""
 "Do you know more good resources in your language which can be added to this "
 "list? Please <a href=\"mailto:info@jesuscommandments.org\">contact us</a> so"
@@ -903,19 +928,19 @@ msgstr ""
 "ons op </a> of <a href=\"\"> registreer je </a> zodat je het zelf kunt "
 "toevoegen"
 
-#: commandments_app/templates/commandments/detail.html:427
+#: commandments_app/templates/commandments/detail.html:458
 msgid "Change resource language"
 msgstr "Wijzig taal voor middelen"
 
-#: commandments_app/templates/commandments/detail.html:446
+#: commandments_app/templates/commandments/detail.html:477
 msgid "Watch now on"
 msgstr "Kijk nu op"
 
-#: commandments_app/templates/commandments/detail.html:462
+#: commandments_app/templates/commandments/detail.html:493
 msgid "Short Movies"
 msgstr "Korte Filmpjes"
 
-#: commandments_app/templates/commandments/detail.html:617
+#: commandments_app/templates/commandments/detail.html:648
 msgid "Quote by"
 msgstr "Citaat door"
 
@@ -937,6 +962,11 @@ msgstr "Want God had de wereld zo lief"
 #: commandments_app/templates/commandments/index.html:73
 msgid "Discover His commandments"
 msgstr "Ontdek Zijn geboden"
+
+#: commandments_app/templates/commandments/index.html:34
+#: templates/base.html:55
+msgid "Jesus Commandments"
+msgstr "Jezus Geboden"
 
 #: commandments_app/templates/commandments/index.html:36
 msgid "Following Jesus"
@@ -1026,13 +1056,13 @@ msgstr "Johannes 14:15"
 
 #: commandments_app/templates/commandments/index.html:159
 #: commandments_app/templates/commandments/listing.html:13
-#: templates/base.html:109
+#: templates/base.html:114
 msgid "If you love Me"
 msgstr "Als u Mij liefhebt"
 
 #: commandments_app/templates/commandments/index.html:159
 #: commandments_app/templates/commandments/listing.html:13
-#: templates/base.html:109
+#: templates/base.html:114
 msgid "keep my commands"
 msgstr "neem dan Mijn geboden in acht"
 
@@ -1090,7 +1120,7 @@ msgid "Using"
 msgstr "Gebruik makend van"
 
 #: commandments_app/templates/commandments/privacy.html:13
-#: templates/base.html:158
+#: templates/base.html:163
 msgid "Privacy Policy"
 msgstr "Privacybeleid"
 
@@ -1375,22 +1405,22 @@ msgstr ""
 "\"dubbel\" of \"studie\" Bijbeltekst?"
 
 #: commandments_app/templates/commandments/study_listing.html:55
-#: commandments_app/templates/commandments/study_listing.html:109
+#: commandments_app/templates/commandments/study_listing.html:110
 msgid "Primary"
 msgstr "Primair"
 
 #: commandments_app/templates/commandments/study_listing.html:56
-#: commandments_app/templates/commandments/study_listing.html:121
+#: commandments_app/templates/commandments/study_listing.html:123
 msgid "Direct"
 msgstr "Direct"
 
 #: commandments_app/templates/commandments/study_listing.html:57
-#: commandments_app/templates/commandments/study_listing.html:133
+#: commandments_app/templates/commandments/study_listing.html:136
 msgid "Indirect"
 msgstr "Indirect"
 
 #: commandments_app/templates/commandments/study_listing.html:58
-#: commandments_app/templates/commandments/study_listing.html:145
+#: commandments_app/templates/commandments/study_listing.html:149
 msgid "Example"
 msgstr "Voorbeeld"
 
@@ -1403,12 +1433,12 @@ msgstr ""
 "dit gebod uitleven"
 
 #: commandments_app/templates/commandments/study_listing.html:59
-#: commandments_app/templates/commandments/study_listing.html:157
+#: commandments_app/templates/commandments/study_listing.html:162
 msgid "Duplicate"
 msgstr "Dubbel"
 
 #: commandments_app/templates/commandments/study_listing.html:60
-#: commandments_app/templates/commandments/study_listing.html:169
+#: commandments_app/templates/commandments/study_listing.html:175
 msgid "Study"
 msgstr "Studie"
 
@@ -1488,27 +1518,40 @@ msgid "Change Bible Translation"
 msgstr "Verander Bijbelvertaling"
 
 #: commandments_app/templates/commandments/study_listing.html:88
-#: commandments_app/templates/commandments/study_listing.html:178
-msgid "Positive / Negative"
-msgstr "Positief / Negatief"
-
-#: commandments_app/templates/commandments/study_listing.html:92
-#: commandments_app/templates/commandments/study_listing.html:182
+#: commandments_app/templates/commandments/study_listing.html:212
 msgid "Bible Reference"
 msgstr "Bijbeltekst"
 
-#: commandments_app/templates/commandments/study_listing.html:94
-#: commandments_app/templates/commandments/study_listing.html:184
-msgid "Bible Reference Text"
-msgstr "Bijbeltekst"
+#: commandments_app/templates/commandments/study_listing.html:90
+#: commandments_app/templates/commandments/study_listing.html:214
+msgid "Positive / Negative"
+msgstr "Positief / Negatief"
 
-#: commandments_app/templates/commandments/study_listing.html:96
-#: commandments_app/templates/commandments/study_listing.html:186
+#: commandments_app/templates/commandments/study_listing.html:94
+#: commandments_app/templates/commandments/study_listing.html:218
 msgid "Grouping"
 msgstr "Groepering"
 
+#: commandments_app/templates/commandments/study_listing.html:96
+#: commandments_app/templates/commandments/study_listing.html:220
+msgid "Category"
+msgstr "Categorie"
+
+#: commandments_app/templates/commandments/study_listing.html:98
+#: commandments_app/templates/commandments/study_listing.html:222
+msgid "title"
+msgstr "Titel"
+
+#: commandments_app/templates/commandments/study_listing.html:188
+msgid "OT Law"
+msgstr "OT Wet"
+
+#: commandments_app/templates/commandments/study_listing.html:201
+msgid "Wisdom"
+msgstr "Wijsheid"
+
 #: commandments_app/templates/commandments/termsandconditions.html:13
-#: templates/base.html:158
+#: templates/base.html:163
 msgid "Terms and Conditions"
 msgstr "Voorwaarden"
 
@@ -1554,7 +1597,7 @@ msgid "The reason why we have this website"
 msgstr "De reden waarom we deze website hebben"
 
 #: commandments_app/templates/commandments/vision.html:13
-#: templates/base.html:63
+#: templates/base.html:68
 msgid "Vision"
 msgstr "Visie"
 
@@ -1639,39 +1682,43 @@ msgstr "Engels"
 msgid "Dutch"
 msgstr "Nederlands"
 
-#: templates/base.html:54
-msgid "Jesus commandments"
-msgstr "Jezus geboden"
+#: templates/base.html:9
+msgid "Jesus Commandments - learn it - live it - give it"
+msgstr "Jezus Geboden - leer 't - leef 't - geef 't"
 
-#: templates/base.html:56
+#: templates/base.html:57
+msgid "Learn it - Live it - Give it"
+msgstr "Leer 't - Leef 't - Geef 't"
+
+#: templates/base.html:61
 msgid "Menu"
 msgstr "Menu"
 
-#: templates/base.html:61
+#: templates/base.html:66
 msgid "Home"
 msgstr "Home"
 
-#: templates/base.html:62
+#: templates/base.html:67
 msgid "All Commandments"
 msgstr "Alle Geboden"
 
-#: templates/base.html:64 templates/base.html:123
+#: templates/base.html:69 templates/base.html:128
 msgid "Study them"
 msgstr "Bestudeer ze"
 
-#: templates/base.html:66 templates/base.html:142
+#: templates/base.html:71 templates/base.html:147
 msgid "Admin Portal"
 msgstr "Admin Portaal"
 
-#: templates/base.html:72
+#: templates/base.html:77
 msgid "Help improving"
 msgstr "Help verbeteren"
 
-#: templates/base.html:77
+#: templates/base.html:82
 msgid "Change language / Bible"
 msgstr "Wijzig taal / Bijbel"
 
-#: templates/base.html:79 templates/modal.html:64
+#: templates/base.html:84 templates/modal.html:64
 msgid ""
 "When activating the Kids Site, you will find the same commandments with "
 "limited videos and resources"
@@ -1679,31 +1726,31 @@ msgstr ""
 "Wanneer de Kids Site is geactiveerd, zul je dezelfde geboden vinden met een "
 "select aantal filmpjes en middelen"
 
-#: templates/base.html:120
+#: templates/base.html:125
 msgid "Site Navigation"
 msgstr "Site Navigatie"
 
-#: templates/base.html:122
+#: templates/base.html:127
 msgid "List of Commandments"
 msgstr "Lijst van Geboden"
 
-#: templates/base.html:124
+#: templates/base.html:129
 msgid "Our Vision"
 msgstr "Onze Visie"
 
-#: templates/base.html:130
+#: templates/base.html:135
 msgid "Account"
 msgstr "Account"
 
-#: templates/base.html:138
+#: templates/base.html:143
 msgid "Register"
 msgstr "Registreren"
 
-#: templates/base.html:149
+#: templates/base.html:154
 msgid "Contact us"
 msgstr "Neem contact op"
 
-#: templates/base.html:151
+#: templates/base.html:156
 msgid "Email: "
 msgstr "E-mail:"
 
@@ -1801,7 +1848,9 @@ msgstr "Breng dan vruchten voort in overeenstemming met de bekering"
 
 #: commandments_app.Commandment/title_negative:4
 msgid "He cuts off every branch in me that bears no fruit"
-msgstr "Hij snijdt elke rank die in Mij geen vrucht draagt"
+msgstr ""
+"Elke boom dan die geen goede vrucht voortbrengt, wordt omgehakt en in het "
+"vuur geworpen"
 
 #: commandments_app.Commandment/title:5
 msgid "Worship the Lord your God, and Him only shalt thou serve"
@@ -1859,12 +1908,10 @@ msgid "Your successful past will block your visions of the future"
 msgstr "Je succesvolle verleden zal je visie op de toekomst blokkeren"
 
 #: commandments_app.Commandment/title:10
-#| msgid "Blessed are the pure in heart: for they shall see God"
 msgid "Blessed are they that mourn: for they shall be comforted"
 msgstr "Zalig zijn zij die treuren, want zij zullen vertroost worden"
 
 #: commandments_app.Commandment/title:11
-#| msgid "Blessed are the pure in heart: for they shall see God"
 msgid "Blessed are the meek: for they shall inherit the earth"
 msgstr "Zalig zijn de zachtmoedigen, want zij zullen de aarde beërven"
 
@@ -1877,7 +1924,6 @@ msgstr ""
 "zullen verzadigd worden"
 
 #: commandments_app.Commandment/title:13
-#| msgid "Blessed are the pure in heart: for they shall see God"
 msgid "Blessed are the merciful: for they shall obtain mercy"
 msgstr ""
 "Zalig zijn de barmhartigen, want aan hen zal barmhartigheid bewezen worden"
@@ -1907,7 +1953,6 @@ msgstr ""
 "hebben in je hart"
 
 #: commandments_app.Commandment/title:15
-#| msgid "Blessed are the pure in heart: for they shall see God"
 msgid ""
 "Blessed are the peacemakers: for they shall be called the children of God"
 msgstr ""
@@ -2007,7 +2052,7 @@ msgstr ""
 
 #: commandments_app.Commandment/title:23
 msgid "Honor marriage"
-msgstr "Houdt het huwelijk in ere"
+msgstr "Houd het huwelijk in ere"
 
 #: commandments_app.Commandment/title_negative:23
 msgid "Do not look lustfully to a woman"
@@ -2334,6 +2379,10 @@ msgstr "Zoek de verloren schapen"
 msgid "In every thing give thanks"
 msgstr "Dank God onder alle omstandigheden"
 
+#: commandments_app.Commandment/title:63
+msgid "Honour thy father and thy mother"
+msgstr "Eer uw vader en uw moeder"
+
 #: commandments_app.Commandment/title:64
 msgid "Many that are first shall be last; and the last shall be first"
 msgstr "Veel eersten zullen de laatsten zijn, en veel laatsten de eersten"
@@ -2497,12 +2546,13 @@ msgid "Tell each other your testimony why you got baptized"
 msgstr "Vertel elkaar je getuigenis waarom je je hebt laten dopen"
 
 #: commandments_app.Question/text:9
+#| msgid "Do you apply regular fasting in your life?"
 msgid "Do you recognize any fruits in your life?"
-msgstr "Herken je vruchten in je leven?"
+msgstr "Herken jij vruchten in je leven?"
 
 #: commandments_app.Question/text:10
 msgid "Tell each other how you recognize their fruits"
-msgstr "Vertel elkaar vruchten die je bij de ander ziet"
+msgstr "Vertel elkaar hoe je elkaars vruchten herkent"
 
 #: commandments_app.Question/text:15
 msgid "Who cares about our agenda for telling the world about Jesus?"
@@ -2524,7 +2574,6 @@ msgid ""
 msgstr "Let jij overdag op de mensen om je heen die hulp nodig hebben?"
 
 #: commandments_app.Question/text:23
-#| msgid "When was the last time you were generous?"
 msgid "When was the last time you were merciful?"
 msgstr "Wanneer was de laatste keer dat je barmhartig was?"
 
@@ -2627,6 +2676,7 @@ msgstr ""
 "vergeven, ongeacht de ander wel of niet om vergeving vraagt?"
 
 #: commandments_app.Question/text:61
+#| msgid "Do you apply regular fasting in your life?"
 msgid "Do you apply regular fasting in your life?"
 msgstr "Vast jij regelmatig in je leven?"
 
@@ -2711,23 +2761,23 @@ msgid ""
 msgstr ""
 "Herken jij een van de genoemde symptonen van hebzucht in de beschrijving?"
 
-#: commandments_app.Question/text:109
+#: commandments_app.Question/text:110
 msgid "What do you think believe is all about?"
 msgstr "Wat denk je waar geloof allemaal over gaat?"
 
-#: commandments_app.Question/text:110
+#: commandments_app.Question/text:111
 msgid "How do you know what somebody believes in?"
 msgstr "Hoe weet je waar je in gelooft?"
 
-#: commandments_app.Question/text:112
+#: commandments_app.Question/text:113
 msgid "Do you truly love Jesus? If you did, how would you know?"
 msgstr "Houdt je werkelijk van Jezus? Als je dat doet, hoe weet je dat zeker?"
 
-#: commandments_app.Question/text:116
+#: commandments_app.Question/text:117
 msgid "What talents do you use to glorify the Father?"
 msgstr "Welke talenten gebruik jij om de Vader te verheerlijken?"
 
-#: commandments_app.Question/text:117
+#: commandments_app.Question/text:118
 msgid ""
 "Do you pray: Lord, will you bless what I have sown? Or: Lord, what do you "
 "want me to sow?"
@@ -2735,11 +2785,11 @@ msgstr ""
 "Bid jij: Heer, wilt U zegenen wat ik heb gezaaid? Of: Heer, wat wilt U dat "
 "ik zaai?"
 
-#: commandments_app.Question/text:119
+#: commandments_app.Question/text:120
 msgid "Imagine yourself on trial for your faith"
 msgstr "Stel jezelf voor dat je op de proef wordt gesteld voor je geloof"
 
-#: commandments_app.Question/text:122
+#: commandments_app.Question/text:123
 msgid ""
 "Have you met someone like Jonathan, who visited you to encourage you to put "
 "your faith in God?"
@@ -2747,22 +2797,23 @@ msgstr ""
 "Ken jij iemand zoals Jonathan, die je heeft bezocht om je aan te moedigen je"
 " geloof in God te stellen?"
 
-#: commandments_app.Question/text:127
+#: commandments_app.Question/text:128
 msgid "What do you think is a disciple?"
 msgstr "Wat denk je dat een discipel is?"
 
-#: commandments_app.Question/text:128
+#: commandments_app.Question/text:129
 msgid "Are you a disciple?"
 msgstr "Ben jij een discipel?"
 
-#: commandments_app.Question/text:129
+#: commandments_app.Question/text:130
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
 
-#: commandments_app.Question/text:130
+#: commandments_app.Question/text:132
 msgid ""
 "Could you still be a disciple today? If so, how would that look like? If "
 "not, why not?"
 msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
+
