@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-15 13:46+0000\n"
-"PO-Revision-Date: 2020-08-15 13:53+0000\n"
+"POT-Creation-Date: 2020-10-25 12:57+0000\n"
+"PO-Revision-Date: 2020-10-25 12:59+0000\n"
 "Last-Translator: b'Merijn Visser <merijn@jesuscommandments.org>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1178,6 +1178,16 @@ msgstr ""
 "\n"
 "<p><i>Voor meer informatie over ons privacybeleid, neem dan contact met ons op: <a href=\"mailto:info@jesuscommandments.org\"> info@jesuscommandments.org </a></i></p>"
 
+#: commandments_app/templates/commandments/single_commandment_overview.html:10
+#| msgid "Superbook"
+msgid "Superbook Found"
+msgstr "Superbook gevonden"
+
+#: commandments_app/templates/commandments/single_commandment_overview.html:11
+#| msgid "De Henkie Show"
+msgid "Henkie Show Found"
+msgstr "De Henkie Show gevonden"
+
 #: commandments_app/templates/commandments/single_commandment_overview.html:14
 msgid "Drawing in progress"
 msgstr "Illustratie in ontwikkeling"
@@ -1883,8 +1893,8 @@ msgstr ""
 "uitzendt"
 
 #: commandments_app.Commandment/title:7
-msgid "Remember the sabbath day, to keep it holy"
-msgstr "Gedenk de sabbatdag, dat u die heiligt"
+msgid "Take a day off in the week"
+msgstr "Neem een dag rust in de week"
 
 #: commandments_app.Commandment/title_negative:7
 msgid "The sabbath was made for man, and not man for the sabbath"
@@ -2155,9 +2165,6 @@ msgstr ""
 "anderen die het doen."
 
 #: commandments_app.Commandment/title:31
-#| msgid ""
-#| "If ye forgive men their trespasses, your heavenly Father will also forgive "
-#| "you"
 msgid ""
 "If you forgive men their trespasses, your heavenly Father will also forgive "
 "you"
@@ -2211,7 +2218,6 @@ msgid "Do not judge, or you too will be judged"
 msgstr "Oordeel niet, of jij zult ook worden geoordeeld"
 
 #: commandments_app.Commandment/title:36
-#| msgid "Seek, and ye shall find"
 msgid "Seek, and you will find"
 msgstr "Zoek, en u zult vinden"
 
@@ -2387,7 +2393,6 @@ msgid "In every thing give thanks"
 msgstr "Dank God onder alle omstandigheden"
 
 #: commandments_app.Commandment/quote:62
-#| msgid "Not happiness makes grateful, but gratitude makes you happy!"
 msgid ""
 "It is not happiness that makes you grateful, but gratitude makes you happy"
 msgstr "Niet geluk maakt dankbaar, maar dankbaarheid maakt je gelukkig!"
@@ -2827,8 +2832,8 @@ msgstr "Wat denk je dat een discipel is?"
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
 
-#~ msgid "Take a day off in the week"
-#~ msgstr "Neem een dag rust in de week"
+#~ msgid "Remember the sabbath day, to keep it holy"
+#~ msgstr "Gedenk de sabbatdag, dat u die heiligt"
 
 #~ msgid ""
 #~ "You can turn your troubles into trust when you choose worship over worry."
