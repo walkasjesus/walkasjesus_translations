@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-06 06:19+0000\n"
-"PO-Revision-Date: 2020-12-06 06:21+0000\n"
+"POT-Creation-Date: 2021-02-17 05:05+0000\n"
+"PO-Revision-Date: 2021-02-17 05:11+0000\n"
 "Last-Translator: b'Merijn Visser <merijn@jesuscommandments.org>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1867,6 +1867,17 @@ msgstr ""
 "Elke boom dan die geen goede vrucht voortbrengt, wordt omgehakt en in het "
 "vuur geworpen"
 
+#: commandments_app.Commandment/quote:4
+#| msgid ""
+#| "Vision without action is merely a dream. Action without vision just passes "
+#| "the time. Vision with action can change the world."
+msgid ""
+"Vision without action is just a dream, action without vision just passes the"
+" time, and vision with action can change the world."
+msgstr ""
+"Visie zonder actie is slechts een droom. Actie zonder visie laat de tijd "
+"gewoon voorbijgaan. Visie met actie kan de wereld veranderen."
+
 #: commandments_app.Commandment/title:5
 msgid "You shall worship the LORD your God, and Him only you shall serve"
 msgstr "De Heere, uw God, zult u aanbidden en Hem alleen dienen."
@@ -1922,6 +1933,11 @@ msgstr "Je succesvolle verleden zal je visie op de toekomst blokkeren"
 #: commandments_app.Commandment/title:10
 msgid "Blessed are they that mourn: for they shall be comforted"
 msgstr "Zalig zijn zij die treuren, want zij zullen vertroost worden"
+
+#: commandments_app.Commandment/quote:10
+msgid "My life is not full despite disappointings, but because of them"
+msgstr ""
+"Mijn leven is niet vol ondanks teleurstellingen, maar juist dankzij hen"
 
 #: commandments_app.Commandment/title:11
 msgid "Blessed are the meek: for they shall inherit the earth"
@@ -2075,8 +2091,8 @@ msgid "Keep your word"
 msgstr "Doe wat je zegt"
 
 #: commandments_app.Commandment/title_negative:24
-msgid "Don’t act different from what you speak"
-msgstr "Handel niet anders dan wat je zegt"
+msgid "Swear not at all"
+msgstr "Zweer in het geheel niet"
 
 #: commandments_app.Commandment/quote:24
 msgid ""
@@ -2308,6 +2324,10 @@ msgstr "Heb God lief boven alles"
 msgid "Deny yourself, take up a cross, and follow Jesus"
 msgstr "Verloochen jezelf, neem je kruis op je en volg Jezus"
 
+#: commandments_app.Commandment/quote:48
+msgid "Suffering doesnt destroy faith, it refines it"
+msgstr "Lijden vernietigd het geloof niet, het verfijnd haar"
+
 #: commandments_app.Commandment/title:49
 msgid "Receive him whom I will send"
 msgstr "Ontvang hem die Ik zal zenden"
@@ -2509,8 +2529,13 @@ msgstr ""
 "in Hem"
 
 #: commandments_app.Commandment/title:75
-msgid "Feed my sheep"
+#| msgid "Feed my sheep"
+msgid "Feed My sheep"
 msgstr "Hoed Mijn schapen"
+
+#: commandments_app.Commandment/quote:75
+msgid "Lead from the back — and let others believe they are in front."
+msgstr "Leid van achteren - en laat anderen geloven dat ze vooraan staan "
 
 #: commandments_app.Commandment/title:76
 msgid ""
@@ -2829,6 +2854,26 @@ msgstr "Wat denk je dat een discipel is?"
 #: commandments_app.Question/text:418
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
+
+#: commandments_app.Question/text:419
+msgid ""
+"In the film, Martin denies himself and follows Jesus by sharing the Gospel "
+"with sailors. What’s your response to his humble obedience?"
+msgstr ""
+"In de film verloochent Martin zichzelf en volgt hij Jezus door het evangelie"
+" met zeilers te delen. Wat is jouw reactie op zijn nederige gehoorzaamheid?"
+
+#: commandments_app.Question/text:420
+msgid ""
+"Christ laid down His own life to eternally save yours. How does this good "
+"news empower you to deny yourself and follow Him?"
+msgstr ""
+"Christus heeft zijn eigen leven afgelegd om het jouwe eeuwig te redden. Hoe "
+"geeft dit goede nieuws je de kracht om jezelf te verloochenen en Hem te "
+"volgen?"
+
+#~ msgid "Don’t act different from what you speak"
+#~ msgstr "Handel niet anders dan wat je zegt"
 
 #~ msgid ""
 #~ "Your father brought you in this world, but Rabbi Jesus will bring you in the"
