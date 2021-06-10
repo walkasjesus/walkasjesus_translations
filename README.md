@@ -1,4 +1,4 @@
-# jesus_commandments_translations
+# walkasjesus_translations
 
 This repository contains all translation files from English to other languages. We use Google translate to make a first automated translation. The next step for the translator is to review all translated items and acknowledge them through the admin panel of the website. 
 
@@ -10,8 +10,8 @@ If you think this website contains valuable information to help in Discipling pe
 
 In order to translate the website, you can do the following:
 
-1. Register for an account on the [website](https://www.jesuscommandments.org/account/signup)
-2. Once your account is acknowledged, you can [login here](https://www.jesuscommandments.org/account/login/)
+1. Register for an account on the [website](https://www.walkasjesus.org/account/signup)
+2. Once your account is acknowledged, you can [login here](https://www.walkasjesus.org/account/login/)
 3. Click on the word `Translations` to go to the translation page
 4. Click on the link `jesus_commandments_website` under the title of the language where you want to translate
 5. Start translation for all the fields. `Fuzzy` entries call for revision by the translator. When an entry is revised, you can deselect the fuzzy field. Once you have done all the items, you can click on `save and translate next block`.
@@ -21,7 +21,7 @@ In order to translate the website, you can do the following:
 If you want to add completely new languages you need to perform the following steps.  
 In this example we will add the _Dutch_ language, which will have **nl** as language code (Format should be in [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)).
 
-1. Add the new language to the `base_settings.py` of the `jesus_commandments_framework`
+1. Add the new language to the `base_settings.py` of the `walkasjesus_framework`
 
 ```
 LANGUAGES = [
@@ -65,18 +65,18 @@ Could not translate all items, stopped on above error.
 
 The following projects are related to this repository.
 
-### jesus_commandments_framework
+### walkasjesus_framework
 
-This repository is the heart of the application which will show all the different components of the Jesus Commandments Application in a fancy Python Framework [Django](https://www.djangoproject.com/)
+This repository is the heart of the application which will show all the different components of the Walk as Jesus Application in a fancy Python Framework [Django](https://www.djangoproject.com/)
 
-### jesus_commandments_server
+### walkasjesus_server
 
-This repository contains IT Automation tools for [Ansible](https://docs.ansible.com/ansible/latest/index.html) to install & configure all the server components which are required to serve the [Jesus Commandments Framework](https://github.com/jesuscommandments/jesus_commandments_framework)
+This repository contains IT Automation tools for [Ansible](https://docs.ansible.com/ansible/latest/index.html) to install & configure all the server components which are required to serve the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework)
 
-### jesus_commandments_biblereferences
+### walkasjesus_biblereferences
 
-Repository for the Jesus Commandments Framework where all the commandments with all their related Bible References are stored in a CSV. This CSV can be imported/exported with the [Jesus Commandments Framework](https://github.com/jesuscommandments/jesus_commandments_framework) and the [Jesus Commandments Server](https://github.com/jesuscommandments/jesus_commandments_server)
+Repository for the Walk as Jesus Framework where all the commandments with all their related Bible References are stored in a CSV. This CSV can be imported/exported with the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) and the [Walk as Jesus Server](https://github.com/walkasjesus/walkasjesus_server)
 
-### jesus_commandments_media
+### walkasjesus_media
 
-Repository for the [Jesus Commandments Framework](https://github.com/jesuscommandments/jesus_commandments_framework) where all the resources (movies, songs, blogs, sermons, testimonies, etc) in all languages are stored in a CSV. This CSV can be imported/exported with the [Jesus Commandments Framework](https://github.com/jesuscommandments/jesus_commandments_framework) and the [Jesus Commandments Server](https://github.com/jesuscommandments/jesus_commandments_server)
+Repository for the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) where all the resources (movies, songs, blogs, sermons, testimonies, etc) in all languages are stored in a CSV. This CSV can be imported/exported with the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) and the [Walk as Jesus Server](https://github.com/walkasjesus/walkasjesus_server)
