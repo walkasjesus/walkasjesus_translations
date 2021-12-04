@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-03 22:37+0000\n"
-"PO-Revision-Date: 2021-12-03 22:38+0000\n"
+"POT-Creation-Date: 2021-12-04 06:55+0000\n"
+"PO-Revision-Date: 2021-12-04 07:02+0000\n"
 "Last-Translator: b'  <admin@email.com>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -130,7 +130,7 @@ msgid ""
 "Adding resources like movies, books, testimonies, blogs, songs, pictures, "
 "illustrations and sermons which are related to the corresponding steps"
 msgstr ""
-"Het toevoegen van middelen zoals films, boeken, getuigenissen, blogs, "
+"Het toevoegen van media items zoals films, boeken, getuigenissen, blogs, "
 "liederen, foto's en preken welke gerelateerd zijn aan de overeenkomstige "
 "stap"
 
@@ -902,8 +902,8 @@ msgstr "Is er iets dat je binnen deze stap niet begrijpt?"
 #: commandments_app/templates/commandments/detail.html:442
 msgid "Wat appeals to you about all Bible references and resources?"
 msgstr ""
-"Wat spreekt je aan bij alle Bijbelteksten en middelen (Illustratie, Fimpjes,"
-" Foto's, Preken, etc)?"
+"Wat spreekt je aan bij alle Bijbelteksten en media items (Illustratie, "
+"Fimpjes, Foto's, Preken, etc)?"
 
 #: commandments_app/templates/commandments/detail.html:443
 msgid ""
@@ -918,7 +918,7 @@ msgstr "Extra vragen"
 
 #: commandments_app/templates/commandments/detail.html:461
 msgid "Resource Language Settings"
-msgstr "Taalinstellingen van de middelen"
+msgstr "Taalinstellingen van de media items"
 
 #: commandments_app/templates/commandments/detail.html:462
 msgid ""
@@ -927,10 +927,10 @@ msgid ""
 "Blogs or Books. You can select multiple languages if you like to see those "
 "resources in more languages."
 msgstr ""
-"Hieronder vind je allerlei gerelateerde middelen aan deze stap om je te "
-"helpen groeien. Middelen zijn bijvoorbeeld preken, getuigenissen, films, "
+"Hieronder vind je allerlei gerelateerde media items aan deze stap om je te "
+"helpen groeien. Media items zijn bijvoorbeeld preken, getuigenissen, films, "
 "korte films, liederen, blogs of boeken. Je kunt meerdere talen selecteren om"
-" deze middelen te zien in meer talen."
+" deze media items te zien in meer talen."
 
 #: commandments_app/templates/commandments/detail.html:463
 msgid ""
@@ -938,13 +938,13 @@ msgid ""
 "list? Please <a href=\"mailto:info@walkasjesus.org\">contact us</a> so we "
 "can add it (or <a href=\"\">register</a> and you can add it yourself!"
 msgstr ""
-"Ken je meer goede middelen in je taal die aan deze lijst kunnen worden "
+"Ken je meer goede media items in je taal die aan deze lijst kunnen worden "
 "toegevoegd? <a href=\"mailto:info@walkasjesus.org\"> Neem contact met ons op"
 " </a> of <a href=\"\"> registreer je </a> zodat je het zelf kunt toevoegen"
 
 #: commandments_app/templates/commandments/detail.html:465
 msgid "Change resource language"
-msgstr "Wijzig taal voor middelen"
+msgstr "Wijzig taal voor media items"
 
 #: commandments_app/templates/commandments/detail.html:484
 msgid "Watch now on"
@@ -969,12 +969,10 @@ msgid "Becoming like Him"
 msgstr "Worden zoals Hij"
 
 #: commandments_app/templates/commandments/index.html:19
-#| msgid "77 Steps"
 msgid "77 steps"
 msgstr "77 Stappen"
 
 #: commandments_app/templates/commandments/index.html:19
-#| msgid "how to walk as Jesus"
 msgid "How to walk as Jesus"
 msgstr "Hoe te wandelen als Jezus"
 
@@ -1080,15 +1078,15 @@ msgstr "1 Johannes 2:6"
 
 #: commandments_app/templates/commandments/index.html:160
 #: commandments_app/templates/commandments/listing.html:13
-msgid "He who says he abides in Him ought himself also"
-msgstr ""
-"Wie zegt in Hem te blijven, moet ook zelf zo wandelen als Hij gewandeld "
-"heeft"
+#| msgid "He who says he abides in Him ought himself also"
+msgid "He who says he abides in Him"
+msgstr "Wie zegt in Hem te blijven"
 
 #: commandments_app/templates/commandments/index.html:160
 #: commandments_app/templates/commandments/listing.html:13
-msgid "to walk just as He walked"
-msgstr "om te wandelen zoals Hij heeft gewandeld"
+#| msgid "to walk just as He walked"
+msgid "ought himself also to walk just as He walked"
+msgstr "moet ook zelf zo wandelen als Hij gewandeld heeft"
 
 #: commandments_app/templates/commandments/index.html:161
 #: commandments_app/templates/commandments/listing.html:14
@@ -1775,7 +1773,7 @@ msgid ""
 "limited videos and resources"
 msgstr ""
 "Wanneer de Kids Site is geactiveerd, zul je dezelfde geboden vinden met een "
-"select aantal filmpjes en middelen"
+"select aantal filmpjes en media items"
 
 #: templates/base.html:114
 msgid "If you love Me"
@@ -1862,11 +1860,11 @@ msgid ""
 "videos and resources"
 msgstr ""
 "Wanneer de Kids Site is geactiveerd, zul je dezelfde stappen vinden met een "
-"select aantal filmpjes en middelen"
+"select aantal filmpjes en media items"
 
 #: templates/modal.html:67
 msgid "Media Resource language"
-msgstr "Taal voor media middelen"
+msgstr "Taal voor media media items"
 
 #: templates/modal.html:85
 msgid ""
@@ -1875,10 +1873,10 @@ msgid ""
 "select multiple languages if you like to see resources for specific "
 "languages."
 msgstr ""
-"Binnen een stap, kun je meerdere gerelateerde middelen vinden. Middelen "
-"kunnen bijvoorbeeld zijn preken, getuigenissen, films, korte films, "
-"liederen, blogs of boeken. Je kunt meerdere talen selecteren om deze "
-"middelen te zien in meer talen."
+"Binnen een stap, kun je meerdere gerelateerde media items vinden. Media "
+"items kunnen bijvoorbeeld zijn preken, getuigenissen, films, korte films, "
+"liederen, blogs of boeken. Je kunt meerdere talen selecteren om deze items "
+"te zien in meer talen."
 
 #: commandments_app.Commandment/title:1
 msgid "Repent and believe the gospel"
