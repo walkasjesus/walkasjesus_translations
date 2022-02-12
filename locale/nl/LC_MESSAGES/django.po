@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-04 06:55+0000\n"
-"PO-Revision-Date: 2021-12-04 07:02+0000\n"
+"POT-Creation-Date: 2022-02-12 16:24+0000\n"
+"PO-Revision-Date: 2022-02-12 16:26+0000\n"
 "Last-Translator: b'  <admin@email.com>'\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -969,14 +969,17 @@ msgid "Becoming like Him"
 msgstr "Worden zoals Hij"
 
 #: commandments_app/templates/commandments/index.html:19
-msgid "77 steps"
-msgstr "77 Stappen"
-
-#: commandments_app/templates/commandments/index.html:19
-msgid "How to walk as Jesus"
-msgstr "Hoe te wandelen als Jezus"
+#: commandments_app/templates/commandments/vision.html:26
+#: templates/base.html:55
+msgid "Walk as Jesus"
+msgstr "Wandel als Jezus"
 
 #: commandments_app/templates/commandments/index.html:20
+#| msgid "77 steps"
+msgid "in 77 steps"
+msgstr "in 77 stappen"
+
+#: commandments_app/templates/commandments/index.html:21
 msgid ""
 "Jesus tought many different things. We help applying all 77 steps in your "
 "daily life"
@@ -984,58 +987,58 @@ msgstr ""
 "Jezus onderwees vele verschillende dingen. Wij helpen om alle 77 stappen toe"
 " te passen in je dagelijks leven"
 
-#: commandments_app/templates/commandments/index.html:21
-#: commandments_app/templates/commandments/index.html:38
-#: commandments_app/templates/commandments/index.html:56
-#: commandments_app/templates/commandments/index.html:73
+#: commandments_app/templates/commandments/index.html:22
+#: commandments_app/templates/commandments/index.html:39
+#: commandments_app/templates/commandments/index.html:57
+#: commandments_app/templates/commandments/index.html:74
 msgid "Discover how"
 msgstr "Ontdek hoe"
 
-#: commandments_app/templates/commandments/index.html:34
+#: commandments_app/templates/commandments/index.html:35
 msgid "Jesus Commandments"
 msgstr "Jezus Geboden"
 
-#: commandments_app/templates/commandments/index.html:36
+#: commandments_app/templates/commandments/index.html:37
 msgid "First Grace"
 msgstr "Eerst Genade"
 
-#: commandments_app/templates/commandments/index.html:36
+#: commandments_app/templates/commandments/index.html:37
 msgid "then obedience"
 msgstr "dan Gehoorzaamheid"
 
-#: commandments_app/templates/commandments/index.html:37
+#: commandments_app/templates/commandments/index.html:38
 msgid "Bringing people back to the heart of Christ"
 msgstr "Mensen terugbrengen bij het hart van Jezus"
 
-#: commandments_app/templates/commandments/index.html:52
+#: commandments_app/templates/commandments/index.html:53
 msgid "Kids site"
 msgstr "Kids Site"
 
-#: commandments_app/templates/commandments/index.html:54
+#: commandments_app/templates/commandments/index.html:55
 msgid "A special"
 msgstr "Een speciale"
 
-#: commandments_app/templates/commandments/index.html:54
+#: commandments_app/templates/commandments/index.html:55
 msgid "childrens version"
 msgstr "kinder versie"
 
-#: commandments_app/templates/commandments/index.html:54
+#: commandments_app/templates/commandments/index.html:55
 msgid "of this site to teach how Jesus walked"
 msgstr "van deze website om hen te leren hoe Jezus wandelde"
 
-#: commandments_app/templates/commandments/index.html:55
+#: commandments_app/templates/commandments/index.html:56
 msgid "With links to Superbook animated Bible stories"
 msgstr "Met links naar Superbook geanimeerde Bijbel verhalen"
 
-#: commandments_app/templates/commandments/index.html:69
+#: commandments_app/templates/commandments/index.html:70
 msgid "Matthew 28:19-20"
 msgstr "Mattheüs 28:19-20"
 
-#: commandments_app/templates/commandments/index.html:71
+#: commandments_app/templates/commandments/index.html:72
 msgid "Therefore go and <span>make Disciples</span> of all nations"
 msgstr "Ga dan heen, <span>maak discipelen</span> uit alle volken"
 
-#: commandments_app/templates/commandments/index.html:72
+#: commandments_app/templates/commandments/index.html:73
 msgid ""
 "teaching them to <span><strong>obey everything</strong></span> I have "
 "commanded you"
@@ -1043,52 +1046,47 @@ msgstr ""
 "hun lerend <span><strong>alles</strong></span> wat Ik u geboden heb, "
 "<span><strong>in acht te nemen</strong></span>"
 
-#: commandments_app/templates/commandments/index.html:97
+#: commandments_app/templates/commandments/index.html:98
 msgid "Unique steps"
 msgstr "Unieke stappen"
 
-#: commandments_app/templates/commandments/index.html:108
+#: commandments_app/templates/commandments/index.html:109
 msgid "Bible translations"
 msgstr "Bijbelvertalingen"
 
-#: commandments_app/templates/commandments/index.html:119
+#: commandments_app/templates/commandments/index.html:120
 msgid "Languages"
 msgstr "Talen"
 
-#: commandments_app/templates/commandments/index.html:130
+#: commandments_app/templates/commandments/index.html:131
 msgid "Contributers"
 msgstr "Bijdragen"
 
-#: commandments_app/templates/commandments/index.html:144
-msgid "We love Him, because He first loved us"
-msgstr "Wij hebben Hem lief, omdat Hij ons eerst heeft liefgehad"
+#: commandments_app/templates/commandments/index.html:143
+#| msgid "How to walk as Jesus"
+msgid "Intro video 'Walk as Jesus'"
+msgstr "Intro video 'Wandel als Jezus'"
 
-#: commandments_app/templates/commandments/index.html:145
-msgid "1 John 4:19"
-msgstr "1 Johannes 4:19"
-
-#: commandments_app/templates/commandments/index.html:150
+#: commandments_app/templates/commandments/index.html:149
 msgid "Bring the Bible back to life in your child's heart"
 msgstr "Breng de Bijbel weer tot leven in het hart van je kinderen"
 
-#: commandments_app/templates/commandments/index.html:159
+#: commandments_app/templates/commandments/index.html:158
 #: commandments_app/templates/commandments/listing.html:12
 msgid "1 John 2:6"
 msgstr "1 Johannes 2:6"
 
-#: commandments_app/templates/commandments/index.html:160
+#: commandments_app/templates/commandments/index.html:159
 #: commandments_app/templates/commandments/listing.html:13
-#| msgid "He who says he abides in Him ought himself also"
 msgid "He who says he abides in Him"
 msgstr "Wie zegt in Hem te blijven"
 
-#: commandments_app/templates/commandments/index.html:160
+#: commandments_app/templates/commandments/index.html:159
 #: commandments_app/templates/commandments/listing.html:13
-#| msgid "to walk just as He walked"
 msgid "ought himself also to walk just as He walked"
 msgstr "moet ook zelf zo wandelen als Hij gewandeld heeft"
 
-#: commandments_app/templates/commandments/index.html:161
+#: commandments_app/templates/commandments/index.html:160
 #: commandments_app/templates/commandments/listing.html:14
 msgid ""
 "When you have discovered who Jesus is and what He has done, you really want "
@@ -1110,16 +1108,16 @@ msgstr ""
 "gerelateerde bijbelverzen, films, liedjes, illustraties en nog veel meer "
 "bronnen. "
 
-#: commandments_app/templates/commandments/index.html:162
+#: commandments_app/templates/commandments/index.html:161
 #: commandments_app/templates/commandments/listing.html:15
 msgid "Are you ready to discover the first step?"
 msgstr "Ben jij klaar om de eerste stap te ontdekken?"
 
-#: commandments_app/templates/commandments/index.html:172
+#: commandments_app/templates/commandments/index.html:171
 msgid "No commandments are available."
 msgstr "Geen geboden beschikbaar."
 
-#: commandments_app/templates/commandments/index.html:181
+#: commandments_app/templates/commandments/index.html:180
 msgid "Are you ready to walk as Jesus walked? Step by step..."
 msgstr "Ben jij klaar om te wandelen zoals Jezus wandelde? Stap voor stap..."
 
@@ -1668,11 +1666,6 @@ msgid ""
 msgstr ""
 "\n"
 "Als je hebt ontdekt wie Jezus is en wat Hij heeft gedaan, dan wil je eigenlijk niets liever dan Hem volgen en je leven aan Hem toewijden. Maar hoe geef je het volgen van Jezus nu handen en voeten? Hoe kunnen we het volle leven leven? Welke stappen kunnen we zetten om meer op Hem te gaan lijken? In Johannes zijn eerste brief vertelt Johannes: "
-
-#: commandments_app/templates/commandments/vision.html:26
-#: templates/base.html:55
-msgid "Walk as Jesus"
-msgstr "Wandel als Jezus"
 
 #: commandments_app/templates/commandments/vision.html:26
 msgid ""
@@ -2949,6 +2942,12 @@ msgstr "Wat denk je dat een discipel is?"
 #: commandments_app.Question/text:64
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
+
+#~ msgid "We love Him, because He first loved us"
+#~ msgstr "Wij hebben Hem lief, omdat Hij ons eerst heeft liefgehad"
+
+#~ msgid "1 John 4:19"
+#~ msgstr "1 Johannes 4:19"
 
 #~ msgid "77 steps on"
 #~ msgstr "77 Stappen"
