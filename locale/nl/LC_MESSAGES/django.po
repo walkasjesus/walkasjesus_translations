@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-13 10:29+0000\n"
-"PO-Revision-Date: 2022-03-13 10:31+0000\n"
-"Last-Translator: b'  <admin@email.com>'\n"
+"POT-Creation-Date: 2023-08-15 12:33+0000\n"
+"PO-Revision-Date: 2023-08-15 12:47+0000\n"
+"Last-Translator: Merijn Visser <merijn@jesuscommandments.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Translated-Using: django-rosetta 0.9.6\n"
+"X-Translated-Using: django-rosetta 0.9.8\n"
 
 #: account_app/templates/account/change_password.html:8
 #: account_app/templates/account/profile.html:55 templates/modal.html:81
@@ -30,18 +30,18 @@ msgid "Signup"
 msgstr "Registreren"
 
 #: account_app/templates/account/index.html:7
-#: account_app/templates/account/login.html:10 templates/base.html:78
-#: templates/base.html:141
+#: account_app/templates/account/login.html:10 templates/base.html:79
+#: templates/base.html:143
 msgid "Login"
 msgstr "Inloggen"
 
-#: account_app/templates/account/index.html:8 templates/base.html:75
-#: templates/base.html:139
+#: account_app/templates/account/index.html:8 templates/base.html:76
+#: templates/base.html:141
 msgid "Logout"
 msgstr "Uitloggen"
 
-#: account_app/templates/account/index.html:9 templates/base.html:74
-#: templates/base.html:138
+#: account_app/templates/account/index.html:9 templates/base.html:75
+#: templates/base.html:140
 msgid "Profile"
 msgstr "Profiel"
 
@@ -1123,6 +1123,209 @@ msgstr "Geen geboden beschikbaar."
 msgid "Are you ready to walk as Jesus walked? Step by step..."
 msgstr "Ben jij klaar om te wandelen zoals Jezus wandelde? Stap voor stap..."
 
+#: commandments_app/templates/commandments/legalism.html:12
+msgid "A new set of rules?!"
+msgstr "Een nieuwe set van geboden?!"
+
+#: commandments_app/templates/commandments/legalism.html:13
+msgid "Questions about the law and Jesus commandments"
+msgstr "Vragen over de wet en Jezus geboden"
+
+#: commandments_app/templates/commandments/legalism.html:14
+msgid ""
+"\"In a series of 22 videos we will dive into the Bible and see what Jesus "
+"and the Apostles taught about the law\""
+msgstr ""
+"In een series van 22 video's zullen we de Bijbel induiken en zien wat Jezus "
+"en de Apostelen onderwezen over 'de wet'."
+
+#: commandments_app/templates/commandments/legalism.html:18
+msgid ""
+"\n"
+"                    You may recognize it: apparent contradictions in the Bible. There are many biblical verses that seem to say one thing at one time and the opposite at another. Especially when it comes to interpreting the law. It is often taught that Jesus fulfilled the law and that we no longer have to do the law. It would be completely abolished for us Christians. Don't we now have the Holy Spirit to tell us what is right and what is wrong? Why then does Jesus say that the law has not been abolished (Mt 5:17-20)? Why does Paul remain a zealot for the law when it has been replaced by grace? Why does Paul still offer sacrifices after 20 years of conversion? Why do other apostles such as John and James speak so highly of the law? In other words, what have we missed as Christians, as a result of which we have lost the love for the Torah?\n"
+"                    "
+msgstr ""
+"\n"
+"Misschien herken je het wel: ogenschijnlijke tegenstrijdigheden in de Bijbel. Er zijn veel Bijbelse versgedeelten die de ene keer het ene lijken te zeggen, en de andere keer juist het tegenovergestelde. Zeker als het gaat om de interpretatie over de Wet. Veelal wordt geleerd dat Jezus de Wet heeft vervuld en dat wij daardoor de wet niet meer hoeven te doen. Hij zou voor ons christenen volledig afgeschaft zijn. We hebben nu toch de Heilige Geest die ons kan vertellen wat goed en fout is? Waarom zegt Jezus dan dat de wet niet is afgeschaft (Mat 5:17-20)? Waarom blijft Paulus een ijveraar voor de wet als deze is vervangen voor genade? Waarom brengt Paulus nog offers na 20 jaar bekering? Waarom spreken andere apostelen zoals Johannes en Jakobus zo vol lof over de wet? Oftewel, wat hebben wij als christenen gemist, waardoor we de liefde voor de Tora zijn kwijtgeraakt?"
+
+#: commandments_app/templates/commandments/legalism.html:26
+msgid ""
+"    \n"
+"                    If you are also stimulated by these questions, I would like to invite you to watch the series of 22 videos that I have been intensively working on over the past 4 years. It was a huge job, but it certainly gave me a lot of new insights! Especially by putting on a more 'Jewish lens' in order to be able to look at many texts differently. If you are not interested in the content but would like to hear my testimony to get to know me better, the last video of this series (#12) shows my entire process of how I came to believe what I preach.\n"
+"                    "
+msgstr ""
+"Als je ook geprikkeld wordt door deze vragen wil ik je uitnodigen om de "
+"serie van 22 video’s te kijken waar ik de afgelopen 4 jaar intensief mee "
+"bezig ben geweest. Het was een giga klus, maar het heeft mij in ieder geval "
+"erg veel nieuwe inzichten gegeven! Vooral door een meer 'Joodse bril’ op te "
+"zetten om zo ook anders naar vele teksten te kunnen kijken. Mocht je niet in"
+" de inhoud geïnteresseerd zijn maar wel mijn getuigenis willen horen om mij "
+"beter te leren kennen, de laatste video van deze serie (#12) laat mijn hele "
+"proces zien hoe ik ben gaan geloven wat ik verkondig."
+
+#: commandments_app/templates/commandments/legalism.html:32
+msgid "Overview"
+msgstr "Overzicht"
+
+#: commandments_app/templates/commandments/legalism.html:33
+#: commandments_app/templates/commandments/legalism.html:56
+msgid "#1 - Apparent Contradictions About the Law - Introduction"
+msgstr "#1 - Schijnbare tegenstellingen over de wet - Introductie"
+
+#: commandments_app/templates/commandments/legalism.html:34
+#: commandments_app/templates/commandments/legalism.html:63
+msgid "#2 - What are Jesus commandments? - Matthew 28:18-20"
+msgstr "#2 - Wat zijn Jezus geboden? - Mattheüs 28:18-20"
+
+#: commandments_app/templates/commandments/legalism.html:35
+msgid "#3 - Meaning: Jesus has fulfilled the law - Matthew 5-7"
+msgstr "#3 Wat betekent: Jezus heeft de wet vervuld - Mattheüs 5-7"
+
+#: commandments_app/templates/commandments/legalism.html:36
+msgid "#4 - How can you love Jesus? - John 13-15"
+msgstr "#4 Hoe kun je Jezus liefhebben? - Johannes 13-15"
+
+#: commandments_app/templates/commandments/legalism.html:37
+msgid "#5 - Has the new covenant already been fully fulfilled? - Jeremiah 31"
+msgstr "#5 Is het nieuwe verbond al helemaal vervuld? - Jeremia 31"
+
+#: commandments_app/templates/commandments/legalism.html:38
+msgid "#6 - Freedom or Lawlessness? - Ephesians 2:8-10"
+msgstr "#6 Vrijheid of wetteloosheid? - Efeziërs 2:8-10"
+
+#: commandments_app/templates/commandments/legalism.html:39
+msgid "#7a - Do we by faith make void the law? - Romans 1-4"
+msgstr "#7a Doen wij door het geloof de wet teniet? - Romeinen 1-4"
+
+#: commandments_app/templates/commandments/legalism.html:40
+msgid "#7b - Not under law but under grace - Romans 5-7"
+msgstr "#7b Niet onder de wet maar onder de genade - Romeinen 5-7"
+
+#: commandments_app/templates/commandments/legalism.html:41
+msgid "#7c - The law of God and the law of sin - Romans 7-8"
+msgstr "#7c De wet van God en de wet van de zonde - Romeinen 7-8"
+
+#: commandments_app/templates/commandments/legalism.html:42
+msgid "#7d - Christ the end of the law - Romans 9-10"
+msgstr "#7d Christus het einde van de wet - Romeinen 9-10"
+
+#: commandments_app/templates/commandments/legalism.html:43
+msgid "#7e - Are there differences between Jews and Gentiles? - Rom 11-12"
+msgstr "#7e Zijn er verschillen tussen Joden en Heidenen? - Rom 11-12"
+
+#: commandments_app/templates/commandments/legalism.html:44
+msgid "#7f - Boundaries.. - Rom 11-12"
+msgstr "#7f Grenzen.. - Rom 11-12"
+
+#: commandments_app/templates/commandments/legalism.html:45
+msgid "#8a - Died by the Law to the Law - Galatians 1-2"
+msgstr "#8a Door de wet voor de wet gestorven - Galaten 1-2"
+
+#: commandments_app/templates/commandments/legalism.html:46
+msgid "#8b - The Law as Our Tutor TO Christ - Galatians 3"
+msgstr "#8b De wet als onze leermeester TOT Christus - Galaten 3"
+
+#: commandments_app/templates/commandments/legalism.html:47
+msgid "#8c - So fulfill the law of Christ - Galatians 4-6"
+msgstr "#8c Vervul zo de wet van Christus - Galaten 4-6"
+
+#: commandments_app/templates/commandments/legalism.html:48
+msgid "#9 - For Jews a Jew, for Greeks a Greek?! - 1 Cor 7-9"
+msgstr "#9 Voor Joden een Jood, voor Grieken een Griek?! - 1 Kor 7-9"
+
+#: commandments_app/templates/commandments/legalism.html:49
+msgid "#10 - 4/613 laws for the Gentiles? - Acts 15"
+msgstr "#10 4/613 wetten voor de Heidenen? - Handelingen 15"
+
+#: commandments_app/templates/commandments/legalism.html:50
+msgid "#11a - The Exaltation Of The Lord Jesus Above The Law - Hebrews 1-6"
+msgstr "#11a De verhevenheid van de Here Jezus boven de wet - Hebreeeën 1-6"
+
+#: commandments_app/templates/commandments/legalism.html:51
+msgid "#11b - The old covenant vs. the new covenant? - Hebrews 7-8"
+msgstr "#11b Het oude verbond vs. het nieuwe verbond? - Hebreeeën 7-8"
+
+#: commandments_app/templates/commandments/legalism.html:52
+msgid "#11c - The Lord Jesus as the Finisher of our Faith - Hebrews 9-13"
+msgstr "#11c De Here Jezus als voleinder van ons geloof - Hebreeeën 9-13 "
+
+#: commandments_app/templates/commandments/legalism.html:53
+#: commandments_app/templates/commandments/legalism.html:196
+msgid "#12 - My Story - Testimony"
+msgstr "#12 - Mijn verhaal - Getuigenis"
+
+#: commandments_app/templates/commandments/legalism.html:70
+msgid "#3 Meaning: Jesus has fulfilled the law - Matthew 5-7"
+msgstr "#3 Wat betekent: Jezus heeft de wet vervuld - Mattheüs 5-7"
+
+#: commandments_app/templates/commandments/legalism.html:77
+msgid "#4 How can you love Jesus? - John 13-15"
+msgstr "#4 Hoe kun je Jezus liefhebben? - Johannes 13-15"
+
+#: commandments_app/templates/commandments/legalism.html:84
+msgid "#5 Has the new covenant already been fully fulfilled? - Jeremiah 31"
+msgstr "#5 Is het nieuwe verbond al helemaal vervuld? - Jeremia 31"
+
+#: commandments_app/templates/commandments/legalism.html:91
+msgid "#6 Freedom or Lawlessness? - Ephesians 2:8-10"
+msgstr "#6 Vrijheid of wetteloosheid? - Efeziërs 2:8-10"
+
+#: commandments_app/templates/commandments/legalism.html:98
+msgid "#7a Do we by faith make void the law? - Romans 1-4"
+msgstr "#7a Doen wij door het geloof de wet teniet? - Romeinen 1-4"
+
+#: commandments_app/templates/commandments/legalism.html:105
+msgid "#7b Not under law but under grace - Romans 5-7"
+msgstr "#7b Niet onder de wet maar onder de genade - Romeinen 5-7"
+
+#: commandments_app/templates/commandments/legalism.html:112
+msgid "#7c The law of God and the law of sin - Romans 7-8"
+msgstr "#7c De wet van God en de wet van de zonde - Romeinen 7-8"
+
+#: commandments_app/templates/commandments/legalism.html:119
+msgid "#7d Christ the end of the law - Romans 9-10"
+msgstr "#7d Christus het einde van de wet - Romeinen 9-10"
+
+#: commandments_app/templates/commandments/legalism.html:126
+msgid "#7e Are there differences between Jews and Gentiles? - Rom 11-12"
+msgstr "#7e Zijn er verschillen tussen Joden en Heidenen? - Rom 11-12"
+
+#: commandments_app/templates/commandments/legalism.html:133
+msgid "#7f Boundaries... - Rom 13-16"
+msgstr "#7f Grenzen... - Rom 13-16"
+
+#: commandments_app/templates/commandments/legalism.html:140
+msgid "#8a Died by the Law to the Law - Galatians 1-2"
+msgstr "#8a Door de wet voor de wet gestorven - Galaten 1-2"
+
+#: commandments_app/templates/commandments/legalism.html:147
+msgid "#8b The Law as Our Tutor TO Christ - Galatians 3"
+msgstr "#8b De wet als onze leermeester TOT Christus - Galaten 3"
+
+#: commandments_app/templates/commandments/legalism.html:154
+msgid "#8c So fulfill the law of Christ - Galatians 4-6"
+msgstr "#8c Vervul zo de wet van Christus - Galaten 4-6"
+
+#: commandments_app/templates/commandments/legalism.html:161
+msgid "#9 For Jews a Jew, for Greeks a Greek?! - 1 Cor 7-9"
+msgstr "#9 Voor Joden een Jood, voor Grieken een Griek?! - 1 Kor 7-9"
+
+#: commandments_app/templates/commandments/legalism.html:168
+msgid "#10 4/613 laws for the Gentiles? - Acts 15"
+msgstr "#10 4/613 wetten voor de Heidenen? - Handelingen 15"
+
+#: commandments_app/templates/commandments/legalism.html:175
+msgid "#11a The Exaltation Of The Lord Jesus Above The Law - Hebrews 1-6"
+msgstr "#11a De verhevenheid van de Here Jezus boven de wet - Hebreeeën 1-6"
+
+#: commandments_app/templates/commandments/legalism.html:182
+msgid "#11b The old covenant vs. the new covenant? - Hebrews 7-8"
+msgstr "#11b Het oude verbond vs. het nieuwe verbond? - Hebreeeën 7-8"
+
+#: commandments_app/templates/commandments/legalism.html:189
+msgid "#11c The Lord Jesus as the Finisher of our Faith - Hebrews 9-13"
+msgstr "#11c De Here Jezus als voleinder van ons geloof -Hebreeeën 9-13"
+
 #: commandments_app/templates/commandments/listing.html:24
 msgid "No steps are available."
 msgstr "Geen stappen beschikbaar."
@@ -1133,7 +1336,7 @@ msgid "Using"
 msgstr "Gebruik makend van"
 
 #: commandments_app/templates/commandments/privacy.html:13
-#: templates/base.html:162
+#: templates/base.html:164
 msgid "Privacy Policy"
 msgstr "Privacybeleid"
 
@@ -1599,7 +1802,7 @@ msgid "title"
 msgstr "Titel"
 
 #: commandments_app/templates/commandments/termsandconditions.html:13
-#: templates/base.html:162
+#: templates/base.html:164
 msgid "Terms and Conditions"
 msgstr "Voorwaarden"
 
@@ -1718,11 +1921,11 @@ msgstr "Kan de taal niet veranderen"
 msgid "No languages selected"
 msgstr "Geen talen geselecteerd"
 
-#: jesus_commandments_website/base_settings.py:99
+#: jesus_commandments_website/base_settings.py:101
 msgid "English"
 msgstr "Engels"
 
-#: jesus_commandments_website/base_settings.py:100
+#: jesus_commandments_website/base_settings.py:102
 msgid "Dutch"
 msgstr "Nederlands"
 
@@ -1742,27 +1945,31 @@ msgstr "Menu"
 msgid "Home"
 msgstr "Home"
 
-#: templates/base.html:67 templates/base.html:126
+#: templates/base.html:67 templates/base.html:127
 msgid "77 Steps"
 msgstr "77 Stappen"
 
-#: templates/base.html:69 templates/base.html:127
+#: templates/base.html:69 templates/base.html:130
+msgid "Legalism?!"
+msgstr "Wetticisme?!"
+
+#: templates/base.html:70 templates/base.html:128
 msgid "Study them"
 msgstr "Bestudeer ze"
 
-#: templates/base.html:71 templates/base.html:146
+#: templates/base.html:72 templates/base.html:148
 msgid "Admin Portal"
 msgstr "Admin Portaal"
 
-#: templates/base.html:77
+#: templates/base.html:78
 msgid "Help improving"
 msgstr "Help verbeteren"
 
-#: templates/base.html:82
+#: templates/base.html:83
 msgid "Change language / Bible"
 msgstr "Wijzig taal / Bijbel"
 
-#: templates/base.html:84
+#: templates/base.html:85
 msgid ""
 "When activating the Kids Site, you will find the same commandments with "
 "limited videos and resources"
@@ -1770,35 +1977,35 @@ msgstr ""
 "Wanneer de Kids Site is geactiveerd, zul je dezelfde geboden vinden met een "
 "select aantal filmpjes en media items"
 
-#: templates/base.html:114
+#: templates/base.html:115
 msgid "If you love Me"
 msgstr "Als u Mij liefhebt"
 
-#: templates/base.html:114
+#: templates/base.html:115
 msgid "keep my commands"
 msgstr "neem dan Mijn geboden in acht"
 
-#: templates/base.html:124
+#: templates/base.html:125
 msgid "Site Navigation"
 msgstr "Site Navigatie"
 
-#: templates/base.html:128
+#: templates/base.html:129
 msgid "Our Vision"
 msgstr "Onze Visie"
 
-#: templates/base.html:134
+#: templates/base.html:136
 msgid "Account"
 msgstr "Account"
 
-#: templates/base.html:142
+#: templates/base.html:144
 msgid "Register"
 msgstr "Registreren"
 
-#: templates/base.html:153
+#: templates/base.html:155
 msgid "Contact us"
 msgstr "Neem contact op"
 
-#: templates/base.html:155
+#: templates/base.html:157
 msgid "Email: "
 msgstr "E-mail:"
 
@@ -1891,8 +2098,8 @@ msgid "Follow Me"
 msgstr "Volg Mij"
 
 #: commandments_app.Commandment/quote:3
-msgid "Following Jesus: It's not a responsibility, it's a desire"
-msgstr "Jezus volgen: Het is geen verantwoordelijkheid, maar een verlangen"
+msgid "We follow to find out"
+msgstr "Wij volgen om te ontdekken"
 
 #: commandments_app.Commandment/title:4
 msgid "Therefore bear fruits worthy of repentance"
@@ -2495,11 +2702,8 @@ msgstr ""
 "met heel uw verstand en met heel uw kracht"
 
 #: commandments_app.Commandment/quote:66
-msgid ""
-"Keep thy heart with all diligence; for out of it are the issues of life"
-msgstr ""
-"Behoed je hart met alle ijver; want daaruit zijn de oorsprongen van het "
-"leven"
+msgid "Our body is a primary resource for the spiritual life"
+msgstr "Ons lichaam is een primaire hulpbron voor het geestelijke leven"
 
 #: commandments_app.Commandment/title:67
 msgid "You shall love your neighbor as yourself"
@@ -2605,7 +2809,7 @@ msgstr ""
 "Het maakt niet uit wie je bent, of wat je doormaakt, God weet het. Hij is "
 "met je. Hij zal je erdoor heen trekken"
 
-#: commandments_app.Question/text:1
+#: commandments_app.Question/text:987
 msgid ""
 "Are you cold, lukewarm or hot? Do you have an earnestly desire to follow "
 "Jesus to glorify your Father in heaven with your whole life?"
@@ -2613,33 +2817,41 @@ msgstr ""
 "Ben je koud, lauw of warm? Heb je een oprecht verlangen om Jezus te volgen "
 "en je Vader in de hemel te verheerlijken met je hele leven?"
 
-#: commandments_app.Question/text:2
+#: commandments_app.Question/text:988
 msgid "Share your testimony!"
 msgstr "Deel je getuigenis!"
 
-#: commandments_app.Question/text:3
+#: commandments_app.Question/text:989
 msgid ""
 "With which other christians would you like to walk through all the "
 "commandments?"
 msgstr "Met welke andere christenen zou je door alle geboden willen gaan?"
 
-#: commandments_app.Question/text:4
+#: commandments_app.Question/text:990
 msgid "Did you already get baptized?"
 msgstr "Ben jij al gedoopt?"
 
-#: commandments_app.Question/text:5
+#: commandments_app.Question/text:991
 msgid "Tell each other your testimony why you got baptized"
 msgstr "Vertel elkaar je getuigenis waarom je je hebt laten dopen"
 
-#: commandments_app.Question/text:6
+#: commandments_app.Question/text:992
+msgid "What helps you to follow Jesus, and stay close to Him?"
+msgstr "Wat helpt jou om Jezus te volgen en dicht bij Hem te blijven?"
+
+#: commandments_app.Question/text:993
+msgid "What prevents you in following Jesus?"
+msgstr "Wat houdt je tegen om Jezus te volgen?"
+
+#: commandments_app.Question/text:994
 msgid "Do you recognize any fruits in your life?"
 msgstr "Herken jij vruchten in je leven?"
 
-#: commandments_app.Question/text:7
+#: commandments_app.Question/text:995
 msgid "Tell each other how you recognize their fruits"
 msgstr "Vertel elkaar hoe je elkaars vruchten herkent"
 
-#: commandments_app.Question/text:8
+#: commandments_app.Question/text:996
 msgid ""
 "Paul tells his own testimony to defend himself. Have you also shared your "
 "testimony to others to explain the gospel? What was their reaction?"
@@ -2648,82 +2860,86 @@ msgstr ""
 "getuigenis wel eens gedeeld om het evangelie uit te leggen? Wat was hun "
 "reactie?"
 
-#: commandments_app.Question/text:9
+#: commandments_app.Question/text:997
 msgid "Who cares about our agenda for telling the world about Jesus?"
 msgstr ""
 "Wie maakt zich druk over onze agenda  om de wereld over Jezus te vertellen?"
 
-#: commandments_app.Question/text:10
+#: commandments_app.Question/text:998
 msgid ""
 "Read the study bible references, what is righteousness according to these "
 "passages?"
 msgstr ""
 "Lees de studie Bijbelteksten, wat is rechtvaardigheid volgens deze teksten?"
 
-#: commandments_app.Question/text:11
+#: commandments_app.Question/text:999
 msgid "What means righteousness for you?"
 msgstr "Wat betekent rechtvaardigheid voor jouw?"
 
-#: commandments_app.Question/text:12
+#: commandments_app.Question/text:1000
 msgid ""
 "During the day, do you pay attention for people around you who need help?"
 msgstr "Let jij overdag op de mensen om je heen die hulp nodig hebben?"
 
-#: commandments_app.Question/text:13
+#: commandments_app.Question/text:1001
 msgid "When was the last time you were merciful?"
 msgstr "Wanneer was de laatste keer dat je barmhartig was?"
 
-#: commandments_app.Question/text:14
+#: commandments_app.Question/text:1002
 msgid "Ask others, what kind of sins do they see with you?"
 msgstr "Vraag anderen, wat voor soort zonden zien zij bij jou?"
 
-#: commandments_app.Question/text:15
+#: commandments_app.Question/text:1003
 msgid "Pray for each other"
 msgstr "Bid voor elkaar"
 
-#: commandments_app.Question/text:16
+#: commandments_app.Question/text:1004
 msgid "What sins do you want to get rid off?"
 msgstr "Welke zonden wil jij kwijtraken?"
 
-#: commandments_app.Question/text:17
+#: commandments_app.Question/text:1005
 msgid "Can you be graciously confrontational?"
 msgstr "Kun je genadig confronterend zijn?"
 
-#: commandments_app.Question/text:18
+#: commandments_app.Question/text:1006
 msgid "Has sin corrupted your saltiness?"
 msgstr "Heeft zonde jouw zoutheid bedorven?"
 
-#: commandments_app.Question/text:19
+#: commandments_app.Question/text:1007
 msgid "Has your self-interest made you disinterested in transforming others?"
 msgstr ""
 "Ben je door jouw eigenbelang niet geïnteresseerd in het veranderen van "
 "anderen?"
 
-#: commandments_app.Question/text:20
+#: commandments_app.Question/text:1008
 msgid "What is your attitude when you go through trials?"
 msgstr "Wat is jouw houding wanneer je door beproevingen heen gaat?"
 
-#: commandments_app.Question/text:21
+#: commandments_app.Question/text:1009
 msgid "Where do temptations and troubles come from?"
 msgstr "Waar komen verleidingen en moeilijkheden vandaan?"
 
-#: commandments_app.Question/text:22
+#: commandments_app.Question/text:1010
+msgid "Wat zijn voor jullie de ingrediënten voor een goed huwelijk?"
+msgstr "Wat zijn voor jullie de ingrediënten voor een goed huwelijk?"
+
+#: commandments_app.Question/text:1011
 msgid "Does your speaking suit your behavior?"
 msgstr "Komen je woorden overeen met je gedrag?"
 
-#: commandments_app.Question/text:23
+#: commandments_app.Question/text:1012
 msgid "Is there a difference between your confession and your doing?"
 msgstr "Is er een verschil tussen je bekentenis wat je doet?"
 
-#: commandments_app.Question/text:24
+#: commandments_app.Question/text:1013
 msgid "When was the last time you were generous?"
 msgstr "Wanneer was de laatste keer dat je vrijgevig was?"
 
-#: commandments_app.Question/text:25
+#: commandments_app.Question/text:1014
 msgid "Do you really want to be a follower of Jesus?"
 msgstr "Wil je werkelijk een volgeling van Jezus zijn?"
 
-#: commandments_app.Question/text:26
+#: commandments_app.Question/text:1015
 msgid ""
 "Enemies are the people who God puts on your way which are hard for you to "
 "love. Who are enemies for you?"
@@ -2731,19 +2947,19 @@ msgstr ""
 "Vijanden zijn de mensen die God op je weg zet en die je moeilijk kunt "
 "liefhebben. Wie zijn vijanden voor jou?"
 
-#: commandments_app.Question/text:27
+#: commandments_app.Question/text:1016
 msgid "Do you have the idea that you are what God intended you to be?"
 msgstr "Heb je het idee dat je bent zoals God je bedoelt heeft om te zijn?"
 
-#: commandments_app.Question/text:28
+#: commandments_app.Question/text:1017
 msgid "What would happen if you were as God intended?"
 msgstr "Wat zou er gebeuren als je zou zijn zoals God heeft bedoeld?"
 
-#: commandments_app.Question/text:29
+#: commandments_app.Question/text:1018
 msgid "What would stop you from becoming the way you were meant to be?"
 msgstr "Wat zou je ervan weerhouden om to worden zoals je bent bedoeld?"
 
-#: commandments_app.Question/text:30
+#: commandments_app.Question/text:1019
 msgid ""
 "Are we prepared, out of love for Jesus, the Father and the other, to do what"
 " is necessary so that a relationship can be restored, to give satisfaction "
@@ -2753,7 +2969,7 @@ msgstr ""
 "wat nodig is, zodat een relatie kan worden hersteld is, om voldoening te "
 "geven, zodat volledige verzoening mogelijk wordt?"
 
-#: commandments_app.Question/text:31
+#: commandments_app.Question/text:1020
 msgid ""
 "Are we willing to forgive the other out of love for Jesus, the Father and "
 "the other, regardless of whether or not the other asks for forgiveness?"
@@ -2761,7 +2977,7 @@ msgstr ""
 "Zijn we bereid om de andere uit liefde voor Jezus, de Vader en de andere te "
 "vergeven, ongeacht de ander wel of niet om vergeving vraagt?"
 
-#: commandments_app.Question/text:32
+#: commandments_app.Question/text:1021
 msgid ""
 "Are we willing to give up our rights for reconciliation out of love for "
 "Jesus, the Father and the other?"
@@ -2769,7 +2985,7 @@ msgstr ""
 "Zijn we bereid om onze rechten op te geven voor verzoening uit liefde voor "
 "Jezus, de Vader en de andere?"
 
-#: commandments_app.Question/text:33
+#: commandments_app.Question/text:1022
 msgid ""
 "Are we willing to step into a conflict and be accountable for love for "
 "Jesus, the Father and the other and to ask forgiveness for all guilt in "
@@ -2779,15 +2995,19 @@ msgstr ""
 "nemen uit liefde voor Jezus, de Vader en de andere en om vergeving te vragen"
 " voor alle schuld waarin we wel of niet deel hebben genomen?"
 
-#: commandments_app.Question/text:34
+#: commandments_app.Question/text:1023
 msgid "Do you apply regular fasting in your life?"
 msgstr "Vast jij regelmatig in je leven?"
 
-#: commandments_app.Question/text:35
+#: commandments_app.Question/text:1024
+msgid "For who did you fast?"
+msgstr "Voor wie heb je gevast?"
+
+#: commandments_app.Question/text:1025
 msgid "What are your treasures?"
 msgstr "Wat zijn jouw schatten?"
 
-#: commandments_app.Question/text:36
+#: commandments_app.Question/text:1026
 msgid ""
 "What is better? That others love you for who you are, or that others love "
 "you because they are loving people?"
@@ -2795,38 +3015,38 @@ msgstr ""
 "Wat is beter? Dat anderen van je houden om wie je bent, of dat anderen van "
 "je houden omdat zij liefdevolle mensen zijn?"
 
-#: commandments_app.Question/text:37
+#: commandments_app.Question/text:1027
 msgid "If you want to grow in applying your faith, what does that take?"
 msgstr ""
 "Als je wilt groeien in de toepassing van je geloof, wat is daar voor nodig?"
 
-#: commandments_app.Question/text:38
+#: commandments_app.Question/text:1028
 msgid "Once you know what He says, can you trust it?"
 msgstr "Als je eenmaal weet wat Hij zegt, kun je daarin vertrouwen?"
 
-#: commandments_app.Question/text:39
+#: commandments_app.Question/text:1029
 msgid "What keeps people away from God's Truth?"
 msgstr "Wat houdt mensen weg van Gods Waarheid?"
 
-#: commandments_app.Question/text:40
+#: commandments_app.Question/text:1030
 msgid "What makes it difficult for you to listen, understand and obey?"
 msgstr ""
 "Wat maakt het moeilijk voor jouw om te luisteren, te begrijpen en te "
 "gehoorzamen?"
 
-#: commandments_app.Question/text:41
+#: commandments_app.Question/text:1031
 msgid "How does biblical wisdom differ from worldly wisdom?"
 msgstr "Hoe verschilt Bijbelse wijsheid van wereldse wijsheid?"
 
-#: commandments_app.Question/text:42
+#: commandments_app.Question/text:1032
 msgid "When do you throw a pearl to a pig?"
 msgstr "Wanneer gooi je een parel voor een zwijn?"
 
-#: commandments_app.Question/text:43
+#: commandments_app.Question/text:1033
 msgid "How bold is your witness?"
 msgstr "Hoe vrijmoedig ben jij?"
 
-#: commandments_app.Question/text:44
+#: commandments_app.Question/text:1034
 msgid ""
 "Christ laid down His own life to eternally save yours. How does this good "
 "news empower you to deny yourself and follow Him?"
@@ -2835,11 +3055,11 @@ msgstr ""
 "geeft dit goede nieuws je de kracht om jezelf te verloochenen en Hem te "
 "volgen?"
 
-#: commandments_app.Question/text:45
+#: commandments_app.Question/text:1035
 msgid "Will you give up your life to follow Christ?"
 msgstr "Wil jij je leven opgeven om Christus te volgen?"
 
-#: commandments_app.Question/text:46
+#: commandments_app.Question/text:1036
 msgid ""
 "In the film, Martin denies himself and follows Jesus by sharing the Gospel "
 "with sailors. What’s your response to his humble obedience?"
@@ -2847,11 +3067,11 @@ msgstr ""
 "In de film verloochent Martin zichzelf en volgt hij Jezus door het evangelie"
 " met zeilers te delen. Wat is jouw reactie op zijn nederige gehoorzaamheid?"
 
-#: commandments_app.Question/text:47
+#: commandments_app.Question/text:1037
 msgid "Who do you want as your worst enemy: the world or God?"
 msgstr "Wie wil je als grootste vijand: de wereld of God?"
 
-#: commandments_app.Question/text:48
+#: commandments_app.Question/text:1038
 msgid ""
 "Jesus  talks  much  about  the  Kingdom  of  God  in  His  ministry.  What "
 "is the Kingdom of God, and what does it mean to receive it?"
@@ -2859,7 +3079,7 @@ msgstr ""
 "Jezus praat veel over het Koninkrijk van God in Zijn bediening. Wat is het "
 "Koninkrijk van God, en wat betekent het om het te ontvangen?"
 
-#: commandments_app.Question/text:49
+#: commandments_app.Question/text:1039
 msgid ""
 "What characteristics of children does Jesus want His disciples to recognize "
 "and emulate in receiving His Kingdom?"
@@ -2867,7 +3087,7 @@ msgstr ""
 "Welke kenmerken wil Jezus in Zijn discipelen herkennen om het Koninkrijk van"
 " God te ontvangen?"
 
-#: commandments_app.Question/text:50
+#: commandments_app.Question/text:1040
 msgid ""
 "What would it look like in your work, finances, relationships, and "
 "neighborhood to receive the Kingdom of God like a child?"
@@ -2875,7 +3095,7 @@ msgstr ""
 "Hoe zou het eruit zien in je werk, financiën, relaties en buurt om het "
 "Koninkrijk van God te ontvangen als een kind?"
 
-#: commandments_app.Question/text:51
+#: commandments_app.Question/text:1041
 msgid ""
 "Why  is  receiving  Jesus  and  His  Kingdom  better  than  anything  this "
 "world has to offer?"
@@ -2883,25 +3103,25 @@ msgstr ""
 "Waarom is het beter  om van Jezus en Zijn Koninkrijk te ontvangen dan alles "
 "wat deze wereld te bieden heeft?"
 
-#: commandments_app.Question/text:53
+#: commandments_app.Question/text:1043
 msgid ""
 "Do you recognize one of the symptoms for greed mentioned in the description?"
 msgstr ""
 "Herken jij een van de genoemde symptonen van hebzucht in de beschrijving?"
 
-#: commandments_app.Question/text:54
+#: commandments_app.Question/text:1044
 msgid "How do you know what somebody believes in?"
 msgstr "Hoe weet je waar je in gelooft?"
 
-#: commandments_app.Question/text:55
+#: commandments_app.Question/text:1045
 msgid "What do you think believe is all about?"
 msgstr "Wat denk je waar geloof allemaal over gaat?"
 
-#: commandments_app.Question/text:56
+#: commandments_app.Question/text:1046
 msgid "Do you truly love Jesus? If you did, how would you know?"
 msgstr "Houdt je werkelijk van Jezus? Als je dat doet, hoe weet je dat zeker?"
 
-#: commandments_app.Question/text:57
+#: commandments_app.Question/text:1047
 msgid ""
 "Do you pray: Lord, will you bless what I have sown? Or: Lord, what do you "
 "want me to sow?"
@@ -2909,15 +3129,15 @@ msgstr ""
 "Bid jij: Heer, wilt U zegenen wat ik heb gezaaid? Of: Heer, wat wilt U dat "
 "ik zaai?"
 
-#: commandments_app.Question/text:58
+#: commandments_app.Question/text:1048
 msgid "What talents do you use to glorify the Father?"
 msgstr "Welke talenten gebruik jij om de Vader te verheerlijken?"
 
-#: commandments_app.Question/text:59
+#: commandments_app.Question/text:1049
 msgid "Imagine yourself on trial for your faith"
 msgstr "Stel jezelf voor dat je op de proef wordt gesteld voor je geloof"
 
-#: commandments_app.Question/text:60
+#: commandments_app.Question/text:1050
 msgid ""
 "Have you met someone like Jonathan, who visited you to encourage you to put "
 "your faith in God?"
@@ -2925,11 +3145,15 @@ msgstr ""
 "Ken jij iemand zoals Jonathan, die je heeft bezocht om je aan te moedigen je"
 " geloof in God te stellen?"
 
-#: commandments_app.Question/text:61
+#: commandments_app.Question/text:1051
+msgid "Read deut 3:28. Who can be your Joshua?"
+msgstr "Lees Deut 3:28. Wie kan jouw Jozua zijn?"
+
+#: commandments_app.Question/text:1052
 msgid "Are you a disciple?"
 msgstr "Ben jij een discipel?"
 
-#: commandments_app.Question/text:62
+#: commandments_app.Question/text:1053
 msgid ""
 "Could you still be a disciple today? If so, how would that look like? If "
 "not, why not?"
@@ -2937,11 +3161,19 @@ msgstr ""
 "Kunt u nog steeds een discipel vandaag? Zo ja, hoe zou dat eruit? Zo neen, "
 "waarom niet?"
 
-#: commandments_app.Question/text:63
+#: commandments_app.Question/text:1054
 msgid "What do you think is a disciple?"
 msgstr "Wat denk je dat een discipel is?"
 
-#: commandments_app.Question/text:64
+#: commandments_app.Question/text:1055
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
 
+#~ msgid "Following Jesus: It's not a responsibility, it's a desire"
+#~ msgstr "Jezus volgen: Het is geen verantwoordelijkheid, maar een verlangen"
+
+#~ msgid ""
+#~ "Keep thy heart with all diligence; for out of it are the issues of life"
+#~ msgstr ""
+#~ "Behoed je hart met alle ijver; want daaruit zijn de oorsprongen van het "
+#~ "leven"
