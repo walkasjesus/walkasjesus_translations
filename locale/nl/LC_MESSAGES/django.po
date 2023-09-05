@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-15 12:33+0000\n"
-"PO-Revision-Date: 2023-08-15 12:47+0000\n"
+"POT-Creation-Date: 2023-09-05 05:38+0000\n"
+"PO-Revision-Date: 2023-09-05 05:39+0000\n"
 "Last-Translator: Merijn Visser <merijn@jesuscommandments.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -1921,11 +1921,11 @@ msgstr "Kan de taal niet veranderen"
 msgid "No languages selected"
 msgstr "Geen talen geselecteerd"
 
-#: jesus_commandments_website/base_settings.py:101
+#: jesus_commandments_website/base_settings.py:100
 msgid "English"
 msgstr "Engels"
 
-#: jesus_commandments_website/base_settings.py:102
+#: jesus_commandments_website/base_settings.py:101
 msgid "Dutch"
 msgstr "Nederlands"
 
@@ -2489,8 +2489,12 @@ msgid "Knock, and it shall be opened unto you"
 msgstr "Klop, en er zal voor u opengedaan worden"
 
 #: commandments_app.Commandment/title:38
-msgid "Therefore, whatever you want men to do to you, do also to them"
-msgstr "Alles dan wat u wilt dat de mensen u doen, doet u hun ook zo"
+msgid "Treat others as you would like to be treated yourself"
+msgstr "Behandel anderen zoals je zelf behandeld wilt worden"
+
+#: commandments_app.Commandment/title_negative:38
+msgid "Don't treat others as they treat you"
+msgstr "Behandeld anderen niet zoals zij jou behandelen"
 
 #: commandments_app.Commandment/title:39
 msgid "Strive to enter in at the strait gate"
@@ -3168,6 +3172,9 @@ msgstr "Wat denk je dat een discipel is?"
 #: commandments_app.Question/text:1055
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
+
+#~ msgid "Therefore, whatever you want men to do to you, do also to them"
+#~ msgstr "Alles dan wat u wilt dat de mensen u doen, doet u hun ook zo"
 
 #~ msgid "Following Jesus: It's not a responsibility, it's a desire"
 #~ msgstr "Jezus volgen: Het is geen verantwoordelijkheid, maar een verlangen"
