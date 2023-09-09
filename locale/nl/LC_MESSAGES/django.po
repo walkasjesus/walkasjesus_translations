@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-05 05:38+0000\n"
-"PO-Revision-Date: 2023-09-05 05:39+0000\n"
+"POT-Creation-Date: 2023-09-09 07:32+0000\n"
+"PO-Revision-Date: 2023-09-09 08:32+0000\n"
 "Last-Translator: Merijn Visser <merijn@jesuscommandments.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -2121,7 +2121,7 @@ msgstr ""
 
 #: commandments_app.Commandment/title:5
 msgid "You shall worship the LORD your God, and Him only you shall serve"
-msgstr "De Heere, uw God, zult u aanbidden en Hem alleen dienen."
+msgstr "De Heere, uw God, zult u aanbidden en Hem alleen dienen"
 
 #: commandments_app.Commandment/title_negative:5
 msgid "No servant can serve two masters"
@@ -2553,10 +2553,8 @@ msgid "Do not throw your pearls to pigs"
 msgstr "Gooi uw paarlen voor varkens"
 
 #: commandments_app.Commandment/title:45
-msgid "Fear him, which after he hath killed hath power to cast into hell"
-msgstr ""
-"Wees bevreesd voor Hem Die, nadat Hij gedood heeft, ook macht heeft in de "
-"hel te werpen"
+msgid "Fear God"
+msgstr "Heb diep ontzag voor God"
 
 #: commandments_app.Commandment/title_negative:45
 msgid ""
@@ -3172,6 +3170,11 @@ msgstr "Wat denk je dat een discipel is?"
 #: commandments_app.Question/text:1055
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
+
+#~ msgid "Fear him, which after he hath killed hath power to cast into hell"
+#~ msgstr ""
+#~ "Wees bevreesd voor Hem Die, nadat Hij gedood heeft, ook macht heeft in de "
+#~ "hel te werpen"
 
 #~ msgid "Therefore, whatever you want men to do to you, do also to them"
 #~ msgstr "Alles dan wat u wilt dat de mensen u doen, doet u hun ook zo"
