@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-11 14:38+0000\n"
-"PO-Revision-Date: 2023-11-11 14:38+0000\n"
+"POT-Creation-Date: 2023-12-09 19:15+0000\n"
+"PO-Revision-Date: 2023-12-09 19:34+0000\n"
 "Last-Translator:   <admin@email.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -546,8 +546,10 @@ msgstr "Inschakelen"
 #: commandments_app/templates/lessons/detail.html:33
 #: commandments_app/templates/lessons/detail.html:40
 #: commandments_app/templates/lessons/detail.html:47
-#: commandments_app/templates/lessons/detail.html:61
+#: commandments_app/templates/lessons/detail.html:54
 #: commandments_app/templates/lessons/detail.html:68
+#: commandments_app/templates/lessons/detail.html:75
+#: commandments_app/templates/lessons/detail.html:81
 msgid "Jump to:"
 msgstr "Spring naar:"
 
@@ -558,43 +560,43 @@ msgstr "Bijbelteksten"
 
 #: commandments_app/templates/commandments/detail.html:24
 #: commandments_app/templates/commandments/detail.html:408
-#: commandments_app/templates/lessons/detail.html:19
-#: commandments_app/templates/lessons/detail.html:129
+#: commandments_app/templates/lessons/detail.html:26
+#: commandments_app/templates/lessons/detail.html:157
 msgid "Drawings"
 msgstr "Illustraties"
 
 #: commandments_app/templates/commandments/detail.html:31
 #: commandments_app/templates/commandments/detail.html:427
-#: commandments_app/templates/lessons/detail.html:26
-#: commandments_app/templates/lessons/detail.html:220
+#: commandments_app/templates/lessons/detail.html:33
+#: commandments_app/templates/lessons/detail.html:248
 msgid "Pictures"
 msgstr "Afbeeldingen"
 
 #: commandments_app/templates/commandments/detail.html:38
 #: commandments_app/templates/commandments/detail.html:470
-#: commandments_app/templates/lessons/detail.html:33
-#: commandments_app/templates/lessons/detail.html:147
+#: commandments_app/templates/lessons/detail.html:40
+#: commandments_app/templates/lessons/detail.html:175
 msgid "Questions"
 msgstr "Vragen"
 
 #: commandments_app/templates/commandments/detail.html:45
 #: commandments_app/templates/commandments/detail.html:511
-#: commandments_app/templates/lessons/detail.html:40
-#: commandments_app/templates/lessons/detail.html:278
+#: commandments_app/templates/lessons/detail.html:47
+#: commandments_app/templates/lessons/detail.html:306
 msgid "Superbook"
 msgstr "Superbook"
 
 #: commandments_app/templates/commandments/detail.html:52
 #: commandments_app/templates/commandments/detail.html:532
-#: commandments_app/templates/lessons/detail.html:47
-#: commandments_app/templates/lessons/detail.html:301
+#: commandments_app/templates/lessons/detail.html:54
+#: commandments_app/templates/lessons/detail.html:329
 msgid "De Henkie Show"
 msgstr "De Henkie Show"
 
 #: commandments_app/templates/commandments/detail.html:66
 #: commandments_app/templates/commandments/detail.html:578
-#: commandments_app/templates/lessons/detail.html:61
-#: commandments_app/templates/lessons/detail.html:347
+#: commandments_app/templates/lessons/detail.html:68
+#: commandments_app/templates/lessons/detail.html:375
 msgid "Songs"
 msgstr "Liederen"
 
@@ -605,8 +607,8 @@ msgstr "Films"
 
 #: commandments_app/templates/commandments/detail.html:80
 #: commandments_app/templates/commandments/detail.html:624
-#: commandments_app/templates/lessons/detail.html:68
-#: commandments_app/templates/lessons/detail.html:370
+#: commandments_app/templates/lessons/detail.html:75
+#: commandments_app/templates/lessons/detail.html:398
 msgid "Testimonies"
 msgstr "Getuigenissen"
 
@@ -658,7 +660,7 @@ msgid "Walk as Jesus motivational video"
 msgstr "Wandel als Jezus motiverende video"
 
 #: commandments_app/templates/commandments/detail.html:190
-#: commandments_app/templates/lessons/detail.html:174
+#: commandments_app/templates/lessons/detail.html:202
 msgid "Direct Bible References"
 msgstr "Directe Bijbelteksten"
 
@@ -801,13 +803,13 @@ msgstr ""
 "extra studie over deze stap"
 
 #: commandments_app/templates/commandments/detail.html:365
-#: commandments_app/templates/lessons/detail.html:191
+#: commandments_app/templates/lessons/detail.html:219
 msgid "Legend"
 msgstr "Legenda"
 
 #: commandments_app/templates/commandments/detail.html:366
 #: commandments_app/templates/commandments/vision.html:103
-#: commandments_app/templates/lessons/detail.html:192
+#: commandments_app/templates/lessons/detail.html:220
 msgid "Bible verses copyright"
 msgstr "Bijbelteksten copyright"
 
@@ -920,19 +922,19 @@ msgstr ""
 "Rabbi Moshe ben Maimon, zijn volledige naam was Rabbi Moses Ben Maimon. Zijn naam, als acronym de \"Rambam\", was geboren op de 14e van Nisan 4895 (30 maart 1135) an stierf op de 20e van Tevet 4965 (13 Dec 1204). De Rambam was 1 van de meest gezochte individuen van zijn tijd. Niet alleen als een Halachic autoriteit, maar ook in de seculiere wereld door koningen en sultans. Want zijn brede kennis over seculiere medicijnen was buitengewoon. Wanneer hij de Mishna Torag schreef, controleerde hij de Torah zijn geboden en heeft hij ze gecategoriseerd. Hij scheidde de positieve en negatieve geboden, somde ze op, alle 613, en besprak ze."
 
 #: commandments_app/templates/commandments/detail.html:412
-#: commandments_app/templates/lessons/detail.html:133
+#: commandments_app/templates/lessons/detail.html:161
 msgid "Artist"
 msgstr "Artiest"
 
 #: commandments_app/templates/commandments/detail.html:439
 #: commandments_app/templates/commandments/detail.html:443
-#: commandments_app/templates/lessons/detail.html:232
-#: commandments_app/templates/lessons/detail.html:236
+#: commandments_app/templates/lessons/detail.html:260
+#: commandments_app/templates/lessons/detail.html:264
 msgid "Photographer"
 msgstr "Fotograaf"
 
 #: commandments_app/templates/commandments/detail.html:471
-#: commandments_app/templates/lessons/detail.html:148
+#: commandments_app/templates/lessons/detail.html:176
 msgid "Share your hearts together by discussing the following questions:"
 msgstr "Deel je harten met elkaar door het bespreking van de volgende vragen:"
 
@@ -941,7 +943,7 @@ msgid "Is there anything you don't understand within this step?"
 msgstr "Is er iets dat je binnen deze stap niet begrijpt?"
 
 #: commandments_app/templates/commandments/detail.html:474
-#: commandments_app/templates/lessons/detail.html:151
+#: commandments_app/templates/lessons/detail.html:179
 msgid "Wat appeals to you about all Bible references and resources?"
 msgstr ""
 "Wat spreekt je aan bij alle Bijbelteksten en media items (Illustratie, "
@@ -955,17 +957,17 @@ msgstr ""
 "belemmeringen?"
 
 #: commandments_app/templates/commandments/detail.html:478
-#: commandments_app/templates/lessons/detail.html:155
+#: commandments_app/templates/lessons/detail.html:183
 msgid "Extra questions"
 msgstr "Extra vragen"
 
 #: commandments_app/templates/commandments/detail.html:493
-#: commandments_app/templates/lessons/detail.html:260
+#: commandments_app/templates/lessons/detail.html:288
 msgid "Resource Language Settings"
 msgstr "Taalinstellingen van de media items"
 
 #: commandments_app/templates/commandments/detail.html:494
-#: commandments_app/templates/lessons/detail.html:261
+#: commandments_app/templates/lessons/detail.html:289
 msgid ""
 "Below you will find all kinds of related resources to this step, to help you"
 " grow. Resources can be Sermons, Testimonies, Movies, Shortmovies, Songs, "
@@ -978,7 +980,7 @@ msgstr ""
 " deze media items te zien in meer talen."
 
 #: commandments_app/templates/commandments/detail.html:495
-#: commandments_app/templates/lessons/detail.html:262
+#: commandments_app/templates/lessons/detail.html:290
 msgid ""
 "Do you know more good resources in your language which can be added to this "
 "list? Please <a href=\"mailto:info@walkasjesus.org\">contact us</a> so we "
@@ -989,7 +991,7 @@ msgstr ""
 " </a> of <a href=\"\"> registreer je </a> zodat je het zelf kunt toevoegen"
 
 #: commandments_app/templates/commandments/detail.html:497
-#: commandments_app/templates/lessons/detail.html:264
+#: commandments_app/templates/lessons/detail.html:292
 msgid "Change resource language"
 msgstr "Wijzig taal voor media items"
 
@@ -998,14 +1000,14 @@ msgid "Watch now on"
 msgstr "Kijk nu op"
 
 #: commandments_app/templates/commandments/detail.html:539
-#: commandments_app/templates/lessons/detail.html:308
+#: commandments_app/templates/lessons/detail.html:336
 msgid "Discover more creative methods of this Bible story on The Henkie Show"
 msgstr ""
 "Ontdek meer creatieve methodes van dit Bijbelverhaal op de website van de "
 "Henkie Show"
 
 #: commandments_app/templates/commandments/detail.html:555
-#: commandments_app/templates/lessons/detail.html:324
+#: commandments_app/templates/lessons/detail.html:352
 msgid "Short Movies"
 msgstr "Korte Filmpjes"
 
@@ -1439,7 +1441,7 @@ msgid "Henkie Show Found"
 msgstr "De Henkie Show gevonden"
 
 #: commandments_app/templates/commandments/single_commandment_overview.html:14
-#: commandments_app/templates/lessons/single_lesson_overview.html:14
+#: commandments_app/templates/lessons/single_lesson_overview.html:18
 msgid "Drawing in progress"
 msgstr "Illustratie in ontwikkeling"
 
@@ -1885,20 +1887,65 @@ msgstr ""
 "waar, waardevol en zijn een prachtige uitbreiding op de leer van Jezus, dus "
 "misschien in de toekomst zullen we ze alsnog toevoegen aan deze website."
 
-#: commandments_app/templates/lessons/detail.html:96
-#: commandments_app/templates/lessons/single_lesson_overview.html:16
+#: commandments_app/templates/lessons/detail.html:19
+#: commandments_app/templates/lessons/detail.html:138
+msgid "Activities"
+msgstr "Activiteiten"
+
+#: commandments_app/templates/lessons/detail.html:81
+#, fuzzy
+#| msgid "James"
+msgid "Games"
+msgstr "Jakobus"
+
+#: commandments_app/templates/lessons/detail.html:108
+#: commandments_app/templates/lessons/single_lesson_overview.html:20
 msgid "Lesson"
 msgstr "Les"
 
-#: commandments_app/templates/lessons/detail.html:113
-msgid "Lesson category"
+#: commandments_app/templates/lessons/detail.html:115
+msgid ""
+"This lesson we will learn the following 'step' which can be learned to the "
+"children to remember as truth for their lives"
+msgstr ""
+"Deze les zullen we de volgende 'stap' leren die de kinderen kunnen leren om "
+"te onthouden als waarheid voor hun leven"
+
+#: commandments_app/templates/lessons/detail.html:116
+msgid "Related Step text to learn"
+msgstr "Stap titel om te leren"
+
+#: commandments_app/templates/lessons/detail.html:118
+msgid "Related Step description"
+msgstr "Stap beschrijving"
+
+#: commandments_app/templates/lessons/detail.html:120
+msgid "Related Step Bible text"
+msgstr "Stap Bijbeltekst"
+
+#: commandments_app/templates/lessons/detail.html:122
+#, fuzzy
+#| msgid "Lesson category"
+msgid "Lesson text to learn"
 msgstr "Les categorie"
 
-#: commandments_app/templates/lessons/detail.html:150
+#: commandments_app/templates/lessons/detail.html:123
+msgid "Related Bible text"
+msgstr "Bijbeltekst"
+
+#: commandments_app/templates/lessons/detail.html:139
+msgid ""
+"Here are some ideas for activities you can do with the children to process "
+"this lesson in a creative way"
+msgstr ""
+"Hier volgen enkele ideeën voor activiteiten die u met de kinderen kunt doen "
+"om deze les op een creatieve manier te verwerken"
+
+#: commandments_app/templates/lessons/detail.html:178
 msgid "Is there anything you don't understand within this lesson?"
 msgstr "Is er iets dat je binnen deze les niet begrijpt?"
 
-#: commandments_app/templates/lessons/detail.html:152
+#: commandments_app/templates/lessons/detail.html:180
 msgid ""
 "How do you apply this truth in your life or do you experience any "
 "boundaries?"
@@ -1906,15 +1953,15 @@ msgstr ""
 "Hoe ga je deze waarheid toepassen in je leven of ervaar je nog bepaalde "
 "belemmeringen?"
 
-#: commandments_app/templates/lessons/detail.html:175
+#: commandments_app/templates/lessons/detail.html:203
 msgid "Extra direct Bible references which expands or explain the same lesson"
 msgstr "Extra directe Bijbelteksten die dezelfde les uitleggen of aanvullen"
 
-#: commandments_app/templates/lessons/detail.html:195
+#: commandments_app/templates/lessons/detail.html:223
 msgid "Click here to see the explanation of the different symbols"
 msgstr "Klik hier om de uitleg van de verschillende symbolen te zien"
 
-#: commandments_app/templates/lessons/detail.html:200
+#: commandments_app/templates/lessons/detail.html:228
 msgid ""
 "A related Bible reference to the lesson which is negative, something you "
 "should not do"
@@ -1922,13 +1969,13 @@ msgstr ""
 "Een verwante Bijbeltekst naar deze les dat negatief is, iets wat je niet "
 "moet doen"
 
-#: commandments_app/templates/lessons/detail.html:201
+#: commandments_app/templates/lessons/detail.html:229
 msgid ""
 "A related Bible reference to the lesson which is both positive and negative"
 msgstr ""
 "Een verwante Bijbeltekst naar deze les die zowel positief als negatief is"
 
-#: commandments_app/templates/lessons/detail.html:202
+#: commandments_app/templates/lessons/detail.html:230
 msgid ""
 "A related Bible reference to the lesson which is positive, something you "
 "should do or learn from"
@@ -1936,7 +1983,7 @@ msgstr ""
 "Een verwante Bijbeltekst naar de les dat positief is, iets wat je moet doen "
 "of waar je van kunt leren"
 
-#: commandments_app/templates/lessons/detail.html:203
+#: commandments_app/templates/lessons/detail.html:231
 msgid ""
 "A related Bible reference to the lesson which is not yet determined positive"
 " or negative"
@@ -1944,73 +1991,17 @@ msgstr ""
 "Een verwante Bijbeltekst naar de les wat nog inbepaald is (Positief, "
 "Negatief of Beide)"
 
-#: commandments_app/templates/lessons/lesson_listing.html:13
-msgid "Build the foundations for your children"
-msgstr "Bouw de basis voor jouw kinderen"
-
-#: commandments_app/templates/lessons/lesson_listing.html:14
-msgid ""
-"Go on an adventure with the children and discover this new Children's Bible "
-"method"
-msgstr ""
-"Ga op avontuur met de kinderen en ontdek deze nieuwe Kinderbijbel methode"
-
-#: commandments_app/templates/lessons/lesson_listing.html:15
-#| msgid ""
-#| "Have you ever wondered how to instill strong values, faith, and the Bible "
-#| "stories in your children?"
-msgid ""
-"Have you ever wondered how to effectively teach principles, faith, and the "
-"Bible stories to your children?"
-msgstr ""
-"Heeft u zich ooit afgevraagd hoe u uw kinderen principes, geloof en de "
-"Bijbelverhalen op een effectieve manier kunt bijbrengen?"
-
-#: commandments_app/templates/lessons/lesson_listing.html:17
-msgid "Our unique approach emphasizes the following 3 goals:"
-msgstr "Onze unieke aanpak benadrukt de volgende 3 doelstellingen:"
-
-#: commandments_app/templates/lessons/lesson_listing.html:29
-msgid ""
-"Imprinting foundational principles to guide them through life's journey."
-msgstr ""
-"Het inprenten van fundamentele principes om als basis voor hun levens mee te"
-" geven"
-
-#: commandments_app/templates/lessons/lesson_listing.html:40
-msgid ""
-"Unveiling the grand tapestry of Bible stories: a loving God seeking a "
-"relationship with humanity."
-msgstr ""
-"De onthulling van het Meesterplan door de Bijbel verhalen: Een liefdevolle "
-"God die op zoek is naar een relatie met de mensheid"
-
-#: commandments_app/templates/lessons/lesson_listing.html:50
-msgid "Cultivating wholesome relationships with other children."
-msgstr "Het opbouwen van gezonde relaties met andere kinderen"
-
-#: commandments_app/templates/lessons/lesson_listing.html:57
-msgid ""
-"Explore 77 lessons from the Old Testament and 44 lessons from the New "
-"Testament on our website. Each lesson is accompanied by captivating stories "
-"from the Children's Bible"
-msgstr ""
-"Op deze website vindt je 77 lessen voor het oude testament en 44 lessen voor"
-" het nieuwe testament. Bij elke les hoort een mooi verhaal uit de "
-"Kinderbijbel"
-
-#: commandments_app/templates/lessons/lesson_listing.html:58
-msgid "Gods Grote Plan (Currently only available in Dutch)"
-msgstr "Gods Grote Plan"
-
+#: commandments_app/templates/lessons/detail.html:421
 #: commandments_app/templates/lessons/lesson_listing.html:74
 msgid "Games to Memorize the Steps with Drawings"
 msgstr "Spellen om de stappen met tekeningen te onthouden"
 
+#: commandments_app/templates/lessons/detail.html:426
 #: commandments_app/templates/lessons/lesson_listing.html:79
 msgid "Steps Memory"
 msgstr "Stappen Memory"
 
+#: commandments_app/templates/lessons/detail.html:428
 #: commandments_app/templates/lessons/lesson_listing.html:81
 msgid ""
 "Turn cards over and match illustrations with corresponding Bible verses."
@@ -2018,6 +2009,11 @@ msgstr ""
 "Draai de kaarten om en zoek de illustraties bij de overeenkomstige "
 "Bijbelverzen"
 
+#: commandments_app/templates/lessons/detail.html:431
+#: commandments_app/templates/lessons/detail.html:478
+#: commandments_app/templates/lessons/detail.html:519
+#: commandments_app/templates/lessons/detail.html:564
+#: commandments_app/templates/lessons/detail.html:614
 #: commandments_app/templates/lessons/lesson_listing.html:84
 #: commandments_app/templates/lessons/lesson_listing.html:131
 #: commandments_app/templates/lessons/lesson_listing.html:172
@@ -2026,6 +2022,7 @@ msgstr ""
 msgid "Click for more information"
 msgstr "Klik voor meer informatie"
 
+#: commandments_app/templates/lessons/detail.html:440
 #: commandments_app/templates/lessons/lesson_listing.html:93
 msgid ""
 "\n"
@@ -2083,15 +2080,18 @@ msgstr ""
 "<li>Het team of de speler met de meeste correcte sets en titels wint het spel.</li>\n"
 "</ul>"
 
+#: commandments_app/templates/lessons/detail.html:473
 #: commandments_app/templates/lessons/lesson_listing.html:126
 msgid "Searching Steps"
 msgstr "Stappen Zoeken"
 
+#: commandments_app/templates/lessons/detail.html:475
 #: commandments_app/templates/lessons/lesson_listing.html:128
 msgid "Hide cards with Bible verses and illustrations for children to find."
 msgstr ""
 "Verberg kaarten met bijbelverzen en illustraties die kinderen kunnen vinden"
 
+#: commandments_app/templates/lessons/detail.html:487
 #: commandments_app/templates/lessons/lesson_listing.html:140
 msgid ""
 "\n"
@@ -2135,14 +2135,17 @@ msgstr ""
 "<li>Als alle kaarten zijn gevonden of de tijd om is, wissel je van rol en wint het team met de meeste punten</li>\n"
 "</ul>"
 
+#: commandments_app/templates/lessons/detail.html:514
 #: commandments_app/templates/lessons/lesson_listing.html:167
 msgid "Guess the Step"
 msgstr "Stappen Raden"
 
+#: commandments_app/templates/lessons/detail.html:516
 #: commandments_app/templates/lessons/lesson_listing.html:169
 msgid "Guess which step matches a displayed drawing."
 msgstr "Raad welke stap overeenkomt met een weergegeven tekening"
 
+#: commandments_app/templates/lessons/detail.html:528
 #: commandments_app/templates/lessons/lesson_listing.html:181
 msgid ""
 "\n"
@@ -2194,10 +2197,12 @@ msgstr ""
 "<li>Het team met de meeste punten wint.</li>\n"
 "</ul>"
 
+#: commandments_app/templates/lessons/detail.html:559
 #: commandments_app/templates/lessons/lesson_listing.html:212
 msgid "Step Choice Challenge"
 msgstr "Stappen Keuze Spel"
 
+#: commandments_app/templates/lessons/detail.html:561
 #: commandments_app/templates/lessons/lesson_listing.html:214
 msgid ""
 "Choose a drawing and provide hints, make a drawing, or use a 'forbidden "
@@ -2206,6 +2211,7 @@ msgstr ""
 "Kies een tekening en geef hints, maak een tekening of gebruik een 'verboden "
 "woord' om de betekenis van de stap over te brengen"
 
+#: commandments_app/templates/lessons/detail.html:573
 #: commandments_app/templates/lessons/lesson_listing.html:226
 msgid ""
 "\n"
@@ -2269,16 +2275,19 @@ msgstr ""
 "<li>Het andere team kan proberen de titel van de stap te raden, maar ze kunnen de tekening niet zien.</li>\n"
 "</ul>"
 
+#: commandments_app/templates/lessons/detail.html:609
 #: commandments_app/templates/lessons/lesson_listing.html:262
 msgid "Step Theater"
 msgstr "Stappen Theater"
 
+#: commandments_app/templates/lessons/detail.html:611
 #: commandments_app/templates/lessons/lesson_listing.html:264
 msgid "Act out a short story or play to convey the meaning of each step."
 msgstr ""
 "Speel een kort verhaal of toneelstuk om de betekenis van elke stap over te "
 "brengen"
 
+#: commandments_app/templates/lessons/detail.html:623
 #: commandments_app/templates/lessons/lesson_listing.html:276
 msgid ""
 "\n"
@@ -2318,9 +2327,141 @@ msgstr ""
 "<li>Het team dat de stap correct raadt, verdient punten.</li>\n"
 "</ul>"
 
+#: commandments_app/templates/lessons/lesson_listing.html:13
+msgid "Build the foundations for your children"
+msgstr "Bouw de basis voor jouw kinderen"
+
+#: commandments_app/templates/lessons/lesson_listing.html:14
+msgid ""
+"Go on an adventure with the children and discover this new Children's Bible "
+"method"
+msgstr ""
+"Ga op avontuur met de kinderen en ontdek deze nieuwe Kinderbijbel methode"
+
+#: commandments_app/templates/lessons/lesson_listing.html:15
+msgid ""
+"Have you ever wondered how to effectively teach principles, faith, and the "
+"Bible stories to your children?"
+msgstr ""
+"Heeft u zich ooit afgevraagd hoe u uw kinderen principes, geloof en de "
+"Bijbelverhalen op een effectieve manier kunt bijbrengen?"
+
+#: commandments_app/templates/lessons/lesson_listing.html:17
+msgid "Our unique approach emphasizes the following 3 goals:"
+msgstr "Onze unieke aanpak benadrukt de volgende 3 doelstellingen:"
+
+#: commandments_app/templates/lessons/lesson_listing.html:29
+msgid ""
+"Imprinting foundational principles to guide them through life's journey."
+msgstr ""
+"Het inprenten van fundamentele principes om als basis voor hun levens mee te"
+" geven"
+
+#: commandments_app/templates/lessons/lesson_listing.html:40
+msgid ""
+"Unveiling the grand tapestry of Bible stories: a loving God seeking a "
+"relationship with humanity."
+msgstr ""
+"De onthulling van het Meesterplan door de Bijbel verhalen: Een liefdevolle "
+"God die op zoek is naar een relatie met de mensheid"
+
+#: commandments_app/templates/lessons/lesson_listing.html:50
+msgid "Cultivating wholesome relationships with other children."
+msgstr "Het opbouwen van gezonde relaties met andere kinderen"
+
+#: commandments_app/templates/lessons/lesson_listing.html:57
+msgid ""
+"Explore 77 lessons from the Old Testament and 44 lessons from the New "
+"Testament on our website. Each lesson is accompanied by captivating stories "
+"from the Children's Bible"
+msgstr ""
+"Op deze website vindt je 77 lessen voor het oude testament en 44 lessen voor"
+" het nieuwe testament. Bij elke les hoort een mooi verhaal uit de "
+"Kinderbijbel"
+
+#: commandments_app/templates/lessons/lesson_listing.html:58
+msgid "Gods Grote Plan (Currently only available in Dutch)"
+msgstr "Gods Grote Plan"
+
 #: commandments_app/templates/lessons/lesson_listing.html:303
 msgid "No lessons are available."
 msgstr "Geen lessen beschikbaar."
+
+#: commandments_app/templates/lessons/single_lesson_overview.html:12
+msgid "Activities Found"
+msgstr "Activiteiten gevonden"
+
+#: commandments_app/templates/lessons/single_lesson_overview.html:13
+#, fuzzy
+#| msgid "Songs"
+msgid "Songs Found"
+msgstr "Liederen"
+
+#: commandments_app/templates/lessons/single_lesson_overview.html:14
+#, fuzzy
+#| msgid "Short Movies"
+msgid "Short Movies Found"
+msgstr "Korte Filmpjes"
+
+#: commandments_app/templates/lessons/single_lesson_overview.html:15
+#, fuzzy
+#| msgid "Testimonies"
+msgid "Testimonies Found"
+msgstr "Getuigenissen"
+
+#: commandments_app/urls.py:41
+msgid "bijbel/"
+msgstr "bijbel/"
+
+#: commandments_app/urls.py:42
+msgid "talen/"
+msgstr "talen/"
+
+#: commandments_app/urls.py:43
+msgid "stappen_overzicht/"
+msgstr "stappen_overzicht/"
+
+#: commandments_app/urls.py:44
+msgid "lessen_overzicht/"
+msgstr "lessen_overzicht/"
+
+#: commandments_app/urls.py:45
+msgid "visie/"
+msgstr "visie/"
+
+#: commandments_app/urls.py:46
+msgid "wetticisme/"
+msgstr "wetticisme/"
+
+#: commandments_app/urls.py:47
+msgid "voorwaarden/"
+msgstr "voorwaarden/"
+
+#: commandments_app/urls.py:48
+msgid "privacy/"
+msgstr "privacy/"
+
+#: commandments_app/urls.py:49
+#, fuzzy
+#| msgid "Ninth Commandment"
+msgid "stap/<int:commandment_id>/"
+msgstr "Negende Gebod"
+
+#: commandments_app/urls.py:50
+msgid "les/<int:lesson_id>/"
+msgstr "les/<int:lesson_id>/"
+
+#: commandments_app/urls.py:51
+msgid "admin/herstel_bijbels/"
+msgstr "admin/herstel_bijbels/"
+
+#: commandments_app/urls.py:52
+msgid "admin/cache_bijbel_opslaan/"
+msgstr "admin/cache_bijbel_opslaan/"
+
+#: commandments_app/urls.py:53
+msgid "admin/activeer_bijbel/"
+msgstr "admin/activeer_bijbel/"
 
 #: commandments_app/views/user_preferences.py:16
 msgid "Failed to change the bible translation"
@@ -2334,11 +2475,11 @@ msgstr "Kan de taal niet veranderen"
 msgid "No languages selected"
 msgstr "Geen talen geselecteerd"
 
-#: jesus_commandments_website/base_settings.py:100
+#: jesus_commandments_website/base_settings.py:114
 msgid "English"
 msgstr "Engels"
 
-#: jesus_commandments_website/base_settings.py:101
+#: jesus_commandments_website/base_settings.py:115
 msgid "Dutch"
 msgstr "Nederlands"
 
@@ -2494,24 +2635,23 @@ msgstr ""
 "te zien in meer talen."
 
 #: commandments_app.Commandment/title:1 commandments_app.Lesson/title:20
-msgid "Repent and believe the gospel"
+msgid "Bekeer u en geloof het evangelie"
 msgstr "Bekeer u en geloof het evangelie"
 
 #: commandments_app.Commandment/quote:1
-msgid "God’s love is so real that He created you to prove it."
-msgstr ""
-"Gods liefde is zo echt, dat Hij jouw gemaakt heeft om het te bewijzen."
+msgid "Gods liefde is zo echt, dat Hij jouw gemaakt heeft om het te bewijzen."
+msgstr "Gods liefde is zo echt, dat Hij jouw gemaakt heeft om het te bewijzen"
 
 #: commandments_app.Commandment/title:2 commandments_app.Lesson/title:83
 msgid "Get baptized"
 msgstr "Laat je dopen"
 
 #: commandments_app.Commandment/title:3 commandments_app.Lesson/title:2
-msgid "Follow Me"
+msgid "Volg Mij"
 msgstr "Volg Mij"
 
 #: commandments_app.Commandment/quote:3
-msgid "We follow to find out"
+msgid "Wij volgen om te ontdekken"
 msgstr "Wij volgen om te ontdekken"
 
 #: commandments_app.Commandment/title:4
@@ -3233,17 +3373,111 @@ msgstr ""
 "gegeven heeft, opdat ieder die in Hem gelooft, niet verloren gaat maar "
 "eeuwig leven heeft"
 
+#: commandments_app.Lesson/story:1
+msgid "The beginning"
+msgstr "Het begin"
+
+#: commandments_app.Lesson/related_step_description:2
+msgid ""
+"Just as Adam and Eve had to choose, we too can choose: Do you want to follow"
+" Jesus?"
+msgstr ""
+"Net zoals Adam en Eva moesten kiezen, kunnen ook wij kiezen: Wil jij Jezus "
+"volgen?"
+
+#: commandments_app.Lesson/story:2
+#, fuzzy
+#| msgid "then obedience"
+msgid "Disobedience"
+msgstr "dan Gehoorzaamheid"
+
+#: commandments_app.Lesson/activities:2
+msgid ""
+"<ul>\n"
+"\t<li>Maak twee A4-tjes met een grote JA en NEE erop en hang deze op aan twee tegenovergestelde muren.&nbsp;</li>\n"
+"\t<li>Plak met tape een grote streep in het midden.</li>\n"
+"\t<li>Stel vragen en laat de kinderen naar de JA of NEE toerennen als antwoord op de vraag</li>\n"
+"</ul>\n"
+"\n"
+"<p>&nbsp;</p>"
+msgstr ""
+"<ul>\n"
+"<li>Maak twee A4-tjes met een grote JA en NEE erop en hang deze op aan twee tegenovergestelde muren.&nbsp;</li>\n"
+"<li>Plak met tape een grote streep in het midden.</li>\n"
+"<li>Stel vragen en laat de kinderen naar de JA of NEE toerennen als antwoord op de vraag</li>\n"
+"</ul>\n"
+"\n"
+"<p>&nbsp;</p>"
+
 #: commandments_app.Lesson/title:3
 msgid "Then bring forth fruit according to repentance"
 msgstr "Breng dan vruchten voort in overeenstemming met de bekering"
+
+#: commandments_app.Lesson/related_step_description:3
+msgid ""
+"Immediately after the flood, Noah received a command from God in Gen 9:1. "
+"God said: Be fruitful and multiply and replenish the earth! Just as Noah was"
+" allowed to be fruitful, we too are to bear fruit with our lives after we "
+"believe."
+msgstr ""
+"Direct na de zondvloed ontving Noach een bevel van God in Gen 9:1. God zei: "
+"Wees vruchtbaar en vermenigvuldig en vervul de aarde! Net zoals Noach "
+"vruchtbaar mocht zijn, moeten ook wij vrucht dragen met ons leven nadat we "
+"geloven."
+
+#: commandments_app.Lesson/story:3
+msgid "A new beginning"
+msgstr "Een nieuw begin"
 
 #: commandments_app.Lesson/title:4
 msgid "Have salt in yourselves and live together in peace"
 msgstr "Heb zout in uzelf en leef met elkaar in vrede"
 
+#: commandments_app.Lesson/related_step_description:4
+msgid ""
+"The earth was full of evil and strife. People chose their own path. That is "
+"why Jesus commands us to have salt in ourselves and to live in peace with "
+"all people."
+msgstr ""
+"De aarde was vol kwaad en strijd. Mensen kozen hun eigen pad. Daarom gebiedt"
+" Jezus ons om zout in onszelf te hebben en in vrede te leven met alle "
+"mensen."
+
+#: commandments_app.Lesson/story:4
+msgid "Stubborn"
+msgstr "Eigenwijs"
+
 #: commandments_app.Lesson/title:5
 msgid "Search and you will find"
 msgstr "Zoek, en u zult vinden"
+
+#: commandments_app.Lesson/related_step_description:5
+msgid ""
+"Abraham was called to follow a God unknown to him. We too may search for "
+"God. The great thing is that He is always found when we sincerely search!"
+msgstr ""
+"Abraham werd geroepen om een God te volgen die hem onbekend was. Ook wij "
+"mogen op zoek gaan naar God. Het mooie is dat Hij altijd gevonden wordt als "
+"we oprecht zoeken!"
+
+#: commandments_app.Lesson/story:5
+msgid "Called"
+msgstr "Geroepen"
+
+#: commandments_app.Lesson/related_step_description:6
+msgid ""
+"Abraham was called to go on a journey, to let go of everything and to obey "
+"to seek the promised land. We too may listen to the Lord Jesus, understand "
+"what he says, and then faithfully obey the command He gives."
+msgstr ""
+"Abraham werd geroepen om op reis te gaan, alles los te laten en te "
+"gehoorzamen om het beloofde land te zoeken. Ook wij mogen naar de Heer Jezus"
+" luisteren, begrijpen wat Hij zegt, en dan trouw het bevel gehoorzamen dat "
+"Hij geeft."
+
+#: commandments_app.Lesson/story:6
+msgid "A country of its own"
+msgstr "Een land op zich"
 
 #: commandments_app.Lesson/title:7
 msgid ""
@@ -3252,24 +3486,79 @@ msgid ""
 msgstr ""
 "Ik zal Mijn verbond sluiten tussen Mij en u, en u uitermate talrijk maken"
 
+#: commandments_app.Lesson/story:7
+msgid "Covenant"
+msgstr "Verbond"
+
+#: commandments_app.Lesson/story:8
+msgid "The promised son"
+msgstr "De beloofde zoon"
+
 #: commandments_app.Lesson/title:9
 msgid "Whoever abides in Me, and I in him, will bear much fruit"
 msgstr "Wie in Mij blijft, en Ik in hem, die draagt veel vrucht"
+
+#: commandments_app.Lesson/related_step_description:9
+msgid ""
+"Rebekah, like the other wives of the patriarchs, was naturally barren. God "
+"blessed them for their trust in Him and reiterated the command to bear "
+"fruit. We too are asked to abide in Him and bear much fruit."
+msgstr ""
+"Rebekka was, net als de andere vrouwen van de patriarchen, van nature "
+"onvruchtbaar. God zegende hen voor hun vertrouwen in Hem en herhaalde het "
+"gebod om vrucht te dragen. Ook wij worden gevraagd in Hem te blijven en veel"
+" vrucht te dragen."
+
+#: commandments_app.Lesson/story:9
+msgid "Two peoples in your belly"
+msgstr "Twee zonen in je buik"
 
 #: commandments_app.Lesson/title:10
 msgid "God also remembered Rachel and God heard her"
 msgstr "God dacht ook aan Rachel en God verhoorde haar"
 
+#: commandments_app.Lesson/story:10
+msgid "A dream on the way - Two women"
+msgstr "Een droom onderweg - Twee vrouwen"
+
 #: commandments_app.Lesson/title:11
 msgid "And behold, I am with you always, even to the end of the world"
 msgstr "En zie, ik ben met u, al de dagen, tot de voleinding van de wereld"
+
+#: commandments_app.Lesson/related_step_description:11
+msgid ""
+"Even though Jacob had to flee from Esau, and was later called to return to "
+"the land of his fathers, God gave a special promise in Genesis 31:3: I will "
+"be with you. The Lord Jesus also promised His disciples just after the great"
+" commission that He will be with them wherever they go."
+msgstr ""
+"Hoewel Jakob moest vluchten voor Esau en later werd geroepen om terug te "
+"keren naar het land van zijn vaderen, gaf God in Genesis 31:3 een bijzondere"
+" belofte: Ik zal met je zijn. De Heer Jezus beloofde Zijn discipelen vlak na"
+" de grote opdracht ook dat Hij bij hen zal zijn, waar ze ook heen gaan."
+
+#: commandments_app.Lesson/story:11
+msgid "Back home"
+msgstr "Terug naar huis"
 
 #: commandments_app.Lesson/title:12
 msgid "Warrior with God"
 msgstr "Strijder met God"
 
+#: commandments_app.Lesson/story:12
+#, fuzzy
+#| msgid "Warrior with God"
+msgid "Fighting with God"
+msgstr "Strijder met God"
+
 #: commandments_app.Lesson/title:13
 msgid "You are forgiven!"
+msgstr "Je bent vergeven!"
+
+#: commandments_app.Lesson/story:13
+#, fuzzy
+#| msgid "You are forgiven!"
+msgid "To forgive"
 msgstr "Je bent vergeven!"
 
 #: commandments_app.Lesson/title:14
@@ -3280,9 +3569,29 @@ msgstr ""
 "Zalig zijn zij die vervolgd worden om de gerechtigheid, want van hen is het "
 "Koninkrijk der hemelen"
 
+#: commandments_app.Lesson/related_step_description:14
+msgid ""
+"Joseph was captured. It must have been very difficult for him at that time. "
+"But God had a plan for Him. When we are persecuted for His name, we can "
+"trust that He is with us, and He will give us His deep shalom in the midst "
+"of difficult circumstances."
+msgstr ""
+"Jozef werd gevangengenomen. Het moet voor hem destijds heel moeilijk zijn "
+"geweest. Maar God had een plan met Hem. Als we vervolgd worden vanwege Zijn "
+"naam, kunnen we erop vertrouwen dat Hij bij ons is, en dat Hij ons Zijn "
+"diepe sjalom zal geven te midden van moeilijke omstandigheden."
+
+#: commandments_app.Lesson/story:14
+msgid "Captured"
+msgstr "Gevangen"
+
 #: commandments_app.Lesson/title:15
 msgid "Use your talents for the glory of the Father"
 msgstr "Gebruik je talenten tot eer van de Vader"
+
+#: commandments_app.Lesson/story:15
+msgid "From slave to viceroy"
+msgstr "Van slaaf tot onderkoning"
 
 #: commandments_app.Lesson/title:16
 msgid ""
@@ -3292,17 +3601,49 @@ msgstr ""
 "Wordt niet ten onrechte boos op je broeder, en als je dat wel doet verzoen "
 "je dan zo snel mogelijk"
 
+#: commandments_app.Lesson/story:16
+msgid "Hungry"
+msgstr "Honger"
+
+#: commandments_app.Lesson/story:17
+msgid "God's Plan"
+msgstr "Gods Plan"
+
+#: commandments_app.Lesson/story:18
+msgid "Slaves"
+msgstr "Slaven"
+
 #: commandments_app.Lesson/title:19
 msgid "Trust in God"
 msgstr "Vertrouw op God"
+
+#: commandments_app.Lesson/story:19
+msgid "Fire!"
+msgstr "Brand!"
+
+#: commandments_app.Lesson/story:20
+msgid "The 10 plagues – The first Easter"
+msgstr "De 10 plagen"
 
 #: commandments_app.Lesson/title:21
 msgid "Celebrate Holy Communion regularly in memory of Jesus"
 msgstr "Vier regelmatig het Heilig Avondmaal tot nagedachtenis van Jezus"
 
+#: commandments_app.Lesson/story:21
+msgid "The Passover festival"
+msgstr "Het eerste paasfeest"
+
+#: commandments_app.Lesson/story:22
+msgid "On the way"
+msgstr "Op weg"
+
 #: commandments_app.Lesson/title:23
 msgid "Take one day of rest a week"
 msgstr "Neem een dag rust in de week"
+
+#: commandments_app.Lesson/story:23
+msgid "God helps"
+msgstr "God helpt"
 
 #: commandments_app.Lesson/title:24
 msgid ""
@@ -3312,20 +3653,48 @@ msgstr ""
 "Wie de geboden doet en onderwijst, zal groot genoemd worden in het "
 "Koninkrijk der hemelen"
 
+#: commandments_app.Lesson/story:24
+msgid "Golden rules"
+msgstr "Gouden regels"
+
 #: commandments_app.Lesson/title:25
 msgid "You shall worship the Lord your God, and Him only shall you serve"
 msgstr "De Heere, uw God, zult u aanbidden en Hem alleen dienen"
+
+#: commandments_app.Lesson/story:25
+msgid "Infidelity"
+msgstr "Ontrouw"
 
 #: commandments_app.Lesson/title:26
 msgid "Blessed are the pure in heart, for they shall see God"
 msgstr "Zalig zijn de reinen van hart, want zij zullen God zien"
 
+#: commandments_app.Lesson/story:26
+#, fuzzy
+#| msgid "The only God"
+msgid "Tent of God"
+msgstr "De enige God"
+
+#: commandments_app.Lesson/story:27
+msgid "Grumbling and whining"
+msgstr "Gemopper en gezeur"
+
 #: commandments_app.Lesson/title:28
 msgid "Thank God in all circumstances"
 msgstr "Dank God onder alle omstandigheden"
 
+#: commandments_app.Lesson/story:28
+msgid "Revolt"
+msgstr "Opstand"
+
 #: commandments_app.Lesson/title:29
 msgid "Look at Jesus!"
+msgstr "Kijk naar Jezus!"
+
+#: commandments_app.Lesson/story:29
+#, fuzzy
+#| msgid "Look at Jesus!"
+msgid "Look up!"
 msgstr "Kijk naar Jezus!"
 
 #: commandments_app.Lesson/title:30
@@ -3336,21 +3705,41 @@ msgstr ""
 "Bid daarom tot de Heere van de oogst dat Hij arbeiders in Zijn oogst "
 "uitzendt"
 
+#: commandments_app.Lesson/story:30
+msgid "Strong and courageous"
+msgstr "Sterk en moedig"
+
 #: commandments_app.Lesson/title:31
 msgid "Knock, and it will be opened to you"
 msgstr "Klop, en er zal voor u opengedaan worden"
+
+#: commandments_app.Lesson/story:31
+msgid "Spies"
+msgstr "Spionnen"
 
 #: commandments_app.Lesson/title:32
 msgid "Make a memorial stone"
 msgstr "Maak een gedenksteen"
 
+#: commandments_app.Lesson/story:32
+msgid "Twelve stones"
+msgstr "Twaalf stenen"
+
 #: commandments_app.Lesson/title:33
 msgid "Rejoice and be glad, for great is your reward in heaven"
 msgstr "Verblijd en verheug u, want uw loon is groot in de hemelen"
 
+#: commandments_app.Lesson/story:33
+msgid "Cheer!"
+msgstr "Juich!"
+
 #: commandments_app.Lesson/title:34
 msgid "Blessed are those who hear and keep the Word of God"
 msgstr "Zalig zijn zij die het Woord van God horen en het bewaren"
+
+#: commandments_app.Lesson/story:34
+msgid "Judges for the people"
+msgstr "Rechters voor het volk"
 
 #: commandments_app.Lesson/title:35
 msgid ""
@@ -3360,49 +3749,109 @@ msgstr ""
 "Neem Mijn juk op u, en leer van Mij dat Ik zachtmoedig ben en nederig van "
 "hart. en u zult rust vinden voor uw ziel"
 
+#: commandments_app.Lesson/story:35
+msgid "Brave hero"
+msgstr "Dappere held"
+
 #: commandments_app.Lesson/title:36
 msgid "God gives you strength"
 msgstr "God geeft je kracht"
+
+#: commandments_app.Lesson/story:36
+msgid "Wild hair"
+msgstr "Wilde haren"
 
 #: commandments_app.Lesson/title:37
 msgid "Struggle to enter through the narrow gate"
 msgstr "Strijd om binnen te gaan door de nauwe poort"
 
+#: commandments_app.Lesson/story:37
+msgid "Your God is my God"
+msgstr "Uw God is mijn Godd"
+
 #: commandments_app.Lesson/title:38
 msgid "Do what you say"
 msgstr "Doe wat je zegt"
+
+#: commandments_app.Lesson/story:38
+msgid "Prayers from God"
+msgstr "Van God gebeden"
 
 #: commandments_app.Lesson/title:39
 msgid "Speak, Lord, for your servant is listening"
 msgstr "Spreek Heere, want uw dienaar luistert"
 
+#: commandments_app.Lesson/story:39
+msgid "Your servant listens"
+msgstr "Uw dienaar luistert"
+
 #: commandments_app.Lesson/title:40
 msgid "Love God above all else"
 msgstr "Heb God lief boven alles"
+
+#: commandments_app.Lesson/story:40
+msgid "The ark belongs to God"
+msgstr "De ark is van God"
 
 #: commandments_app.Lesson/title:41
 msgid "Trust the Holy Spirit to guide you"
 msgstr "Vertrouw erop dat de Heilige Geest je zal leiden"
 
+#: commandments_app.Lesson/story:41
+msgid "We want a King!"
+msgstr "Wij willen een Koning!"
+
 #: commandments_app.Lesson/title:42
 msgid "Are you a man or woman after God's own heart?"
 msgstr "Ben jij een man of vrouw naar Gods hart?"
+
+#: commandments_app.Lesson/story:42
+#, fuzzy
+#| msgid "Are you a man or woman after God's own heart?"
+msgid "Man after God's own heart"
+msgstr "Ben jij een man of vrouw naar Gods hart?"
+
+#: commandments_app.Lesson/story:43
+#, fuzzy
+#| msgid "Put on the armor of God"
+msgid "In the Name of the Lord"
+msgstr "Trek aan de wapenrusting van God"
 
 #: commandments_app.Lesson/title:44
 msgid "Treat others as you would like to be treated"
 msgstr "Behandel anderen zoals je zelf behandeld wilt worden"
 
+#: commandments_app.Lesson/story:44
+msgid "On the run"
+msgstr "Op de vlucht"
+
+#: commandments_app.Lesson/story:45
+msgid "Done nothing wrong"
+msgstr "Niets verkeerd gedaan"
+
 #: commandments_app.Lesson/title:46
 msgid "Be patient"
 msgstr "Wees geduldig"
+
+#: commandments_app.Lesson/story:46
+msgid "King at last"
+msgstr "Eindelink koning"
 
 #: commandments_app.Lesson/title:47
 msgid "The Messiah, a King forever"
 msgstr "De Messias, een Koning voor altijd"
 
+#: commandments_app.Lesson/story:47
+msgid "A home for the ark"
+msgstr "Een thuis voor de ark"
+
 #: commandments_app.Lesson/title:48
 msgid "Avoid every cause of temptation"
 msgstr "Voorkom elke oorzaak van verleiding"
+
+#: commandments_app.Lesson/story:48
+msgid "You are that man"
+msgstr "Jij bent die man"
 
 #: commandments_app.Lesson/title:49
 msgid "You reap what you sow"
@@ -3417,9 +3866,17 @@ msgstr ""
 "Vertrouw op de HEERE met heel je hart, en steun op je eigen inzicht niet. "
 "Ken Hem in al je wegen, dan zal Híj je paden rechtmaken"
 
+#: commandments_app.Lesson/story:50
+msgid "A wise heart"
+msgstr "Een wijs hart"
+
 #: commandments_app.Lesson/title:51
 msgid "The God of Heaven's Armies comes to dwell with His people"
 msgstr "De God van de hemelse legers komt bij Zijn volk wonen"
+
+#: commandments_app.Lesson/story:51
+msgid "House of God – In a dark cloud"
+msgstr "Huis van God - In een donkere wolk"
 
 #: commandments_app.Lesson/title:52
 msgid "Pride comes before a fall"
@@ -3430,13 +3887,25 @@ msgid "If you obey Me, I will make your family a royal family"
 msgstr ""
 "Als jij Mij wel gehoorzaam bent maak Ik van jouw familie een koningsfamilie"
 
+#: commandments_app.Lesson/story:53
+msgid "Cracked"
+msgstr "Gescheurd"
+
 #: commandments_app.Lesson/title:54
 msgid "Beware and beware of greed"
 msgstr "Kijk uit en wees op uw hoede voor de hebzucht"
 
+#: commandments_app.Lesson/story:54
+msgid "From bad to worse"
+msgstr "Van kwaad tot erger"
+
 #: commandments_app.Lesson/title:55
 msgid "Blessed are those who mourn, for they will be comforted"
 msgstr "Zalig zijn zij die treuren, want zij zullen vertroost worden"
+
+#: commandments_app.Lesson/story:55
+msgid "Thirst"
+msgstr "Dorst"
 
 #: commandments_app.Lesson/title:56
 msgid "The only God"
@@ -3446,6 +3915,10 @@ msgstr "De enige God"
 msgid "Meet God in the silence"
 msgstr "Ontmoet God in de stilte"
 
+#: commandments_app.Lesson/story:57
+msgid "A soft silence"
+msgstr "Een zachte stilte"
+
 #: commandments_app.Lesson/title:58
 msgid ""
 "You shall love the Lord your God with all your heart, and with all your "
@@ -3454,9 +3927,17 @@ msgstr ""
 "U zult de Heere, uw God, liefhebben met heel uw hart en met heel uw ziel en "
 "met heel uw verstand en met heel uw kracht"
 
+#: commandments_app.Lesson/story:58
+msgid "Miracles"
+msgstr "Wonderen"
+
 #: commandments_app.Lesson/title:59
 msgid "Deny yourself, take up your cross and follow Jesus"
 msgstr "Verloochen jezelf, neem je kruis op je en volg Jezus"
+
+#: commandments_app.Lesson/story:59
+msgid "Turning back"
+msgstr "Omkeren"
 
 #: commandments_app.Lesson/title:60
 msgid ""
@@ -3466,30 +3947,60 @@ msgstr ""
 "Maar de HEERE was hun genadig. Hij ontfermde Zich over hen en keerde Zich "
 "tot hen, omwille van Zijn verbond met Abraham, Izak en Jakob"
 
+#: commandments_app.Lesson/story:60
+msgid "Scattered"
+msgstr "Verstrooid"
+
 #: commandments_app.Lesson/title:61
 msgid "Trust that God will fight for you"
 msgstr "Vertrouw erop dat de Heilige Geest je zal leiden"
+
+#: commandments_app.Lesson/story:61
+msgid "Judah"
+msgstr "Juda"
 
 #: commandments_app.Lesson/title:62
 msgid "Tell people boldly what Jesus is saying to you"
 msgstr "Vertel mensen stoutmoedig wat Jezus aan jouw zegt"
 
+#: commandments_app.Lesson/story:62
+msgid "Promise and punishment"
+msgstr "Belofte en straf"
+
 #: commandments_app.Lesson/title:63
 msgid "Through His wounds we are healed"
 msgstr "Door Zijn wonden zijn wij genezen"
 
+#: commandments_app.Lesson/story:63
+#, fuzzy
+#| msgid "Site Navigation"
+msgid "Salvation"
+msgstr "Site Navigatie"
+
 #: commandments_app.Lesson/title:64
 msgid "You will cast all their sins into the depths of the sea"
 msgstr "U zult al hun zonden werpen in de diepten van de zee"
+
+#: commandments_app.Lesson/story:64
+msgid "Thus speaks the Lord"
+msgstr "Zo spreekt de Heere"
 
 #: commandments_app.Lesson/title:65
 msgid "Blessed are the merciful, for they will be shown mercy"
 msgstr ""
 "Zalig zijn de barmhartigen, want aan hen zal barmhartigheid bewezen worden"
 
+#: commandments_app.Lesson/story:65
+msgid "Believe"
+msgstr "Geloof"
+
 #: commandments_app.Lesson/title:66
 msgid "Be thoughtful as serpents and sincere as doves"
 msgstr "Wees bedachtzaam als de slangen en oprecht als de duiven"
+
+#: commandments_app.Lesson/story:66
+msgid "Punishment"
+msgstr "Straf"
 
 #: commandments_app.Lesson/title:67
 msgid ""
@@ -3499,9 +4010,21 @@ msgstr ""
 "Dan zult u weten dat Ik al wat Ik er gedaan heb, niet zonder reden gedaan "
 "heb"
 
+#: commandments_app.Lesson/story:67
+msgid "In pieces - Jeremiah sings"
+msgstr "In stokken - Jeremia zingt"
+
 #: commandments_app.Lesson/title:68
 msgid "He reveals deep and hidden things"
 msgstr "Hij openbaart diepe en verborgen dingen"
+
+#: commandments_app.Lesson/story:68
+msgid "Dream image"
+msgstr "Droombeeld"
+
+#: commandments_app.Lesson/story:69
+msgid "In God's hand"
+msgstr "In Gods hand"
 
 #: commandments_app.Lesson/title:70
 msgid ""
@@ -3511,6 +4034,10 @@ msgstr ""
 "Want dan zal er een grote verdrukking zijn, zoals er niet geweest is vanaf "
 "het begin van de wereld, tot nu toe, en zoals er ook nooit meer zijn zal"
 
+#: commandments_app.Lesson/story:70
+msgid "Future"
+msgstr "Toekomst"
+
 #: commandments_app.Lesson/title:71
 msgid ""
 "The Lord will not remain angry forever. He wants to start over with His "
@@ -3518,6 +4045,10 @@ msgid ""
 msgstr ""
 "De Heere blijft niet voor altijd boos. Hij wil opnieuw beginnen met Zijn "
 "volk"
+
+#: commandments_app.Lesson/story:71
+msgid "A promise is a promise"
+msgstr "Beloofd is beloofd"
 
 #: commandments_app.Lesson/title:72
 msgid ""
@@ -3527,17 +4058,33 @@ msgstr ""
 "Zalig zijn zij die hongeren en dorsten naar de gerechtigheid, want zij "
 "zullen verzadigd worden"
 
+#: commandments_app.Lesson/story:72
+msgid "Opposition"
+msgstr "Tegenstand"
+
 #: commandments_app.Lesson/title:73
 msgid "If I die, then I die"
 msgstr "Als ik dan omkom, dan kom ik om"
+
+#: commandments_app.Lesson/story:73
+msgid "Queen"
+msgstr "Koningin"
 
 #: commandments_app.Lesson/title:74
 msgid "Blessed are the meek, for they will inherit the earth"
 msgstr "Zalig zijn de zachtmoedigen, want zij zullen de aarde beërven"
 
+#: commandments_app.Lesson/story:74
+msgid "Saved"
+msgstr "Gered"
+
 #: commandments_app.Lesson/title:75
 msgid "Be generous (and fast and pray) in secret"
 msgstr "Wees vrijgevig (en vast en bid) in het verborgene"
+
+#: commandments_app.Lesson/story:75
+msgid "Get up and build"
+msgstr "Opstaan en bouwen"
 
 #: commandments_app.Lesson/title:76
 msgid ""
@@ -3547,22 +4094,54 @@ msgstr ""
 "Maar wij baden tot onze God en plaatsten een wacht tegen hen, dag en nacht, "
 "vanwege hen"
 
+#: commandments_app.Lesson/story:76
+msgid "Unstoppable"
+msgstr "Niet te stoppen"
+
 #: commandments_app.Lesson/title:77
 msgid "Go into all the world, preach the Gospel to all creatures"
 msgstr "Ga heen in heel de wereld, predik het Evangelie aan alle schepselen"
+
+#: commandments_app.Lesson/story:77
+msgid "Back to God's Word"
+msgstr "Terug naar Gods Woord"
 
 #: commandments_app.Lesson/title:78
 msgid "God does what He promises"
 msgstr "God doet wat Hij belooft"
 
+#: commandments_app.Lesson/story:78
+msgid "Between Old and New Testament - A very special day"
+msgstr "Tussen Oud en Nieuw Testament – Een heel bijzondere dag"
+
 #: commandments_app.Lesson/title:79
 msgid "I am the Resurrection and the Life; whoever believes in Me will live!"
 msgstr "Ik ben de Opstanding en het Leven; wie in Mij gelooft, zal leven!"
+
+#: commandments_app.Lesson/story:79
+msgid "The king in the manger"
+msgstr "De Koning in de kribbe"
 
 #: commandments_app.Lesson/title:80
 msgid "We are called to glorify the name of God in Christ Jesus!"
 msgstr ""
 "Wij zijn geroepen om de Naam van God te verheerlijken, in Christus Jezus!"
+
+#: commandments_app.Lesson/story:80
+msgid "All glory to God"
+msgstr "Alle glorie aan God"
+
+#: commandments_app.Lesson/story:81
+msgid "Wise men"
+msgstr "Wijze mannen"
+
+#: commandments_app.Lesson/story:82
+msgid "My Father's things"
+msgstr "De dingen van Mijn Vader"
+
+#: commandments_app.Lesson/story:83
+msgid "The Baptist"
+msgstr "De doper"
 
 #: commandments_app.Lesson/title:84
 msgid ""
@@ -3570,9 +4149,19 @@ msgid ""
 msgstr ""
 "In het begin was het Woord en het Woord was bij God en het Woord was God"
 
+#: commandments_app.Lesson/story:84
+msgid "If You Are God's Son…"
+msgstr "Als U Gods Zoon bent..."
+
 #: commandments_app.Lesson/title:85
 msgid "I will make you fishers of men"
 msgstr "Ik zal jullie vissers van mensen maken"
+
+#: commandments_app.Lesson/story:85
+#, fuzzy
+#| msgid "Follow Me"
+msgid "Follow me"
+msgstr "Volg Mij"
 
 #: commandments_app.Lesson/title:86
 msgid ""
@@ -3582,15 +4171,27 @@ msgstr ""
 "Zoek eerst het Koninkrijk van God en Zijn gerechtigheid, en al deze dingen "
 "zullen u erbij gegeven worden"
 
+#: commandments_app.Lesson/story:86
+msgid "On the mountain"
+msgstr "Op de berg"
+
 #: commandments_app.Lesson/title:87
 msgid ""
 "Be of good courage, daughter, your faith has made you whole; go in peace!"
 msgstr ""
 "Heb goede moed, dochter, uw geloof heeft u behouden; ga heen in vrede!"
 
+#: commandments_app.Lesson/story:87
+msgid "Girl get up"
+msgstr "Meisje sta op"
+
 #: commandments_app.Lesson/title:88
 msgid "Blessed is he who is not offended by Me"
 msgstr "Zalig is hij die aan Mij geen aanstoot neemt."
+
+#: commandments_app.Lesson/story:88
+msgid "What you hear and see"
+msgstr "Wat je hoort en ziet"
 
 #: commandments_app.Lesson/title:89
 msgid ""
@@ -3600,21 +4201,53 @@ msgstr ""
 "Verlang met elkaar eenstemmig iets op de aarde en het zal u ten deel vallen "
 "van Mijn Vader, Die in de hemelen is"
 
+#: commandments_app.Lesson/story:89
+#, fuzzy
+#| msgid "Find the lost sheep"
+msgid "Lost sheep"
+msgstr "Zoek de verloren schapen"
+
 #: commandments_app.Lesson/title:90
 msgid "Beware of the false prophets"
 msgstr "Wees op uw hoede voor de valse profeten"
+
+#: commandments_app.Lesson/story:90
+msgid "Plugged in"
+msgstr "Dichtgestopt"
 
 #: commandments_app.Lesson/title:91
 msgid "Store up for you treasures in heaven"
 msgstr "Verzamel schatten voor u in de hemel"
 
+#: commandments_app.Lesson/story:91
+msgid "Darling"
+msgstr "Schat"
+
 #: commandments_app.Lesson/title:92
 msgid "Share what you have with those who need it"
 msgstr "Deel wat je hebt met hen die het nodig hebben"
 
+#: commandments_app.Lesson/story:92
+msgid "Who is he?"
+msgstr "Wie is Hij?"
+
+#: commandments_app.Lesson/story:93
+msgid "Crumbs"
+msgstr "Kruimels"
+
 #: commandments_app.Lesson/title:94
 msgid "Be moved with inner compassion for the people around you"
 msgstr "Wees met innerlijke ontferming bewogen met de mensen om je heen"
+
+#: commandments_app.Lesson/story:94
+msgid "Found it!"
+msgstr "Gevonden!"
+
+#: commandments_app.Lesson/story:95
+#, fuzzy
+#| msgid "Be of good cheer"
+msgid "The Good Shepherd"
+msgstr "Heb goede moed"
 
 #: commandments_app.Lesson/title:96
 msgid ""
@@ -3624,6 +4257,14 @@ msgstr ""
 "Als u zich niet verandert en wordt als de kinderen, zult u het Koninkrijk "
 "der hemelen beslist niet binnengaan"
 
+#: commandments_app.Lesson/story:96
+msgid "Like a child"
+msgstr "Als een kind"
+
+#: commandments_app.Lesson/story:97
+msgid "Precious"
+msgstr "Kostbaar"
+
 #: commandments_app.Lesson/title:98
 msgid ""
 "Hosanna, blessed is He who comes in the Name of the Lord, the King of "
@@ -3632,15 +4273,27 @@ msgstr ""
 "Hosanna, gezegend is Hij die komt in de Naam van de Heere, de Koning van "
 "Israël!"
 
+#: commandments_app.Lesson/story:98
+msgid "Hosanna!"
+msgstr "Hosanna!"
+
 #: commandments_app.Lesson/title:99
 msgid "Hosanna, hosanna to the Son of David!"
 msgstr "Hosanna, hosanna voor de Zoon van David!"
+
+#: commandments_app.Lesson/story:99
+msgid "Robber's den"
+msgstr "Rovershol"
 
 #: commandments_app.Lesson/title:100
 msgid ""
 "Give to Caesar the things that are Caesar's, and to God the things that are "
 "God's"
 msgstr "Geef aan de keizer wat van de keizer is, en aan God wat van God is"
+
+#: commandments_app.Lesson/story:100
+msgid "Chicks"
+msgstr "Kuikentjes"
 
 #: commandments_app.Lesson/title:101
 msgid ""
@@ -3652,32 +4305,60 @@ msgstr ""
 "van de Zoon en van de Heilige Geest, hun lerend alles wat Ik u geboden heb, "
 "in acht te nemen"
 
+#: commandments_app.Lesson/story:101
+msgid "On the Mount of Olives"
+msgstr "Op de olijfberg"
+
 #: commandments_app.Lesson/title:102
 msgid ""
 "Be ye therefore perfect, even as your Father which is in heaven is perfect"
 msgstr ""
 "Weest u dan volmaakt, zoals uw Vader, Die in de hemelen is, volmaakt is"
 
+#: commandments_app.Lesson/story:102
+msgid "Meal"
+msgstr "Maaltijd"
+
 #: commandments_app.Lesson/title:103
 msgid "Pray in faith according to the will of the Father"
 msgstr "Bid in geloof naar de wil van de Vader"
+
+#: commandments_app.Lesson/story:103
+msgid "Your will"
+msgstr "Uw wil"
 
 #: commandments_app.Lesson/title:104
 msgid "It is finished"
 msgstr "Het is volbracht"
 
+#: commandments_app.Lesson/story:104
+msgid "Accomplished"
+msgstr "Volbracht"
+
 #: commandments_app.Lesson/title:105
 msgid "I live and you will live"
 msgstr "Ik leef en u zult leven"
+
+#: commandments_app.Lesson/story:105
+msgid "The first day"
+msgstr "De eerste dag"
 
 #: commandments_app.Lesson/title:106
 msgid "Be vigilant for the coming of Jesus"
 msgstr "Wees waakzaam om de komst van Jezus"
 
+#: commandments_app.Lesson/story:106
+msgid "To heaven"
+msgstr "Naar de hemel"
+
 #: commandments_app.Lesson/title:107
 msgid "God has poured out His Holy Spirit on those who believe in Him"
 msgstr ""
 "God heeft Zijn Heilige Geest uitgestort op de mensen die in Hem geloven"
+
+#: commandments_app.Lesson/story:107
+msgid "Wind and fire"
+msgstr "Wind en vuur"
 
 #: commandments_app.Lesson/title:108
 msgid ""
@@ -3687,6 +4368,10 @@ msgstr ""
 "Heb uw vijanden lief; zegen hen die u vervloeken; doe goed aan hen die u "
 "haten; en bid voor hen die u beledigen en u vervolgen"
 
+#: commandments_app.Lesson/story:108
+msgid "Stones"
+msgstr "Stenen"
+
 #: commandments_app.Lesson/title:109
 msgid ""
 "First take the beam out of your eye, and then you will see clearly to take "
@@ -3695,13 +4380,25 @@ msgstr ""
 "Haal eerst de balk uit uw oog en dan zult u goed kunnen zien om de splinter "
 "uit het oog van uw broeder te halen"
 
+#: commandments_app.Lesson/story:109
+msgid "Blind"
+msgstr "Blind"
+
 #: commandments_app.Lesson/title:110
 msgid "How wonderful that everyone can belong to Jesus!"
 msgstr "Wat geweldig dat iedereen bij Jezus mag horen!"
 
+#: commandments_app.Lesson/story:110
+msgid "Rein"
+msgstr "Rein"
+
 #: commandments_app.Lesson/title:111
 msgid "Strengthen your brothers"
 msgstr "Versterk uw broeders"
+
+#: commandments_app.Lesson/story:111
+msgid "Set aside"
+msgstr "Apart gezet"
 
 #: commandments_app.Lesson/title:112
 msgid ""
@@ -3711,21 +4408,45 @@ msgstr ""
 "Laat uw licht zo schijnen voor de mensen, dat zij uw goede werken zien en uw"
 " Vader, Die in de hemelen is, verheerlijken"
 
+#: commandments_app.Lesson/story:112
+msgid "Traveling"
+msgstr "Op reis"
+
 #: commandments_app.Lesson/title:113
 msgid "God's rules bring life"
 msgstr "Gods regels brengen leven"
+
+#: commandments_app.Lesson/story:113
+msgid "Lines"
+msgstr "Regels"
 
 #: commandments_app.Lesson/title:114
 msgid "Whoever strikes you on the right cheek, turn to him the other also"
 msgstr "Wie u op de rechterwang slaat, keer hem ook de andere toe"
 
+#: commandments_app.Lesson/story:114
+msgid "Singing in the night"
+msgstr "Zingen in de nacht"
+
+#: commandments_app.Lesson/story:115
+msgid "Greetings from Paul"
+msgstr "Groeten van Paulus"
+
 #: commandments_app.Lesson/title:116
 msgid "Put on the armor of God"
 msgstr "Trek aan de wapenrusting van God"
 
+#: commandments_app.Lesson/story:116
+msgid "Old and new"
+msgstr "Oud en nieuw"
+
 #: commandments_app.Lesson/title:117
 msgid "Have deep fear for God"
 msgstr "Heb diep ontzag voor God"
+
+#: commandments_app.Lesson/story:117
+msgid "Headwind"
+msgstr "Tegenwind"
 
 #: commandments_app.Lesson/title:118
 msgid "Blessed are the peacemakers, for they will be called children of God"
@@ -3733,19 +4454,35 @@ msgstr ""
 "Zalig zijn de vredestichters, want zij zullen kinderen van God genoemd "
 "worden"
 
+#: commandments_app.Lesson/story:118
+msgid "The battle is over"
+msgstr "De strijd gestreden"
+
 #: commandments_app.Lesson/title:119
 msgid ""
 "Three things will always remain: faith, hope and love, but the greatest of "
 "these is love"
 msgstr "Geloof, hoop en liefde, maar de meeste van deze is de liefde"
 
+#: commandments_app.Lesson/story:119
+msgid "Love song"
+msgstr "Liefdeslied"
+
 #: commandments_app.Lesson/title:120
 msgid "Many who are first will be last, and many who are last will be first"
 msgstr "Veel eersten zullen de laatsten zijn, en veel laatsten de eersten"
 
+#: commandments_app.Lesson/story:120
+msgid "Island"
+msgstr "Eiland"
+
 #: commandments_app.Lesson/title:121
 msgid "Look forward to the marriage of the Lamb"
 msgstr "Zie uit naar de bruiloft van het Lam"
+
+#: commandments_app.Lesson/story:121
+msgid "Everything becomes new"
+msgstr "Alles wordt nieuw"
 
 #: commandments_app.LessonQuestion/text:1
 msgid "What does it mean that God loves you?"
@@ -3801,6 +4538,27 @@ msgstr "Wat betekent het om in Hem te blijven? Hoe ziet dat eruit?"
 #: commandments_app.LessonQuestion/text:13
 msgid "Why is it special that God remembered Rachel?"
 msgstr "Waarom is het speciaal dat God aan Rachel dacht?"
+
+#: commandments_app.LessonQuestion/text:14
+msgid ""
+"Who can testify that he experienced God in the midst of a difficult period "
+"in his life?"
+msgstr ""
+"Wie kan getuigen dat hij God heeft ervaren midden in een moeilijke periode "
+"in zijn leven?"
+
+#: commandments_app.LessonQuestion/text:15
+msgid "Have you ever experienced persecution because you believe in Jesus?"
+msgstr "Heeft u ooit vervolging ervaren omdat u in Jezus gelooft?"
+
+#: commandments_app.LessonQuestion/text:16
+#, fuzzy
+#| msgid ""
+#| "What can you do to live more in peace with each other? Try this next week!"
+msgid "What can you do to live more in peace with each other?"
+msgstr ""
+"Wat kun je doen om meer in vrede met elkaar te leven? Probeer het de komende"
+" week!"
 
 #: commandments_app.Question/text:1
 msgid ""
@@ -4162,4 +4920,12 @@ msgstr "Wat denk je dat een discipel is?"
 msgid "What is discipleship about?"
 msgstr "Waar gaat discipelschap over?"
 
-#, fuzzy
+#~ msgid "Repent and believe the gospel"
+#~ msgstr "Bekeer u en geloof het evangelie"
+
+#~ msgid "God’s love is so real that He created you to prove it."
+#~ msgstr ""
+#~ "Gods liefde is zo echt, dat Hij jouw gemaakt heeft om het te bewijzen."
+
+#~ msgid "We follow to find out"
+#~ msgstr "Wij volgen om te ontdekken"
