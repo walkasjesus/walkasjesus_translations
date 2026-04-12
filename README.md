@@ -13,7 +13,7 @@ In order to translate the website, you can do the following:
 1. Register for an account on the [website](https://www.walkasjesus.org/account/signup)
 2. Once your account is acknowledged, you can [login here](https://www.walkasjesus.org/account/login/)
 3. Click on the word `Translations` to go to the translation page
-4. Click on the link `jesus_commandments_website` under the title of the language where you want to translate
+4. Click on the link `walkasjesus_website` under the title of the language where you want to translate
 5. Start translation for all the fields. `Fuzzy` entries call for revision by the translator. When an entry is revised, you can deselect the fuzzy field. Once you have done all the items, you can click on `save and translate next block`.
 
 ## Adding completely new languages
