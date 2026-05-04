@@ -208,8 +208,6 @@ msgstr "Wet van de Messias"
 #: templates/base.html:118 templates/base.html:166
 #: walkasjesus_app/templates/commandments/index.html:63
 #: walkasjesus_app/templates/commandments/index.html:118
-#, fuzzy
-#| msgid "Childrens Bible Lessons"
 msgid "Children & Lessons"
 msgstr "Kinderbijbel lessen"
 
@@ -34997,80 +34995,60 @@ msgstr ""
 " stap voor stap"
 
 #: walkasjesus_app/templates/commandments/vision.html:43
-#, fuzzy
 msgid "Three pathways, one mission"
 msgstr "Drie trajecten, één missie"
 
 #: walkasjesus_app/templates/commandments/vision.html:45
-#, fuzzy
 msgid ""
 "\n"
 "                    To help people live this out in practice, this site is organised around three clear pathways. Each one serves a different stage or role in the discipleship journey, but all three point toward the same goal: becoming more like Jesus together.\n"
 "                    "
 msgstr ""
-"Om mensen te helpen dit in de praktijk te verwezenlijken, is deze site "
-"opgebouwd rond drie duidelijke trajecten. Elk ervan vervult een ander "
-"stadium of een andere rol in de reis van het discipelschap, maar ze wijzen "
-"alle drie naar hetzelfde doel: samen meer op Jezus gaan lijken."
+"\n"
+"                    Om mensen te helpen dit in de praktijk te verwezenlijken, is deze site opgebouwd rond drie duidelijke trajecten. Elk ervan vervult een ander stadium of een andere rol in de reis van het discipelschap, maar ze wijzen alle drie naar hetzelfde doel: samen meer op Jezus gaan lijken.\n"
+"                    "
 
 #: walkasjesus_app/templates/commandments/vision.html:50
-#, fuzzy
 msgid "1. The 77 Steps — the best place to begin"
-msgstr "De 77 stappen zijn het duidelijkste beginpunt"
+msgstr "1. De 77 stappen — de beste plek om te beginnen"
 
 #: walkasjesus_app/templates/commandments/vision.html:51
-#, fuzzy
 msgid ""
 "\n"
 "                    If you are new to following Jesus, or want a clear and practical starting point, start here. The 77 steps are drawn directly from the teachings of Jesus in the Gospels. Each step focuses on a specific commandment, with Bible references and resources to help you actually live it out — not just understand it. This pathway is designed for individuals, families, or groups who want a clear, teachable discipleship path.\n"
 "                    "
 msgstr ""
-"Als je nieuw bent bij het volgen van Jezus, of als je een duidelijk en "
-"praktisch startpunt wilt, begin dan hier. De 77 stappen zijn rechtstreeks "
-"ontleend aan de leringen van Jezus in de Evangeliën. Elke stap concentreert "
-"zich op een specifiek gebod, met Bijbelverwijzingen en hulpmiddelen om u te "
-"helpen het daadwerkelijk na te leven – en niet alleen om het te begrijpen. "
-"Dit traject is bedoeld voor individuen, gezinnen of groepen die een "
-"duidelijk, leerbaar discipelschapspad willen."
+"\n"
+"                    Als je nieuw bent bij het volgen van Jezus, of als je een duidelijk en praktisch startpunt wilt, begin dan hier. De 77 stappen zijn rechtstreeks ontleend aan de leringen van Jezus in de Evangeliën. Elke stap concentreert zich op een specifiek gebod, met Bijbelverwijzingen en hulpmiddelen om u te helpen het daadwerkelijk na te leven – en niet alleen om het te begrijpen. Dit traject is bedoeld voor individuen, gezinnen of groepen die een duidelijk, leerbaar discipelschapspad willen.\n"
+"                    "
 
 #: walkasjesus_app/templates/commandments/vision.html:56
-#, fuzzy
 msgid "2. The Law of Messiah — go further as a group"
-msgstr "2. De wet van de Messias – ga verder als groep"
+msgstr "2. De Wet van de Messias — ga verder als groep"
 
 #: walkasjesus_app/templates/commandments/vision.html:57
-#, fuzzy
 msgid ""
 "\n"
 "                    After the 77 steps, the question becomes: what next? The Law of Messiah pathway helps groups continue by working through the full range of biblical commandments from a New Covenant perspective. With commentary and Scripture references, it helps you apply each commandment to your shared life together. This is not a theoretical study — it is a practical tool for groups who want to reflect the full counsel of Jesus in how they actually live.\n"
 "                    "
 msgstr ""
-"Na de 77 stappen rijst de vraag: wat nu? Het pad van de Wet van Messias "
-"helpt groepen verder te gaan door het volledige scala aan bijbelse geboden "
-"te doorlopen vanuit een Nieuw Verbondsperspectief. Met commentaar en "
-"verwijzingen naar de Schrift helpt het u elk gebod toe te passen in uw "
-"gezamenlijke leven. Dit is geen theoretische studie – het is een praktisch "
-"hulpmiddel voor groepen die de volledige raad van Jezus willen weerspiegelen"
-" in hoe zij feitelijk leven."
+"\n"
+"                    Na de 77 stappen rijst de vraag: wat nu? Het pad van de Wet van Messias helpt groepen verder te gaan door het volledige scala aan bijbelse geboden te doorlopen vanuit een Nieuw Verbondsperspectief. Met commentaar en verwijzingen naar de Schrift helpt het u elk gebod toe te passen in uw gezamenlijke leven. Dit is geen theoretische studie – het is een praktisch hulpmiddel voor groepen die de volledige raad van Jezus willen weerspiegelen in hoe zij feitelijk leven.\n"
+"                    "
 
 #: walkasjesus_app/templates/commandments/vision.html:62
-#, fuzzy
 msgid "3. Children & Lessons — teach the next generation"
-msgstr "Leer de volgende generatie"
+msgstr "3. Kinderbijbellessen — onderwijs de volgende generatie"
 
 #: walkasjesus_app/templates/commandments/vision.html:63
-#, fuzzy
 msgid ""
 "\n"
 "                    Discipleship does not stop with adults. The Children & Lessons pathway provides guided lessons, media, and Bible stories to help parents, teachers, and group leaders pass on the teachings of Jesus to children and families. With links to animated Bible stories and structured lesson material, it makes it possible to teach even the youngest members of a community what it means to walk as Jesus walked.\n"
 "                    "
 msgstr ""
-"Discipelschap stopt niet bij volwassenen. Het Kinderen & Lessen traject "
-"biedt begeleide lessen, media en Bijbelverhalen om ouders, leraren en "
-"groepsleiders te helpen de leringen van Jezus door te geven aan kinderen en "
-"gezinnen. Met links naar geanimeerde Bijbelverhalen en gestructureerd "
-"lesmateriaal wordt het mogelijk om zelfs de jongste leden van een "
-"gemeenschap te leren wat het betekent om te lopen zoals Jezus liep."
+"\n"
+"                    Discipelschap stopt niet bij volwassenen. Het traject Kinderbijbellessen biedt begeleide lessen, media en Bijbelverhalen om ouders, leraren en groepsleiders te helpen de leringen van Jezus door te geven aan kinderen en gezinnen. Met links naar geanimeerde Bijbelverhalen en gestructureerd lesmateriaal wordt het mogelijk om zelfs de jongste leden van een gemeenschap te leren wat het betekent om te wandelen zoals Jezus wandelde.\n"
+"                    "
 
 #: walkasjesus_app/templates/commandments/vision.html:70
 msgid "Curious how we came to the 77 steps?"
