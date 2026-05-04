@@ -156,8 +156,8 @@ msgid ""
 " children and groups."
 msgstr ""
 "Walk as Jesus helpt je Jezus in het dagelijks leven te volgen via 77 "
-"stappen, en daarna verder te gaan door met je groep de volledige Wet van de "
-"Messias te doorleven, met lessen voor kinderen en groepen."
+"stappen, en daarna verder te gaan door met je groep de volledige Wet van "
+"Christus te doorleven, met lessen voor kinderen en groepen."
 
 #: templates/base.html:79 walkasjesus_app/templates/commandments/detail.html:6
 #: walkasjesus_app/templates/commandments/detail.html:7
@@ -203,7 +203,7 @@ msgstr "77 Stappen"
 #: walkasjesus_app/templates/law_of_messiah/detail.html:7
 #: walkasjesus_app/templates/law_of_messiah/listing.html:11
 msgid "Law of Messiah"
-msgstr "Wet van de Messias"
+msgstr "Wet van Christus"
 
 #: templates/base.html:118 templates/base.html:166
 #: walkasjesus_app/templates/commandments/index.html:63
@@ -233,22 +233,19 @@ msgid "Site Navigation"
 msgstr "Site Navigatie"
 
 #: templates/base.html:164
-#, fuzzy
 msgid "Start"
 msgstr "Begin"
 
 #: templates/base.html:165
-#, fuzzy
 msgid "Follow Jesus in 77 Steps"
 msgstr "Volg Jezus in 77 stappen"
 
 #: templates/base.html:167
 #: walkasjesus_app/templates/commandments/index.html:42
 msgid "Live the Law of Messiah"
-msgstr "Leef de Wet van de Messias"
+msgstr "Leef de Wet van Christus"
 
 #: templates/base.html:168
-#, fuzzy
 msgid "About This Site"
 msgstr "Over deze site"
 
@@ -34330,7 +34327,7 @@ msgstr "Volgende"
 #: walkasjesus_app/templates/commandments/detail.html:706
 #: walkasjesus_app/templates/law_of_messiah/detail.html:272
 msgid "Related Law of Messiah commandments"
-msgstr "Gerelateerde geboden van de Wet van de Messias"
+msgstr "Gerelateerde geboden van de Wet van Christus"
 
 #: walkasjesus_app/templates/commandments/detail.html:707
 msgid ""
@@ -34338,7 +34335,7 @@ msgid ""
 " us follow Yeshua in daily life; use these related commandments to deepen "
 "your obedience, love, and spiritual growth as you walk with the Lord."
 msgstr ""
-"De Wet van de Messias is een verzameling geboden uit de Schrift die ons "
+"De Wet van Christus is een verzameling geboden uit de Schrift die ons "
 "helpt Yeshua in het dagelijks leven te volgen; gebruik deze gerelateerde "
 "geboden om je gehoorzaamheid, liefde en geestelijke groei te verdiepen "
 "terwijl je met de Heer wandelt."
@@ -34347,7 +34344,7 @@ msgstr ""
 msgid ""
 "This 'Step' can be linked to the following 'Law of Messiah commandment'"
 msgstr ""
-"Deze 'Stap' kan worden gekoppeld aan het volgende 'Wet van de Messias-gebod'"
+"Deze 'Stap' kan worden gekoppeld aan het volgende 'Wet van Christus-gebod'"
 
 #: walkasjesus_app/templates/commandments/detail.html:719
 #: walkasjesus_app/templates/commandments/detail.html:740
@@ -34364,16 +34361,121 @@ msgstr "Primaire koppeling"
 msgid "Additional related commandments"
 msgstr "Aanvullende gerelateerde geboden"
 
+msgid "Charity, Provision, & Generosity"
+msgstr "Liefdadigheid, voorzieningen en vrijgevigheid"
+
+msgid "Commerce"
+msgstr "Handel"
+
+msgid "Covenant Responsibilities"
+msgstr "Verbondsverantwoordelijkheden"
+
+msgid "Days & Seasons"
+msgstr "Dagen en seizoenen"
+
+msgid "Dietary Laws & Food Regulations"
+msgstr "Dieetwetten en voedselvoorschriften"
+
+msgid "Engaging Our Enemies"
+msgstr "Omgaan met onze vijanden"
+
+msgid "Evangelizing & Preaching"
+msgstr "Evangelisatie en prediking"
+
+msgid "Gentiles"
+msgstr "Heidenen"
+
+msgid "God & Yeshua"
+msgstr "God & Yeshua"
+
+msgid "Godliness, Holiness & Righteousness"
+msgstr "Godsvrucht, heiligheid en gerechtigheid"
+
+msgid "Governing & Governing Authorities"
+msgstr "Bestuur en overheden"
+
+msgid "Holy Spirit"
+msgstr "Heilige Geest"
+
+msgid "Humility & Pride"
+msgstr "Nederigheid en trots"
+
+msgid "Identity"
+msgstr "Identiteit"
+
+msgid "Idolatry, Heathens & the Occult"
+msgstr "Afgoderij, heidenen en het occulte"
+
+msgid "Instructing, Correcting, Rebuking & Judging"
+msgstr "Instrueren, corrigeren, bestraffen en oordelen"
+
+msgid "Justice"
+msgstr "Gerechtigheid"
+
+msgid "Marriage & Family"
+msgstr "Huwelijk en gezin"
+
+msgid "Ministering, Discipling & Teaching"
+msgstr "Bediening, discipelen maken en onderwijzen"
+
+msgid "Morality & Compassion"
+msgstr "Moraliteit en mededogen"
+
+msgid "Neighbours & Brothers"
+msgstr "Buren en broeders"
+
+msgid "New Birth, Resurrection & Deliverance / Salvation"
+msgstr "Wedergeboorte, opstanding en bevrijding / redding"
+
+msgid "Prayer & Worship"
+msgstr "Gebed en aanbidding"
+
+msgid "Priesthood"
+msgstr "Priesterschap"
+
+msgid "Prioritization & Acquisition of Wealth & Possessions"
+msgstr "Prioritering en verwerving van rijkdom en bezittingen"
+
+msgid "Prophecy"
+msgstr "Profetie"
+
+msgid "Repenting & Seeking Forgiveness of Sin"
+msgstr "Berouw hebben en vergeving van zonden zoeken"
+
+msgid "Slaves & Indentured Servants"
+msgstr "Slaven en contractarbeiders"
+
+msgid "Spiritual Gifts"
+msgstr "Geestelijke gaven"
+
+msgid "Spiritual Leadership"
+msgstr "Geestelijk leiderschap"
+
+msgid "Spiritual Warfare"
+msgstr "Geestelijke oorlogsvoering"
+
+msgid "The Jewish People & Land of Israel"
+msgstr "Het Joodse volk en het land Israël"
+
+msgid "The Word and Will of God & Messiah"
+msgstr "Het Woord en de wil van God en Messias"
+
+msgid "Tribulation & Adversity"
+msgstr "Verdrukking en tegenslag"
+
+msgid "Way of Life"
+msgstr "Levensstijl"
+
+msgid "Women"
+msgstr "Vrouwen"
+
 #: walkasjesus_app/templates/commandments/index.html:18
-#, fuzzy
 msgid "Start Here"
 msgstr "Begin hier"
 
 #: walkasjesus_app/templates/commandments/index.html:20
-#, fuzzy
-#| msgid "Follow Me"
 msgid "Follow Jesus"
-msgstr "Volg Mij"
+msgstr "Volg Jezus"
 
 #: walkasjesus_app/templates/commandments/index.html:21
 #, fuzzy
@@ -34388,11 +34490,10 @@ msgid ""
 msgstr ""
 "Walk as Jesus helpt nieuwe gelovigen, gezinnen en groepen te begrijpen waar "
 "ze kunnen beginnen. Start met 77 praktische stappen, en ga daarna verder met"
-" de volledige Wet van de Messias om samen elk gebod op je leven te "
+" de volledige Wet van Christus om samen elk gebod op je leven te "
 "spiegelen."
 
 #: walkasjesus_app/templates/commandments/index.html:24
-#, fuzzy
 msgid "Start with the 77 steps"
 msgstr "Begin met de 77 stappen"
 
@@ -34400,10 +34501,9 @@ msgstr "Begin met de 77 stappen"
 #: walkasjesus_app/templates/commandments/index.html:46
 #: walkasjesus_app/templates/commandments/index.html:170
 msgid "Complete Law of Messiah"
-msgstr "Volledige Wet van de Messias"
+msgstr "Volledige Wet van Christus"
 
 #: walkasjesus_app/templates/commandments/index.html:40
-#, fuzzy
 msgid "Go further"
 msgstr "Ga verder"
 
@@ -34413,7 +34513,6 @@ msgid "together as a group"
 msgstr "samen als groep"
 
 #: walkasjesus_app/templates/commandments/index.html:44
-#, fuzzy
 msgid ""
 "After the 77 steps, continue by living out the full range of biblical "
 "commandments with your group. Apply each commandment to your daily life "
@@ -34421,41 +34520,34 @@ msgid ""
 msgstr ""
 "Ga na de 77 stappen verder met het naleven van de volledige reeks bijbelse "
 "geboden met uw groep. Pas elk gebod samen toe in uw dagelijks leven en word "
-"meer zoals Jezus."
+"meer zoals onze Messias."
 
 #: walkasjesus_app/templates/commandments/index.html:61
-#, fuzzy
 msgid "Teach the next generation"
 msgstr "Leer de volgende generatie"
 
 #: walkasjesus_app/templates/commandments/index.html:64
-#, fuzzy
-#| msgid "Bring the Bible back to life in your child's heart"
 msgid "bring the Bible to life"
-msgstr "Breng de Bijbel weer tot leven in het hart van je kinderen"
+msgstr "Breng de Bijbel tot leven"
 
 #: walkasjesus_app/templates/commandments/index.html:65
-#, fuzzy
 msgid ""
 "Teach children, families, and groups with guided lessons, media, and Bible "
 "stories. Help the next generation understand and live the teachings of "
 "Jesus."
 msgstr ""
 "Leer kinderen, gezinnen en groepen met begeleide lessen, media en "
-"Bijbelverhalen."
+"Bijbelverhalen. Help de volgende generatie de lessen van Jezus te begrijpen "
+"en te leven."
 
 #: walkasjesus_app/templates/commandments/index.html:67
 #: walkasjesus_app/templates/commandments/index.html:120
-#, fuzzy
-#| msgid "Treatment of Children"
 msgid "Teach Our Children"
-msgstr "Behandeling van kinderen"
+msgstr "Leer onze kinderen"
 
 #: walkasjesus_app/templates/commandments/index.html:86
-#, fuzzy
-#| msgid "Who is he?"
 msgid "What is this site?"
-msgstr "Wie is Hij?"
+msgstr "Wat is deze site?"
 
 #: walkasjesus_app/templates/commandments/index.html:87
 msgid "One mission, three clear pathways"
@@ -34471,17 +34563,15 @@ msgid ""
 msgstr ""
 "Deze site is bedoeld om mensen te helpen Jezus te volgen op een manier die "
 "praktisch, begrijpelijk en overdraagbaar is. De 77 stappen zijn de beste "
-"plek om te beginnen. De Wet van de Messias helpt je groep verder door het "
+"plek om te beginnen. De Wet van Christus helpt je groep verder door het "
 "volle bereik van Bijbelse geboden te doorleven. Het lessenonderdeel helpt je"
 " kinderen, gezinnen en groepen te onderwijzen."
 
 #: walkasjesus_app/templates/commandments/index.html:89
-#, fuzzy
 msgid "Choose the path that fits you best."
-msgstr "Kies het pad dat het beste bij u past."
+msgstr "Kies het pad dat het beste bij jou past."
 
 #: walkasjesus_app/templates/commandments/index.html:99
-#, fuzzy
 msgid ""
 "Start here if you want a practical discipleship path through the teachings "
 "of Jesus."
@@ -34490,10 +34580,8 @@ msgstr ""
 "leringen van Jezus."
 
 #: walkasjesus_app/templates/commandments/index.html:100
-#, fuzzy
-#| msgid "Brave hero"
 msgid "Begin here"
-msgstr "Dappere held"
+msgstr "Begin hier"
 
 #: walkasjesus_app/templates/commandments/index.html:109
 msgid ""
@@ -34508,7 +34596,6 @@ msgid "Live this path"
 msgstr "Leef dit pad"
 
 #: walkasjesus_app/templates/commandments/index.html:119
-#, fuzzy
 msgid ""
 "Teach children, families, and groups with guided lessons, media, and Bible "
 "stories."
@@ -34525,28 +34612,24 @@ msgid "Bring the Bible back to life in your child's heart"
 msgstr "Breng de Bijbel weer tot leven in het hart van je kinderen"
 
 #: walkasjesus_app/templates/commandments/index.html:145
-#, fuzzy
-#| msgid "What is discipleship about?"
 msgid "Start with discipleship"
-msgstr "Waar gaat discipelschap over?"
+msgstr "Begin met discipelschap"
 
 #: walkasjesus_app/templates/commandments/index.html:146
-#, fuzzy
 msgid "The 77 steps are the clearest place to begin"
 msgstr "De 77 stappen zijn het duidelijkste beginpunt"
 
 #: walkasjesus_app/templates/commandments/index.html:147
-#, fuzzy
 msgid ""
 "If you are new to this site, start with the 77 steps. They focus on "
 "practical obedience, daily discipleship, and the direct teachings of Jesus. "
 "Each step includes Bible references and supporting resources to help you "
 "live it out."
 msgstr ""
-"Als u nieuw bent op deze site, begin dan met de 77 stappen. Ze richten zich "
+"Als je nieuw bent op deze site, begin dan met de 77 stappen. Ze richten zich "
 "op praktische gehoorzaamheid, dagelijks discipelschap en de directe leringen"
 " van Jezus. Elke stap bevat Bijbelverwijzingen en ondersteunende "
-"hulpmiddelen om u te helpen deze stap uit te voeren."
+"hulpmiddelen om je te helpen dit uit te leven."
 
 #: walkasjesus_app/templates/commandments/index.html:148
 #: walkasjesus_app/templates/commandments/listing.html:15
@@ -34568,7 +34651,7 @@ msgid ""
 "mirror all biblical commandments in daily discipleship and become more like "
 "Jesus together."
 msgstr ""
-"De Wet van de Messias helpt je groep na de 77 stappen verder te gaan, zodat "
+"De Wet van Christus helpt je groep na de 77 stappen verder te gaan, zodat "
 "jullie alle Bijbelse geboden kunnen spiegelen in dagelijks discipelschap en "
 "samen meer op Jezus gaan lijken."
 
@@ -35024,7 +35107,7 @@ msgstr ""
 
 #: walkasjesus_app/templates/commandments/vision.html:56
 msgid "2. The Law of Messiah — go further as a group"
-msgstr "2. De Wet van de Messias — ga verder als groep"
+msgstr "2. De Wet van Christus — ga verder als groep"
 
 #: walkasjesus_app/templates/commandments/vision.html:57
 msgid ""
@@ -35448,7 +35531,7 @@ msgid ""
 msgstr ""
 "Maimonides was een middeleeuwse Joodse rabbi die 613 geboden uit de Torah in"
 " een gestructureerde lijst ordende. Deze gekoppelde items tonen waar dit "
-"gebod uit de Wet van de Messias overlap heeft met dat klassieke kader."
+"gebod uit de Wet van Christus overlap heeft met dat klassieke kader."
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:62
 #, fuzzy
@@ -35729,7 +35812,7 @@ msgstr "geboden komen overeen met uw huidige filter."
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:119
 msgid "No Law of Messiah records are available."
-msgstr "Geen Wet van de Messias-records beschikbaar."
+msgstr "Geen Wet van Christus-records beschikbaar."
 
 #: walkasjesus_app/templates/lessons/detail.html:41
 #: walkasjesus_app/templates/lessons/detail.html:177
@@ -36287,13 +36370,13 @@ msgstr "Tweede Gebod"
 #, fuzzy
 #| msgid "Related Law of Messiah commandments"
 msgid "Related Law of Messiah commandments:"
-msgstr "Gerelateerde geboden van de Wet van de Messias"
+msgstr "Gerelateerde geboden van de Wet van Christus"
 
 #: walkasjesus_app/templates/maimonides/listing.html:82
 #, fuzzy
 #| msgid "Related Law of Messiah commandments"
 msgid "No related Law of Messiah commandments found."
-msgstr "Gerelateerde geboden van de Wet van de Messias"
+msgstr "Gerelateerde geboden van de Wet van Christus"
 
 #: walkasjesus_app/templates/maimonides/listing.html:90
 #, fuzzy
@@ -36323,25 +36406,20 @@ msgid "lessen_overzicht/"
 msgstr "lessen_overzicht/"
 
 #: walkasjesus_app/urls.py:61
-#, fuzzy
-#| msgid "Testimonies"
 msgid "maimonides/"
-msgstr "Getuigenissen"
+msgstr "maimonides/"
 
 #: walkasjesus_app/urls.py:62
-#, fuzzy
 msgid "wet_van_de_messias/"
-msgstr "wet_van_de_messias/"
+msgstr "wet_van_christus/"
 
 #: walkasjesus_app/urls.py:63
-#, fuzzy
 msgid "wet_van_de_messias/<str:law_id>/"
-msgstr "wet_van_de_messias/<str:law_id>/"
+msgstr "wet_van_christus/<str:law_id>/"
 
 #: walkasjesus_app/urls.py:64
-#, fuzzy
 msgid "wet_van_de_messias/<str:law_id>/bijbelverzen/"
-msgstr "wet_van_de_messias/<str:law_id>/bijbelverzen/"
+msgstr "wet_van_christus/<str:law_id>/bijbelverzen/"
 
 #: walkasjesus_app/urls.py:65
 msgid "visie/"
@@ -36567,7 +36645,7 @@ msgstr "Nederlands"
 
 #, fuzzy
 #~ msgid "Explore the Law of Messiah"
-#~ msgstr "Wet van de Messias"
+#~ msgstr "Wet van Christus"
 
 #, fuzzy
 #~ msgid "Explore Maimonides 613"
@@ -36668,122 +36746,17 @@ msgstr "Nederlands"
 #~ msgid "Watch therefore for the coming of Jesus"
 #~ msgstr "Wees waakzaam om de komst van Jezus"
 
-#~ msgid "Charity, Provision, & Generosity"
-#~ msgstr "Liefdadigheid, voorzieningen en vrijgevigheid"
-
-#~ msgid "Commerce"
-#~ msgstr "Handel"
-
-#~ msgid "Covenant Responsibilities"
-#~ msgstr "Verbondsverantwoordelijkheden"
-
-#~ msgid "Days & Seasons"
-#~ msgstr "Dagen en seizoenen"
-
-#~ msgid "Dietary Laws & Food Regulations"
-#~ msgstr "Dieetwetten en voedselvoorschriften"
-
-#~ msgid "Engaging Our Enemies"
-#~ msgstr "Onze vijanden inschakelen"
-
-#~ msgid "Evangelizing & Preaching"
-#~ msgstr "Evangelisatie en prediking"
-
 #~ msgid "Explicit"
 #~ msgstr "Expliciet"
-
-#~ msgid "God & Yeshua"
-#~ msgstr "God & Yeshua"
-
-#~ msgid "Godliness, Holiness & Righteousness"
-#~ msgstr "Goddelijkheid, heiligheid en gerechtigheid"
-
-#~ msgid "Governing & Governing Authorities"
-#~ msgstr "Bestuurs- en bestuursautoriteiten"
-
-#~ msgid "Holy Spirit"
-#~ msgstr "Heilige Geest"
-
-#~ msgid "Humility & Pride"
-#~ msgstr "Nederigheid en trots"
-
-#~ msgid "Identity"
-#~ msgstr "Identiteit"
-
-#~ msgid "Idolatry, Heathens & the Occult"
-#~ msgstr "Afgoderij, heidenen en het occulte"
 
 #~ msgid "Implied"
 #~ msgstr "Impliciet"
 
-#~ msgid "Instructing, Correcting, Rebuking & Judging"
-#~ msgstr "Instrueren, corrigeren, bestraffen en oordelen"
-
-#~ msgid "Justice"
-#~ msgstr "Gerechtigheid"
-
-#~ msgid "Marriage & Family"
-#~ msgstr "Huwelijk en gezin"
-
-#~ msgid "Ministering, Discipling & Teaching"
-#~ msgstr "Bediening, discipelen maken en onderwijzen"
-
-#~ msgid "Morality & Compassion"
-#~ msgstr "Moraliteit en mededogen"
-
-#~ msgid "Neighbours & Brothers"
-#~ msgstr "Buren en broers"
-
-#~ msgid "New Birth, Resurrection & Deliverance / Salvation"
-#~ msgstr "Wedergeboorte, opstanding en bevrijding/redding"
-
 #~ msgid "Positive & Negative"
 #~ msgstr "Positief en negatief"
 
-#~ msgid "Prayer & Worship"
-#~ msgstr "Gebed en aanbidding"
-
-#~ msgid "Priesthood"
-#~ msgstr "Priesterschap"
-
-#~ msgid "Prioritization & Acquisition of Wealth & Possessions"
-#~ msgstr "Prioritering en verwerving van rijkdom en bezittingen"
-
-#~ msgid "Prophecy"
-#~ msgstr "Profetie"
-
-#~ msgid "Repenting & Seeking Forgiveness of Sin"
-#~ msgstr "Berouw hebben en vergeving van zonden zoeken"
-
-#~ msgid "Slaves & Indentured Servants"
-#~ msgstr "Slaven en contractarbeiders"
-
-#~ msgid "Spiritual Gifts"
-#~ msgstr "Spirituele gaven"
-
-#~ msgid "Spiritual Leadership"
-#~ msgstr "Spiritueel Leiderschap"
-
-#~ msgid "Spiritual Warfare"
-#~ msgstr "Spirituele oorlogsvoering"
-
-#~ msgid "The Jewish People & Land of Israel"
-#~ msgstr "Het Joodse volk en het land Israël"
-
-#~ msgid "The Word and Will of God & Messiah"
-#~ msgstr "Het Woord en de Wil van God en Messias"
-
-#~ msgid "Tribulation & Adversity"
-#~ msgstr "Verdrukking en tegenslag"
-
 #~ msgid "View law"
 #~ msgstr "Bekijk wet"
-
-#~ msgid "Way of Life"
-#~ msgstr "Manier van leven"
-
-#~ msgid "Women"
-#~ msgstr "Vrouwen"
 
 #~ msgid "Rudolph"
 #~ msgstr "Rudolph"
