@@ -34001,7 +34001,7 @@ msgstr "Onthoud altijd: eerst genade, dan gehoorzaamheid"
 #: walkasjesus_app/templates/commandments/index.html:107
 #| msgid "Unique steps"
 msgid "77 Unique Steps"
-msgstr "Unieke stappen"
+msgstr "77 Unieke stappen"
 
 #: walkasjesus_app/templates/commandments/index.html:108
 msgid ""
@@ -34958,7 +34958,7 @@ msgstr "Dubbele ID's"
 #: walkasjesus_app/templates/maimonides/listing.html:11
 #| msgid "Testimonies"
 msgid "Maimonides"
-msgstr "Getuigenissen"
+msgstr "Maimonides"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:52
 msgid ""
@@ -34971,9 +34971,8 @@ msgstr ""
 "gebod uit de Wet van Christus overlap heeft met dat klassieke kader."
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:62
-#| msgid "77 Steps"
 msgid "Step"
-msgstr "77 Stappen"
+msgstr "Stap"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:69
 msgid "Meir"
@@ -34982,6 +34981,62 @@ msgstr "Meir"
 #: walkasjesus_app/templates/law_of_messiah/detail.html:70
 msgid "Chinuch"
 msgstr "Chinuch"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new1
+msgid ""
+"Maimonides (Rabbi Moshe ben Maimon, 12th century) organized all 613 Torah "
+"commandments into a structured list. These linked items show where this Law "
+"of Messiah commandment overlaps with that classical framework."
+msgstr ""
+"Maimonides (Rabbi Moshe ben Maimon, 12e eeuw) ordende alle 613 Torah-geboden"
+" in een gestructureerde lijst. Deze gekoppelde items tonen waar dit gebod "
+"uit de Wet van Christus overlap heeft met dat klassieke kader."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new2
+msgid "Classical sources"
+msgstr "Klassieke bronnen"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new3
+msgid "Meir of Rothenburg"
+msgstr "Meir van Rothenburg"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new4
+msgid ""
+"Rabbi Meir of Rothenburg (13th century, Germany) was a leading Talmudic "
+"authority. These reference numbers link this commandment to his halachic "
+"rulings."
+msgstr ""
+"Rabbi Meir van Rothenburg (13e eeuw, Duitsland) was een toonaangevende "
+"Talmoedische autoriteit. Deze referentienummers koppelen dit gebod aan zijn "
+"halachische uitspraken."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new5
+msgid "Sefer HaChinuch"
+msgstr "Sefer HaChinuch"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new6
+msgid ""
+"The Sefer HaChinuch (13th century) is a systematic presentation of all 613 "
+"commandments, organized by weekly Torah portion. These reference numbers link"
+" this commandment to that work."
+msgstr ""
+"De Sefer HaChinuch (13e eeuw) is een systematische presentatie van alle 613 "
+"geboden, geordend per wekelijks Torahgedeelte. Deze referentienummers "
+"koppelen dit gebod aan dat werk."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new7
+msgid "Context"
+msgstr "Context"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:new8
+msgid ""
+"The 77 Steps are a beginner's guide to walking as Jesus walked, designed to "
+"be studied together in a group. These connected steps show where this Law of "
+"Messiah commandment is reflected in that introductory program."
+msgstr ""
+"De 77 Stappen zijn een beginnersgids om te wandelen zoals Jezus wandelde, "
+"bedoeld om samen in een groep te bestuderen. Deze verbonden stappen tonen "
+"waar dit gebod uit de Wet van Christus terugkomt in dat introductieprogramma."
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:72
 msgid "New Covenant Literal Application"
@@ -36227,6 +36282,14 @@ msgstr "Engels"
 #: walkasjesus_website/base_settings.py:199
 msgid "Dutch"
 msgstr "Nederlands"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:51
+msgid "Related 77 Steps"
+msgstr "Gerelateerde 77 stappen"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:52
+msgid "This Law of Messiah commandment is directly connected to the following beginner step(s):"
+msgstr "Dit gebod uit de Wet van Christus is rechtstreeks verbonden aan de volgende beginnerstap(pen):"
 
 #~ msgid ""
 #~ "The Law of Messiah is a collection of commandments from Scripture that helps"
