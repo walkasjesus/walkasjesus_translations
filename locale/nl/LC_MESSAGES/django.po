@@ -33977,7 +33977,7 @@ msgstr "Wandel met Jezus"
 
 #: walkasjesus_app/templates/commandments/index.html:96
 msgid "Beginning & Advanced"
-msgstr "Begin en verdieping"
+msgstr "Basis & Verdieping"
 
 #: walkasjesus_app/templates/commandments/index.html:97
 #| msgid ""
@@ -34007,7 +34007,7 @@ msgstr "Onthoud altijd: eerst genade, dan gehoorzaamheid"
 #: walkasjesus_app/templates/commandments/index.html:107
 #| msgid "The beginning"
 msgid "Beginning"
-msgstr "Het begin"
+msgstr "Basis"
 
 #: walkasjesus_app/templates/commandments/index.html:108
 msgid "77 Unique Steps"
@@ -34031,11 +34031,11 @@ msgstr "Begin hier"
 
 #: walkasjesus_app/templates/commandments/index.html:118
 msgid "Advanced"
-msgstr ""
+msgstr "Verdieping"
 
 #: walkasjesus_app/templates/commandments/index.html:121
 msgid "Continue your walk"
-msgstr ""
+msgstr "Ga door met je wandel"
 
 #: walkasjesus_app/templates/commandments/index.html:130
 msgid "Intro video 'Walk as Jesus'"
