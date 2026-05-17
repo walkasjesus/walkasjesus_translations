@@ -43,7 +43,9 @@ ROSETTA_LANGUAGE_GROUPS = [
 3. Adding new texts to the .po files:  
 `python manage.py makemessages -l nl`
 4. Compile the .po files. Run this also after changing the .po files.  
-`django-admin compilemessages`
+`django-admin compilemessages`  
+_Or alternatively with msgfmt:_  
+`msgfmt translations/locale/nl/LC_MESSAGES/django.po -o translations/locale/nl/LC_MESSAGES/django.mo`
 5. Auto translate all the files with Google translate servers by running the following command:  
 `auto_translate_files.sh`
 
@@ -80,3 +82,8 @@ Repository for the Walk as Jesus Framework where all the commandments with all t
 ### walkasjesus_media
 
 Repository for the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) where all the resources (movies, songs, blogs, sermons, testimonies, etc) in all languages are stored in a CSV. This CSV can be imported/exported with the [Walk as Jesus Framework](https://github.com/walkasjesus/walkasjesus_framework) and the [Walk as Jesus Server](https://github.com/walkasjesus/walkasjesus_server)
+
+### LawofMessiah
+
+This repository contains the structured content and scripts for processing the commandments (*mitzvot*) derived from the Bible, as presented in the book series *The Law of Messiah - Torah from a New Covenant Perspective* by Michael Rudolph and Daniel C. Juster. The goal of this project is to make the commandments more accessible by organizing them into structured formats (e.g., YAML) and providing tools for filtering, searching, and studying them.
+[Law of Messiah](https://github.com/walkasjesus/LawofMessiah)

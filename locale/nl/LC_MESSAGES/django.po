@@ -36460,6 +36460,150 @@ msgstr "Engels"
 msgid "Dutch"
 msgstr "Nederlands"
 
+msgid "Charity, Provision, & Generosity"
+msgstr "Liefdadigheid, voorzieningen en vrijgevigheid"
+
+msgid "Commerce"
+msgstr "Handel"
+
+msgid "Covenant Responsibilities"
+msgstr "Verbondsverantwoordelijkheden"
+
+msgid "Days & Seasons"
+msgstr "Dagen en seizoenen"
+
+msgid "Dietary Laws & Food Regulations"
+msgstr "Dieetwetten en voedselvoorschriften"
+
+msgid "Engaging Our Enemies"
+msgstr "Omgaan met onze vijanden"
+
+msgid "Evangelizing & Preaching"
+msgstr "Evangelisatie en prediking"
+
+msgid "Gentiles"
+msgstr "Heidenen"
+
+msgid "God & Yeshua"
+msgstr "God & Yeshua"
+
+msgid "Godliness, Holiness & Righteousness"
+msgstr "Godsvrucht, heiligheid en gerechtigheid"
+
+msgid "Governing & Governing Authorities"
+msgstr "Bestuur en overheden"
+
+msgid "Holy Spirit"
+msgstr "Heilige Geest"
+
+msgid "Humility & Pride"
+msgstr "Nederigheid en trots"
+
+msgid "Identity"
+msgstr "Identiteit"
+
+msgid "Idolatry, Heathens & the Occult"
+msgstr "Afgoderij, heidenen en het occulte"
+
+msgid "Instructing, Correcting, Rebuking & Judging"
+msgstr "Instrueren, corrigeren, bestraffen en oordelen"
+
+msgid "Justice"
+msgstr "Gerechtigheid"
+
+msgid "Marriage & Family"
+msgstr "Huwelijk en gezin"
+
+msgid "Ministering, Discipling & Teaching"
+msgstr "Bediening, discipelen maken en onderwijzen"
+
+msgid "Morality & Compassion"
+msgstr "Moraliteit en mededogen"
+
+msgid "Neighbours & Brothers"
+msgstr "Buren en broeders"
+
+msgid "New Birth, Resurrection & Deliverance / Salvation"
+msgstr "Wedergeboorte, opstanding en bevrijding / redding"
+
+msgid "Prayer & Worship"
+msgstr "Gebed en aanbidding"
+
+msgid "Priesthood"
+msgstr "Priesterschap"
+
+msgid "Prioritization & Acquisition of Wealth & Possessions"
+msgstr "Prioritering en verwerving van rijkdom en bezittingen"
+
+msgid "Prophecy"
+msgstr "Profetie"
+
+msgid "Repenting & Seeking Forgiveness of Sin"
+msgstr "Berouw hebben en vergeving van zonden zoeken"
+
+msgid "Slaves & Indentured Servants"
+msgstr "Slaven en contractarbeiders"
+
+msgid "Spiritual Gifts"
+msgstr "Geestelijke gaven"
+
+msgid "Spiritual Leadership"
+msgstr "Geestelijk leiderschap"
+
+msgid "Spiritual Warfare"
+msgstr "Geestelijke oorlogsvoering"
+
+msgid "The Jewish People & Land of Israel"
+msgstr "Het Joodse volk en het land Israël"
+
+msgid "The Word and Will of God & Messiah"
+msgstr "Het Woord en de wil van God en Messias"
+
+msgid "Tribulation & Adversity"
+msgstr "Verdrukking en tegenslag"
+
+msgid "Way of Life"
+msgstr "Levensstijl"
+
+msgid "Women"
+msgstr "Vrouwen"
+
+msgid "Positive"
+msgstr "Positief"
+
+msgid "Negative"
+msgstr "Negatief"
+
+msgid "Positive & Negative"
+msgstr "Positief & Negatief"
+
+msgid "Explicit"
+msgstr "Expliciet"
+
+msgid "Implied"
+msgstr "Impliciet"
+
+msgid "Beginning — 77 Unique Steps"
+msgstr "Basis — 77 Unieke Stappen"
+
+msgid "Advanced — Law of Messiah"
+msgstr "Verdieping — Wet van de Messias"
+
+msgid ""
+"Once you discover who Jesus is and what He has done for you, the desire is simple: follow Him with your whole life. This section offers a clear progression for that journey, so your group can start well and keep growing in faithful obedience."
+msgstr ""
+"Zodra je ontdekt wie Jezus is en wat Hij voor jou heeft gedaan, is het verlangen eenvoudig: Hem volgen met je hele leven. Dit gedeelte biedt een duidelijke opbouw voor die reis, zodat je groep goed kan beginnen en blijven groeien in getrouwe gehoorzaamheid."
+
+msgid ""
+"Start here with others. The 77 steps provide a practical foundation from the teachings of Jesus, with related Bible verses, sermons, songs, illustrations, and other resources to help you apply each step in daily life."
+msgstr ""
+"Begin hier samen met anderen. De 77 stappen bieden een praktische basis vanuit de leer van Jezus, met gerelateerde bijbelverzen, preken, liedjes, illustraties en andere hulpmiddelen om elke stap in het dagelijks leven toe te passen."
+
+msgid ""
+"Continue here as a group. The Law of Messiah gathers commandments from Scripture and helps you deepen both understanding and application together, so discipleship moves from first steps into mature obedience."
+msgstr ""
+"Ga hier als groep verder. De Wet van de Messias verzamelt geboden uit de Schrift en helpt je samen zowel begrip als toepassing te verdiepen, zodat discipelschap van eerste stappen uitgroeit tot volwassen gehoorzaamheid."
+
 #~ msgid "What is this site?"
 #~ msgstr "Wat is deze site?"
 
@@ -36555,113 +36699,41 @@ msgstr "Nederlands"
 #~ "geboden om je gehoorzaamheid, liefde en geestelijke groei te verdiepen "
 #~ "terwijl je met de Heer wandelt."
 
-#~ msgid "Charity, Provision, & Generosity"
-#~ msgstr "Liefdadigheid, voorzieningen en vrijgevigheid"
 
-#~ msgid "Commerce"
-#~ msgstr "Handel"
 
-#~ msgid "Covenant Responsibilities"
-#~ msgstr "Verbondsverantwoordelijkheden"
 
-#~ msgid "Days & Seasons"
-#~ msgstr "Dagen en seizoenen"
 
-#~ msgid "Dietary Laws & Food Regulations"
-#~ msgstr "Dieetwetten en voedselvoorschriften"
 
-#~ msgid "Engaging Our Enemies"
-#~ msgstr "Omgaan met onze vijanden"
 
-#~ msgid "Evangelizing & Preaching"
-#~ msgstr "Evangelisatie en prediking"
 
-#~ msgid "Gentiles"
-#~ msgstr "Heidenen"
 
-#~ msgid "God & Yeshua"
-#~ msgstr "God & Yeshua"
 
-#~ msgid "Godliness, Holiness & Righteousness"
-#~ msgstr "Godsvrucht, heiligheid en gerechtigheid"
 
-#~ msgid "Governing & Governing Authorities"
-#~ msgstr "Bestuur en overheden"
 
-#~ msgid "Holy Spirit"
-#~ msgstr "Heilige Geest"
 
-#~ msgid "Humility & Pride"
-#~ msgstr "Nederigheid en trots"
 
-#~ msgid "Identity"
-#~ msgstr "Identiteit"
 
-#~ msgid "Idolatry, Heathens & the Occult"
-#~ msgstr "Afgoderij, heidenen en het occulte"
 
-#~ msgid "Instructing, Correcting, Rebuking & Judging"
-#~ msgstr "Instrueren, corrigeren, bestraffen en oordelen"
 
-#~ msgid "Justice"
-#~ msgstr "Gerechtigheid"
 
-#~ msgid "Marriage & Family"
-#~ msgstr "Huwelijk en gezin"
 
-#~ msgid "Ministering, Discipling & Teaching"
-#~ msgstr "Bediening, discipelen maken en onderwijzen"
 
-#~ msgid "Morality & Compassion"
-#~ msgstr "Moraliteit en mededogen"
 
-#~ msgid "Neighbours & Brothers"
-#~ msgstr "Buren en broeders"
 
-#~ msgid "New Birth, Resurrection & Deliverance / Salvation"
-#~ msgstr "Wedergeboorte, opstanding en bevrijding / redding"
 
-#~ msgid "Prayer & Worship"
-#~ msgstr "Gebed en aanbidding"
 
-#~ msgid "Priesthood"
-#~ msgstr "Priesterschap"
 
-#~ msgid "Prioritization & Acquisition of Wealth & Possessions"
-#~ msgstr "Prioritering en verwerving van rijkdom en bezittingen"
 
-#~ msgid "Prophecy"
-#~ msgstr "Profetie"
 
-#~ msgid "Repenting & Seeking Forgiveness of Sin"
-#~ msgstr "Berouw hebben en vergeving van zonden zoeken"
 
-#~ msgid "Slaves & Indentured Servants"
-#~ msgstr "Slaven en contractarbeiders"
 
-#~ msgid "Spiritual Gifts"
-#~ msgstr "Geestelijke gaven"
 
-#~ msgid "Spiritual Leadership"
-#~ msgstr "Geestelijk leiderschap"
 
-#~ msgid "Spiritual Warfare"
-#~ msgstr "Geestelijke oorlogsvoering"
 
-#~ msgid "The Jewish People & Land of Israel"
-#~ msgstr "Het Joodse volk en het land Israël"
 
-#~ msgid "The Word and Will of God & Messiah"
-#~ msgstr "Het Woord en de wil van God en Messias"
 
-#~ msgid "Tribulation & Adversity"
-#~ msgstr "Verdrukking en tegenslag"
 
-#~ msgid "Way of Life"
-#~ msgstr "Levensstijl"
 
-#~ msgid "Women"
-#~ msgstr "Vrouwen"
 
 #~ msgid "Start Here"
 #~ msgstr "Begin hier"
@@ -36829,11 +36901,7 @@ msgstr "Nederlands"
 #~ msgid "Watch therefore for the coming of Jesus"
 #~ msgstr "Wees waakzaam om de komst van Jezus"
 
-#~ msgid "Explicit"
-#~ msgstr "Expliciet"
 
-#~ msgid "Implied"
-#~ msgstr "Impliciet"
 
 #~ msgid "View law"
 #~ msgstr "Bekijk wet"
