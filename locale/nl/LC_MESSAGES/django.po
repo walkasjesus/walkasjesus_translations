@@ -2533,7 +2533,7 @@ msgstr ""
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:204
 msgid "Jewish"
-msgstr "Joodse man"
+msgstr "Joods"
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:205
 msgid ""
@@ -2545,7 +2545,7 @@ msgstr ""
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:211
 msgid "K'rov Yisrael"
-msgstr "K'rov Yisrael man"
+msgstr "K'rov Yisrael"
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:212
 msgid ""
@@ -2559,7 +2559,7 @@ msgstr ""
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:218
 msgid "Gentile"
-msgstr "heidenen"
+msgstr "Niet-Joods"
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:219
 msgid ""
@@ -3365,40 +3365,99 @@ msgstr "Gerelateerde Stap"
 #: walkasjesus_app/templates/maimonides/listing.html:5
 #: walkasjesus_app/templates/maimonides/listing.html:7
 #: walkasjesus_app/templates/maimonides/listing.html:9
-#, fuzzy
-#| msgid "Maimonides' 613 Commandments"
 msgid "Maimonides 613 Commandments | Torah-to-Messiah Study Map"
-msgstr "Jezus Geboden"
+msgstr "De 613 Geboden van Maimonides | Studiekaart van Thora naar Messias"
 
 #: walkasjesus_app/templates/maimonides/listing.html:6
 #: walkasjesus_app/templates/maimonides/listing.html:8
 #: walkasjesus_app/templates/maimonides/listing.html:10
-#, fuzzy
 msgid ""
 "Explore Maimonides 613 commandments and compare them with related Law of "
 "Messiah entries to study continuity, fulfillment, and practical discipleship "
 "application."
 msgstr ""
-"Verken de geboden van Maimonides 613 en vergelijk ze met gerelateerde "
-"artikelen uit de Wet van Messias om de continuïteit, vervulling en "
-"praktische toepassing van discipelschap te bestuderen."
+"Verken de 613 geboden van Maimonides en vergelijk ze met gerelateerde "
+"vermeldingen uit de Wet van de Messias om continuiteit, vervulling en "
+"praktische toepassing in discipelschap te bestuderen."
 
 #: walkasjesus_app/templates/maimonides/listing.html:19
 msgid "Maimonides' 613 Commandments"
-msgstr "Jezus Geboden"
+msgstr "De 613 Geboden van Maimonides"
+
+#: walkasjesus_app/templates/maimonides/listing.html:18
+msgid "Classical Commandments"
+msgstr "Klassieke Geboden"
 
 #: walkasjesus_app/templates/maimonides/listing.html:20
 msgid ""
 "Maimonides (Rambam) compiled 613 commandments drawn from the Torah, "
 "traditionally categorized as 248 positive (\"do\") and 365 negative (\"do "
-"not\") commandments. Browse each commandment below and discover which Laws "
-"of Messiah from the New Covenant perspective relate to it."
+"not\") commandments. Browse each commandment below, compare it with Meir "
+"of Rothenburg, Sefer HaChinuch, and Law of Messiah links, and retrieve the "
+"relevant Bible passages only when you need them."
 msgstr ""
 "Maimonides (Rambam) stelde 613 geboden samen, ontleend aan de Thora, "
-"traditioneel gecategoriseerd als 248 positieve (\"doe\") en 365 negatieve "
-"(\"niet doen\") geboden. Blader door elk gebod hieronder en ontdek welke "
-"Wetten van de Messias vanuit het Nieuwe Verbondsperspectief daarmee verband "
-"houden."
+"traditioneel onderverdeeld in 248 positieve (\"doe\") en 365 negatieve "
+"(\"doe niet\") geboden. Bekijk hieronder elk gebod, vergelijk het met "
+"Meir van Rothenburg, Sefer HaChinuch en koppelingen naar de Wet van de "
+"Messias, en haal de relevante Bijbelgedeelten pas op wanneer u ze nodig "
+"hebt."
+
+#: walkasjesus_app/templates/maimonides/listing.html:28
+msgid "Filter classical commandment links"
+msgstr "Filter klassieke geboden en koppelingen"
+
+#: walkasjesus_app/templates/maimonides/listing.html:32
+msgid "Search Maimonides, Meir, HaChinuch, Rudolph, scripture references, or Law of Messiah"
+msgstr "Zoek in Maimonides, Meir, HaChinuch, Rudolph, schriftverwijzingen of de Wet van de Messias"
+
+#: walkasjesus_app/templates/maimonides/listing.html:52
+msgid "Legend — what do these links and scripture groups mean?"
+msgstr "Legenda — wat betekenen deze koppelingen en schriftgroepen?"
+
+#: walkasjesus_app/templates/maimonides/listing.html:61
+msgid "Cross-reference columns"
+msgstr "Kolommen met kruisverwijzingen"
+
+#: walkasjesus_app/templates/maimonides/listing.html:62
+msgid "Meir of Rothenburg and Sefer HaChinuch list medieval Jewish numbering systems that overlap with the same Torah commandment."
+msgstr "Meir van Rothenburg en Sefer HaChinuch geven middeleeuwse Joodse nummeringen die overlappen met hetzelfde Thoragebod."
+
+#: walkasjesus_app/templates/maimonides/listing.html:63
+msgid "Law of Messiah / Rudolph links point to commandments on this site that were already mapped to the same Maimonides ID."
+msgstr "Koppelingen naar de Wet van de Messias / Rudolph wijzen naar geboden op deze site die al aan hetzelfde Maimonides-ID zijn gekoppeld."
+
+#: walkasjesus_app/templates/maimonides/listing.html:66
+msgid "Scripture groups"
+msgstr "Schriftgroepen"
+
+#: walkasjesus_app/templates/maimonides/listing.html:67
+msgid "When the same Bible passage is used by Maimonides, Meir, and HaChinuch, it is shown once with a shared source label instead of being repeated three times."
+msgstr "Wanneer hetzelfde Bijbelgedeelte door Maimonides, Meir en HaChinuch wordt gebruikt, wordt het eenmaal getoond met een gedeeld bronlabel in plaats van drie keer herhaald."
+
+#: walkasjesus_app/templates/maimonides/listing.html:68
+msgid "Unique Meir or HaChinuch passages still remain visible, together with their source numbering when that helps identify where the reference came from."
+msgstr "Unieke passages van Meir of HaChinuch blijven zichtbaar, samen met hun bronnummering wanneer dat helpt om te zien waar de verwijzing vandaan komt."
+
+#: walkasjesus_app/templates/maimonides/listing.html:69
+msgid "Click a verse button to load the Bible text on demand instead of preloading the entire page."
+msgstr "Klik op een versknop om de Bijbeltekst op aanvraag te laden in plaats van de hele pagina vooraf te vullen."
+
+#: walkasjesus_app/templates/maimonides/listing.html:72
+msgid "Sorting and searching"
+msgstr "Sorteren en zoeken"
+
+#: walkasjesus_app/templates/maimonides/listing.html:73
+msgid "Search covers the commandment text, all visible cross-reference codes, scripture references, and related Law of Messiah IDs and titles."
+msgstr "Zoeken doorzoekt de gebodtekst, alle zichtbare kruisverwijzingscodes, schriftverwijzingen en gerelateerde ID's en titels uit de Wet van de Messias."
+
+#: walkasjesus_app/templates/maimonides/listing.html:74
+msgid "Sort by the first available Meir or HaChinuch code when you want those numbering systems grouped together."
+msgstr "Sorteer op de eerste beschikbare Meir- of HaChinuch-code wanneer u die nummeringssystemen samen wilt groeperen."
+
+#: walkasjesus_app/templates/maimonides/listing.html:139
+msgid "Source codes"
+msgstr "Broncodes"
 
 #: walkasjesus_app/templates/maimonides/listing.html:33
 msgid "ID or commandment text"
@@ -3419,15 +3478,83 @@ msgstr "%(count)s gebod(en) getoond"
 
 #: walkasjesus_app/templates/maimonides/listing.html:75
 msgid "Related Law of Messiah commandments:"
-msgstr "Gerelateerde geboden van de Wet van Christus"
+msgstr "Gerelateerde geboden van de Wet van de Messias:"
 
 #: walkasjesus_app/templates/maimonides/listing.html:89
 msgid "No related Law of Messiah commandments found."
-msgstr "Gerelateerde geboden van de Wet van Christus"
+msgstr "Geen gerelateerde geboden van de Wet van de Messias gevonden."
 
 #: walkasjesus_app/templates/maimonides/listing.html:97
 msgid "No commandments found matching your filter."
-msgstr "geboden komen overeen met uw huidige filter."
+msgstr "Geen geboden gevonden die overeenkomen met uw filter."
+
+#: walkasjesus_app/templates/maimonides/listing.html:113
+msgid "Positive commandment"
+msgstr "Positief gebod"
+
+#: walkasjesus_app/templates/maimonides/listing.html:113
+msgid "Negative commandment"
+msgstr "Negatief gebod"
+
+#: walkasjesus_app/views/maimonides_view.py:75
+msgid "Scripture used by %(source)s"
+msgstr "Schriftgedeelte gebruikt door %(source)s"
+
+#: walkasjesus_app/views/maimonides_view.py:77
+msgid "Scripture used by %(first)s and %(second)s"
+msgstr "Schriftgedeelte gebruikt door %(first)s en %(second)s"
+
+#: walkasjesus_app/views/maimonides_view.py:78
+msgid "Scripture used by %(first)s, %(second)s and %(third)s"
+msgstr "Schriftgedeelte gebruikt door %(first)s, %(second)s en %(third)s"
+
+#: walkasjesus_app/views/maimonides_view.py:61
+msgid "Meir"
+msgstr "Meir"
+
+#: walkasjesus_app/views/maimonides_view.py:62
+msgid "HaChinuch"
+msgstr "HaChinuch"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:217
+msgid "More explanation about the icons and New Covenant Literal Application"
+msgstr "Meer uitleg over de pictogrammen en de letterlijke toepassing van het Nieuwe Verbond"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:220
+msgid "Each card above groups one application level such as mandated or optional. The three people icons show whether that application is meant for Jewish, K'rov Yisrael, or Gentile believers, and the male or female symbols show whether it applies to men, women, or both."
+msgstr "Elke kaart hierboven groepeert één toepassingsniveau, zoals verplicht of optioneel. De drie personenpictogrammen tonen of die toepassing bedoeld is voor Joodse, K'rov Yisrael- of niet-Joodse gelovigen, en de man- of vrouw-symbolen tonen of het voor mannen, vrouwen of beiden geldt."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:225
+msgid "Used for instruction directed to Jewish believers."
+msgstr "Gebruikt voor instructie die gericht is op Joodse gelovigen."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:232
+msgid "Used for non-Jewish believers living closely with Israel and Torah practice."
+msgstr "Gebruikt voor niet-Joodse gelovigen die nauw verbonden leven met Israël en de praktijk van de Thora."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:239
+msgid "Used for instruction presented as applying to Gentile believers more broadly."
+msgstr "Gebruikt voor instructie die breder als toepasselijk voor niet-Joodse gelovigen wordt gepresenteerd."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:245
+msgid "Male and female symbols"
+msgstr "Symbolen voor man en vrouw"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:246
+msgid "These show whether the instruction is directed to men, women, or both."
+msgstr "Deze tonen of de instructie gericht is op mannen, vrouwen of beiden."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:221
+msgid "This code reflects the authors' interpretive opinion and is provided for prayerful consideration. The icon view is only a visual summary; the detailed codes and source explanation remain available below for careful study."
+msgstr "Deze code weerspiegelt de interpretatieve mening van de auteurs en wordt gegeven voor overweging in gebed. De pictogramweergave is alleen een visuele samenvatting; de gedetailleerde codes en bronuitleg blijven hieronder beschikbaar voor zorgvuldige studie."
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:188
+msgid "male"
+msgstr "man"
+
+#: walkasjesus_app/templates/law_of_messiah/detail.html:189
+msgid "female"
+msgstr "vrouw"
 
 msgid "Blessed are the pure in heart: for they shall see God"
 msgstr "Zalig zijn de reinen van hart, want zij zullen God zien"
@@ -34077,9 +34204,6 @@ msgstr ""
 
 msgid "Step"
 msgstr "Stap"
-
-msgid "Meir"
-msgstr "Meir"
 
 msgid "Chinuch"
 msgstr "Chinuch"
