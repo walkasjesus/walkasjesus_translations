@@ -3762,6 +3762,18 @@ msgstr "admin/cache_bijbel_opslaan/"
 msgid "admin/enable_bible/"
 msgstr "admin/activeer_bijbel/"
 
+msgid "bible-study/"
+msgstr "bijbelstudie/"
+
+msgid "bible-study/verses/"
+msgstr "bijbelstudie/verzen/"
+
+msgid "bible-study/chapter-meta/"
+msgstr "bijbelstudie/hoofdstuk-meta/"
+
+msgid "bible-study/original-text/"
+msgstr "bijbelstudie/originele-tekst/"
+
 #, fuzzy, python-format
 msgid ""
 "Learn Step %(commandment_id)s: %(commandment_title)s. Study key Bible "
