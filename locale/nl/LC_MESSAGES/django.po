@@ -36432,8 +36432,9 @@ msgstr "Het verdrijven van demonen"
 #~ msgid "About This Site"
 #~ msgstr "Over deze site"
 
-#~ msgid "Legalism?!"
-#~ msgstr "Wetticisme?!"
+#: templates/base.html:135 templates/base.html:180
+msgid "Legalism?!"
+msgstr "Wetticisme?!"
 
 #~ msgid ""
 #~ "Can I take scripture just as seriously as I take my mathematics? \n"
