@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-05 18:14+0000\n"
-"PO-Revision-Date: 2026-07-05 18:15+0000\n"
-"Last-Translator:   <>\n"
+"POT-Creation-Date: 2026-08-03 07:58+0000\n"
+"PO-Revision-Date: 2026-07-12 07:03+0000\n"
+"Last-Translator: <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -18,12 +18,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Translated-Using: django-rosetta 0.10.3\n"
 
-#: templates/base.html:8 templates/base.html:53 templates/base.html:60
+#: templates/base.html:8 templates/base.html:54 templates/base.html:61
 msgid "Walk as Jesus - Follow Jesus in daily life"
 msgstr "Wandel als Jezus - Volg Jezus in het dagelijks leven"
 
-#: templates/base.html:49 templates/base.html:54 templates/base.html:61
-#: templates/base.html:71
+#: templates/base.html:50 templates/base.html:55 templates/base.html:62
+#: templates/base.html:72
 msgid ""
 "Walk as Jesus helps people follow Jesus (Yeshua) in daily life through 77 "
 "steps, and continue with the Law of Messiah: biblical commandments and "
@@ -33,28 +33,28 @@ msgstr ""
 "stappen, en door te gaan met de Wet van de Christus: Bijbelse geboden voor "
 "discipelschap, groepen en gezinnen."
 
-#: templates/base.html:83 walkasjesus_app/templates/commandments/index.html:27
-#: walkasjesus_app/templates/commandments/vision.html:32
+#: templates/base.html:84 walkasjesus_app/templates/commandments/index.html:27
+#: walkasjesus_app/templates/commandments/vision.html:34
 msgid "Walk as Jesus"
 msgstr "Wandel als Jezus"
 
-#: templates/base.html:85
+#: templates/base.html:86
 msgid "Learn it - Live it - Give it"
 msgstr "Leer 't - Leef 't - Geef 't"
 
-#: templates/base.html:91 templates/base.html:135
+#: templates/base.html:92 templates/base.html:136
 msgid "Change language / Bible"
 msgstr "Wijzig taal / Bijbel"
 
-#: templates/base.html:96 templates/base.html:193
+#: templates/base.html:97 templates/base.html:194
 msgid "Logout"
 msgstr "Uitloggen"
 
-#: templates/base.html:101 templates/base.html:197
+#: templates/base.html:102 templates/base.html:198
 msgid "Login"
 msgstr "Inloggen"
 
-#: templates/base.html:105
+#: templates/base.html:106
 msgid ""
 "When activating the Kids Site, you will find the same commandments with "
 "limited videos and resources"
@@ -62,90 +62,90 @@ msgstr ""
 "Wanneer de Kids Site is geactiveerd, zul je dezelfde geboden vinden met een "
 "select aantal filmpjes en media items"
 
-#: templates/base.html:118
+#: templates/base.html:119
 msgid "Menu"
 msgstr "Menu"
 
-#: templates/base.html:123
+#: templates/base.html:124
 msgid "Home"
 msgstr "Home"
 
-#: templates/base.html:124 templates/base.html:172
+#: templates/base.html:125 templates/base.html:173
 msgid "77 Steps"
 msgstr "77 Stappen"
 
-#: templates/base.html:125 templates/base.html:174
+#: templates/base.html:126 templates/base.html:175
 #: walkasjesus_app/templates/commandments/index.html:63
 #: walkasjesus_app/templates/commandments/index.html:126
-#: walkasjesus_app/templates/law_of_messiah/listing.html:44
+#: walkasjesus_app/templates/law_of_messiah/listing.html:46
 msgid "Law of Messiah"
 msgstr "Wet van Christus"
 
-#: templates/base.html:126 templates/base.html:175
+#: templates/base.html:127 templates/base.html:176
 #: walkasjesus_app/templates/bible_study/bible_study.html:7
 #: walkasjesus_app/templates/bible_study/bible_study.html:9
-#: walkasjesus_app/templates/bible_study/bible_study.html:1199
+#: walkasjesus_app/templates/bible_study/bible_study.html:44
 msgid "Bible Study"
 msgstr "Bijbel Studie"
 
-#: templates/base.html:127 templates/base.html:173
+#: templates/base.html:128 templates/base.html:174
 #: walkasjesus_app/templates/commandments/index.html:84
 msgid "Children & Lessons"
 msgstr "Kinderbijbel lessen"
 
-#: templates/base.html:128 templates/base.html:177
-#: walkasjesus_app/templates/commandments/vision.html:19
+#: templates/base.html:129 templates/base.html:178
+#: walkasjesus_app/templates/commandments/vision.html:21
 msgid "Vision"
 msgstr "Visie"
 
-#: templates/base.html:130 templates/base.html:201
+#: templates/base.html:131 templates/base.html:202
 msgid "Admin Portal"
 msgstr "Admin Portaal"
 
-#: templates/base.html:159
+#: templates/base.html:160
 msgid "If you love Me"
 msgstr "Als u Mij liefhebt"
 
-#: templates/base.html:159
+#: templates/base.html:160
 msgid "keep my commands"
 msgstr "neem dan Mijn geboden in acht"
 
-#: templates/base.html:169
+#: templates/base.html:170
 msgid "Site Navigation"
 msgstr "Site Navigatie"
 
-#: templates/base.html:171
+#: templates/base.html:172
 msgid "Start"
 msgstr "Begin"
 
-#: templates/base.html:176
+#: templates/base.html:177
 #: walkasjesus_app/templates/law_of_messiah/detail.html:744
 #: walkasjesus_app/templates/maimonides/listing.html:18
 msgid "Classical Commandments"
 msgstr "Klassieke Geboden"
 
-#: templates/base.html:186
+#: templates/base.html:187
 msgid "Account"
 msgstr "Account"
 
-#: templates/base.html:190
+#: templates/base.html:191
 msgid "Profile"
 msgstr "Profiel"
 
-#: templates/base.html:208
+#: templates/base.html:209
 msgid "Contact us"
 msgstr "Neem contact op"
 
-#: templates/base.html:210
+#: templates/base.html:211
 msgid "Email: "
 msgstr "E-mail:"
 
-#: templates/base.html:217
+#: templates/base.html:218
 #: walkasjesus_app/templates/commandments/termsandconditions.html:13
 msgid "Terms and Conditions"
 msgstr "Voorwaarden"
 
-#: templates/base.html:217
+#: templates/base.html:218
 #: walkasjesus_app/templates/commandments/privacy.html:13
 msgid "Privacy Policy"
 msgstr "Privacybeleid"
@@ -551,14 +551,14 @@ msgid "The bible book like Genesis, Exodus, etc."
 msgstr "Het bijbelboek zoals Genesis, Exodus, etc."
 
 #: walkasjesus_app/models/lesson_categories.py:7
-#: walkasjesus_app/templates/bible_study/bible_study.html:1312
-#: walkasjesus_app/templates/law_of_messiah/listing.html:78
+#: walkasjesus_app/templates/bible_study/bible_study.html:157
+#: walkasjesus_app/templates/law_of_messiah/listing.html:80
 msgid "Old Testament"
 msgstr "Oude Testament"
 
 #: walkasjesus_app/models/lesson_categories.py:8
-#: walkasjesus_app/templates/bible_study/bible_study.html:1313
-#: walkasjesus_app/templates/law_of_messiah/listing.html:79
+#: walkasjesus_app/templates/bible_study/bible_study.html:158
+#: walkasjesus_app/templates/law_of_messiah/listing.html:81
 msgid "New Testament"
 msgstr "Nieuwe Testament"
 
@@ -583,10 +583,14 @@ msgid "Bibles available"
 msgstr "Bijbels beschikbaar"
 
 #: walkasjesus_app/templates/admin/bible_admin.html:29
+#: walkasjesus_app/templates/admin/bible_usage_report.html:112
+#: walkasjesus_app/templates/admin/bible_usage_report.html:152
 msgid "Bible"
 msgstr "Bijbel"
 
 #: walkasjesus_app/templates/admin/bible_admin.html:30
+#: walkasjesus_app/templates/admin/page_usage_report.html:69
+#: walkasjesus_app/templates/admin/page_usage_report.html:93
 msgid "Language"
 msgstr "Taal"
 
@@ -606,344 +610,388 @@ msgstr "Uitschakelen"
 msgid "Enable"
 msgstr "Inschakelen"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:8
+#: walkasjesus_app/templates/admin/bible_usage_report.html:5
+#| msgid "Bible passage"
+msgid "Bible usage report"
+msgstr "Bijbelgebruiksrapport"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:6
 msgid ""
-"Compare multiple Bible translations side by side, with verse commentary from"
-" Lightfoot, King, and Jewish Commentaries."
+"This report supports annual license reporting and shows usage per Bible "
+"translation, split by API, cache, and blocked rate-limit attempts, including"
+" unique users."
 msgstr ""
-"Vergelijk meerdere Bijbelvertalingen naast elkaar, met verscommentaar van "
-"Lightfoot, King en vele Joodse Commentaren."
+"Dit rapport ondersteunt jaarlijkse licentierapportage en toont het gebruik "
+"per Bijbelvertaling, opgesplitst per API, cache en geblokkeerde "
+"snelheidslimietpogingen, inclusief unieke gebruikers."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:19
-msgid "Compare translations · Study verse by verse · Read commentaries"
-msgstr "Vergelijk vertalingen · Bestudeer vers voor vers · Lees commentaren"
+#: walkasjesus_app/templates/admin/bible_usage_report.html:9
+#: walkasjesus_app/templates/admin/page_usage_report.html:9
+msgid "Year"
+msgstr "Jaar"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1201
+#: walkasjesus_app/templates/admin/bible_usage_report.html:16
+#: walkasjesus_app/templates/admin/bible_usage_report.html:77
+#: walkasjesus_app/templates/admin/page_usage_report.html:50
+msgid "Month"
+msgstr "Maand"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:18
+msgid "All months"
+msgstr "Alle maanden"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:24
+#| msgid "Bible translation not found."
+msgid "Bible translations (for report/export)"
+msgstr "Bijbelvertalingen (voor rapport/export)"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:33
 msgid ""
-"Select up to 4 Bible translations and display them side by side. Choose a "
-"book, chapter, and up to"
+"Tip: hold Cmd/Ctrl to select multiple translations. Leave empty for all."
 msgstr ""
-"Selecteer maximaal 4 Bijbelvertalingen en toon ze naast elkaar. Kies een "
-"boek, hoofdstuk en maximaal "
+"Tip: houd Cmd/Ctrl ingedrukt om meerdere vertalingen te selecteren. Laat "
+"voor iedereen leeg."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1202
-msgid "consecutive verses."
-msgstr "opeenvolgende verzen."
+#: walkasjesus_app/templates/admin/bible_usage_report.html:36
+#: walkasjesus_app/templates/admin/page_usage_report.html:25
+msgid "Apply"
+msgstr "Toepassen"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1203
+#: walkasjesus_app/templates/admin/bible_usage_report.html:37
+#: walkasjesus_app/templates/admin/page_usage_report.html:26
+msgid "Export CSV"
+msgstr "CSV exporteren"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:40
+#: walkasjesus_app/templates/admin/page_usage_report.html:29
+msgid "Totals"
+msgstr "Totalen"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:43
+#: walkasjesus_app/templates/admin/page_usage_report.html:32
+msgid "Metric"
+msgstr "Metrisch"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:44
+msgid "API"
+msgstr "API"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:45
+msgid "Cache"
+msgstr "Cache"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:46
+msgid "Blocked"
+msgstr "Geblokkeerd"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:47
+msgid "Total"
+msgstr "Totaal"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:50
+msgid "Requests"
+msgstr "Verzoeken"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:57
+msgid "Verses delivered"
+msgstr "Verzen afgeleverd"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:64
+#: walkasjesus_app/templates/admin/page_usage_report.html:40
+#: walkasjesus_app/templates/admin/page_usage_report.html:52
+#: walkasjesus_app/templates/admin/page_usage_report.html:71
+#| msgid "Unique steps"
+msgid "Unique users"
+msgstr "Unieke gebruikers"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:73
+#: walkasjesus_app/templates/admin/page_usage_report.html:46
+msgid "Year overview per month"
+msgstr "Jaaroverzicht per maand"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:78
+#: walkasjesus_app/templates/admin/bible_usage_report.html:113
+#: walkasjesus_app/templates/admin/bible_usage_report.html:155
+msgid "API requests"
+msgstr "API-verzoeken"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:79
+#: walkasjesus_app/templates/admin/bible_usage_report.html:116
+#: walkasjesus_app/templates/admin/bible_usage_report.html:156
+msgid "Cache requests"
+msgstr "Cacheverzoeken"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:80
+#: walkasjesus_app/templates/admin/bible_usage_report.html:119
+#: walkasjesus_app/templates/admin/bible_usage_report.html:157
+msgid "Blocked requests"
+msgstr "Geblokkeerde verzoeken"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:81
+#: walkasjesus_app/templates/admin/bible_usage_report.html:121
+#: walkasjesus_app/templates/admin/bible_usage_report.html:158
+#| msgid "Extra questions"
+msgid "Total requests"
+msgstr "Totaal aantal verzoeken"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:82
+#: walkasjesus_app/templates/admin/bible_usage_report.html:114
+#| msgid "verses"
+msgid "API verses"
+msgstr "API-verzen"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:83
+#: walkasjesus_app/templates/admin/bible_usage_report.html:117
+#| msgid "verses"
+msgid "Cache verses"
+msgstr "Cacheverzen"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:84
+#: walkasjesus_app/templates/admin/bible_usage_report.html:122
+#: walkasjesus_app/templates/admin/bible_usage_report.html:159
+#| msgid "verses"
+msgid "Total verses"
+msgstr "Totaal verzen"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:85
+#: walkasjesus_app/templates/admin/bible_usage_report.html:115
+#| msgid "Unique steps"
+msgid "API unique users"
+msgstr "Unieke API-gebruikers"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:86
+#: walkasjesus_app/templates/admin/bible_usage_report.html:118
+#| msgid "Unique steps"
+msgid "Cache unique users"
+msgstr "Unieke gebruikers in cache plaatsen"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:87
+#: walkasjesus_app/templates/admin/bible_usage_report.html:120
+msgid "Blocked unique users"
+msgstr "Unieke gebruikers geblokkeerd"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:88
+#: walkasjesus_app/templates/admin/bible_usage_report.html:123
+#| msgid "Not unique"
+msgid "Total unique users"
+msgstr "Totaal aantal unieke gebruikers"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:109
+#| msgid "Bible translation"
+msgid "Per translation"
+msgstr "Per vertaling"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:142
+#| msgid "No matching verses found in the first selected translation."
+msgid "No usage found for this selection."
+msgstr "Geen gebruik gevonden voor deze selectie."
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:148
+#: walkasjesus_app/templates/admin/page_usage_report.html:89
+msgid "Per unique user (pseudonymous)"
+msgstr "Per unieke gebruiker (pseudoniem)"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:149
 msgid ""
-"You can also search for words or phrases in the first selected translation "
-"and jump straight to a matching verse."
+"User keys are anonymized hashes. Use this section to evidence unique-user "
+"usage without exposing personal data."
 msgstr ""
-"U kunt ook zoeken naar woorden of zinsdelen in de eerste geselecteerde "
-"vertaling en direct naar een overeenkomend vers springen."
+"Gebruikerssleutels zijn geanonimiseerde hashes. Gebruik dit gedeelte om het "
+"gebruik van unieke gebruikers te bewijzen zonder persoonlijke gegevens vrij "
+"te geven."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1204
-msgid ""
-"Use the commentary buttons next to each verse to open notes from Lightfoot, "
-"King, or Jewish Commentaries."
+#: walkasjesus_app/templates/admin/bible_usage_report.html:153
+#: walkasjesus_app/templates/admin/page_usage_report.html:94
+msgid "User type"
+msgstr "Gebruikerstype"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:154
+#: walkasjesus_app/templates/admin/page_usage_report.html:95
+msgid "User key"
+msgstr "Gebruikerssleutel"
+
+#: walkasjesus_app/templates/admin/bible_usage_report.html:174
+msgid "No user usage rows for this selection."
+msgstr "Geen gebruikersgebruiksrijen voor deze selectie."
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:5
+msgid "Page usage report"
+msgstr "Rapport over paginagebruik"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:6
+msgid "Usage report for non-admin pages: visits and unique users."
 msgstr ""
-"Gebruik de commentaarknoppen naast elk vers om notities uit Lightfoot-, "
-"King- of Joodse commentaren te openen."
+"Gebruiksrapport voor niet-beheerderspagina's: bezoeken en unieke gebruikers."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1205
-msgid "You can also enable the original Hebrew/Greek text with Strong\\"
+#: walkasjesus_app/templates/admin/page_usage_report.html:16
+msgid "Pages (for report/export)"
+msgstr "Pagina's (voor rapport/export)"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:33
+msgid "Value"
+msgstr "Waarde"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:36
+msgid "Total visits"
+msgstr "Totaal aantal bezoeken"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:51
+#: walkasjesus_app/templates/admin/page_usage_report.html:70
+#: walkasjesus_app/templates/admin/page_usage_report.html:96
+#| msgid "Vision"
+msgid "Visits"
+msgstr "Bezoeken"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:64
+msgid "Per page"
+msgstr "Per pagina"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:67
+#: walkasjesus_app/templates/admin/page_usage_report.html:92
+msgid "Path"
+msgstr "Pad"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:68
+msgid "Label"
+msgstr "Label"
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:83
+#| msgid "No matching verses found in the first selected translation."
+msgid "No page usage found for this selection."
+msgstr "Er is geen paginagebruik gevonden voor deze selectie."
+
+#: walkasjesus_app/templates/admin/page_usage_report.html:108
+msgid "No page user rows for this selection."
+msgstr "Geen paginagebruikersrijen voor deze selectie."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:163
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:804
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:806
+#: walkasjesus_app/templates/bible_study/bible_study.html:295
+#: walkasjesus_app/templates/bible_study/bible_study.html:299
+msgid "verses"
+msgstr "verzen"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:531
+msgid "No matching verses found in the first selected translation."
 msgstr ""
-"Je kunt ook de originele Hebreeuwse/Griekse tekst inschakelen met Strong\\"
+"Er zijn geen overeenkomende verzen gevonden in de eerst geselecteerde "
+"vertaling."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1209
-msgid "Legend — how does this page work?"
-msgstr "Legenda — wat betekenen de pictogrammen en filters?"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:537
+msgid "occurs"
+msgstr "komt voor"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1214
-msgid "Settings"
-msgstr "Instellingen"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:537
+msgid "times in"
+msgstr "keer binnen"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1224
-msgid "Bible passage"
-msgstr "Bijbels beschikbaar"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:537
+msgid "verses in"
+msgstr "verzen erin"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1227
-msgid "e.g. Joh 3:16 or Genesis 1:1-5"
-msgstr "bijv. Johannes 3:16 of Genesis 1:1-5"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:537
+msgid "the selected Bible"
+msgstr "de geselecteerde Bijbel"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1230
-msgid "e.g. Joh 3:16 or Genesis 1:1-5."
-msgstr "bijv. Johannes 3:16 of Genesis 1:1-5"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:538
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:560
+msgid "Page"
+msgstr "Pagina"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1233
-msgid "Search words"
-msgstr "Zoekopdracht"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:539
+msgid "exact phrase"
+msgstr "exacte zin"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1237
-msgid "e.g. Tree of life"
-msgstr "bijv. Boom des levens"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:539
+msgid "all keywords"
+msgstr "alle trefwoorden"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1239
-#: walkasjesus_app/templates/law_of_messiah/listing.html:66
-#: walkasjesus_app/templates/maimonides/listing.html:32
-msgid "Search"
-msgstr "Zoekopdracht"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:553
+msgid "Search result"
+msgstr "Zoekresultaat"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1241
-#: walkasjesus_app/templates/bible_study/bible_study.html:1298
-#| msgid "Search words"
-msgid "Search options"
-msgstr "Zoekopties"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:567
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:590
+msgid "Search results"
+msgstr "Zoekresultaten"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1242
-#| msgid "Optional"
-msgid "Options"
-msgstr "Opties"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:567
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:590
+msgid "Close search results"
+msgstr "Zoekresultaten sluiten"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1245
-msgid ""
-"Search uses the first selected translation. Matching words are shown in "
-"bold."
-msgstr ""
-"Zoeken gebruikt de eerste geselecteerde vertaling. Overeenkomende woorden "
-"worden vetgedrukt weergegeven."
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:582
+msgid "Enter one or more words to search."
+msgstr "Voer een of meer woorden in om te zoeken."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1255
-msgid ""
-"Combine verses for easier reading (turn off to divide Bible texts by verse "
-"for thorough word study)."
-msgstr ""
-"Combineer verzen om het lezen makkelijker te maken (schakel uit om "
-"Bijbelteksten per vers te verdelen voor een grondige woordstudie)."
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:586
+msgid "Choose a first translation before searching."
+msgstr "Kies eerst een vertaling voordat je zoekt"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1265
-msgid "Translation"
-msgstr "Bijbelvertalingen"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:590
+msgid "Searching the first selected translation…"
+msgstr "De eerst geselecteerde vertaling doorzoeken…"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1266
-msgid "Remove translation"
-msgstr "Verwijder vertaling"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:611
+msgid "Search is not available for this translation right now."
+msgstr "Zoeken is momenteel niet beschikbaar voor deze vertaling."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1272
-msgid "Choose a translation"
-msgstr "Kies een vertaling"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:796
+msgid "Original text + Strong&#39;s"
+msgstr "Originele tekst + Strong's"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1280
-msgid "Add translation"
-msgstr "Voeg een vertaling toe"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:804
+#: walkasjesus_app/templates/bible_study/bible_study.html:295
+#: walkasjesus_app/templates/commandments/detail.html:685
+#: walkasjesus_app/templates/lessons/detail.html:426
+msgid "Previous"
+msgstr "Vorige"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1299
-msgid "Close"
-msgstr "Dichtbij"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:806
+#: walkasjesus_app/templates/bible_study/bible_study.html:299
+#: walkasjesus_app/templates/commandments/detail.html:689
+#: walkasjesus_app/templates/lessons/detail.html:430
+msgid "Next"
+msgstr "Volgende"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1305
-#| msgid "Search"
-msgid "Search in"
-msgstr "Zoeken in"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:858
+msgid "Auto-translate definitions to your language"
+msgstr "Vertaal definities automatisch naar uw taal"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1306
-msgid ""
-"Pick the Bible section to search. Choose custom Bible books to limit from "
-"one book to another."
-msgstr ""
-"Kies het Bijbelgedeelte waarin u wilt zoeken. Kies aangepaste Bijbelboeken "
-"om van het ene boek naar het andere te beperken."
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:859
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1105
+msgid "Translate"
+msgstr "Vertaal"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1311
-msgid "The Whole Bible"
-msgstr "De hele Bijbel"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:865
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:893
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:921
+#: walkasjesus_app/templates/bible_study/bible_study.html:329
+#: walkasjesus_app/templates/commandments/detail.html:358
+msgid "Original text"
+msgstr "Originele tekst"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1314
-msgid "Torah"
-msgstr "Thora"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:865
+msgid "Hover / click words"
+msgstr "Beweeg/klik op woorden"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1315
-msgid "Prophets (Nevi'im)"
-msgstr "Profeten (Nevi'im)"
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:872
+msgid "Strong&#39;s details"
+msgstr "Details van Strong"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1316
-msgid "Writings (Ketuvim)"
-msgstr "Geschriften (Ketuvim)"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1317
-msgid "Gospels"
-msgstr "Evangeliën"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1318
-msgid "Pauline Epistles"
-msgstr "brieven van Paulus"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1319
-msgid "General Epistles"
-msgstr "Algemene brieven"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1320
-msgid "Custom Bible books"
-msgstr "Aangepaste Bijbelboeken"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1326
-msgid "From"
-msgstr "Van"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1334
-msgid "To"
-msgstr "Naar"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1347
-msgid "Results per page"
-msgstr "Resultaten per pagina"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1348
-msgid "Choose how many verses to show on each result page."
-msgstr "Kies hoeveel verzen u op elke resultatenpagina wilt weergeven."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1362
-msgid "Result order"
-msgstr "Resultaatvolgorde"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1363
-msgid "Keep canonical Bible order or prioritize best matches first."
-msgstr ""
-"Houd de canonieke Bijbelvolgorde aan of geef eerst prioriteit aan de beste "
-"overeenkomsten."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1368
-#| msgid "Bible references"
-msgid "Bible order"
-msgstr "Bijbelse volgorde"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1369
-msgid "Best matches first"
-msgstr "Beste wedstrijden eerst"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1370
-msgid "Reverse Bible order"
-msgstr "Omgekeerde Bijbelvolgorde"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1377
-msgid "Match strictness"
-msgstr "Match strengheid"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1378
-msgid "Set how strict spelling should be while searching."
-msgstr "Stel in hoe strikt de spelling moet zijn tijdens het zoeken."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1383
-msgid "Automatic"
-msgstr "Automatisch"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1384
-#| msgid "Expelling Demons"
-msgid "Exact spelling only"
-msgstr "Alleen exacte spelling"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1385
-msgid "Allow close spelling"
-msgstr "Sta nauwe spelling toe"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1386
-msgid "Allow broader spelling"
-msgstr "Sta bredere spelling toe"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1393
-msgid "Exact phrase mode"
-msgstr "Exacte zinsmodus"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1394
-msgid "Enable this to search the full query as one exact phrase."
-msgstr ""
-"Schakel deze optie in om de volledige zoekopdracht als één exacte zin te "
-"doorzoeken."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1399
-msgid "Search as one exact phrase"
-msgstr "Zoek als één exacte zin"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1406
-msgid "Cancel"
-msgstr "Annuleren"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1407
-msgid "Apply and search"
-msgstr "Solliciteer en zoek"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1417
-msgid "Translations"
-msgstr "Bijbelvertalingen"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1418
-msgid ""
-"Use each translation dropdown to pick up to 4 Bibles side by side. As soon "
-"as you change the passage or translations, the verse grid refreshes "
-"automatically."
-msgstr ""
-"Gebruik elke vervolgkeuzelijst voor vertalingen om maximaal 4 Bijbels naast "
-"elkaar te selecteren. Zodra u de passage of vertalingen wijzigt, wordt het "
-"versraster automatisch vernieuwd."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1421
-msgid "Verse range"
-msgstr "Vers bereik"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1422
-msgid ""
-"Type a book and chapter (for example: 1 John 5 or 1 John 5:1). Suggestions "
-"respect the real chapter end and show ranges of up to"
-msgstr ""
-"Typ een boek en hoofdstuk (bijvoorbeeld: 1 Johannes 5 of 1 Johannes 5:1). "
-"Suggesties respecteren het echte hoofdstukeinde en tonen een bereik tot"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1422
-msgid "verses."
-msgstr "verzen."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1425
-msgid "Word search"
-msgstr "Woorden zoeken"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1426
-msgid ""
-"Enter one or more words, such as Tree of life. The search is sent to "
-"API.Bible for the first selected translation, and the matching words are "
-"bold in the results. Click a result to study that passage."
-msgstr ""
-"Voer een of meer woorden in, zoals 'Boom des Levens'. De zoekopdracht wordt "
-"naar API.Bible gestuurd voor de eerste geselecteerde vertaling en de "
-"overeenkomende woorden worden vetgedrukt weergegeven in de resultaten. Klik "
-"op een resultaat om die passage te bestuderen."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1429
-msgid "Original text + Strong\\"
-msgstr "Originele tekst + Sterk\\"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1430
-msgid "Use the Original text button on a verse to toggle only that verse\\"
-msgstr ""
-"Gebruik de knop Originele tekst op een vers om alleen dat vers te "
-"selecteren\\"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1431
-msgid "Hover a word to preview Strong\\"
-msgstr "Beweeg een woord om een ​​voorbeeld van Strong\\ te bekijken"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1434
-msgid "Commentary buttons"
-msgstr "Commentaar"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1435
-#: walkasjesus_app/templates/bible_study/bible_study.html:1476
-#: walkasjesus_app/templates/bible_study/bible_study.html:2438
-#: walkasjesus_app/templates/bible_study/bible_study.html:2463
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:888
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:916
+#: walkasjesus_app/templates/bible_study/bible_study.html:280
+#: walkasjesus_app/templates/bible_study/bible_study.html:321
 #: walkasjesus_app/templates/commandments/detail.html:356
 msgid "Other Commentary"
 msgstr "Commentaar"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1435
-msgid "opens BijbelAPI commentary for both Old and New Testament passages."
-msgstr ""
-"opent BijbelAPI-commentaar voor zowel passages uit het Oude als Nieuwe "
-"Testament."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1436
-#: walkasjesus_app/templates/bible_study/bible_study.html:1480
-#: walkasjesus_app/templates/bible_study/bible_study.html:2440
-#: walkasjesus_app/templates/bible_study/bible_study.html:2465
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:891
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:919
+#: walkasjesus_app/templates/bible_study/bible_study.html:281
+#: walkasjesus_app/templates/bible_study/bible_study.html:325
 #: walkasjesus_app/templates/commandments/detail.html:174
 #: walkasjesus_app/templates/commandments/detail.html:228
 #: walkasjesus_app/templates/commandments/detail.html:230
@@ -982,50 +1030,8 @@ msgstr ""
 msgid "Jewish Commentary"
 msgstr "Joods commentaar"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1436
-msgid "opens Sefaria commentary for Old Testament passages."
-msgstr "opent Sefaria-commentaar voor passages uit het Oude Testament."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1437
-msgid ""
-"If no Scriptura commentators are enabled, the Other Commentary button is "
-"hidden."
-msgstr ""
-"Als er geen Scriptura-commentatoren zijn ingeschakeld, is de knop Ander "
-"commentaar verborgen."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1450
-#: walkasjesus_app/templates/bible_study/bible_study.html:2356
-#: walkasjesus_app/templates/commandments/detail.html:685
-#: walkasjesus_app/templates/lessons/detail.html:426
-msgid "Previous"
-msgstr "Vorige"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1450
-#: walkasjesus_app/templates/bible_study/bible_study.html:1454
-#: walkasjesus_app/templates/bible_study/bible_study.html:1715
-#: walkasjesus_app/templates/bible_study/bible_study.html:2356
-#: walkasjesus_app/templates/bible_study/bible_study.html:2358
-msgid "verses"
-msgstr "verzen"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1454
-#: walkasjesus_app/templates/bible_study/bible_study.html:2358
-#: walkasjesus_app/templates/commandments/detail.html:689
-#: walkasjesus_app/templates/lessons/detail.html:430
-msgid "Next"
-msgstr "Volgende"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1484
-#: walkasjesus_app/templates/bible_study/bible_study.html:2417
-#: walkasjesus_app/templates/bible_study/bible_study.html:2442
-#: walkasjesus_app/templates/bible_study/bible_study.html:2467
-#: walkasjesus_app/templates/commandments/detail.html:358
-msgid "Original text"
-msgstr "Originele tekst"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:1521
-#: walkasjesus_app/templates/bible_study/bible_study.html:2484
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:938
+#: walkasjesus_app/templates/bible_study/bible_study.html:366
 msgid ""
 "Select at least one Bible translation in the Settings panel above. Verses "
 "load automatically after changing passage or translations."
@@ -1034,27 +1040,485 @@ msgstr ""
 "hierboven. Verzen worden automatisch geladen na het wijzigen van passages of"
 " vertalingen."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1530
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1104
+msgid "Show original"
+msgstr "Origineel tonen"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1243
+msgid "No tag yet"
+msgstr "Nog geen label"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1274
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:2718
+msgid "See more"
+msgstr "Laat meer zien"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1274
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:2721
+msgid "See less"
+msgstr "Laat minder zien"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1333
+msgid "confidence"
+msgstr "vertrouwen"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1341
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1427
+msgid "Outline of Biblical Usage"
+msgstr "Overzicht van Bijbels gebruik"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1349
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1822
+msgid "Open"
+msgstr "Open"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1349
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1824
+msgid "in Blue Letter Bible"
+msgstr "in Blue Letter Bijbel"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1386
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1436
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1450
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1453
+msgid "Preview this passage"
+msgstr "Bekijk een voorbeeld van deze passage"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1391
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1439
+msgid "Occurrences"
+msgstr "Voorvallen"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1464
+msgid "KJV Translation"
+msgstr "KJV Bijbelvertaling"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1564
+msgid ""
+"No passage text available for this reference in the selected translation."
+msgstr ""
+"Er is geen passagetekst beschikbaar voor deze referentie in de geselecteerde"
+" vertaling."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1594
+msgid "Loading passage preview…"
+msgstr "Voorbeeld van passage laden..."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1749
+msgid ""
+"Hover or click an original-language word to inspect Strong&#39;s numbers, "
+"lemma data, and possible translations."
+msgstr ""
+"Beweeg of klik op een woord in de originele taal om de cijfers van Strong, "
+"lemmagegevens en mogelijke vertalingen te bekijken."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1756
+msgid "Direct gloss"
+msgstr "Direct"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1760
+msgid "Grammar"
+msgstr "Grammatica"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1765
+msgid "Lookup note"
+msgstr "Kijk omhoog!"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1768
+msgid "Normalized lookup form"
+msgstr "Genormaliseerd opzoekformulier"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1831
+msgid "Transliteration"
+msgstr "Transliteratie"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1837
+msgid "Pronunciation"
+msgstr "Uitspraak"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1847
+msgid "Strongs Definitions"
+msgstr "Details van Strong"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1853
+msgid "Root Word"
+msgstr "Wortelwoord"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1864
+msgid "Most likely Hebrew equivalent based on Septuagint usage"
+msgstr ""
+"Hoogstwaarschijnlijk Hebreeuws equivalent gebaseerd op gebruik in de "
+"Septuaginta"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:1908
+msgid "No original-language word data found for this verse."
+msgstr ""
+"Er zijn geen woordgegevens in de originele taal gevonden voor dit vers."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html:2176
+msgid "No matching translation found."
+msgstr "Bijbelvertaling niet gevonden."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:8
+#| msgid ""
+#| "Compare multiple Bible translations side by side, with verse commentary from"
+#| " Lightfoot, King, and Jewish Commentaries."
+msgid ""
+"Compare multiple Bible translations side by side, with verse commentary from"
+" David Stern, John Lightfoot, King, and Rabbinical Jewish Commentaries."
+msgstr ""
+"Vergelijk meerdere Bijbelvertalingen naast elkaar, met verscommentaar van "
+"David Stern, John Lightfoot, King en Rabbinical Jewish Commentaries."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:33
+msgid "Daily Bible API limit reached."
+msgstr "Dagelijkse Bijbel API-limiet bereikt."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:46
+msgid ""
+"Select up to 4 Bible translations and display them side by side. Choose a "
+"book, chapter, and up to"
+msgstr ""
+"Selecteer maximaal 4 Bijbelvertalingen en toon ze naast elkaar. Kies een "
+"boek, hoofdstuk en maximaal "
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:47
+msgid "consecutive verses."
+msgstr "opeenvolgende verzen."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:48
+msgid ""
+"You can also search for words or phrases in the first selected translation "
+"and jump straight to a matching verse."
+msgstr ""
+"U kunt ook zoeken naar woorden of zinsdelen in de eerste geselecteerde "
+"vertaling en direct naar een overeenkomend vers springen."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:49
+#| msgid ""
+#| "Use the commentary buttons next to each verse to open notes from Lightfoot, "
+#| "King, or Jewish Commentaries."
+msgid ""
+"Use the commentary buttons next to each verse to open notes from David "
+"Stern, John Lightfoot, King, or Rabbinical Jewish Commentaries."
+msgstr ""
+"Gebruik de commentaarknoppen naast elk vers om aantekeningen te openen van "
+"David Stern, John Lightfoot, King of Rabbinical Jewish Commentaries."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:50
+msgid "You can also enable the original Hebrew/Greek text with Strong\\"
+msgstr ""
+"Je kunt ook de originele Hebreeuwse/Griekse tekst inschakelen met Strong\\"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:54
+msgid "Legend — how does this page work?"
+msgstr "Legenda — wat betekenen de pictogrammen en filters?"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:59
+msgid "Settings"
+msgstr "Instellingen"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:69
+msgid "Bible passage"
+msgstr "Bijbels beschikbaar"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:72
+msgid "e.g. Joh 3:16 or Genesis 1:1-5"
+msgstr "bijv. Johannes 3:16 of Genesis 1:1-5"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:75
+msgid "e.g. Joh 3:16 or Genesis 1:1-5."
+msgstr "bijv. Johannes 3:16 of Genesis 1:1-5"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:78
+msgid "Search words"
+msgstr "Zoekopdracht"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:82
+msgid "e.g. Tree of life"
+msgstr "bijv. Boom des levens"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:84
+#: walkasjesus_app/templates/law_of_messiah/listing.html:68
+#: walkasjesus_app/templates/maimonides/listing.html:32
+msgid "Search"
+msgstr "Zoekopdracht"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:86
+#: walkasjesus_app/templates/bible_study/bible_study.html:143
+msgid "Search options"
+msgstr "Zoekopties"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:87
+msgid "Options"
+msgstr "Opties"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:90
+msgid ""
+"Search uses the first selected translation. Matching words are shown in "
+"bold."
+msgstr ""
+"Zoeken gebruikt de eerste geselecteerde vertaling. Overeenkomende woorden "
+"worden vetgedrukt weergegeven."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:100
+msgid ""
+"Combine verses for easier reading (turn off to divide Bible texts by verse "
+"for thorough word study)."
+msgstr ""
+"Combineer verzen om het lezen makkelijker te maken (schakel uit om "
+"Bijbelteksten per vers te verdelen voor een grondige woordstudie)."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:110
+msgid "Translation"
+msgstr "Bijbelvertalingen"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:111
+msgid "Remove translation"
+msgstr "Verwijder vertaling"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:117
+msgid "Choose a translation"
+msgstr "Kies een vertaling"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:125
+msgid "Add translation"
+msgstr "Voeg een vertaling toe"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:144
+msgid "Close"
+msgstr "Dichtbij"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:150
+msgid "Search in"
+msgstr "Zoeken in"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:151
+msgid ""
+"Pick the Bible section to search. Choose custom Bible books to limit from "
+"one book to another."
+msgstr ""
+"Kies het Bijbelgedeelte waarin u wilt zoeken. Kies aangepaste Bijbelboeken "
+"om van het ene boek naar het andere te beperken."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:156
+msgid "The Whole Bible"
+msgstr "De hele Bijbel"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:159
+msgid "Torah"
+msgstr "Thora"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:160
+msgid "Prophets (Nevi'im)"
+msgstr "Profeten (Nevi'im)"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:161
+msgid "Writings (Ketuvim)"
+msgstr "Geschriften (Ketuvim)"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:162
+msgid "Gospels"
+msgstr "Evangeliën"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:163
+msgid "Pauline Epistles"
+msgstr "brieven van Paulus"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:164
+msgid "General Epistles"
+msgstr "Algemene brieven"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:165
+msgid "Custom Bible books"
+msgstr "Aangepaste Bijbelboeken"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:171
+msgid "From"
+msgstr "Van"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:179
+msgid "To"
+msgstr "Naar"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:192
+msgid "Results per page"
+msgstr "Resultaten per pagina"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:193
+msgid "Choose how many verses to show on each result page."
+msgstr "Kies hoeveel verzen u op elke resultatenpagina wilt weergeven."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:207
+msgid "Result order"
+msgstr "Resultaatvolgorde"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:208
+msgid "Keep canonical Bible order or prioritize best matches first."
+msgstr ""
+"Houd de canonieke Bijbelvolgorde aan of geef eerst prioriteit aan de beste "
+"overeenkomsten."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:213
+msgid "Bible order"
+msgstr "Bijbelse volgorde"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:214
+msgid "Best matches first"
+msgstr "Beste wedstrijden eerst"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:215
+msgid "Reverse Bible order"
+msgstr "Omgekeerde Bijbelvolgorde"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:222
+msgid "Match strictness"
+msgstr "Match strengheid"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:223
+msgid "Set how strict spelling should be while searching."
+msgstr "Stel in hoe strikt de spelling moet zijn tijdens het zoeken."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:228
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:229
+msgid "Exact spelling only"
+msgstr "Alleen exacte spelling"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:230
+msgid "Allow close spelling"
+msgstr "Sta nauwe spelling toe"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:231
+msgid "Allow broader spelling"
+msgstr "Sta bredere spelling toe"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:238
+msgid "Exact phrase mode"
+msgstr "Exacte zinsmodus"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:239
+msgid "Enable this to search the full query as one exact phrase."
+msgstr ""
+"Schakel deze optie in om de volledige zoekopdracht als één exacte zin te "
+"doorzoeken."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:244
+msgid "Search as one exact phrase"
+msgstr "Zoek als één exacte zin"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:251
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:252
+msgid "Apply and search"
+msgstr "Solliciteer en zoek"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:262
+msgid "Translations"
+msgstr "Bijbelvertalingen"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:263
+msgid ""
+"Use each translation dropdown to pick up to 4 Bibles side by side. As soon "
+"as you change the passage or translations, the verse grid refreshes "
+"automatically."
+msgstr ""
+"Gebruik elke vervolgkeuzelijst voor vertalingen om maximaal 4 Bijbels naast "
+"elkaar te selecteren. Zodra u de passage of vertalingen wijzigt, wordt het "
+"versraster automatisch vernieuwd."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:266
+msgid "Verse range"
+msgstr "Vers bereik"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:267
+msgid ""
+"Type a book and chapter (for example: 1 John 5 or 1 John 5:1). Suggestions "
+"respect the real chapter end and show ranges of up to"
+msgstr ""
+"Typ een boek en hoofdstuk (bijvoorbeeld: 1 Johannes 5 of 1 Johannes 5:1). "
+"Suggesties respecteren het echte hoofdstukeinde en tonen een bereik tot"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:267
+msgid "verses."
+msgstr "verzen."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:270
+msgid "Word search"
+msgstr "Woorden zoeken"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:271
+msgid ""
+"Enter one or more words, such as Tree of life. The search is sent to "
+"API.Bible for the first selected translation, and the matching words are "
+"bold in the results. Click a result to study that passage."
+msgstr ""
+"Voer een of meer woorden in, zoals 'Boom des Levens'. De zoekopdracht wordt "
+"naar API.Bible gestuurd voor de eerste geselecteerde vertaling en de "
+"overeenkomende woorden worden vetgedrukt weergegeven in de resultaten. Klik "
+"op een resultaat om die passage te bestuderen."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:274
+msgid "Original text + Strong\\"
+msgstr "Originele tekst + Sterk\\"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:275
+msgid "Use the Original text button on a verse to toggle only that verse\\"
+msgstr ""
+"Gebruik de knop Originele tekst op een vers om alleen dat vers te "
+"selecteren\\"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:276
+msgid "Hover a word to preview Strong\\"
+msgstr "Beweeg een woord om een ​​voorbeeld van Strong\\ te bekijken"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:279
+msgid "Commentary buttons"
+msgstr "Commentaar"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:280
+msgid "opens BijbelAPI commentary for both Old and New Testament passages."
+msgstr ""
+"opent BijbelAPI-commentaar voor zowel passages uit het Oude als Nieuwe "
+"Testament."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:281
+msgid "opens Sefaria commentary for Old Testament passages."
+msgstr "opent Sefaria-commentaar voor passages uit het Oude Testament."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:282
+msgid ""
+"If no Scriptura commentators are enabled, the Other Commentary button is "
+"hidden."
+msgstr ""
+"Als er geen Scriptura-commentatoren zijn ingeschakeld, is de knop Ander "
+"commentaar verborgen."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:375
 msgid "Close passage preview"
 msgstr "Zoekresultaat sluiten"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1532
+#: walkasjesus_app/templates/bible_study/bible_study.html:377
 msgid "Passage preview"
 msgstr "Passage voorbeeld"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1538
+#: walkasjesus_app/templates/bible_study/bible_study.html:383
 msgid "Study this passage"
 msgstr "Bestudeer deze passage"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1540
+#: walkasjesus_app/templates/bible_study/bible_study.html:385
 msgid "The preview uses the first selected translation."
 msgstr "Het zoekresultaat gebruikt de eerst geselecteerde vertaling."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1547
+#: walkasjesus_app/templates/bible_study/bible_study.html:392
 msgid "Sources & licenses"
 msgstr "Bron en licentie"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1548
+#: walkasjesus_app/templates/bible_study/bible_study.html:393
 msgid ""
 "Original-language verse text is loaded from the installed Hebrew and Greek "
 "Bible sources in this app. The active source edition is shown above each "
@@ -1064,11 +1528,11 @@ msgstr ""
 "Hebreeuwse en Griekse Bijbelbronnen in deze app. De actieve broneditie wordt"
 " boven elke zin in de originele tekst weergegeven."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1549
+#: walkasjesus_app/templates/bible_study/bible_study.html:394
 msgid "Verse-aligned original-word tags, glosses, Strong\\"
 msgstr "In vers uitgelijnde originele woordtags, glossen, Strong\\"
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1549
+#: walkasjesus_app/templates/bible_study/bible_study.html:394
 msgid ""
 "The TAGNT and TAHOT source files in that repository are published as CC BY "
 "4.0."
@@ -1076,216 +1540,9 @@ msgstr ""
 "De TAGNT- en TAHOT-bronbestanden in die repository worden gepubliceerd als "
 "CC BY 4.0."
 
-#: walkasjesus_app/templates/bible_study/bible_study.html:1550
+#: walkasjesus_app/templates/bible_study/bible_study.html:395
 msgid "Expanded Strong\\"
 msgstr "Uitgebreid Sterk\\"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2083
-msgid "No matching verses found in the first selected translation."
-msgstr ""
-"Er zijn geen overeenkomende verzen gevonden in de eerst geselecteerde "
-"vertaling."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2089
-msgid "occurs"
-msgstr "komt voor"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2089
-msgid "times in"
-msgstr "keer binnen"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2089
-#| msgid "verses"
-msgid "verses in"
-msgstr "verzen erin"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2089
-#| msgid "Related Bible text"
-msgid "the selected Bible"
-msgstr "de geselecteerde Bijbel"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2090
-#: walkasjesus_app/templates/bible_study/bible_study.html:2112
-msgid "Page"
-msgstr "Pagina"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2091
-msgid "exact phrase"
-msgstr "exacte zin"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2091
-msgid "all keywords"
-msgstr "alle trefwoorden"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2105
-msgid "Search result"
-msgstr "Zoekresultaat"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2119
-#: walkasjesus_app/templates/bible_study/bible_study.html:2142
-msgid "Search results"
-msgstr "Zoekresultaten"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2119
-#: walkasjesus_app/templates/bible_study/bible_study.html:2142
-msgid "Close search results"
-msgstr "Zoekresultaten sluiten"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2134
-msgid "Enter one or more words to search."
-msgstr "Voer een of meer woorden in om te zoeken."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2138
-msgid "Choose a first translation before searching."
-msgstr "Kies eerst een vertaling voordat je zoekt"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2142
-msgid "Searching the first selected translation…"
-msgstr "De eerst geselecteerde vertaling doorzoeken…"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2163
-msgid "Search is not available for this translation right now."
-msgstr "Zoeken is momenteel niet beschikbaar voor deze vertaling."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2348
-msgid "Original text + Strong&#39;s"
-msgstr "Originele tekst + Strong's"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2410
-msgid "Auto-translate definitions to your language"
-msgstr "Vertaal definities automatisch naar uw taal"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2411
-#: walkasjesus_app/templates/bible_study/bible_study.html:2651
-msgid "Translate"
-msgstr "Vertaal"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2417
-msgid "Hover / click words"
-msgstr "Beweeg/klik op woorden"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2424
-msgid "Strong&#39;s details"
-msgstr "Details van Strong"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2650
-msgid "Show original"
-msgstr "Origineel tonen"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2689
-msgid "No tag yet"
-msgstr "Nog geen label"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2727
-#: walkasjesus_app/templates/bible_study/bible_study.html:4127
-msgid "See more"
-msgstr "Laat meer zien"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2727
-#: walkasjesus_app/templates/bible_study/bible_study.html:4130
-msgid "See less"
-msgstr "Laat minder zien"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2810
-msgid "confidence"
-msgstr "vertrouwen"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2818
-#: walkasjesus_app/templates/bible_study/bible_study.html:2909
-msgid "Outline of Biblical Usage"
-msgstr "Overzicht van Bijbels gebruik"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2826
-#: walkasjesus_app/templates/bible_study/bible_study.html:3304
-msgid "Open"
-msgstr "Open"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2826
-#: walkasjesus_app/templates/bible_study/bible_study.html:3306
-msgid "in Blue Letter Bible"
-msgstr "in Blue Letter Bijbel"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2868
-#: walkasjesus_app/templates/bible_study/bible_study.html:2918
-#: walkasjesus_app/templates/bible_study/bible_study.html:2932
-#: walkasjesus_app/templates/bible_study/bible_study.html:2935
-msgid "Preview this passage"
-msgstr "Bekijk een voorbeeld van deze passage"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2873
-#: walkasjesus_app/templates/bible_study/bible_study.html:2921
-msgid "Occurrences"
-msgstr "Voorvallen"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:2946
-msgid "KJV Translation"
-msgstr "KJV Bijbelvertaling"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3046
-msgid ""
-"No passage text available for this reference in the selected translation."
-msgstr ""
-"Er is geen passagetekst beschikbaar voor deze referentie in de geselecteerde"
-" vertaling."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3076
-msgid "Loading passage preview…"
-msgstr "Voorbeeld van passage laden..."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3231
-msgid ""
-"Hover or click an original-language word to inspect Strong&#39;s numbers, "
-"lemma data, and possible translations."
-msgstr ""
-"Beweeg of klik op een woord in de originele taal om de cijfers van Strong, "
-"lemmagegevens en mogelijke vertalingen te bekijken."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3238
-msgid "Direct gloss"
-msgstr "Direct"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3242
-msgid "Grammar"
-msgstr "Grammatica"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3247
-msgid "Lookup note"
-msgstr "Kijk omhoog!"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3250
-msgid "Normalized lookup form"
-msgstr "Genormaliseerd opzoekformulier"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3313
-msgid "Transliteration"
-msgstr "Transliteratie"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3319
-msgid "Pronunciation"
-msgstr "Uitspraak"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3329
-msgid "Strongs Definitions"
-msgstr "Details van Strong"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3335
-msgid "Root Word"
-msgstr "Wortelwoord"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3346
-msgid "Most likely Hebrew equivalent based on Septuagint usage"
-msgstr ""
-"Hoogstwaarschijnlijk Hebreeuws equivalent gebaseerd op gebruik in de "
-"Septuaginta"
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3390
-msgid "No original-language word data found for this verse."
-msgstr ""
-"Er zijn geen woordgegevens in de originele taal gevonden voor dit vers."
-
-#: walkasjesus_app/templates/bible_study/bible_study.html:3653
-msgid "No matching translation found."
-msgstr "Bijbelvertaling niet gevonden."
 
 #: walkasjesus_app/templates/commandments/detail.html:6
 #: walkasjesus_app/templates/commandments/detail.html:8
@@ -1496,8 +1753,9 @@ msgstr "Jezus Zijn Geboden"
 #: walkasjesus_app/templates/lessons/detail.html:366
 #: walkasjesus_app/templates/lessons/detail.html:368
 #: walkasjesus_app/templates/maimonides/listing.html:174
-msgid "Click to retrieve"
-msgstr "Klik om op te halen"
+#| msgid "Study deeper in our Bible Study page"
+msgid "Study this passage on the Bible Study page"
+msgstr "Bestudeer deze passage op de Bijbelstudiepagina"
 
 #: walkasjesus_app/templates/commandments/detail.html:171
 #: walkasjesus_app/templates/commandments/detail.html:228
@@ -1580,7 +1838,7 @@ msgid "OT Law Bible References"
 msgstr "OT Wet Bijbelteksten"
 
 #: walkasjesus_app/templates/commandments/detail.html:258
-#: walkasjesus_app/templates/commandments/vision.html:119
+#: walkasjesus_app/templates/commandments/vision.html:121
 msgid ""
 "Old Testament Law Bible references which will relate to OT Commandments "
 "(Jewish tradition teached that there are 613 commandments or mitzvot in the "
@@ -1606,7 +1864,7 @@ msgid "Wisdom Bible References"
 msgstr "Wijsheid Bijbelteksten"
 
 #: walkasjesus_app/templates/commandments/detail.html:293
-#: walkasjesus_app/templates/commandments/vision.html:120
+#: walkasjesus_app/templates/commandments/vision.html:122
 msgid ""
 "Wisdom Bible references will relate to one of the Wisdom Literare Books from"
 " the Old Testament"
@@ -1619,7 +1877,7 @@ msgid "Duplicate Bible References"
 msgstr "Dubbele Bijbelteksten"
 
 #: walkasjesus_app/templates/commandments/detail.html:311
-#: walkasjesus_app/templates/commandments/vision.html:118
+#: walkasjesus_app/templates/commandments/vision.html:120
 msgid ""
 "Another Bible reference to more or less the same as the primary, direct or "
 "indirect, with not much new information, although it will confirm the same "
@@ -1647,7 +1905,7 @@ msgid "Legend"
 msgstr "Legenda"
 
 #: walkasjesus_app/templates/commandments/detail.html:347
-#: walkasjesus_app/templates/commandments/vision.html:132
+#: walkasjesus_app/templates/commandments/vision.html:134
 #: walkasjesus_app/templates/law_of_messiah/detail.html:391
 #: walkasjesus_app/templates/lessons/detail.html:375
 #: walkasjesus_app/templates/maimonides/listing.html:68
@@ -1885,8 +2143,8 @@ msgstr ""
 #: walkasjesus_app/templates/commandments/detail.html:741
 #: walkasjesus_app/templates/law_of_messiah/detail.html:160
 #: walkasjesus_app/templates/law_of_messiah/detail.html:722
-#: walkasjesus_app/templates/law_of_messiah/listing.html:109
-#: walkasjesus_app/templates/law_of_messiah/listing.html:247
+#: walkasjesus_app/templates/law_of_messiah/listing.html:111
+#: walkasjesus_app/templates/law_of_messiah/listing.html:249
 msgid "Unique"
 msgstr "Uniek"
 
@@ -1922,7 +2180,7 @@ msgstr "Worden zoals Hij"
 
 #: walkasjesus_app/templates/commandments/index.html:28
 msgid "in 77 steps"
-msgstr "77 Stappen"
+msgstr "in 77 Stappen"
 
 #: walkasjesus_app/templates/commandments/index.html:29
 msgid ""
@@ -2000,7 +2258,7 @@ msgid "Walk with Jesus"
 msgstr "Wandel met Jezus"
 
 #: walkasjesus_app/templates/commandments/index.html:103
-#: walkasjesus_app/templates/commandments/vision.html:49
+#: walkasjesus_app/templates/commandments/vision.html:51
 msgid "Beginning & Advanced"
 msgstr "Basis & Verdieping"
 
@@ -2019,7 +2277,7 @@ msgstr ""
 " praktijk te brengen."
 
 #: walkasjesus_app/templates/commandments/index.html:105
-#: walkasjesus_app/templates/commandments/vision.html:56
+#: walkasjesus_app/templates/commandments/vision.html:58
 msgid "Always remember: First Grace, then Obedience"
 msgstr "Onthoud altijd: eerst genade, dan gehoorzaamheid"
 
@@ -2312,19 +2570,19 @@ msgstr ""
 "Schrift, studieaanwijzingen en praktische toepassingen om individuen, "
 "gezinnen en kleine groepen te helpen in de praktijk te brengen wat ze leren."
 
-#: walkasjesus_app/templates/commandments/listing.html:20
+#: walkasjesus_app/templates/commandments/listing.html:22
 msgid "1 John 2:6"
 msgstr "1 Johannes 2:6"
 
-#: walkasjesus_app/templates/commandments/listing.html:21
+#: walkasjesus_app/templates/commandments/listing.html:23
 msgid "He who says he abides in Him"
 msgstr "Wie zegt in Hem te blijven"
 
-#: walkasjesus_app/templates/commandments/listing.html:21
+#: walkasjesus_app/templates/commandments/listing.html:23
 msgid "ought himself also to walk just as He walked"
 msgstr "moet ook zelf zo wandelen als Hij gewandeld heeft"
 
-#: walkasjesus_app/templates/commandments/listing.html:22
+#: walkasjesus_app/templates/commandments/listing.html:24
 msgid ""
 "When you have discovered who Jesus is and what He has done, you really want "
 "nothing more than to follow Him and dedicate your life to Him. But how do "
@@ -2345,7 +2603,7 @@ msgstr ""
 "gerelateerde bijbelverzen, films, liedjes, illustraties en nog veel meer "
 "bronnen. "
 
-#: walkasjesus_app/templates/commandments/listing.html:23
+#: walkasjesus_app/templates/commandments/listing.html:25
 msgid ""
 "Are you ready to discover the first step? Remember: First Grace, then "
 "Obedience"
@@ -2353,7 +2611,7 @@ msgstr ""
 "Ben jij klaar om de eerste stap te ontdekken? Onthoudt: Eerst Genade, dan "
 "gehoorzaamheid"
 
-#: walkasjesus_app/templates/commandments/listing.html:32
+#: walkasjesus_app/templates/commandments/listing.html:34
 msgid "No steps are available."
 msgstr "Geen stappen beschikbaar."
 
@@ -2474,11 +2732,11 @@ msgstr ""
 "Wandel als Jezus, inclusief waarom discipelschap waarbij genade eerst tot "
 "volwassen gehoorzaamheid leidt."
 
-#: walkasjesus_app/templates/commandments/vision.html:18
+#: walkasjesus_app/templates/commandments/vision.html:20
 msgid "The reason why we have this website"
 msgstr "De reden waarom we deze website hebben"
 
-#: walkasjesus_app/templates/commandments/vision.html:21
+#: walkasjesus_app/templates/commandments/vision.html:23
 msgid ""
 "\"Our goal with this site is to listen to and obey Jesus, explain His "
 "teachings, let the people get rooted and be fruitful in the world, to "
@@ -2489,7 +2747,7 @@ msgstr ""
 "vruchtbaar zullen zijn in de wereld, om onze Vader in de hemel te "
 "verheerlijken\""
 
-#: walkasjesus_app/templates/commandments/vision.html:25
+#: walkasjesus_app/templates/commandments/vision.html:27
 msgid ""
 "\n"
 "                    When you have discovered who Jesus is and what He has done, you really want nothing more than to follow Him and dedicate your life to Him. But how do you give hands and feet to following Jesus? How can we live the full life? What steps can we take to become more like Him? In John's first epistle, John says:\n"
@@ -2498,7 +2756,7 @@ msgstr ""
 "\n"
 "Als je hebt ontdekt wie Jezus is en wat Hij heeft gedaan, dan wil je eigenlijk niets liever dan Hem volgen en je leven aan Hem toewijden. Maar hoe geef je het volgen van Jezus nu handen en voeten? Hoe kunnen we het volle leven leven? Welke stappen kunnen we zetten om meer op Hem te gaan lijken? In Johannes zijn eerste brief vertelt Johannes: "
 
-#: walkasjesus_app/templates/commandments/vision.html:32
+#: walkasjesus_app/templates/commandments/vision.html:34
 msgid ""
 "That is exactly what we should strive for, and what is the purpose of this "
 "website. But what does that mean? Let's read the verses above to have a "
@@ -2508,7 +2766,7 @@ msgstr ""
 " is bedoeld. Maar wat betekent dit nu? Laten we de verzen ervoor lezen om "
 "iets meer context te krijgen:"
 
-#: walkasjesus_app/templates/commandments/vision.html:37
+#: walkasjesus_app/templates/commandments/vision.html:39
 msgid ""
 "    \n"
 "                    If we want to walk as Jesus walked, we should follow His steps. Just before going to heaven, after having risen from the dead and showing himself to many people several times, Jesus gave His disciples a commission, also known as the great commission. He commands to teach all the nations and to observe everything that He has commanded. But what did He command? If you read through the gospels and write down all the commandments that Jesus did, you will come up with at least 77 unique steps. All precious gifts, to be applied by you and me. The big summary is to love God and our neighbors, but loving is so deep that it is necessary that we carefully take this apart and let our character be molded to the character that Jesus has. Legal repentance says I have broken God's rules, while true repentance says I have broken God's heart. In John 15:10, Jesus also explicitly says:\n"
@@ -2529,13 +2787,13 @@ msgstr ""
 "gebroken, terwijl echt berouw zegt is heb Gods hart gebroken. In Joh 15:10 "
 "zegt Jezus ook expliciet:"
 
-#: walkasjesus_app/templates/commandments/vision.html:44
+#: walkasjesus_app/templates/commandments/vision.html:46
 msgid "By His Spirit He wants to help us to walk as He walked, step by step"
 msgstr ""
 "Door zijn Geest wil Hij ons helpen om te wandelen zoals Hij gewandeld heeft,"
 " stap voor stap"
 
-#: walkasjesus_app/templates/commandments/vision.html:51
+#: walkasjesus_app/templates/commandments/vision.html:53
 msgid ""
 "\n"
 "                    Once you discover who Jesus is and what He has done for you, the desire is simple: follow Him with your whole life. This section offers a clear progression for that journey, so your group can start well and keep growing in faithful obedience.\n"
@@ -2544,11 +2802,11 @@ msgstr ""
 "\n"
 "Zodra je ontdekt wie Jezus is en wat Hij voor jou heeft gedaan, is het verlangen eenvoudig: Hem volgen met je hele leven. Dit gedeelte biedt een duidelijke opbouw voor die reis, zodat je groep goed kan beginnen en blijven groeien in getrouwe gehoorzaamheid."
 
-#: walkasjesus_app/templates/commandments/vision.html:58
+#: walkasjesus_app/templates/commandments/vision.html:60
 msgid "Beginning — 77 Unique Steps"
 msgstr "Basis — 77 Unieke Stappen"
 
-#: walkasjesus_app/templates/commandments/vision.html:59
+#: walkasjesus_app/templates/commandments/vision.html:61
 msgid ""
 "\n"
 "                    Start here with others. The 77 steps provide a practical foundation from the teachings of Jesus, with related Bible verses, sermons, songs, illustrations, and other resources to help you apply each step in daily life.\n"
@@ -2557,11 +2815,11 @@ msgstr ""
 "\n"
 "Begin hier samen met anderen. De 77 stappen bieden een praktische basis vanuit de leer van Jezus, met gerelateerde bijbelverzen, preken, liedjes, illustraties en andere hulpmiddelen om elke stap in het dagelijks leven toe te passen."
 
-#: walkasjesus_app/templates/commandments/vision.html:64
+#: walkasjesus_app/templates/commandments/vision.html:66
 msgid "Advanced — Law of Messiah"
 msgstr "Verdieping — Wet van de Messias"
 
-#: walkasjesus_app/templates/commandments/vision.html:65
+#: walkasjesus_app/templates/commandments/vision.html:67
 msgid ""
 "\n"
 "                    Continue here as a group. The Law of Messiah gathers commandments from Scripture and helps you deepen both understanding and application together, so discipleship moves from first steps into mature obedience.\n"
@@ -2570,15 +2828,15 @@ msgstr ""
 "\n"
 "Ga hier als groep verder. De Wet van de Messias verzamelt geboden uit de Schrift en helpt je samen zowel begrip als toepassing te verdiepen, zodat discipelschap van eerste stappen uitgroeit tot volwassen gehoorzaamheid."
 
-#: walkasjesus_app/templates/commandments/vision.html:72
+#: walkasjesus_app/templates/commandments/vision.html:74
 msgid "Curious how we came to the 77 steps?"
 msgstr "Nieuwsgierig hoe we op deze 77 stappen zijn gekomen?"
 
-#: walkasjesus_app/templates/commandments/vision.html:72
+#: walkasjesus_app/templates/commandments/vision.html:74
 msgid "Click here to see our approach"
 msgstr "Klik hier om onze aanpak te zien"
 
-#: walkasjesus_app/templates/commandments/vision.html:77
+#: walkasjesus_app/templates/commandments/vision.html:79
 msgid ""
 "Here are all the points we took in consideration while studying all the "
 "unique steps which Jesus taught"
@@ -2586,14 +2844,14 @@ msgstr ""
 "Hier zijn alle punten die we in overweging hebben genomen terwijl we alle "
 "unieke stappen hebben bestudeerd"
 
-#: walkasjesus_app/templates/commandments/vision.html:79
+#: walkasjesus_app/templates/commandments/vision.html:81
 msgid ""
 "Read everything Jesus said, starting with Matthew, then Mark, Luke and John"
 msgstr ""
 "Lees alles wat Jezus zei, te beginnen met Mattheüs, dan Markus, Lukas en "
 "Johannes"
 
-#: walkasjesus_app/templates/commandments/vision.html:80
+#: walkasjesus_app/templates/commandments/vision.html:82
 msgid ""
 "Focus on all commandments Jesus gave, and be aware of the following "
 "differences:"
@@ -2601,11 +2859,11 @@ msgstr ""
 "Focus op alle geboden die Jezus gaf, en wees je bewust van de volgende "
 "verschillen:"
 
-#: walkasjesus_app/templates/commandments/vision.html:82
+#: walkasjesus_app/templates/commandments/vision.html:84
 msgid "Is it a \"principle\" or a \"value\"?"
 msgstr "Is het een \"principe\" of een \"waarde\"?"
 
-#: walkasjesus_app/templates/commandments/vision.html:83
+#: walkasjesus_app/templates/commandments/vision.html:85
 msgid ""
 "A \"principle\" is generic which applies to all generations, no matter what "
 "culture, time or place"
@@ -2613,11 +2871,11 @@ msgstr ""
 "Een \"principe\" is een Goddelijke wetmatigheid, welke geldt voor alle "
 "generaties, ongeacht in welke cultuur, tijd of plaats."
 
-#: walkasjesus_app/templates/commandments/vision.html:84
+#: walkasjesus_app/templates/commandments/vision.html:86
 msgid "By example: \"Love your neighbors as yourself\" (Matthew 19:19)"
 msgstr "Bij voorbeeld: \"Heb uw naaste als uzelf\" (Mattheüs 19:19)"
 
-#: walkasjesus_app/templates/commandments/vision.html:85
+#: walkasjesus_app/templates/commandments/vision.html:87
 msgid ""
 "A \"value\" is the way how a principle would pack out in a specific culture,"
 " time and place. If you have this, you need to derive the principle out of "
@@ -2627,11 +2885,11 @@ msgstr ""
 "cultuur, tijd en plaats. Als je dit hebt, moet je het principe zien af te "
 "leiden, door het bestuderen van de context"
 
-#: walkasjesus_app/templates/commandments/vision.html:86
+#: walkasjesus_app/templates/commandments/vision.html:88
 msgid "By example: \"Salute one another with an holy kiss\" (Rom 16:16)"
 msgstr "Bij voorbeeld: \"Groet elkander met een heilige kus\" (Rom 16:16)"
 
-#: walkasjesus_app/templates/commandments/vision.html:86
+#: walkasjesus_app/templates/commandments/vision.html:88
 msgid ""
 "The principle is not kiss everybody, but to salute your brothers and sisters"
 " in an intimate way, based on your specific culture, time and place"
@@ -2640,11 +2898,11 @@ msgstr ""
 "zusters te groeten op een intieme manier, op basis van jouw specifieke "
 "cultuur, tijd en plaats"
 
-#: walkasjesus_app/templates/commandments/vision.html:87
+#: walkasjesus_app/templates/commandments/vision.html:89
 msgid "Is it \"literal\" or \"figurative\"?"
 msgstr "Is het \"letterlijk\" of \"figuurlijk\"?"
 
-#: walkasjesus_app/templates/commandments/vision.html:88
+#: walkasjesus_app/templates/commandments/vision.html:90
 msgid ""
 "A \"literal\" commandment is literally what Jesus is saying which you can "
 "directly obey and apply"
@@ -2652,14 +2910,14 @@ msgstr ""
 "Een \"letterlijk\" gebod is iets wat Jezus letterlijk zegt, wat je direct "
 "kunt gehoorzamen en toepassen"
 
-#: walkasjesus_app/templates/commandments/vision.html:89
+#: walkasjesus_app/templates/commandments/vision.html:91
 msgid ""
 "By example: \"Worship the Lord your God, and serve him only\" (Matthew 4:10)"
 msgstr ""
 "Bij voorbeeld: \"Aanbid de Heer, uw God, en dien Hem alleen\" (Mattheüs "
 "4:10)"
 
-#: walkasjesus_app/templates/commandments/vision.html:90
+#: walkasjesus_app/templates/commandments/vision.html:92
 msgid ""
 "A \"figurative\" commandment is descriptive or a parable (Usually a short "
 "fictitious story that illustrates a moral attitude or a religious principle)"
@@ -2668,21 +2926,21 @@ msgstr ""
 " fictief verhaal dat een morele houding of een religieus principe "
 "illustreert)"
 
-#: walkasjesus_app/templates/commandments/vision.html:91
+#: walkasjesus_app/templates/commandments/vision.html:93
 msgid "By example: \"The parable of the Good Samaritan \" (Luke 10:29-37)"
 msgstr ""
 "Bij voorbeeld: \"De gelijkenis van de barmhartige Samaritaan\" (Lukas 10: "
 "29-37)"
 
-#: walkasjesus_app/templates/commandments/vision.html:91
+#: walkasjesus_app/templates/commandments/vision.html:93
 msgid "The principle is to be merciful to those who crosses your paths"
 msgstr "Het principe is om barmhartig te zijn aan degenen die op je pad komen"
 
-#: walkasjesus_app/templates/commandments/vision.html:92
+#: walkasjesus_app/templates/commandments/vision.html:94
 msgid "Is it \"specific\" or a \"generic\"?"
 msgstr "Is het \"specifiek\" of \"algemeen\"?"
 
-#: walkasjesus_app/templates/commandments/vision.html:93
+#: walkasjesus_app/templates/commandments/vision.html:95
 msgid ""
 "There are also some specific commandments which Jesus gave specifically to "
 "that person in that time, which will not directly apply for us today"
@@ -2690,7 +2948,7 @@ msgstr ""
 "Er zijn ook enkele specifieke geboden die Jezus gaf om die persoon in die "
 "tijd, welke niet rechtstreeks van toepassing zal zijn voor ons vandaag"
 
-#: walkasjesus_app/templates/commandments/vision.html:94
+#: walkasjesus_app/templates/commandments/vision.html:96
 msgid ""
 "By example: \"Go your way into the village over against you: and as soon as "
 "ye be entered into it, ye shall find a colt tied, whereon never man sat; "
@@ -2700,11 +2958,11 @@ msgstr ""
 " zult u een veulen vinden dat vastgebonden is, waarop geen mens gezeten "
 "heeft; maak het los en breng het hier.\" (Mark 11: 2)"
 
-#: walkasjesus_app/templates/commandments/vision.html:95
+#: walkasjesus_app/templates/commandments/vision.html:97
 msgid "Is it a \"negative\" or \"positive\" commandment?"
 msgstr "Is het een \"nieuw\" of \"bestaand\" gebod?"
 
-#: walkasjesus_app/templates/commandments/vision.html:96
+#: walkasjesus_app/templates/commandments/vision.html:98
 msgid ""
 "A negative commandment is something you should not do. To all negative "
 "commandments, there is an opposite positive commandment. In the unique "
@@ -2718,7 +2976,7 @@ msgstr ""
 "vindt. Dus als je een verbod vindt, ontleed dan het tegenovergestelde gebod "
 "daaruit"
 
-#: walkasjesus_app/templates/commandments/vision.html:97
+#: walkasjesus_app/templates/commandments/vision.html:99
 msgid ""
 "By example: \"That whosoever looketh on a woman to lust after her hath "
 "committed adultery with her already in his heart (Matthew 5:28). The "
@@ -2731,11 +2989,11 @@ msgstr ""
 "Het verbod is om niet te kijken met lust naar een andere vrouw, het gebod is"
 " trouw aan te blijven aan je partner en je hart zuiver te houden"
 
-#: walkasjesus_app/templates/commandments/vision.html:98
+#: walkasjesus_app/templates/commandments/vision.html:100
 msgid "Should you \"continually\", or \"start\" doing it?"
 msgstr "Moet je het \"voortdurend\" of \"beginnen\" te doen?"
 
-#: walkasjesus_app/templates/commandments/vision.html:99
+#: walkasjesus_app/templates/commandments/vision.html:101
 msgid ""
 "There is a difference in \"immediately start doing it\" or \"keep "
 "continually or habitually doing it\""
@@ -2743,7 +3001,7 @@ msgstr ""
 "Er is een verschil in \"onmiddellijk beginnen te doen\" of \"het voortdurend"
 " blijven doen\""
 
-#: walkasjesus_app/templates/commandments/vision.html:100
+#: walkasjesus_app/templates/commandments/vision.html:102
 msgid ""
 "By example: \"Guard against self-deception, each of you. If someone among "
 "you thinks he is wise in this age, let him become foolish so that he can "
@@ -2757,19 +3015,19 @@ msgstr ""
 "jezelf niet te bedriegen en \"onmiddellijk\" dwaas te worden als je denkt "
 "dat je verstandig bent"
 
-#: walkasjesus_app/templates/commandments/vision.html:102
+#: walkasjesus_app/templates/commandments/vision.html:104
 msgid "Is it a \"new\" or \"existing\" commandment?"
 msgstr "Is het een \"nieuw\" of \"bestaand\" gebod?"
 
-#: walkasjesus_app/templates/commandments/vision.html:103
+#: walkasjesus_app/templates/commandments/vision.html:105
 msgid "If it is new:"
 msgstr "Als het nieuw is:"
 
-#: walkasjesus_app/templates/commandments/vision.html:106
+#: walkasjesus_app/templates/commandments/vision.html:108
 msgid "Add it with its primary Bible reference"
 msgstr "Voeg het toe als primaire Bijbeltekst"
 
-#: walkasjesus_app/templates/commandments/vision.html:107
+#: walkasjesus_app/templates/commandments/vision.html:109
 msgid ""
 "Determine a short powerful title which summarizes the commandment. Try to "
 "stick as close as possible to the Words of Jesus Himself (Only summarize "
@@ -2779,11 +3037,11 @@ msgstr ""
 "mogelijk bij de Woorden van Jezus te blijven (Alleen het hoognodige "
 "samenvatten)"
 
-#: walkasjesus_app/templates/commandments/vision.html:108
+#: walkasjesus_app/templates/commandments/vision.html:110
 msgid "Determine in which \"category\" the commandment falls"
 msgstr "Bepaal in welke \"categorie\" het gebod valt"
 
-#: walkasjesus_app/templates/commandments/vision.html:111
+#: walkasjesus_app/templates/commandments/vision.html:113
 msgid ""
 "If it is an already existing, determine to which existing commandment(s) it "
 "should apply"
@@ -2791,7 +3049,7 @@ msgstr ""
 "Als de tekst reeds bestaat, bepaal op welke bestaand gebod(en) het van "
 "toepassing is"
 
-#: walkasjesus_app/templates/commandments/vision.html:113
+#: walkasjesus_app/templates/commandments/vision.html:115
 msgid ""
 "Is it a \"Primary\", \"Direct\", \"Indirect\", \"Example\", \"Duplicate\", "
 "\"OT Law\", \"Wisdom\" or \"Study\" reference?"
@@ -2799,11 +3057,11 @@ msgstr ""
 "Is het een \"primair\" \"directe\" of \"indirecte\", \"voorbeeld\", "
 "\"dubbel\", \"OT Wet\", \"Wijsheid\" of \"studie\" Bijbeltekst?"
 
-#: walkasjesus_app/templates/commandments/vision.html:114
+#: walkasjesus_app/templates/commandments/vision.html:116
 msgid "Primary"
 msgstr "Primair"
 
-#: walkasjesus_app/templates/commandments/vision.html:114
+#: walkasjesus_app/templates/commandments/vision.html:116
 msgid ""
 "This Primary Bible reference is a unique Bible reference according to the "
 "words of Jesus, which best summarizes the commandment"
@@ -2811,32 +3069,32 @@ msgstr ""
 "Deze Primaire Bijbeltekst is de eerst gevonden unieke referentie volgens de "
 "woorden van Jezus, direct gerelateerd aan het gebod"
 
-#: walkasjesus_app/templates/commandments/vision.html:115
+#: walkasjesus_app/templates/commandments/vision.html:117
 msgid "Direct"
 msgstr "Direct"
 
-#: walkasjesus_app/templates/commandments/vision.html:115
+#: walkasjesus_app/templates/commandments/vision.html:117
 msgid ""
 "Extra direct Bible references which expands or explain the same commandment"
 msgstr ""
 "Extra directe Bijbelteksten die hetzelfde gebod uitleggen of aanvullen"
 
-#: walkasjesus_app/templates/commandments/vision.html:116
+#: walkasjesus_app/templates/commandments/vision.html:118
 msgid "Indirect"
 msgstr "Indirect"
 
-#: walkasjesus_app/templates/commandments/vision.html:116
+#: walkasjesus_app/templates/commandments/vision.html:118
 msgid ""
 "Extra, more indirect Bible references, relating to the same commandment"
 msgstr ""
 "Extra, meer indirecte Bijbelteksten, die betrekking hebben op hetzelfde "
 "gebod"
 
-#: walkasjesus_app/templates/commandments/vision.html:117
+#: walkasjesus_app/templates/commandments/vision.html:119
 msgid "Example"
 msgstr "Voorbeeld"
 
-#: walkasjesus_app/templates/commandments/vision.html:117
+#: walkasjesus_app/templates/commandments/vision.html:119
 msgid ""
 "In these Bible references you will find examples and testimonies how this "
 "commandment is being executed"
@@ -2844,23 +3102,23 @@ msgstr ""
 "In deze Bijbelteksten vindt u voorbeelden en getuigenissen van mensen die "
 "dit gebod uitleven"
 
-#: walkasjesus_app/templates/commandments/vision.html:118
+#: walkasjesus_app/templates/commandments/vision.html:120
 msgid "Duplicate"
 msgstr "Dubbel"
 
-#: walkasjesus_app/templates/commandments/vision.html:119
+#: walkasjesus_app/templates/commandments/vision.html:121
 msgid "OT Law"
 msgstr "OT Wet"
 
-#: walkasjesus_app/templates/commandments/vision.html:120
+#: walkasjesus_app/templates/commandments/vision.html:122
 msgid "Wisdom"
 msgstr "Wijsheid"
 
-#: walkasjesus_app/templates/commandments/vision.html:121
+#: walkasjesus_app/templates/commandments/vision.html:123
 msgid "Study"
 msgstr "Studie"
 
-#: walkasjesus_app/templates/commandments/vision.html:121
+#: walkasjesus_app/templates/commandments/vision.html:123
 msgid ""
 "Extra Bible references (most often larger parts of Bible books) which are "
 "good for extra study on this commandment"
@@ -2868,11 +3126,11 @@ msgstr ""
 "Extra Bijbelteksten (meestal grotere delen Bijbelboeken) die goed zijn voor "
 "extra studie over dit gebod"
 
-#: walkasjesus_app/templates/commandments/vision.html:123
+#: walkasjesus_app/templates/commandments/vision.html:125
 msgid "Are there more Bible references?"
 msgstr "Zijn er meer Bijbelteksten?"
 
-#: walkasjesus_app/templates/commandments/vision.html:124
+#: walkasjesus_app/templates/commandments/vision.html:126
 msgid ""
 "With each commandment, extend it with as many as you can find Bible "
 "references, both Old and New Testament. Please always study the context, if "
@@ -2882,7 +3140,7 @@ msgstr ""
 "als het Nieuwe Testament. Probeer altijd de context voor ogen te houden, of "
 "het werkelijk aan het gebod gelinkt kan worden."
 
-#: walkasjesus_app/templates/commandments/vision.html:127
+#: walkasjesus_app/templates/commandments/vision.html:129
 msgid ""
 "Maybe you are wondering why we did not study all the commandments in the "
 "whole New Testament? Well, the easiest reason why we didn't, is because "
@@ -2936,8 +3194,8 @@ msgid "Commentary"
 msgstr "Commentaar"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:156
-#: walkasjesus_app/templates/law_of_messiah/listing.html:84
-#: walkasjesus_app/templates/law_of_messiah/listing.html:243
+#: walkasjesus_app/templates/law_of_messiah/listing.html:86
+#: walkasjesus_app/templates/law_of_messiah/listing.html:245
 msgid "Category"
 msgstr "Categorie"
 
@@ -2963,8 +3221,8 @@ msgid "Not unique"
 msgstr "Niet uniek"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:161
-#: walkasjesus_app/templates/law_of_messiah/listing.html:95
-#: walkasjesus_app/templates/law_of_messiah/listing.html:245
+#: walkasjesus_app/templates/law_of_messiah/listing.html:97
+#: walkasjesus_app/templates/law_of_messiah/listing.html:247
 msgid "Classical commandment"
 msgstr "Klassiek gebod"
 
@@ -3021,7 +3279,7 @@ msgid "Person categories"
 msgstr "Van toepassing op persoonscategorieen"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:214
-#: walkasjesus_app/templates/law_of_messiah/listing.html:154
+#: walkasjesus_app/templates/law_of_messiah/listing.html:156
 msgid "Application"
 msgstr "Toepassing"
 
@@ -3060,9 +3318,9 @@ msgstr ""
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:237
 #: walkasjesus_app/templates/law_of_messiah/detail.html:239
-#: walkasjesus_app/templates/law_of_messiah/listing.html:204
-#: walkasjesus_app/views/law_of_messiah_view.py:256
-#: walkasjesus_app/views/law_of_messiah_view.py:686
+#: walkasjesus_app/templates/law_of_messiah/listing.html:206
+#: walkasjesus_app/views/law_of_messiah_view.py:258
+#: walkasjesus_app/views/law_of_messiah_view.py:690
 msgid "Jewish"
 msgstr "Joods"
 
@@ -3072,9 +3330,9 @@ msgstr "Gebruikt voor instructie die gericht is op Joodse gelovigen."
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:244
 #: walkasjesus_app/templates/law_of_messiah/detail.html:246
-#: walkasjesus_app/templates/law_of_messiah/listing.html:211
-#: walkasjesus_app/views/law_of_messiah_view.py:260
-#: walkasjesus_app/views/law_of_messiah_view.py:687
+#: walkasjesus_app/templates/law_of_messiah/listing.html:213
+#: walkasjesus_app/views/law_of_messiah_view.py:262
+#: walkasjesus_app/views/law_of_messiah_view.py:691
 msgid "K'rov Yisrael"
 msgstr "K'rov Yisrael"
 
@@ -3087,9 +3345,9 @@ msgstr ""
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:251
 #: walkasjesus_app/templates/law_of_messiah/detail.html:253
-#: walkasjesus_app/templates/law_of_messiah/listing.html:218
-#: walkasjesus_app/views/law_of_messiah_view.py:264
-#: walkasjesus_app/views/law_of_messiah_view.py:688
+#: walkasjesus_app/templates/law_of_messiah/listing.html:220
+#: walkasjesus_app/views/law_of_messiah_view.py:266
+#: walkasjesus_app/views/law_of_messiah_view.py:692
 msgid "Gentile"
 msgstr "Niet-Joods"
 
@@ -3158,7 +3416,7 @@ msgid "Classical commentators"
 msgstr "Klassieke commentatoren"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:746
-#: walkasjesus_app/views/maimonides_view.py:71
+#: walkasjesus_app/views/maimonides_view.py:73
 msgid "Maimonides"
 msgstr "Maimonides"
 
@@ -3230,12 +3488,12 @@ msgstr ""
 "Perspective</em> door Michael Rudolph en Daniel C. Juster."
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:814
-#: walkasjesus_app/templates/law_of_messiah/listing.html:50
+#: walkasjesus_app/templates/law_of_messiah/listing.html:52
 msgid "Volume 1 & 2"
 msgstr "Deel 1 & 2"
 
 #: walkasjesus_app/templates/law_of_messiah/detail.html:815
-#: walkasjesus_app/templates/law_of_messiah/listing.html:51
+#: walkasjesus_app/templates/law_of_messiah/listing.html:53
 msgid "Volume 3"
 msgstr "Deel 3"
 
@@ -3290,7 +3548,7 @@ msgstr ""
 "serieuze persoonlijke en groepsbijbelstudie."
 
 #: walkasjesus_app/templates/law_of_messiah/listing.html:16
-#: walkasjesus_app/templates/law_of_messiah/listing.html:45
+#: walkasjesus_app/templates/law_of_messiah/listing.html:47
 msgid "Overview of all Laws of Messiah"
 msgstr "Overzicht van alle Wetten van de Messias"
 
@@ -3306,7 +3564,7 @@ msgstr ""
 msgid "Law of Messiah commandments"
 msgstr "Geboden van de Wet van Christus"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:46
+#: walkasjesus_app/templates/law_of_messiah/listing.html:48
 msgid ""
 "This page presents the structured commandments (mitzvot) derived from the "
 "Bible, as documented in <em>The Law of Messiah - Torah from a New Covenant "
@@ -3321,7 +3579,7 @@ msgstr ""
 "geboden te filteren en toe te passen in dagelijks discipelschap, overdenking"
 " en gehoorzaamheid."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:48
+#: walkasjesus_app/templates/law_of_messiah/listing.html:50
 msgid ""
 "Source material: <em>The Law of Messiah - Torah from a New Covenant "
 "Perspective</em> by Michael Rudolph and Daniel C. Juster."
@@ -3329,7 +3587,7 @@ msgstr ""
 "Bronmateriaal: <em>The Law of Messiah - Torah from a New Covenant "
 "Perspective</em> door Michael Rudolph en Daniel C. Juster."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:53
+#: walkasjesus_app/templates/law_of_messiah/listing.html:55
 msgid ""
 "License notice: content is shared under CC BY-ND 4.0. Attribution is "
 "required and modified derivatives of the original material may not be "
@@ -3339,101 +3597,101 @@ msgstr ""
 " is vereist en gewijzigde versies van het originele materiaal mogen niet "
 "worden verspreid."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:61
+#: walkasjesus_app/templates/law_of_messiah/listing.html:63
 msgid "Filter commandments that apply to you"
 msgstr "Filter geboden die op u van toepassing zijn"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:67
+#: walkasjesus_app/templates/law_of_messiah/listing.html:69
 msgid "ID, title, or commandment text"
 msgstr "ID, titel of gebodtekst"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:74
-#: walkasjesus_app/templates/law_of_messiah/listing.html:241
+#: walkasjesus_app/templates/law_of_messiah/listing.html:76
+#: walkasjesus_app/templates/law_of_messiah/listing.html:243
 msgid "Testament"
 msgstr "Oude Testament"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:77
-#: walkasjesus_app/templates/law_of_messiah/listing.html:87
-#: walkasjesus_app/templates/law_of_messiah/listing.html:98
-#: walkasjesus_app/templates/law_of_messiah/listing.html:114
-#: walkasjesus_app/templates/law_of_messiah/listing.html:125
-#: walkasjesus_app/templates/law_of_messiah/listing.html:133
+#: walkasjesus_app/templates/law_of_messiah/listing.html:79
+#: walkasjesus_app/templates/law_of_messiah/listing.html:89
+#: walkasjesus_app/templates/law_of_messiah/listing.html:100
+#: walkasjesus_app/templates/law_of_messiah/listing.html:116
+#: walkasjesus_app/templates/law_of_messiah/listing.html:127
+#: walkasjesus_app/templates/law_of_messiah/listing.html:135
 #: walkasjesus_app/templates/maimonides/listing.html:41
 msgid "All"
 msgstr "Alle"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:99
+#: walkasjesus_app/templates/law_of_messiah/listing.html:101
 msgid "Classical only"
 msgstr "Alleen klassiek"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:100
+#: walkasjesus_app/templates/law_of_messiah/listing.html:102
 msgid "Non-classical only"
 msgstr "Alleen niet-klassiek"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:112
+#: walkasjesus_app/templates/law_of_messiah/listing.html:114
 msgid "Unique only"
 msgstr "Uniek"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:113
+#: walkasjesus_app/templates/law_of_messiah/listing.html:115
 msgid "Non-unique only"
 msgstr "Niet uniek"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:119
-#: walkasjesus_app/templates/law_of_messiah/listing.html:249
+#: walkasjesus_app/templates/law_of_messiah/listing.html:121
+#: walkasjesus_app/templates/law_of_messiah/listing.html:251
 msgid "Positive / negative"
 msgstr "Positief en negatief"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:122
+#: walkasjesus_app/templates/law_of_messiah/listing.html:124
 msgid "Positive only"
 msgstr "Positief"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:123
+#: walkasjesus_app/templates/law_of_messiah/listing.html:125
 msgid "Negative only"
 msgstr "Negatief"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:124
+#: walkasjesus_app/templates/law_of_messiah/listing.html:126
 msgid "Positive & negative only"
 msgstr "Positief en negatief"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:130
-#: walkasjesus_app/templates/law_of_messiah/listing.html:251
+#: walkasjesus_app/templates/law_of_messiah/listing.html:132
+#: walkasjesus_app/templates/law_of_messiah/listing.html:253
 msgid "Illustration"
 msgstr "Illustratie"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:144
+#: walkasjesus_app/templates/law_of_messiah/listing.html:146
 msgid "Applies to (person)"
 msgstr "Van toepassing op (persoon)"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:165
-#: walkasjesus_app/templates/law_of_messiah/listing.html:253
+#: walkasjesus_app/templates/law_of_messiah/listing.html:167
+#: walkasjesus_app/templates/law_of_messiah/listing.html:255
 msgid "Context / situation"
 msgstr "Context / situatie"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:168
+#: walkasjesus_app/templates/law_of_messiah/listing.html:170
 msgid "Any context"
 msgstr "Elke context"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:181
+#: walkasjesus_app/templates/law_of_messiah/listing.html:183
 #: walkasjesus_app/templates/maimonides/listing.html:58
 msgid "Apply Filter"
 msgstr "Filter Toepassen"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:185
+#: walkasjesus_app/templates/law_of_messiah/listing.html:187
 msgid "Legend — what do the icons and filters mean?"
 msgstr "Legenda — wat betekenen de pictogrammen en filters?"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:199
+#: walkasjesus_app/templates/law_of_messiah/listing.html:201
 msgid "Person icons"
 msgstr "Van toepassing op persoonscategorieen"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:200
+#: walkasjesus_app/templates/law_of_messiah/listing.html:202
 msgid ""
 "These icons on each card show which group(s) this commandment applies to."
 msgstr ""
 "Deze pictogrammen op elke kaart laten zien op welke groep(en) dit gebod van "
 "toepassing is."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:205
+#: walkasjesus_app/templates/law_of_messiah/listing.html:207
 msgid ""
 "Born into the Jewish people (biological or formal conversion). This "
 "commandment originates directly from Torah."
@@ -3441,7 +3699,7 @@ msgstr ""
 "Geboren in het Joodse volk (biologische of formele bekering). Dit gebod komt"
 " rechtstreeks uit de Thora."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:212
+#: walkasjesus_app/templates/law_of_messiah/listing.html:214
 msgid ""
 "Literally 'near to Israel' — non-Jewish believers who are deeply grafted "
 "into the Messianic Jewish community and choose to embrace a Torah-informed "
@@ -3451,7 +3709,7 @@ msgstr ""
 " de Messiaans-Joodse gemeenschap en ervoor kiezen een op de Thora "
 "geïnspireerde levensstijl te omarmen."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:219
+#: walkasjesus_app/templates/law_of_messiah/listing.html:221
 msgid ""
 "Non-Jewish followers of Messiah. Commandments marked here are considered "
 "universally applicable to all believers."
@@ -3459,11 +3717,11 @@ msgstr ""
 "Niet-Joodse volgelingen van de Messias. De hier gemarkeerde geboden worden "
 "beschouwd als universeel toepasbaar op alle gelovigen."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:226
+#: walkasjesus_app/templates/law_of_messiah/listing.html:228
 msgid "Application levels"
 msgstr "Toepassing"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:227
+#: walkasjesus_app/templates/law_of_messiah/listing.html:229
 msgid ""
 "The \"Application\" filter sets how strongly the commandment applies to the "
 "selected person group."
@@ -3471,67 +3729,67 @@ msgstr ""
 "Met het filter \"Toepassing\" wordt ingesteld hoe sterk het gebod van "
 "toepassing is op de geselecteerde personengroep."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:228
-#: walkasjesus_app/views/law_of_messiah_view.py:320
+#: walkasjesus_app/templates/law_of_messiah/listing.html:230
+#: walkasjesus_app/views/law_of_messiah_view.py:322
 msgid "Mandated"
 msgstr "Verplicht"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:228
+#: walkasjesus_app/templates/law_of_messiah/listing.html:230
 msgid "Required — clear Biblical obligation."
 msgstr "Vereist: duidelijke Bijbelse verplichting."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:229
-#: walkasjesus_app/views/law_of_messiah_view.py:321
+#: walkasjesus_app/templates/law_of_messiah/listing.html:231
+#: walkasjesus_app/views/law_of_messiah_view.py:323
 msgid "Recommended"
 msgstr "Aanbevolen"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:229
+#: walkasjesus_app/templates/law_of_messiah/listing.html:231
 msgid "Strongly encouraged, but not strictly required."
 msgstr "Sterk aangemoedigd, maar niet strikt vereist."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:230
-#: walkasjesus_app/views/law_of_messiah_view.py:322
+#: walkasjesus_app/templates/law_of_messiah/listing.html:232
+#: walkasjesus_app/views/law_of_messiah_view.py:324
 msgid "Optional"
 msgstr "Optioneel"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:230
+#: walkasjesus_app/templates/law_of_messiah/listing.html:232
 msgid "Permitted and valued, left to personal conviction."
 msgstr ""
 "Toegestaan ​​en gewaardeerd, overgelaten aan persoonlijke overtuiging."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:231
-#: walkasjesus_app/views/law_of_messiah_view.py:323
+#: walkasjesus_app/templates/law_of_messiah/listing.html:233
+#: walkasjesus_app/views/law_of_messiah_view.py:325
 msgid "Not generally recommended"
 msgstr "Over het algemeen niet aanbevolen"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:231
+#: walkasjesus_app/templates/law_of_messiah/listing.html:233
 msgid "Normally discouraged, though not categorically forbidden."
 msgstr "Normaal gesproken ontmoedigd, maar niet categorisch verboden."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:232
-#: walkasjesus_app/views/law_of_messiah_view.py:324
+#: walkasjesus_app/templates/law_of_messiah/listing.html:234
+#: walkasjesus_app/views/law_of_messiah_view.py:326
 msgid "Unauthorized"
 msgstr "Niet toegestaan"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:232
+#: walkasjesus_app/templates/law_of_messiah/listing.html:234
 msgid "Not permitted under the current covenant context."
 msgstr "Niet toegestaan ​​binnen de huidige convenantcontext."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:233
-#: walkasjesus_app/views/law_of_messiah_view.py:325
+#: walkasjesus_app/templates/law_of_messiah/listing.html:235
+#: walkasjesus_app/views/law_of_messiah_view.py:327
 msgid "Prohibited"
 msgstr "Verboden"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:233
+#: walkasjesus_app/templates/law_of_messiah/listing.html:235
 msgid "Explicitly forbidden for this person group."
 msgstr "Expliciet verboden voor deze personengroep."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:234
-#: walkasjesus_app/views/law_of_messiah_view.py:326
+#: walkasjesus_app/templates/law_of_messiah/listing.html:236
+#: walkasjesus_app/views/law_of_messiah_view.py:328
 msgid "Impossible"
 msgstr "Onmogelijk"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:234
+#: walkasjesus_app/templates/law_of_messiah/listing.html:236
 msgid ""
 "Cannot currently be carried out (for example due to missing "
 "Temple/priesthood conditions)."
@@ -3539,18 +3797,18 @@ msgstr ""
 "Kan momenteel niet worden uitgevoerd (bijvoorbeeld vanwege ontbrekende "
 "tempel-/priesterschapsvoorwaarden)."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:239
+#: walkasjesus_app/templates/law_of_messiah/listing.html:241
 msgid "Other filters"
 msgstr "Andere filters"
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:242
+#: walkasjesus_app/templates/law_of_messiah/listing.html:244
 msgid ""
 "Limit to commandments whose primary source is from the Old or New Testament."
 msgstr ""
 "Beperk u tot geboden waarvan de primaire bron uit het Oude of Nieuwe "
 "Testament komt."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:244
+#: walkasjesus_app/templates/law_of_messiah/listing.html:246
 msgid ""
 "Broad topic group (e.g. Worship, Justice, Family). Useful for thematic "
 "study."
@@ -3558,7 +3816,7 @@ msgstr ""
 "Brede themagroep (bijv. Aanbidding, Gerechtigheid, Familie). Handig voor "
 "thematische studie."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:246
+#: walkasjesus_app/templates/law_of_messiah/listing.html:248
 msgid ""
 "Classical commandments are the 613 Torah commandments as categorised by "
 "Maimonides. Non-classical ones are additions identified from a New Covenant "
@@ -3568,7 +3826,7 @@ msgstr ""
 "Maimonides. Niet-klassieke toevoegingen zijn geïdentificeerd vanuit het "
 "perspectief van het Nieuwe Verbond."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:248
+#: walkasjesus_app/templates/law_of_messiah/listing.html:250
 msgid ""
 "Unique shows one canonical representative commandment from a duplicate "
 "cluster. Be aware that this was not determined by the original authors."
@@ -3576,7 +3834,7 @@ msgstr ""
 "Unique toont één canoniek representatief gebod uit een dubbele cluster. "
 "Standaard is alleen uniek."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:250
+#: walkasjesus_app/templates/law_of_messiah/listing.html:252
 msgid ""
 "Choose whether to show positive commands, negative prohibitions, both-type "
 "entries, or all."
@@ -3584,11 +3842,11 @@ msgstr ""
 "Kies of u positieve opdrachten, negatieve verboden, invoer van beide typen "
 "of alles wilt weergeven."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:252
+#: walkasjesus_app/templates/law_of_messiah/listing.html:254
 msgid "Filter commandments by whether they have a visible illustration image."
 msgstr "Filter geboden op de vraag of ze een zichtbare illustratie hebben."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:254
+#: walkasjesus_app/templates/law_of_messiah/listing.html:256
 msgid ""
 "Narrows results to commandments relevant in a specific life context (e.g. "
 "Temple, Marriage, Community)."
@@ -3596,11 +3854,11 @@ msgstr ""
 "Beperkt de resultaten tot geboden die relevant zijn in een specifieke "
 "levenscontext (bijvoorbeeld tempel, huwelijk, gemeenschap)."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:264
+#: walkasjesus_app/templates/law_of_messiah/listing.html:266
 msgid "commandments match your current filter."
 msgstr "geboden komen overeen met uw huidige filter."
 
-#: walkasjesus_app/templates/law_of_messiah/listing.html:276
+#: walkasjesus_app/templates/law_of_messiah/listing.html:278
 msgid "No Law of Messiah records are available."
 msgstr "Geen Wet van Christus-records beschikbaar."
 
@@ -3727,17 +3985,17 @@ msgstr ""
 "Negatief of Beide)"
 
 #: walkasjesus_app/templates/lessons/detail.html:460
-#: walkasjesus_app/templates/lessons/lesson_listing.html:80
+#: walkasjesus_app/templates/lessons/lesson_listing.html:82
 msgid "Games to Memorize the Steps with Drawings"
 msgstr "Spellen om de stappen met tekeningen te onthouden"
 
 #: walkasjesus_app/templates/lessons/detail.html:465
-#: walkasjesus_app/templates/lessons/lesson_listing.html:85
+#: walkasjesus_app/templates/lessons/lesson_listing.html:87
 msgid "Steps Memory"
 msgstr "Stappen Memory"
 
 #: walkasjesus_app/templates/lessons/detail.html:467
-#: walkasjesus_app/templates/lessons/lesson_listing.html:87
+#: walkasjesus_app/templates/lessons/lesson_listing.html:89
 msgid ""
 "Turn cards over and match illustrations with corresponding Bible verses."
 msgstr ""
@@ -3749,16 +4007,16 @@ msgstr ""
 #: walkasjesus_app/templates/lessons/detail.html:558
 #: walkasjesus_app/templates/lessons/detail.html:603
 #: walkasjesus_app/templates/lessons/detail.html:653
-#: walkasjesus_app/templates/lessons/lesson_listing.html:90
-#: walkasjesus_app/templates/lessons/lesson_listing.html:137
-#: walkasjesus_app/templates/lessons/lesson_listing.html:178
-#: walkasjesus_app/templates/lessons/lesson_listing.html:223
-#: walkasjesus_app/templates/lessons/lesson_listing.html:273
+#: walkasjesus_app/templates/lessons/lesson_listing.html:92
+#: walkasjesus_app/templates/lessons/lesson_listing.html:139
+#: walkasjesus_app/templates/lessons/lesson_listing.html:180
+#: walkasjesus_app/templates/lessons/lesson_listing.html:225
+#: walkasjesus_app/templates/lessons/lesson_listing.html:275
 msgid "Click for more information"
 msgstr "Klik voor meer informatie"
 
 #: walkasjesus_app/templates/lessons/detail.html:479
-#: walkasjesus_app/templates/lessons/lesson_listing.html:99
+#: walkasjesus_app/templates/lessons/lesson_listing.html:101
 msgid ""
 "\n"
 "                                    <strong>Steps Memory</strong>\n"
@@ -3816,18 +4074,18 @@ msgstr ""
 "</ul>"
 
 #: walkasjesus_app/templates/lessons/detail.html:512
-#: walkasjesus_app/templates/lessons/lesson_listing.html:132
+#: walkasjesus_app/templates/lessons/lesson_listing.html:134
 msgid "Searching Steps"
 msgstr "Stappen Zoeken"
 
 #: walkasjesus_app/templates/lessons/detail.html:514
-#: walkasjesus_app/templates/lessons/lesson_listing.html:134
+#: walkasjesus_app/templates/lessons/lesson_listing.html:136
 msgid "Hide cards with Bible verses and illustrations for children to find."
 msgstr ""
 "Verberg kaarten met bijbelverzen en illustraties die kinderen kunnen vinden"
 
 #: walkasjesus_app/templates/lessons/detail.html:526
-#: walkasjesus_app/templates/lessons/lesson_listing.html:146
+#: walkasjesus_app/templates/lessons/lesson_listing.html:148
 msgid ""
 "\n"
 "                                    <strong>Searching Steps</strong>\n"
@@ -3871,17 +4129,17 @@ msgstr ""
 "</ul>"
 
 #: walkasjesus_app/templates/lessons/detail.html:553
-#: walkasjesus_app/templates/lessons/lesson_listing.html:173
+#: walkasjesus_app/templates/lessons/lesson_listing.html:175
 msgid "Guess the Step"
 msgstr "Stappen Raden"
 
 #: walkasjesus_app/templates/lessons/detail.html:555
-#: walkasjesus_app/templates/lessons/lesson_listing.html:175
+#: walkasjesus_app/templates/lessons/lesson_listing.html:177
 msgid "Guess which step matches a displayed drawing."
 msgstr "Raad welke stap overeenkomt met een weergegeven tekening"
 
 #: walkasjesus_app/templates/lessons/detail.html:567
-#: walkasjesus_app/templates/lessons/lesson_listing.html:187
+#: walkasjesus_app/templates/lessons/lesson_listing.html:189
 msgid ""
 "\n"
 "                                    <strong>Guess the Step</strong>\n"
@@ -3933,12 +4191,12 @@ msgstr ""
 "</ul>"
 
 #: walkasjesus_app/templates/lessons/detail.html:598
-#: walkasjesus_app/templates/lessons/lesson_listing.html:218
+#: walkasjesus_app/templates/lessons/lesson_listing.html:220
 msgid "Step Choice Challenge"
 msgstr "Stappen Keuze Spel"
 
 #: walkasjesus_app/templates/lessons/detail.html:600
-#: walkasjesus_app/templates/lessons/lesson_listing.html:220
+#: walkasjesus_app/templates/lessons/lesson_listing.html:222
 msgid ""
 "Choose a drawing and provide hints, make a drawing, or use a 'forbidden "
 "word' to convey the step's meaning."
@@ -3947,7 +4205,7 @@ msgstr ""
 "woord' om de betekenis van de stap over te brengen"
 
 #: walkasjesus_app/templates/lessons/detail.html:612
-#: walkasjesus_app/templates/lessons/lesson_listing.html:232
+#: walkasjesus_app/templates/lessons/lesson_listing.html:234
 msgid ""
 "\n"
 "                                    <strong>Steps Choice Challenge</strong>\n"
@@ -4011,19 +4269,19 @@ msgstr ""
 "</ul>"
 
 #: walkasjesus_app/templates/lessons/detail.html:648
-#: walkasjesus_app/templates/lessons/lesson_listing.html:268
+#: walkasjesus_app/templates/lessons/lesson_listing.html:270
 msgid "Step Theater"
 msgstr "Stappen Theater"
 
 #: walkasjesus_app/templates/lessons/detail.html:650
-#: walkasjesus_app/templates/lessons/lesson_listing.html:270
+#: walkasjesus_app/templates/lessons/lesson_listing.html:272
 msgid "Act out a short story or play to convey the meaning of each step."
 msgstr ""
 "Speel een kort verhaal of toneelstuk om de betekenis van elke stap over te "
 "brengen"
 
 #: walkasjesus_app/templates/lessons/detail.html:662
-#: walkasjesus_app/templates/lessons/lesson_listing.html:282
+#: walkasjesus_app/templates/lessons/lesson_listing.html:284
 msgid ""
 "\n"
 "                                    <strong>Steps Theater</strong>\n"
@@ -4080,18 +4338,18 @@ msgstr ""
 "stappen en praktische activiteiten die gezinnen en bedieningsteams helpen de"
 " volgende generatie tot discipelen te maken."
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:19
+#: walkasjesus_app/templates/lessons/lesson_listing.html:21
 msgid "Build the foundations for your children"
 msgstr "Bouw de basis voor jouw kinderen"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:20
+#: walkasjesus_app/templates/lessons/lesson_listing.html:22
 msgid ""
 "Go on an adventure with the children and discover this new Children's Bible "
 "method"
 msgstr ""
 "Ga op avontuur met de kinderen en ontdek deze nieuwe Kinderbijbel methode"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:21
+#: walkasjesus_app/templates/lessons/lesson_listing.html:23
 msgid ""
 "Have you ever wondered how to effectively teach principles, faith, and the "
 "Bible stories to your children?"
@@ -4099,18 +4357,18 @@ msgstr ""
 "Heeft u zich ooit afgevraagd hoe u uw kinderen principes, geloof en de "
 "Bijbelverhalen op een effectieve manier kunt bijbrengen?"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:23
+#: walkasjesus_app/templates/lessons/lesson_listing.html:25
 msgid "Our unique approach emphasizes the following 3 goals:"
 msgstr "Onze unieke aanpak benadrukt de volgende 3 doelstellingen:"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:35
+#: walkasjesus_app/templates/lessons/lesson_listing.html:37
 msgid ""
 "Imprinting foundational principles to guide them through life's journey."
 msgstr ""
 "Het inprenten van fundamentele principes om als basis voor hun levens mee te"
 " geven"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:46
+#: walkasjesus_app/templates/lessons/lesson_listing.html:48
 msgid ""
 "Unveiling the grand tapestry of Bible stories: a loving God seeking a "
 "relationship with humanity."
@@ -4118,11 +4376,11 @@ msgstr ""
 "De onthulling van het Meesterplan door de Bijbel verhalen: Een liefdevolle "
 "God die op zoek is naar een relatie met de mensheid"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:56
+#: walkasjesus_app/templates/lessons/lesson_listing.html:58
 msgid "Cultivating wholesome relationships with other children."
 msgstr "Het opbouwen van gezonde relaties met andere kinderen"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:63
+#: walkasjesus_app/templates/lessons/lesson_listing.html:65
 msgid ""
 "Explore 77 lessons from the Old Testament and 44 lessons from the New "
 "Testament on our website. Each lesson is accompanied by captivating stories "
@@ -4132,11 +4390,11 @@ msgstr ""
 " het nieuwe testament. Bij elke les hoort een mooi verhaal uit de "
 "Kinderbijbel"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:64
+#: walkasjesus_app/templates/lessons/lesson_listing.html:66
 msgid "Gods Grote Plan (Currently only available in Dutch)"
 msgstr "Gods Grote Plan"
 
-#: walkasjesus_app/templates/lessons/lesson_listing.html:309
+#: walkasjesus_app/templates/lessons/lesson_listing.html:311
 msgid "No lessons are available."
 msgstr "Geen lessen beschikbaar."
 
@@ -4442,104 +4700,104 @@ msgstr "admin/cache_bijbel_opslaan/"
 msgid "admin/enable_bible/"
 msgstr "admin/activeer_bijbel/"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:232
-#: walkasjesus_app/views/law_of_messiah_view.py:311
+#: walkasjesus_app/views/law_of_messiah_view.py:234
+#: walkasjesus_app/views/law_of_messiah_view.py:313
 msgid "Jewish male"
 msgstr "Joodse man"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:233
-#: walkasjesus_app/views/law_of_messiah_view.py:312
+#: walkasjesus_app/views/law_of_messiah_view.py:235
+#: walkasjesus_app/views/law_of_messiah_view.py:314
 msgid "Jewish female"
 msgstr "Joodse vrouw"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:234
-#: walkasjesus_app/views/law_of_messiah_view.py:313
+#: walkasjesus_app/views/law_of_messiah_view.py:236
+#: walkasjesus_app/views/law_of_messiah_view.py:315
 msgid "K'rov Yisrael male"
 msgstr "K'rov Yisrael man"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:235
-#: walkasjesus_app/views/law_of_messiah_view.py:314
+#: walkasjesus_app/views/law_of_messiah_view.py:237
+#: walkasjesus_app/views/law_of_messiah_view.py:316
 msgid "K'rovat Yisrael female"
 msgstr "K'rovat Yisrael vrouw"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:236
-#: walkasjesus_app/views/law_of_messiah_view.py:315
+#: walkasjesus_app/views/law_of_messiah_view.py:238
+#: walkasjesus_app/views/law_of_messiah_view.py:317
 msgid "Gentile male"
 msgstr "Niet-joodse man"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:237
-#: walkasjesus_app/views/law_of_messiah_view.py:316
+#: walkasjesus_app/views/law_of_messiah_view.py:239
+#: walkasjesus_app/views/law_of_messiah_view.py:318
 msgid "Gentile female"
 msgstr "Niet-joodse vrouw"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:243
+#: walkasjesus_app/views/law_of_messiah_view.py:245
 msgid "mandated"
 msgstr "verplicht"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:244
+#: walkasjesus_app/views/law_of_messiah_view.py:246
 msgid "recommended"
 msgstr "aanbevolen"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:245
+#: walkasjesus_app/views/law_of_messiah_view.py:247
 msgid "optional"
 msgstr "optioneel"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:246
+#: walkasjesus_app/views/law_of_messiah_view.py:248
 msgid "not generally recommended"
 msgstr "over het algemeen niet aanbevolen"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:247
+#: walkasjesus_app/views/law_of_messiah_view.py:249
 msgid "unauthorized"
 msgstr "niet toegestaan"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:248
+#: walkasjesus_app/views/law_of_messiah_view.py:250
 msgid "prohibited"
 msgstr "verboden"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:249
+#: walkasjesus_app/views/law_of_messiah_view.py:251
 msgid "impossible"
 msgstr "onmogelijk"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:310
-#: walkasjesus_app/views/law_of_messiah_view.py:432
+#: walkasjesus_app/views/law_of_messiah_view.py:312
+#: walkasjesus_app/views/law_of_messiah_view.py:434
 msgid "Everyone"
 msgstr "Iedereen"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:319
+#: walkasjesus_app/views/law_of_messiah_view.py:321
 msgid "Any application"
 msgstr "Elke toepassing"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:367
-#: walkasjesus_app/views/law_of_messiah_view.py:368
 #: walkasjesus_app/views/law_of_messiah_view.py:369
+#: walkasjesus_app/views/law_of_messiah_view.py:370
+#: walkasjesus_app/views/law_of_messiah_view.py:371
 msgid "Not specified"
 msgstr "Niet opgegeven"
 
-#: walkasjesus_app/views/law_of_messiah_view.py:414
-#: walkasjesus_app/views/law_of_messiah_view.py:448
+#: walkasjesus_app/views/law_of_messiah_view.py:416
+#: walkasjesus_app/views/law_of_messiah_view.py:450
 #, python-format
 msgid "%(application)s for %(persons)s"
 msgstr "%(application)s voor %(persons)s"
 
-#: walkasjesus_app/views/maimonides_view.py:72
+#: walkasjesus_app/views/maimonides_view.py:74
 msgid "Meir"
 msgstr "Meir"
 
-#: walkasjesus_app/views/maimonides_view.py:73
+#: walkasjesus_app/views/maimonides_view.py:75
 msgid "HaChinuch"
 msgstr "HaChinuch"
 
-#: walkasjesus_app/views/maimonides_view.py:88
+#: walkasjesus_app/views/maimonides_view.py:90
 #, python-format
 msgid "Scripture used by %(source)s"
 msgstr "Schriftgedeelte gebruikt door %(source)s"
 
-#: walkasjesus_app/views/maimonides_view.py:90
+#: walkasjesus_app/views/maimonides_view.py:92
 #, python-format
 msgid "Scripture used by %(first)s and %(second)s"
 msgstr "Schriftgedeelte gebruikt door %(first)s en %(second)s"
 
-#: walkasjesus_app/views/maimonides_view.py:91
+#: walkasjesus_app/views/maimonides_view.py:93
 #, python-format
 msgid "Scripture used by %(first)s, %(second)s and %(third)s"
 msgstr "Schriftgedeelte gebruikt door %(first)s, %(second)s en %(third)s"
@@ -4593,11 +4851,11 @@ msgstr "Ongeldige hoofdstukparameter"
 msgid "Login required for this commentator"
 msgstr "Login vereist voor deze commentator"
 
-#: walkasjesus_website/base_settings.py:201
+#: walkasjesus_website/base_settings.py:202
 msgid "English"
 msgstr "Engels"
 
-#: walkasjesus_website/base_settings.py:202
+#: walkasjesus_website/base_settings.py:203
 msgid "Dutch"
 msgstr "Nederlands"
 
@@ -35889,6 +36147,12 @@ msgstr "-"
 msgid "Expelling Demons"
 msgstr "Het verdrijven van demonen"
 
+#~ msgid "Compare translations · Study verse by verse · Read commentaries"
+#~ msgstr "Vergelijk vertalingen · Bestudeer vers voor vers · Lees commentaren"
+
+#~ msgid "Click to retrieve"
+#~ msgstr "Klik om op te halen"
+
 #~ msgid "Clear"
 #~ msgstr "Duidelijk"
 
@@ -35905,9 +36169,6 @@ msgstr "Het verdrijven van demonen"
 #~ msgstr ""
 #~ "Typ een boeknaam, voeg een hoofdstuknummer toe en vervolgens :verse voor een"
 #~ " specifiek bereik."
-
-#~ msgid "Study deeper in our Bible Study page"
-#~ msgstr "Bestudeer dieper op onze Bijbelstudiepagina"
 
 #~ msgid "Possible meanings"
 #~ msgstr "Mogelijke betekenissen"
@@ -36478,9 +36739,6 @@ msgstr "Het verdrijven van demonen"
 #~ "De Wet van Christus helpt je groep na de 77 stappen verder te gaan, zodat "
 #~ "jullie alle Bijbelse geboden kunnen spiegelen in dagelijks discipelschap en "
 #~ "samen meer op Jezus gaan lijken."
-
-#~ msgid "Unique steps"
-#~ msgstr "Unieke stappen"
 
 #~ msgid "Languages"
 #~ msgstr "Talen"
