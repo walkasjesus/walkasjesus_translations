@@ -1927,7 +1927,7 @@ msgstr "Bijbelteksten copyright"
 #: walkasjesus_app/templates/law_of_messiah/detail.html:391
 #: walkasjesus_app/templates/maimonides/listing.html:65
 msgid "Not provided for this Bible translation."
-msgstr "Het is niet gelukt de Bijbelvertaling te wijzigen."
+msgstr "Niet beschikbaar voor deze Bijbelvertaling."
 
 #: walkasjesus_app/templates/commandments/detail.html:350
 msgid ""
