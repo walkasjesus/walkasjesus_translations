@@ -942,8 +942,6 @@ msgstr "Er is geen paginagebruik gevonden voor deze selectie."
 msgid "No page user rows for this selection."
 msgstr "Geen paginagebruikersrijen voor deze selectie."
 
-#: walkasjesus_app/templates/bible_study/_bible_study_script.html:170
-#: walkasjesus_app/templates/bible_study/_bible_study_script.html:811
 #: walkasjesus_app/templates/bible_study/_bible_study_script.html:813
 #: walkasjesus_app/templates/bible_study/bible_study.html:295
 #: walkasjesus_app/templates/bible_study/bible_study.html:299
@@ -1225,6 +1223,42 @@ msgstr "Details van Strong"
 #: walkasjesus_app/templates/bible_study/_bible_study_script.html:1865
 msgid "Root Word"
 msgstr "Wortelwoord"
+
+msgid "Sound"
+msgstr "Klank"
+
+msgid "Traditional image, not word meaning"
+msgstr "Traditionele beeldassociatie, geen woordbetekenis"
+
+msgid "Prefix / service word"
+msgstr "Voorvoegsel / dienstwoord"
+
+msgid "Root word"
+msgstr "Grondwoord"
+
+msgid "Suffix"
+msgstr "Achtervoegsel"
+
+msgid "Grammatical element"
+msgstr "Grammaticaal onderdeel"
+
+msgid "Hebrew word: parts and letters"
+msgstr "Hebreeuws woord: opbouw en letters"
+
+msgid "No separate lexical root is tagged here; this form consists of attached grammatical parts."
+msgstr "Hier is geen afzonderlijk grondwoord getagd; deze vorm bestaat uit aangehechte grammaticale delen."
+
+msgid "Grammar explained"
+msgstr "Grammatica uitgelegd"
+
+msgid "Letter values (standard gematria)"
+msgstr "Letterwaarden (standaardgematria)"
+
+msgid "Counts consonants only; vowel points and cantillation marks do not count. Final letters use their standard letter values."
+msgstr "Telt alleen medeklinkers; klinkertekens en cantillatietekens tellen niet mee. Eindletters gebruiken hun gewone letterwaarde."
+
+msgid "Traditional picture associations are interpretive background, not a translation of the word."
+msgstr "Traditionele beeldassociaties zijn achtergrondinformatie, geen vertaling van het woord."
 
 #: walkasjesus_app/templates/bible_study/_bible_study_script.html:1876
 msgid "Most likely Hebrew equivalent based on Septuagint usage"
