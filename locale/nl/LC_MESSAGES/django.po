@@ -1372,12 +1372,43 @@ msgstr ""
 "worden vetgedrukt weergegeven."
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:100
+msgid "Combine verses into one continuous text"
+msgstr "Verzen samenvoegen tot doorlopende tekst"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:102
+msgid "(turn off for verse-by-verse word study)"
+msgstr "(uitzetten voor woordstudie per vers)"
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:105
+#: walkasjesus_app/templates/bible_study/bible_study.html:107
 msgid ""
-"Combine verses for easier reading (turn off to divide Bible texts by verse "
-"for thorough word study)."
+"On (combined): each translation is shown as one continuous text that reads "
+"easily. Below the text you find, per verse, the buttons for commentary and "
+"the original Hebrew/Greek text."
 msgstr ""
-"Combineer verzen om het lezen makkelijker te maken (schakel uit om "
-"Bijbelteksten per vers te verdelen voor een grondige woordstudie)."
+"Aan (gecombineerd): elke vertaling wordt als één doorlopende tekst getoond "
+"die prettig leest. Onder de tekst vind je per vers de knoppen voor "
+"commentaar en de oorspronkelijke Hebreeuwse/Griekse tekst."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:106
+#: walkasjesus_app/templates/bible_study/bible_study.html:107
+msgid ""
+"Off (per verse): every verse gets its own card with the selected "
+"translations side by side, so you can compare them verse by verse."
+msgstr ""
+"Uit (per vers): elk vers krijgt een eigen kaart met de gekozen vertalingen "
+"naast elkaar, zodat je ze vers voor vers kunt vergelijken."
+
+#: walkasjesus_app/templates/bible_study/bible_study.html:107
+msgid ""
+"Only when off: in English and Dutch translations every word is linked to "
+"the Hebrew or Greek word behind it. Point at a word to highlight the "
+"matching original word; click it to open its Strong's details."
+msgstr ""
+"Alleen als het uit staat: in Engelse en Nederlandse vertalingen is elk "
+"woord gekoppeld aan het Hebreeuwse of Griekse woord erachter. Wijs een "
+"woord aan om het bijbehorende grondtekstwoord op te lichten; klik erop "
+"om de Strong's-details te openen."
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:110
 msgid "Translation"
