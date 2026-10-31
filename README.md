@@ -40,28 +40,146 @@ ROSETTA_LANGUAGE_GROUPS = [
 
 2. Activate your virtual environment:  
 `source ./venv/bin/activate`
-3. Adding new texts to the .po files:  
-`python manage.py makemessages -l nl`
+3. Refresh the catalog and preview the interface workload without calling Google:
+`./update_translation_files.sh nl --scope ui --limit 50 --dry-run`
+This extracts template/Python messages and synchronizes database-backed fields.
 4. Compile the .po files. Run this also after changing the .po files.  
 `django-admin compilemessages`  
 _Or alternatively with msgfmt:_  
 `msgfmt translations/locale/nl/LC_MESSAGES/django.po -o translations/locale/nl/LC_MESSAGES/django.mo`
-5. Auto translate all the files with Google translate servers by running the following command:  
-`auto_translate_files.sh`
+5. Translate the interface first, in a small batch:
+`./auto_translate_files.sh nl --scope ui --limit 50 --request-interval 2`
+Then translate authorized study content separately:
+`./auto_translate_files.sh nl --scope content --limit 25 --request-interval 2`
 
-_NOTE: If you encounter the following error, this means that Google limited the number of translations you did for this day. You can resolve this to wait for tomorrow and try it again (it will continue where it was), or you can enable a VPN connection and try it again._
+Both scripts preserve their existing default of all scopes/locales when no
+options are provided. Explicit locale, scope and limit options are recommended
+for new languages.
 
-```
-Expecting value: line 1 column 1 (char 0)
-Could not translate all items, stopped on above error.
-```
-
-*Make sure to repeat this step until you don't get any errors*
-
-6. When running auto_translate_files.sh Google will translate all django variables in a wrong format. To fix the most errors, run:  
-`auto_correct_django_locale_vars.sh`
+6. The translator protects Django placeholders and HTML tags. If Google changes
+a protected token, the run stops with an error rather than storing damaged text.
+Completed entries are saved after each entry and compiled even when a translation
+run fails. Correct damaged translations manually before resuming.
 
 7. Now the translator can start translating the files. Follow the steps in paragraph [Translators translation manual]
+
+## Interface versus study content
+
+Keep a single `django.po`/`django.mo` catalog per language so Django's gettext,
+Vinaigrette and Rosetta resolve messages exactly as before. The separation is in
+the translation workload, not in runtime catalogs:
+
+- `--scope ui`: messages referenced by templates or Python, including settings,
+  navigation, page instructions and model-choice labels.
+- `--scope content`: database-backed messages such as step titles, lesson stories,
+  activities, questions and concise Law of Messiah labels. Synchronization adds
+  `model:Model.field` source references; legacy messages without references also
+  belong to this scope. A message shared with the interface is handled by `ui`.
+- `--scope all`: both workloads (the backwards-compatible default).
+
+Long Law of Messiah commentary bodies are intentionally not registered as PO
+translations. Bible verse text comes from the selected Bible translation, not
+from Google. Only send content to a translation service when you have permission
+to do so.
+
+`--limit` caps entries across the entire run, not per file or language. An entry
+can require several requests when it contains paragraphs or plural forms.
+`--request-interval` sets minimum seconds between request starts, including
+requests within a long entry. The default is 1 second. Use `--dry-run` to see the
+remaining UI/content counts without sending requests or changing translations.
+The refresh script still refreshes the catalog in dry-run mode.
+
+### Continuing Hebrew
+
+From the website directory:
+
+```bash
+./update_translation_files.sh he --scope ui --limit 25 --dry-run
+./auto_translate_files.sh he --scope ui --limit 25 --request-interval 2
+./auto_translate_files.sh he --scope content --limit 25 --request-interval 2
+```
+
+Repeated successful batches skip completed translations. Fuzzy entries remain
+eligible for automatic translation; reviewed entries are preserved.
+
+### Local/offline Hebrew drafts
+
+The `local` provider runs the Argos English-to-Hebrew 1.5 model directly through
+CTranslate2 and SentencePiece on the CPU. It does not call a translation API or
+download anything at inference time. Dependencies and the model are installed
+once; the website server does not need the inference dependencies.
+
+Install the optional dependencies in a translation virtual environment:
+
+```bash
+python3 -m venv --system-site-packages ~/.cache/walkasjesus/translation-venv
+~/.cache/walkasjesus/translation-venv/bin/python -m pip install -r ../translate_tool/requirements-local.txt
+```
+
+The environment must also contain the site's existing Django, polib and
+translate_tool dependencies. `--system-site-packages` reuses them when they are
+already installed in the selected Python interpreter.
+
+Download `translate-en_he-1_5.argosmodel` from the
+[official Argos package index](https://github.com/argosopentech/argospm-index).
+It is a ZIP archive of approximately 120 MiB. Extract it outside the repository,
+for example into `~/.cache/walkasjesus/translation-models/`. Retain its README
+and attribution information. The model directory must contain `metadata.json`,
+`sentencepiece.model` and `model/model.bin`. This is a model trained on public
+parallel corpora, not a specialist theological translator; review terminology
+and meaning carefully.
+
+From the website directory:
+
+```bash
+export WAJ_TRANSLATION_PYTHON="$HOME/.cache/walkasjesus/translation-venv/bin/python"
+./auto_translate_files.sh he --provider local \
+  --model-path "$HOME/.cache/walkasjesus/translation-models/translate-en_he-1_5" \
+  --scope ui --limit 50
+./auto_translate_files.sh he --provider local \
+  --model-path "$HOME/.cache/walkasjesus/translation-models/translate-en_he-1_5" \
+  --scope content --limit 50
+```
+
+Both scripts accept `--provider local` and `--model-path`. Omit `--limit` to
+translate all pending entries in the selected scope. `--dry-run` reports pending
+counts and drafts awaiting review without loading the model. Protected
+placeholders/HTML are kept out of inference and retained exactly. Splitting
+around those tokens can reduce sentence context, so inspect such entries in
+particular. Missing models, unsupported language pairs and inference errors
+stop the run explicitly; there is no fallback to Google.
+
+#### Reviewing and publishing in Rosetta
+
+1. Sign in as a superuser or an authorized Hebrew translator
+   (`translators-he` under the existing Rosetta permission settings).
+2. Open `/rosetta/` and choose Hebrew and the main project catalog. For the
+   account catalog, use `/rosetta/files/all/`: Rosetta classifies the sibling
+   account app outside the project filter. Review both catalogs.
+3. Select the **Fuzzy** filter. Local drafts carry the translator comment
+   `Machine translation draft: local Argos; review in Rosetta.`
+4. Correct the Hebrew and clear **Fuzzy** only after approval. Save the page.
+   Rosetta saves the PO and recompiles the MO.
+5. Reload/restart deployed Django workers after publishing catalogs, since
+   loaded gettext catalogs may remain cached.
+
+Fuzzy drafts are deliberately excluded from compiled MO files, so the site
+continues to show the source English until approval. Restarting automatic
+translation skips completed machine drafts as well as approved translations,
+including when using the Google provider. To regenerate a rejected draft,
+clear its translation text first. Plural forms are draft approximations and
+must be checked individually in Rosetta.
+
+### Google rate limits
+
+The current adapter uses Google's unauthenticated web translation endpoint,
+not an authenticated Cloud Translation API project with a purchased quota.
+Slower, smaller runs reduce traffic but cannot guarantee that Google accepts it.
+On HTTP 429 the command stops, preserves completed work, reports `Retry-After`
+when available, and exits unsuccessfully. Do not repeatedly restart or change
+networks to evade the limit. Wait for the restriction to clear. For sustained
+bulk translation, consider an authenticated translation API with explicit quota
+and billing rather than this endpoint.
 
 ## Related projects and repositories
 
