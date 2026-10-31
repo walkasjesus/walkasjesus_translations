@@ -1651,6 +1651,14 @@ msgstr "Passage voorbeeld"
 msgid "Study this passage"
 msgstr "Bestudeer deze passage"
 
+#: walkasjesus_app/templates/maimonides/listing.html
+msgid "Load Bible text"
+msgstr "Bijbeltekst ophalen"
+
+#: walkasjesus_app/templates/maimonides/listing.html
+msgid "Click the scripture reference to open the Bible Study page. Use the buttons beside it for commentary and original text, or load the Bible text below."
+msgstr "Klik op de Bijbelverwijzing om de Bijbelstudiepagina te openen. Gebruik de knoppen ernaast voor commentaar en de oorspronkelijke tekst, of haal de Bijbeltekst hieronder op."
+
 #: walkasjesus_app/templates/bible_study/bible_study.html:385
 msgid "The preview uses the first selected translation."
 msgstr "Het zoekresultaat gebruikt de eerst geselecteerde vertaling."
