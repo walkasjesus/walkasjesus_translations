@@ -2236,6 +2236,19 @@ msgstr "Blogs"
 msgid "Sermons"
 msgstr "Preken"
 
+#: walkasjesus_app/templates/commandments/_media_type_badges.html:13
+msgid "Podcast"
+msgstr "Podcast"
+
+#: walkasjesus_app/templates/commandments/detail.html:124
+#: walkasjesus_app/templates/commandments/detail.html:618
+#: walkasjesus_app/templates/law_of_messiah/detail.html:118
+#: walkasjesus_app/templates/law_of_messiah/detail.html:754
+#: walkasjesus_app/templates/lessons/detail.html:106
+#: walkasjesus_app/templates/lessons/detail.html:349
+msgid "Podcasts"
+msgstr "Podcasts"
+
 #: walkasjesus_app/templates/commandments/detail.html:124
 #: walkasjesus_app/templates/commandments/detail.html:611
 #: walkasjesus_app/templates/law_of_messiah/detail.html:118
@@ -2569,14 +2582,14 @@ msgstr "Taalinstellingen van de media items"
 #: walkasjesus_app/templates/lessons/detail.html:449
 msgid ""
 "Below you will find all kinds of related resources to this step, to help you"
-" grow. Resources can be Sermons, Testimonies, Movies, Shortmovies, Songs, "
-"Blogs or Books. You can select multiple languages if you like to see those "
-"resources in more languages."
+" grow. Resources can be Sermons, Podcasts, Testimonies, Movies, Shortmovies, "
+"Songs, Blogs or Books. You can select multiple languages if you like to see "
+"those resources in more languages."
 msgstr ""
 "Hieronder vind je allerlei gerelateerde media items aan deze stap om je te "
-"helpen groeien. Media items zijn bijvoorbeeld preken, getuigenissen, films, "
-"korte films, liederen, blogs of boeken. Je kunt meerdere talen selecteren om"
-" deze media items te zien in meer talen."
+"helpen groeien. Media items zijn bijvoorbeeld preken, podcasts, "
+"getuigenissen, films, korte films, liederen, blogs of boeken. Je kunt "
+"meerdere talen selecteren om deze media items te zien in meer talen."
 
 #: walkasjesus_app/templates/commandments/detail.html:420
 #: walkasjesus_app/templates/lessons/detail.html:450
