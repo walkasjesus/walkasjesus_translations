@@ -13247,3 +13247,63 @@ msgstr ""
 
 msgid "Rein"
 msgstr ""
+
+msgid "The word analysis may be incomplete; a grammatical part may still be brown."
+msgstr "De woordanalyse is mogelijk onvolledig; een grammaticaal deel kan nog bruin zijn."
+
+msgid "? = possible incomplete analysis; not all uncertain forms are detected."
+msgstr "? = mogelijk onvolledige analyse; niet alle onzekere vormen worden herkend."
+
+msgid "The underlined letter may represent both the lexical stem and a conjugation ending; this overlap is inferred from morphology and word form."
+msgstr "De onderstreepte letter kan zowel bij de woordstam als bij een vervoegingsuitgang horen; deze overlap is afgeleid uit grammatica en woordvorm."
+
+msgid "STEPBible-tagged component; role and boundaries may be adapted by the analysis."
+msgstr "Door STEPBible gemarkeerd onderdeel; de analyse kan de rol en grenzen aanpassen."
+
+msgid "Inferred from morphology and word form."
+msgstr "Afgeleid uit grammatica en woordvorm."
+
+msgid "STEPBible lexicon lemma."
+msgstr "Lemma uit het woordenboek van STEPBible."
+
+msgid "Underline"
+msgstr "Onderstreping"
+
+msgid "possible overlap of stem and ending"
+msgstr "mogelijke overlap van stam en uitgang"
+
+msgid "No Hebrew verse mapping is available for this passage."
+msgstr "Voor deze passage is geen koppeling aan de Hebreeuwse versnummering beschikbaar."
+
+msgid "Verse numbering for this translation is not verified for this passage."
+msgstr "De versnummering van deze vertaling is voor deze passage niet gecontroleerd."
+
+msgid "Verse numbering for this translation has not been verified."
+msgstr "De versnummering van deze vertaling is niet gecontroleerd."
+
+msgid "Verse boundaries differ; the translation may include text from an adjacent Hebrew verse."
+msgstr "De versgrenzen verschillen; de vertaling kan ook tekst uit een aangrenzend Hebreeuws vers bevatten."
+
+msgid "This reference spans multiple Hebrew chapters; open its verses separately."
+msgstr "Deze verwijzing loopt over meerdere Hebreeuwse hoofdstukken; open de verzen afzonderlijk."
+
+msgid "This reference cannot be mapped reliably to Hebrew numbering."
+msgstr "Deze verwijzing kan niet betrouwbaar worden omgezet naar de Hebreeuwse versnummering."
+
+msgid "Maqqef: connects words"
+msgstr "Maqqef: verbindt woorden"
+
+msgid "Paseq: separates words"
+msgstr "Paseq: scheidt woorden"
+
+msgid "Sof pasuq: ends a verse"
+msgstr "Sof pasoek: sluit een vers af"
+
+msgid "Pe: ends a literary section"
+msgstr "Pe: sluit een tekstgedeelte af"
+
+msgid "Samekh: ends a reading section"
+msgstr "Samech: sluit een leesgedeelte af"
+
+msgid "Inverted nun: ends a reading section"
+msgstr "Omgekeerde noen: sluit een leesgedeelte af"
