@@ -18,6 +18,78 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Translated-Using: django-rosetta 0.10.3\n"
 
+#: walkasjesus_app/templates/bible_study/bible_study.html
+msgid "Bible Study - Settings"
+msgstr "Bijbelstudie - Instellingen"
+
+msgid "Search Bible passage"
+msgstr "Zoek een Bijbelgedeelte"
+
+msgid "Search words in Bible translation"
+msgstr "Zoek woorden in de Bijbelvertaling"
+
+msgid "Bible verse search options"
+msgstr "Zoekopties voor Bijbelverzen"
+
+msgid "Search only the text of the first selected translation."
+msgstr "Zoek alleen in de tekst van de eerste geselecteerde vertaling."
+
+msgid "Search words in Strong's Dictionary"
+msgstr "Zoek woorden in het Strong-woordenboek"
+
+msgid "e.g. Life, H2416 or a Hebrew/Greek word"
+msgstr "bijv. leven, H2416 of een Hebreeuws/Grieks woord"
+
+msgid "Hebrew"
+msgstr "Hebreeuws"
+
+msgid "Greek"
+msgstr "Grieks"
+
+msgid "The Statenvertaling (SV) uses local text and word-level Strong’s tagging. Other translations may have less complete word links."
+msgstr "De Statenvertaling (SV) gebruikt lokale tekst en Strong-koppelingen per woord. Bij andere vertalingen zijn de woordkoppelingen mogelijk minder volledig."
+
+msgid "Use the first search box for a passage such as Gen 1:1 or Genesis 1:1-5. Choose an autocomplete suggestion, press Enter or click Search to open it. Suggestions respect chapter boundaries and show up to"
+msgstr "Gebruik het eerste zoekveld voor een Bijbelgedeelte zoals Gen 1:1 of Genesis 1:1-5. Kies een suggestie, druk op Enter of klik op Zoek om het te openen. Suggesties blijven binnen hetzelfde hoofdstuk en tonen maximaal"
+
+msgid "Use Previous and Next above or below the passage to move through the Bible. Combine verses gives continuous text; turn it off for separate verse cards and word-by-word study."
+msgstr "Gebruik Vorige en Volgende boven of onder het Bijbelgedeelte om door de Bijbel te bladeren. Met Verzen samenvoegen krijg je doorlopende tekst; schakel dit uit voor afzonderlijke verskaarten en woordstudie."
+
+msgid "The second box searches only the first selected translation, without Hebrew/Greek word study. Matching words are highlighted; click a result to open its passage. Search and Enter do the same thing."
+msgstr "Het tweede veld zoekt alleen in de eerste geselecteerde vertaling, zonder Hebreeuwse of Griekse woordstudie. Gevonden woorden worden gemarkeerd; klik op een resultaat om het Bijbelgedeelte te openen. Zoek en Enter doen hetzelfde."
+
+msgid "Use the third box for a word meaning, a Strong’s number such as H2416 or G26, or a Hebrew/Greek word. Check Hebrew, Greek or both; at least one language must be selected. Hebrew is selected initially."
+msgstr "Gebruik het derde veld voor een betekenis, een Strong-nummer zoals H2416 of G26, of een Hebreeuws of Grieks woord. Kies Hebreeuws, Grieks of beide; minstens één taal moet geselecteerd zijn. Hebreeuws is standaard geselecteerd."
+
+msgid "The first matching Strong’s word starts selected. Select more word buttons to include their occurrence verses; deselect them to remove those verses. Deselecting all shows no verses. Selection is kept while paging, and page buttons show reference ranges. Close the result panel with its cross."
+msgstr "Het eerste gevonden Strong-woord is aanvankelijk geselecteerd. Selecteer meer woordknoppen om ook hun verzen te tonen; deselecteer ze om die verzen te verwijderen. Als je alles deselecteert, worden geen verzen getoond. De selectie blijft behouden bij het bladeren en de paginaknoppen tonen de versverwijzingen. Sluit het resultatenpaneel met het kruisje."
+
+msgid "Word details include grammar, root and service-word components, and Hebrew letter values. Expand or collapse the parts-and-letters and Strong’s cards. Dictionary details show the lemma; clicking a passage word shows its actual inflected form, so grammar and letter totals can differ."
+msgstr "Woorddetails bevatten grammatica, woordstam en hulpwoordonderdelen, en Hebreeuwse letterwaarden. Je kunt de kaarten met onderdelen en letters en de Strong-kaarten open- en dichtklappen. Het woordenboek toont het lemma; bij een woord in een Bijbelgedeelte zie je de daadwerkelijke verbogen vorm. Grammatica en lettertotalen kunnen daarom verschillen."
+
+msgid "A word without a link was not reliably aligned. It may be added by the translator, or the wording may differ too much from the tagged edition; it does not prove that no original-language counterpart exists."
+msgstr "Een woord zonder koppeling kon niet betrouwbaar worden gekoppeld. Het kan door de vertaler zijn toegevoegd of te veel afwijken van de uitgave met woordtags; dit betekent niet dat er geen overeenkomstig woord in de grondtekst bestaat."
+
+msgid "Translation texts come from API.Bible, the local Statenvertaling and the local Complete Jewish Bible; each translation has its own copyright notice. Local text search does not call API.Bible. Fetching external translation verses can be subject to the daily API allowance; errors are shown explicitly."
+msgstr "Vertaalde teksten komen van API.Bible, de lokale Statenvertaling en de lokale Complete Jewish Bible; elke vertaling heeft een eigen auteursrechtvermelding. Lokaal zoeken gebruikt API.Bible niet. Voor het ophalen van externe vertalingen kan een dagelijkse API-limiet gelden; fouten worden duidelijk weergegeven."
+
+#: walkasjesus_app/templates/bible_study/_search_options.html
+msgid "These options apply only to searching words in Bible verses."
+msgstr "Deze opties gelden alleen voor het zoeken naar woorden in Bijbelverzen."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html
+msgid "__count__ search results could not be reliably aligned with the Hebrew/Greek text. Word-study results may be incomplete for this translation. Use the third search box, “Search words in Strong's Dictionary”, to find original-word occurrences."
+msgstr "__count__ zoekresultaten konden niet betrouwbaar aan de Hebreeuwse of Griekse tekst worden gekoppeld. De woordstudieresultaten voor deze vertaling kunnen onvolledig zijn. Gebruik het derde zoekveld, ‘Zoek woorden in het Strong-woordenboek’, om voorkomens van woorden uit de grondtekst te vinden."
+
+msgid "No matching original words were found for the selected language. Check Original language or use the third search box to search Hebrew/Greek related words in Strong's Dictionary."
+msgstr "Er zijn geen overeenkomende woorden in de geselecteerde grondtaal gevonden. Controleer Oorspronkelijke taal of gebruik het derde zoekveld om verwante Hebreeuwse of Griekse woorden in het Strong-woordenboek te zoeken."
+
+msgid "Select Hebrew, Greek or both before searching the dictionary."
+msgstr "Selecteer Hebreeuws, Grieks of beide voordat je in het woordenboek zoekt."
+
+msgid "Searching related words in Strong's Dictionary…"
+msgstr "Verwante woorden zoeken in het Strong-woordenboek…"
+
 #: templates/base.html:8 templates/base.html:55 templates/base.html:62
 msgid "Walk as Jesus - Follow Jesus in daily life"
 msgstr "Wandel als Jezus - Volg Jezus in het dagelijks leven"
@@ -179,7 +251,7 @@ msgstr "Website taal"
 
 #: templates/modal.html:32
 msgid "Bible translation"
-msgstr "Bijbel vertaling"
+msgstr "Bijbelvertaling"
 
 #: templates/modal.html:47
 msgid ""
@@ -1496,7 +1568,7 @@ msgstr "bijv. Boom des levens"
 #: walkasjesus_app/templates/law_of_messiah/listing.html:68
 #: walkasjesus_app/templates/maimonides/listing.html:32
 msgid "Search"
-msgstr "Zoekopdracht"
+msgstr "Zoek"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:87
 #: walkasjesus_app/templates/bible_study/bible_study.html:158
@@ -1594,7 +1666,7 @@ msgstr "Voeg een vertaling toe"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:159
 msgid "Close"
-msgstr "Dichtbij"
+msgstr "Sluiten"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:165
 msgid "Search method"
@@ -1721,7 +1793,7 @@ msgstr "Bijbelse volgorde"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:258
 msgid "Best matches first"
-msgstr "Beste wedstrijden eerst"
+msgstr "Beste overeenkomsten eerst"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:259
 msgid "Reverse Bible order"
@@ -1729,7 +1801,7 @@ msgstr "Omgekeerde Bijbelvolgorde"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:266
 msgid "Match strictness"
-msgstr "Match strengheid"
+msgstr "Nauwkeurigheid van de overeenkomst"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:267
 msgid "Set how strict spelling should be while searching."
@@ -1745,11 +1817,11 @@ msgstr "Alleen exacte spelling"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:274
 msgid "Allow close spelling"
-msgstr "Sta nauwe spelling toe"
+msgstr "Sta kleine spellingverschillen toe"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:275
 msgid "Allow broader spelling"
-msgstr "Sta bredere spelling toe"
+msgstr "Sta grotere spellingverschillen toe"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:282
 msgid "Exact phrase mode"
@@ -1771,7 +1843,7 @@ msgstr "Annuleren"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:296
 msgid "Apply and search"
-msgstr "Solliciteer en zoek"
+msgstr "Opslaan en zoeken"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:306
 msgid "Translations"
@@ -12044,9 +12116,6 @@ msgstr "Vrouwen"
 #~ msgid "Lower Sorbian"
 #~ msgstr "Nedersorbisch"
 
-#~ msgid "Greek"
-#~ msgstr "Grieks"
-
 #~ msgid "Australian English"
 #~ msgstr "Australisch Engels"
 
@@ -12100,9 +12169,6 @@ msgstr "Vrouwen"
 
 #~ msgid "Galician"
 #~ msgstr "Galicisch"
-
-#~ msgid "Hebrew"
-#~ msgstr "Hebreeuws"
 
 #~ msgid "Hindi"
 #~ msgstr "Hindi"
@@ -13280,6 +13346,54 @@ msgstr "De versnummering van deze vertaling is voor deze passage niet gecontrole
 
 msgid "Verse numbering for this translation has not been verified."
 msgstr "De versnummering van deze vertaling is niet gecontroleerd."
+
+msgid "This passage cannot be shown reliably in this translation. Choose another translation."
+msgstr "Deze passage kan niet betrouwbaar worden weergegeven in deze vertaling. Kies een andere vertaling."
+
+msgid "Also search Strong in Bible"
+msgstr "Strong ook in de Bijbel zoeken"
+
+msgid "Search selected words in Bible"
+msgstr "Zoek geselecteerde woorden in de Bijbel"
+
+msgid "Searching Bible verses containing the selected Strong’s words…"
+msgstr "Bijbelverzen zoeken waarin de geselecteerde Strong-woorden voorkomen…"
+
+msgid "These options apply to Bible verses containing the selected Strong’s words, not to local dictionary matches."
+msgstr "Deze opties gelden voor Bijbelverzen waarin de geselecteerde Strong-woorden voorkomen, niet voor de lokale woordenboekresultaten."
+
+msgid "Text search options include Bible sections, custom book ranges, results per page, sorting, spelling strictness and exact phrase matching. Local translations use literal matching and do not support fuzzy spelling."
+msgstr "Bij de tekstzoekopties kies je Bijbelgedeelten, een eigen boekbereik, resultaten per pagina, sorteervolgorde, spelling en exacte zinnen. Lokale vertalingen zoeken letterlijk en ondersteunen geen benaderende spelling."
+
+msgid "Dictionary search uses local lemmas, English meanings and available Dutch Statenvertaling renderings. The typed word need not appear in the translation. Options next to Search selected words in Bible control the Bible section, book range, results per page and Bible order. These settings are separate from text search options."
+msgstr "Het woordenboek zoekt in lokale lemma's, Engelse betekenissen en beschikbare Nederlandse Statenvertaling-woorden. Het getypte woord hoeft niet in de vertaling te staan. Met de opties naast 'Zoek geselecteerde woorden in de Bijbel' kies je het Bijbelgedeelte, boekbereik, resultaten per pagina en de Bijbelvolgorde. Deze instellingen staan los van de tekstzoekopties."
+
+msgid "__count__ dictionary matches. Bible verses have not been fetched."
+msgstr "__count__ woordenboekresultaten. Er zijn nog geen Bijbelverzen opgehaald."
+
+msgid "Select words to view their local dictionary details. Use Search selected words in Bible to fetch their occurrence verses."
+msgstr "Selecteer woorden om hun lokale woordenboekgegevens te bekijken. Gebruik 'Zoek geselecteerde woorden in de Bijbel' om de verzen op te halen waarin ze voorkomen."
+
+msgid "Also search Strong in Bible is on by default. Turn it off to search only the local dictionary, without fetching Bible verses. Select words and use Search selected words in Bible to fetch their occurrences in the first selected translation."
+msgstr "'Strong ook in de Bijbel zoeken' staat standaard aan. Zet dit uit om alleen in het lokale woordenboek te zoeken, zonder Bijbelverzen op te halen. Selecteer woorden en gebruik 'Zoek geselecteerde woorden in de Bijbel' om de verzen op te halen waarin ze voorkomen in de eerste geselecteerde vertaling."
+
+msgid "Verse numbering profile and limitations"
+msgstr "Versnummeringsprofiel en beperkingen"
+
+msgid "KJV storage references; embedded Dutch references. Psalm titles are separated."
+msgstr "KJV-opslagnummering met Nederlandse versverwijzingen in de tekst. Psalmopschriften worden apart weergegeven."
+
+msgid "Uses SV references outside Psalms (not independently verified); Hebrew numbering in Psalms."
+msgstr "Gebruikt buiten Psalmen de SV-versverwijzingen (niet onafhankelijk gecontroleerd); Hebreeuwse versnummering in Psalmen."
+
+msgid "KJV reference profile; Hebrew references are converted using STEPBible."
+msgstr "KJV-versnummeringsprofiel; Hebreeuwse verwijzingen worden omgerekend met STEPBible."
+
+msgid "Hebrew numbering in Psalms and Hosea; other numbering differences are not verified."
+msgstr "Hebreeuwse versnummering in Psalmen en Hosea; andere nummeringsverschillen zijn niet gecontroleerd."
+
+msgid "Hebrew numbering in Hosea; other numbering differences are not verified."
+msgstr "Hebreeuwse versnummering in Hosea; andere nummeringsverschillen zijn niet gecontroleerd."
 
 msgid "Verse boundaries differ; the translation may include text from an adjacent Hebrew verse."
 msgstr "De versgrenzen verschillen; de vertaling kan ook tekst uit een aangrenzend Hebreeuws vers bevatten."
