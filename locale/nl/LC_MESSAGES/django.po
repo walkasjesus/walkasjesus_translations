@@ -1538,7 +1538,7 @@ msgstr ""
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:55
 msgid "Legend — how does this page work?"
-msgstr "Legenda — wat betekenen de pictogrammen en filters?"
+msgstr "Legenda — hoe werkt deze pagina?"
 
 #: walkasjesus_app/templates/bible_study/bible_study.html:60
 msgid "Settings"
@@ -13652,3 +13652,63 @@ msgstr "Geen nummeringsverschillen in de lokale referentiemapping"
 
 msgid "No local numbering reference mapping available"
 msgstr "Geen lokale referentiemapping voor versnummering beschikbaar"
+
+msgid "Section headings could not be loaded. The verse text is still available."
+msgstr "De tussenkopjes konden niet worden geladen. De verstekst blijft beschikbaar."
+
+msgid "Show section headings from the translation"
+msgstr "Toon tussenkopjes uit de vertaling"
+
+msgid "Only when off: reliably aligned English and Dutch words are linked to the matching Hebrew or Greek word. Point at a linked word to highlight the original word; click it to open its Strong's details."
+msgstr "Alleen wanneer uitgeschakeld: betrouwbaar gekoppelde Engelse en Nederlandse woorden zijn verbonden met het bijbehorende Hebreeuwse of Griekse woord. Wijs een gekoppeld woord aan om het oorspronkelijke woord te markeren; klik erop om de Strong-details te openen."
+
+msgid "Use the first search box for a passage such as Gen 1:1 or Genesis 1:1-5. Choose a suggestion, press Enter or click Search. Explicit ranges can extend to the end of the chapter, within the strictest licence limit of the selected translations."
+msgstr "Gebruik het eerste zoekvak voor een Bijbelgedeelte zoals Gen 1:1 of Genesis 1:1-5. Kies een suggestie, druk op Enter of klik op Zoek. Een opgegeven versbereik kan tot het einde van het hoofdstuk lopen, binnen de strengste licentielimiet van de geselecteerde vertalingen."
+
+msgid "Show whole chapter is available when all selected translations allow it. Previous and Next normally move through verse ranges; in whole-chapter mode they move to the previous or next chapter, also across book boundaries."
+msgstr "Toon heel hoofdstuk is beschikbaar wanneer alle geselecteerde vertalingen dit toestaan. Vorige en Volgende navigeren normaal door versbereiken; bij een volledig hoofdstuk ga je naar het vorige of volgende hoofdstuk, ook over boekgrenzen heen."
+
+msgid "NBV21 and BGT allow at most 5 verses at a time. A red notice below the translation selectors explains the active limit and disappears after 10 seconds; the limit still applies."
+msgstr "NBV21 en BGT staan maximaal 5 verzen per keer toe. Een rode melding onder de vertaalkeuzes legt de actieve limiet uit en verdwijnt na 10 seconden; de limiet blijft gelden."
+
+msgid "Continuous text and section headings"
+msgstr "Doorlopende tekst en tussenkopjes"
+
+msgid "Combine verses gives continuous text per translation; turn it off for separate verse cards and word-by-word study. The section-headings checkbox below it is only available in combined mode. Its selection is kept when switching modes."
+msgstr "Verzen samenvoegen geeft doorlopende tekst per vertaling; zet dit uit voor losse verskaarten en woordstudie. Het vinkje voor tussenkopjes eronder is alleen beschikbaar bij doorlopende tekst. De keuze blijft bewaard wanneer je van weergave wisselt."
+
+msgid "Headings are editorial titles supplied by the selected translation, not numbered verses or original-language text. Not every translation provides them. An active heading may start in an earlier verse or chapter; it is shown above the relevant displayed text."
+msgstr "Tussenkopjes zijn redactionele titels uit de geselecteerde vertaling, geen genummerde verzen of oorspronkelijke Bijbeltekst. Niet elke vertaling levert ze aan. Een actief kopje kan bij een eerder vers of hoofdstuk beginnen; het verschijnt boven de bijbehorende getoonde tekst."
+
+msgid "Verse numbering and merged verses"
+msgstr "Versnummering en samengevoegde verzen"
+
+msgid "Old Testament selection and original text use Hebrew verse numbering, which can differ from the translation. Differing source references and verse-boundary warnings are shown. When no reliable mapping is available, choose another translation rather than displaying a potentially wrong passage."
+msgstr "De selectie en oorspronkelijke tekst van het Oude Testament gebruiken Hebreeuwse versnummering, die van de vertaling kan afwijken. Afwijkende bronverwijzingen en waarschuwingen over versgrenzen worden getoond. Als geen betrouwbare koppeling beschikbaar is, kies je een andere vertaling in plaats van een mogelijk verkeerd Bijbelgedeelte te tonen."
+
+msgid "A translation may combine several verses into one text block, such as BGT 1-4. Combined mode shows that block once with its range. Numbered Psalm titles remain part of the verses and are different from the optional editorial headings."
+msgstr "Een vertaling kan meerdere verzen tot een tekstblok samenvoegen, zoals BGT 1-4. Bij doorlopende tekst verschijnt dat blok eenmaal met zijn versbereik. Genummerde psalmopschriften blijven onderdeel van de verzen en zijn iets anders dan de optionele redactionele tussenkopjes."
+
+msgid "Copying verses"
+msgstr "Verzen kopiëren"
+
+msgid "Click an unlinked part of the verse text to select or deselect it, then use the copy bar. References retain merged verse ranges. Editorial section headings are not included in copied verse text."
+msgstr "Klik op een niet-gekoppeld deel van de verstekst om die te selecteren of deselecteren en gebruik daarna de kopieerbalk. Verwijzingen behouden samengevoegde versbereiken. Redactionele tussenkopjes worden niet met de verstekst meegekopieerd."
+
+msgid "For the King James Version and the Dutch Statenvertaling, word links use local word-by-word Strong's tagging. A link is only shown when it can be matched to the original words and verse boundaries."
+msgstr "Voor de King James Version en de Nederlandse Statenvertaling gebruiken woordkoppelingen lokale Strong-tags per woord. Een koppeling verschijnt alleen wanneer die bij de oorspronkelijke woorden en versgrenzen past."
+
+msgid "Local STEPBible lexicons are supplemented by the public-domain OpenScriptures Strong's definitions and KJV usage lists. Word-by-word tagging comes from the public CrossWire Bible Society modules."
+msgstr "Lokale STEPBible-lexicons worden aangevuld met de OpenScriptures Strong-definities en KJV-gebruikslijsten uit het publieke domein. De tags per woord komen uit de openbare modules van de CrossWire Bible Society."
+
+msgid "API.Bible section metadata contains titles and verse references, not extra verse text. It is cached per translation and book for 25 days. Disabling headings avoids metadata requests; temporary metadata failures leave the verses visible with a warning."
+msgstr "API.Bible-sectiemetadata bevat titels en versverwijzingen, geen extra verstekst. Deze wordt per vertaling en boek 25 dagen gecachet. Uitgeschakelde tussenkopjes voorkomen metadata-aanvragen; bij tijdelijke metadatafouten blijven de verzen zichtbaar met een waarschuwing."
+
+msgid "opens enabled commentary sources for the selected passage."
+msgstr "opent ingeschakelde commentaarbronnen voor het geselecteerde Bijbelgedeelte."
+
+msgid "The Other Commentary button is hidden when no enabled commentary source supports the selected book."
+msgstr "De knop Overige Commentaar is verborgen wanneer geen ingeschakelde commentaarbron het geselecteerde boek ondersteunt."
+
+msgid "Side-by-side columns align verse starts and leave a blank line above headings within the text. Merged verse blocks stay together. On small screens the translations stack without alignment padding."
+msgstr "Kolommen naast elkaar lijnen het begin van de verzen uit en laten een lege regel boven tussenkopjes midden in de tekst. Samengevoegde versblokken blijven bij elkaar. Op kleine schermen staan de vertalingen onder elkaar zonder uitlijnruimte."
