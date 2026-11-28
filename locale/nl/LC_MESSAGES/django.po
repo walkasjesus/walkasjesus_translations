@@ -13612,3 +13612,43 @@ msgstr "Hoofdstukdekking: %(book)s %(cached)s / %(expected)s"
 
 msgid "Specify the edition in the dossier before confirming."
 msgstr "Vul de editie in het dossier in voordat je bevestigt."
+
+msgid "Bible numbering report"
+msgstr "Rapport bijbelversnummering"
+
+msgid "Bible numbering reports"
+msgstr "Rapporten bijbelversnummering"
+
+msgid "Latest automatic report"
+msgstr "Laatste automatische rapport"
+
+msgid "No scan yet. Run check_bible_numbering.sh."
+msgstr "Nog geen scan. Voer check_bible_numbering.sh uit."
+
+msgid "Source references available; no automatic mapping approval"
+msgstr "Bronverwijzingen beschikbaar; geen automatische goedkeuring van de mapping"
+
+msgid "No scan yet"
+msgstr "Nog geen scan"
+
+msgid "Automatic numbering report"
+msgstr "Automatisch nummeringsrapport"
+
+msgid "View automatic report"
+msgstr "Bekijk automatisch rapport"
+
+msgid "Hebrew numbering in Psalms, Hosea and Joel; other numbering differences are not verified."
+msgstr "Hebreeuwse versnummering in Psalmen, Hosea en Joël; andere nummeringsverschillen zijn niet gecontroleerd."
+
+#, python-format
+msgid "API requests in this run: %(count)s"
+msgstr "API-aanvragen in deze run: %(count)s"
+
+msgid "Request budget reached; run the script again to continue."
+msgstr "Aanvragenlimiet bereikt; voer het script opnieuw uit om verder te gaan."
+
+msgid "No numbering differences in the local reference mapping"
+msgstr "Geen nummeringsverschillen in de lokale referentiemapping"
+
+msgid "No local numbering reference mapping available"
+msgstr "Geen lokale referentiemapping voor versnummering beschikbaar"
