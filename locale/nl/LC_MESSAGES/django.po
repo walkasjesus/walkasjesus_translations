@@ -13553,8 +13553,8 @@ msgid "This is a structural report, not proof of correct verse boundaries."
 msgstr "Dit is een structuurrapport, geen bewijs van correcte versgrenzen."
 
 #, python-format
-msgid "%(count)s fresh cached references"
-msgstr "%(count)s actuele verwijzingen in de cache"
+msgid "Fresh cached references at scan time: %(count)s"
+msgstr "Actuele verwijzingen in de cache op het moment van de scan: %(count)s"
 
 #, python-format
 msgid "Cache entries: %(entries)s"
@@ -13609,3 +13609,6 @@ msgstr "Controledossier en checklist"
 #, python-format
 msgid "Chapter coverage: %(book)s %(cached)s / %(expected)s"
 msgstr "Hoofdstukdekking: %(book)s %(cached)s / %(expected)s"
+
+msgid "Specify the edition in the dossier before confirming."
+msgstr "Vul de editie in het dossier in voordat je bevestigt."
