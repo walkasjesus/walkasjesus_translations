@@ -725,6 +725,15 @@ msgstr "Ingeschakeld"
 msgid "Percentage cached"
 msgstr "Percentage gecached"
 
+msgid "Chapters cached"
+msgstr "Hoofdstukken in cache"
+
+msgid "Chapter coverage uses the persisted API.Bible chapter passages and the verses mapped by Bible Study. Local and license-limited translations are not included. The total covers the canonical Bible, including books absent from partial translations."
+msgstr "De hoofdstukdekking gebruikt opgeslagen API.Bible-hoofdstukpassages en de door Bijbelstudie gekoppelde verzen. Lokale en licentiebeperkte vertalingen worden niet meegerekend. Het totaal omvat de canonieke Bijbel, inclusief boeken die in onvolledige vertalingen ontbreken."
+
+msgid "The chapter cache could not be read. Please try again."
+msgstr "De hoofdstukcache kon niet worden gelezen. Probeer het opnieuw."
+
 #: walkasjesus_app/templates/admin/bible_admin.html:52
 msgid "Disable"
 msgstr "Uitschakelen"
