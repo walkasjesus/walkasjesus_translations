@@ -13452,3 +13452,160 @@ msgstr "heel hoofdstuk"
 #, python-format
 msgid "The license for %(names)s allows at most %(limit)s verses at a time."
 msgstr "De licentie voor %(names)s staat maximaal %(limit)s verzen per keer toe."
+
+msgid "Chapter and verse structure"
+msgstr "Hoofdstuk- en versstructuur"
+
+msgid "Psalm headings and verse boundaries"
+msgstr "Psalmopschriften en versgrenzen"
+
+msgid "Hosea chapter transitions"
+msgstr "Hoofdstukovergangen in Hosea"
+
+msgid "Joel chapter transitions"
+msgstr "Hoofdstukovergangen in Joël"
+
+msgid "Merged and split verse blocks"
+msgstr "Samengevoegde en gesplitste versblokken"
+
+msgid "Edition / source version"
+msgstr "Editie / bronversie"
+
+msgid "Dossier notes"
+msgstr "Dossiernotities"
+
+msgid "Bible numbering review"
+msgstr "Controle van bijbelversnummering"
+
+msgid "Bible numbering reviews"
+msgstr "Controles van bijbelversnummering"
+
+msgid "Not checked"
+msgstr "Niet gecontroleerd"
+
+msgid "Under investigation"
+msgstr "In onderzoek"
+
+msgid "Confirmed for the specified passages"
+msgstr "Bevestigd voor de opgegeven passages"
+
+msgid "Discrepancy found"
+msgstr "Afwijking gevonden"
+
+msgid "Still uncertain"
+msgstr "Nog onzeker"
+
+msgid "Check"
+msgstr "Controle"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Checked passages / coverage"
+msgstr "Gecontroleerde passages / dekking"
+
+msgid "Reliable source (same edition)"
+msgstr "Betrouwbare bron (dezelfde editie)"
+
+msgid "Evidence / explanation"
+msgstr "Onderbouwing / toelichting"
+
+msgid "Next action"
+msgstr "Volgende actie"
+
+msgid "Numbering check"
+msgstr "Nummeringscontrole"
+
+msgid "Numbering checklist"
+msgstr "Checklist versnummering"
+
+msgid "Specify the checked passages, source and evidence before confirming."
+msgstr "Vul de gecontroleerde passages, bron en onderbouwing in voordat je bevestigt."
+
+msgid "Describe the next action for this discrepancy."
+msgstr "Beschrijf de volgende actie voor deze afwijking."
+
+msgid "Review needs updating"
+msgstr "Controle moet worden bijgewerkt"
+
+msgid "Partially reviewed; only the specified passages"
+msgstr "Gedeeltelijk gecontroleerd; alleen de opgegeven passages"
+
+msgid "Review validity"
+msgstr "Geldigheid van de controle"
+
+msgid "The mapping or edition changed. Check the specified passages again."
+msgstr "De mapping of editie is gewijzigd. Controleer de opgegeven passages opnieuw."
+
+msgid "Confirmation applies only to the explicitly specified passages; it does not activate mappings."
+msgstr "Bevestiging geldt alleen voor de expliciet opgegeven passages; ze activeert geen mappings."
+
+msgid "Review status"
+msgstr "Controlestatus"
+
+msgid "Latest cache-only report"
+msgstr "Laatste rapport op basis van alleen de cache"
+
+msgid "No scan yet. Run check_bible_numbering.sh; it makes no API requests."
+msgstr "Nog geen scan. Voer check_bible_numbering.sh uit; dit doet geen API-aanvragen."
+
+msgid "This is a structural report, not proof of correct verse boundaries."
+msgstr "Dit is een structuurrapport, geen bewijs van correcte versgrenzen."
+
+#, python-format
+msgid "%(count)s fresh cached references"
+msgstr "%(count)s actuele verwijzingen in de cache"
+
+#, python-format
+msgid "Cache entries: %(entries)s"
+msgstr "Cache-items: %(entries)s"
+
+msgid "The mapping changed since this scan; run the cache-only checks again."
+msgstr "De mapping is gewijzigd sinds deze scan; voer de cachecontroles opnieuw uit."
+
+msgid "No fresh cache data"
+msgstr "Geen actuele cachegegevens"
+
+msgid "Incomplete cache coverage"
+msgstr "Onvolledige cachedekking"
+
+msgid "Manual comparison required"
+msgstr "Handmatige vergelijking nodig"
+
+msgid "Not applicable to this edition"
+msgstr "Niet van toepassing op deze editie"
+
+msgid "Structural findings require review"
+msgstr "Structurele bevindingen moeten worden gecontroleerd"
+
+msgid "No structural issues detected in cached passages"
+msgstr "Geen structuurproblemen gevonden in de gecachete passages"
+
+msgid "No merged ranges observed in cached passages"
+msgstr "Geen samengevoegde versbereiken gevonden in de gecachete passages"
+
+#, python-format
+msgid "Cached candidate references: %(cached)s / %(expected)s"
+msgstr "Mogelijk bruikbare verwijzingen in de cache: %(cached)s / %(expected)s"
+
+#, python-format
+msgid "Missing examples: %(references)s"
+msgstr "Ontbrekende voorbeelden: %(references)s"
+
+#, python-format
+msgid "Merged ranges: %(count)s"
+msgstr "Samengevoegde versbereiken: %(count)s"
+
+#, python-format
+msgid "Additional findings: %(count)s (see JSON report)."
+msgstr "Overige bevindingen: %(count)s (zie het JSON-rapport)."
+
+msgid "Numbering review"
+msgstr "Controle versnummering"
+
+msgid "Review dossier and checklist"
+msgstr "Controledossier en checklist"
+
+#, python-format
+msgid "Chapter coverage: %(book)s %(cached)s / %(expected)s"
+msgstr "Hoofdstukdekking: %(book)s %(cached)s / %(expected)s"
