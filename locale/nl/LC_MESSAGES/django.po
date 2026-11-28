@@ -13421,3 +13421,34 @@ msgstr "Samech: sluit een leesgedeelte af"
 
 msgid "Inverted nun: ends a reading section"
 msgstr "Omgekeerde noen: sluit een leesgedeelte af"
+#: walkasjesus_app/templates/bible_study/_passage_navigation.html:13
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html
+msgid "Show whole chapter"
+msgstr "Toon heel hoofdstuk"
+
+msgid "Previous chapter"
+msgstr "Vorig hoofdstuk"
+
+msgid "Next chapter"
+msgstr "Volgend hoofdstuk"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html
+msgid "The license for"
+msgstr "De licentie voor"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html
+msgid "allows at most"
+msgstr "staat maximaal"
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html
+msgid "verses at a time."
+msgstr "verzen per keer toe."
+
+#: walkasjesus_app/templates/bible_study/_bible_study_script.html
+msgid "whole chapter"
+msgstr "heel hoofdstuk"
+
+#: walkasjesus_app/templates/bible_study/_passage_navigation.html:18
+#, python-format
+msgid "The license for %(names)s allows at most %(limit)s verses at a time."
+msgstr "De licentie voor %(names)s staat maximaal %(limit)s verzen per keer toe."
